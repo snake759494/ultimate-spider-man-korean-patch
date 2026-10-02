@@ -1,0 +1,47 @@
+{
+  "hash": "fa68045a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.11375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.94,
+      "jp": "応援もとむ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3,
+          "jp": "応",
+          "prob": 0.8902922570705414
+        },
+        {
+          "start": 0.3,
+          "end": 0.46,
+          "jp": "援",
+          "prob": 0.9981273412704468
+        },
+        {
+          "start": 0.46,
+          "end": 0.66,
+          "jp": "も",
+          "prob": 0.5423876047134399
+        },
+        {
+          "start": 0.66,
+          "end": 0.78,
+          "jp": "と",
+          "prob": 0.8456836938858032
+        },
+        {
+          "start": 0.78,
+          "end": 0.94,
+          "jp": "む!",
+          "prob": 0.6103258728981018
+        }
+      ],
+      "ko": "지원 요청!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

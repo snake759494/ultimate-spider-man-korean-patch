@@ -1,0 +1,15 @@
+{
+  "hash": "325b9c58",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 3.0425,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.02,
+      "jp": "しかもよなよな変身して忍び出て行こう一個と一緒に",
+      "ko": "게다가 밤마다 변신해서 몰래 나가는 조카와 함께 말이야."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

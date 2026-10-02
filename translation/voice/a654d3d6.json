@@ -1,0 +1,15 @@
+{
+  "hash": "a654d3d6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.03875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.03875,
+      "jp": "撤収したほうが",
+      "ko": "철수하는 게 좋겠어."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

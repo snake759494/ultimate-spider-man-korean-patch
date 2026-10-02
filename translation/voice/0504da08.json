@@ -1,0 +1,29 @@
+{
+  "hash": "0504da08",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.61925,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6102499999999988,
+      "jp": "来い!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.270249999999999,
+          "jp": "来",
+          "prob": 0.9186913967132568
+        },
+        {
+          "start": 0.270249999999999,
+          "end": 0.6102499999999988,
+          "jp": "い!",
+          "prob": 0.9979523420333862
+        }
+      ],
+      "ko": "덤벼!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

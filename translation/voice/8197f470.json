@@ -1,0 +1,15 @@
+{
+  "hash": "8197f470",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4759375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.42,
+      "jp": "こいつはもう俺のもんだ!",
+      "ko": "이건 이제 내 거야!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

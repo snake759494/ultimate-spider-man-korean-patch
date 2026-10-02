@@ -1,0 +1,15 @@
+{
+  "hash": "1f4f708e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7579375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.755,
+      "jp": "叩きのめそう",
+      "ko": "두들겨 패 주자!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

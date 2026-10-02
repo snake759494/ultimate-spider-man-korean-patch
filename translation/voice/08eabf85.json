@@ -1,0 +1,29 @@
+{
+  "hash": "08eabf85",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.8694375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6920625000000005,
+      "jp": "車か!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.39206249999999976,
+          "jp": "車",
+          "prob": 0.9523734450340271
+        },
+        {
+          "start": 0.39206249999999976,
+          "end": 0.6920625000000005,
+          "jp": "か!",
+          "prob": 0.9761711955070496
+        }
+      ],
+      "ko": "차잖아!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

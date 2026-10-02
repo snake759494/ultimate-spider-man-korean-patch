@@ -1,0 +1,15 @@
+{
+  "hash": "a9bd0f20",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3606875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.3606875,
+      "jp": "着ぐるみじゃなかったのか",
+      "ko": "인형 탈이 아니었어?"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

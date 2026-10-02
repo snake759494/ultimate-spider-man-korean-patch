@@ -1,0 +1,15 @@
+{
+  "hash": "f75c6fca",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6333125,
+  "segments": [
+    {
+      "start": 0.10412499999999625,
+      "end": 1.4841249999999988,
+      "jp": "やるぅ!",
+      "ko": "제법인데!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

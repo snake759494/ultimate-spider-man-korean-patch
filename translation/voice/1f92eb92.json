@@ -1,0 +1,15 @@
+{
+  "hash": "1f92eb92",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6070625,
+  "segments": [
+    {
+      "start": 0.052374999999999616,
+      "end": 1.4723749999999995,
+      "jp": "やっちまえ",
+      "ko": "해치워!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

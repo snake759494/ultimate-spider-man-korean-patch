@@ -1,0 +1,19 @@
+{
+  "hash": "60965de8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8180625,
+  "segments": [
+    {
+      "start": 0.019375000000000586,
+      "end": 0.8180625,
+      "jp": "伏せろー!",
+      "ko": "엎드려!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_dictionary_medium_batch_review_required"
+}

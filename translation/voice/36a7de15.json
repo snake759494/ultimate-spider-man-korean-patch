@@ -1,0 +1,65 @@
+{
+  "hash": "36a7de15",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9711875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.88,
+      "jp": "ガキをつまみだし!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18,
+          "jp": "ガ",
+          "prob": 0.6517016291618347
+        },
+        {
+          "start": 0.18,
+          "end": 0.3,
+          "jp": "キ",
+          "prob": 0.8009620308876038
+        },
+        {
+          "start": 0.3,
+          "end": 0.4,
+          "jp": "を",
+          "prob": 0.9942026734352112
+        },
+        {
+          "start": 0.4,
+          "end": 0.52,
+          "jp": "つ",
+          "prob": 0.8849018216133118
+        },
+        {
+          "start": 0.52,
+          "end": 0.6,
+          "jp": "ま",
+          "prob": 0.616038978099823
+        },
+        {
+          "start": 0.6,
+          "end": 0.66,
+          "jp": "み",
+          "prob": 0.9881161451339722
+        },
+        {
+          "start": 0.66,
+          "end": 0.72,
+          "jp": "だ",
+          "prob": 0.6988630890846252
+        },
+        {
+          "start": 0.72,
+          "end": 0.88,
+          "jp": "し!",
+          "prob": 0.957655131816864
+        }
+      ],
+      "ko": "꼬맹이를 끌어내!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

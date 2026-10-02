@@ -1,0 +1,15 @@
+{
+  "hash": "3ad35604",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.078125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9361875,
+      "jp": "こ、こんな!",
+      "ko": "이, 이럴 수가..."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

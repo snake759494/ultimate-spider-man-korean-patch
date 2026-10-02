@@ -1,0 +1,35 @@
+{
+  "hash": "dc8e141d",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.925625,
+  "segments": [
+    {
+      "start": 0.0521250000000002,
+      "end": 0.5921249999999993,
+      "jp": "よっしゃ!",
+      "words": [
+        {
+          "start": 0.0521250000000002,
+          "end": 0.2921250000000022,
+          "jp": "よ",
+          "prob": 0.9510999321937561
+        },
+        {
+          "start": 0.2921250000000022,
+          "end": 0.41212499999999963,
+          "jp": "っ",
+          "prob": 0.997986912727356
+        },
+        {
+          "start": 0.41212499999999963,
+          "end": 0.5921249999999993,
+          "jp": "しゃ!",
+          "prob": 0.9950276017189026
+        }
+      ],
+      "ko": "좋았어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

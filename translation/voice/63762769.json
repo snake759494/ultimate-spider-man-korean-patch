@@ -1,0 +1,15 @@
+{
+  "hash": "63762769",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.493625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.46,
+      "jp": "少しは効くと思ったんだけどな",
+      "ko": "조금은 통할 줄 알았는데."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

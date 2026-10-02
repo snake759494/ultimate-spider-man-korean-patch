@@ -1,0 +1,19 @@
+{
+  "hash": "e00f94ab",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5238125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5238125,
+      "jp": "マップ立つにしてやれ!",
+      "ko": "두 동강 내 버려!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_dictionary_medium_batch_review_required"
+}

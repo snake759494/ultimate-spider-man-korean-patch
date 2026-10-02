@@ -1,0 +1,29 @@
+{
+  "hash": "1653bbe8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8039375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5740625000000001,
+      "jp": "来い!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.23406250000000028,
+          "jp": "来",
+          "prob": 0.9568210244178772
+        },
+        {
+          "start": 0.23406250000000028,
+          "end": 0.5740625000000001,
+          "jp": "い!",
+          "prob": 0.9951723217964172
+        }
+      ],
+      "ko": "덤벼!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "c657127b",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.3016875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.22,
+      "jp": "なっはっはっはっはっ!下だぞ、坊主!",
+      "ko": "하하하! 아래다, 꼬마!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

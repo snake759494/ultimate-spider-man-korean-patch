@@ -1,0 +1,41 @@
+{
+  "hash": "608facaa",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.310125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0875,
+      "jp": "もう十分だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.20750000000000002,
+          "jp": "もう",
+          "prob": 0.061553116887807846
+        },
+        {
+          "start": 0.20750000000000002,
+          "end": 0.5674999999999999,
+          "jp": "十",
+          "prob": 0.8632296919822693
+        },
+        {
+          "start": 0.5674999999999999,
+          "end": 0.8475000000000001,
+          "jp": "分",
+          "prob": 0.9969832301139832
+        },
+        {
+          "start": 0.8475000000000001,
+          "end": 1.0875,
+          "jp": "だ!",
+          "prob": 0.9813061356544495
+        }
+      ],
+      "ko": "이제 충분해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

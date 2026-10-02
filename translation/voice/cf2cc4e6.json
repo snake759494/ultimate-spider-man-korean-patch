@@ -1,0 +1,47 @@
+{
+  "hash": "cf2cc4e6",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.301625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.0680625,
+      "jp": "くそぉ!頭が!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.14806249999999999,
+          "jp": "く",
+          "prob": 0.4556778371334076
+        },
+        {
+          "start": 0.14806249999999999,
+          "end": 0.46806250000000027,
+          "jp": "そ",
+          "prob": 0.5244505405426025
+        },
+        {
+          "start": 0.46806250000000027,
+          "end": 1.2880625,
+          "jp": "ぉ!",
+          "prob": 0.22799885272979736
+        },
+        {
+          "start": 1.4280625000000002,
+          "end": 1.7880625000000006,
+          "jp": "頭",
+          "prob": 0.9252308011054993
+        },
+        {
+          "start": 1.7880625000000006,
+          "end": 2.0680625,
+          "jp": "が!",
+          "prob": 0.9961287975311279
+        }
+      ],
+      "ko": "젠장! 머리가!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "7cefe404",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9946875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8294999999999995,
+      "jp": "かゆい",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1894999999999989,
+          "jp": "か",
+          "prob": 0.9276105165481567
+        },
+        {
+          "start": 0.1894999999999989,
+          "end": 0.5494999999999983,
+          "jp": "ゆ",
+          "prob": 0.28103911876678467
+        },
+        {
+          "start": 0.5494999999999983,
+          "end": 0.8294999999999995,
+          "jp": "い",
+          "prob": 0.49966809153556824
+        }
+      ],
+      "ko": "가려워."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

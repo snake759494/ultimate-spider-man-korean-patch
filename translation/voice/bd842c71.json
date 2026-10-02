@@ -1,0 +1,35 @@
+{
+  "hash": "bd842c71",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6956875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5556875000000012,
+      "jp": "動くな!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2156874999999996,
+          "jp": "動",
+          "prob": 0.9394161701202393
+        },
+        {
+          "start": 0.2156874999999996,
+          "end": 0.3956875000000011,
+          "jp": "く",
+          "prob": 0.9989839196205139
+        },
+        {
+          "start": 0.3956875000000011,
+          "end": 0.5556875000000012,
+          "jp": "な!",
+          "prob": 0.9986532926559448
+        }
+      ],
+      "ko": "움직이지 마!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

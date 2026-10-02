@@ -1,0 +1,35 @@
+{
+  "hash": "5ea26d5a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6244375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.504875000000002,
+      "jp": "来るぞ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.12487500000000296,
+          "jp": "来",
+          "prob": 0.8421493172645569
+        },
+        {
+          "start": 0.12487500000000296,
+          "end": 0.30487500000000267,
+          "jp": "る",
+          "prob": 0.9979323148727417
+        },
+        {
+          "start": 0.30487500000000267,
+          "end": 0.504875000000002,
+          "jp": "ぞ!",
+          "prob": 0.9995784163475037
+        }
+      ],
+      "ko": "온다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

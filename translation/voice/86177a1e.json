@@ -1,0 +1,15 @@
+{
+  "hash": "86177a1e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.139125,
+  "segments": [
+    {
+      "start": 0.17893750000000352,
+      "end": 2.139125,
+      "jp": "スパイダーマン!本当に!",
+      "ko": "스파이더맨! 정말로!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

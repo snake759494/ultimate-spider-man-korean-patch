@@ -1,0 +1,41 @@
+{
+  "hash": "767e3774",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 6.1093125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5666874999999987,
+      "jp": "ガー!また頭",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24668750000000017,
+          "jp": "ガ",
+          "prob": 0.027160262688994408
+        },
+        {
+          "start": 0.24668750000000017,
+          "end": 0.5466874999999991,
+          "jp": "ー!",
+          "prob": 0.5216162204742432
+        },
+        {
+          "start": 0.9466874999999995,
+          "end": 1.3266875000000002,
+          "jp": "また",
+          "prob": 0.7393522262573242
+        },
+        {
+          "start": 1.3266875000000002,
+          "end": 1.5666874999999987,
+          "jp": "頭",
+          "prob": 0.6534572243690491
+        }
+      ],
+      "ko": "또 머리가!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

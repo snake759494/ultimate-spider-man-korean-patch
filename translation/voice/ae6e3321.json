@@ -1,0 +1,35 @@
+{
+  "hash": "ae6e3321",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.92775,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6266249999999998,
+      "jp": "逃げろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22662499999999985,
+          "jp": "逃",
+          "prob": 0.9239403605461121
+        },
+        {
+          "start": 0.22662499999999985,
+          "end": 0.406625,
+          "jp": "げ",
+          "prob": 0.9996187686920166
+        },
+        {
+          "start": 0.406625,
+          "end": 0.6266249999999998,
+          "jp": "ろ!",
+          "prob": 0.9928244352340698
+        }
+      ],
+      "ko": "도망쳐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

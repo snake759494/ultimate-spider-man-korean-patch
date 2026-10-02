@@ -1,0 +1,15 @@
+{
+  "hash": "fd3ef399",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6614375,
+  "segments": [
+    {
+      "start": 0.1327499999999997,
+      "end": 0.6614375,
+      "jp": "そこだ!",
+      "ko": "저기다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

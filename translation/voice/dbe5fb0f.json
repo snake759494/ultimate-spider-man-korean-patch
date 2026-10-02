@@ -1,0 +1,29 @@
+{
+  "hash": "dbe5fb0f",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.3535,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.2,
+      "jp": "そんな…",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.74,
+          "jp": "そんな",
+          "prob": 0.5116007924079895
+        },
+        {
+          "start": 0.74,
+          "end": 1.2,
+          "jp": "…",
+          "prob": 0.21008601784706116
+        }
+      ],
+      "ko": "그럴 수가..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

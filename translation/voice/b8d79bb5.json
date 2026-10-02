@@ -1,0 +1,65 @@
+{
+  "hash": "b8d79bb5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.9878125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.74,
+      "jp": "ホントに本物なのか?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2,
+          "jp": "ホ",
+          "prob": 0.1809566468000412
+        },
+        {
+          "start": 0.2,
+          "end": 0.48,
+          "jp": "ント",
+          "prob": 0.9920716881752014
+        },
+        {
+          "start": 0.48,
+          "end": 0.66,
+          "jp": "に",
+          "prob": 0.9914020895957947
+        },
+        {
+          "start": 0.66,
+          "end": 0.94,
+          "jp": "本",
+          "prob": 0.4897400140762329
+        },
+        {
+          "start": 0.94,
+          "end": 1.22,
+          "jp": "物",
+          "prob": 0.9810672998428345
+        },
+        {
+          "start": 1.22,
+          "end": 1.4,
+          "jp": "な",
+          "prob": 0.9933822154998779
+        },
+        {
+          "start": 1.4,
+          "end": 1.54,
+          "jp": "の",
+          "prob": 0.9997547268867493
+        },
+        {
+          "start": 1.54,
+          "end": 1.74,
+          "jp": "か?",
+          "prob": 0.9888922572135925
+        }
+      ],
+      "ko": "정말 진짜인가?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,47 @@
+{
+  "hash": "57b46b08",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8305,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8,
+      "jp": "あ、ちょっとちびった",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.08,
+          "jp": "あ、",
+          "prob": 0.2195257991552353
+        },
+        {
+          "start": 0.26,
+          "end": 0.38,
+          "jp": "ちょっと",
+          "prob": 0.9561231732368469
+        },
+        {
+          "start": 0.38,
+          "end": 0.54,
+          "jp": "ち",
+          "prob": 0.3263261914253235
+        },
+        {
+          "start": 0.54,
+          "end": 0.6,
+          "jp": "び",
+          "prob": 0.9548830986022949
+        },
+        {
+          "start": 0.6,
+          "end": 0.8,
+          "jp": "った",
+          "prob": 0.9787904620170593
+        }
+      ],
+      "ko": "아, 조금 지렸네."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

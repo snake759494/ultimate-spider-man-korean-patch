@@ -1,0 +1,18 @@
+{
+  "hash": "e0ba075a",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.6575,
+  "segments": [
+    {
+      "start": 0.52,
+      "end": 1.58,
+      "jp": "にゃああああああ",
+      "logprob": -0.9911763072013855,
+      "no_speech": 0.2928055226802826,
+      "ko": ""
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "no_caption_individual_asr_checked",
+  "review_note": "길게 지르는 기합. 배치 및 개별 ASR 대조에 의한 분류이며 청취 검수와 구분."
+}

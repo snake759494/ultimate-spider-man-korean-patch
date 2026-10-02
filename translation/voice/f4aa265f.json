@@ -1,0 +1,35 @@
+{
+  "hash": "f4aa265f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.69925,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5062499999999996,
+      "jp": "停止だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18624999999999936,
+          "jp": "停",
+          "prob": 0.2379991114139557
+        },
+        {
+          "start": 0.18624999999999936,
+          "end": 0.32624999999999993,
+          "jp": "止",
+          "prob": 0.5760919451713562
+        },
+        {
+          "start": 0.32624999999999993,
+          "end": 0.5062499999999996,
+          "jp": "だ!",
+          "prob": 0.7179104089736938
+        }
+      ],
+      "ko": "멈춰!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

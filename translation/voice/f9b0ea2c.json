@@ -1,0 +1,29 @@
+{
+  "hash": "f9b0ea2c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8935,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.72,
+      "jp": "凄い!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.46,
+          "jp": "凄",
+          "prob": 0.5477404370903969
+        },
+        {
+          "start": 0.46,
+          "end": 0.72,
+          "jp": "い!",
+          "prob": 0.9706700444221497
+        }
+      ],
+      "ko": "대단해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

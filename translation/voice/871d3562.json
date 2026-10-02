@@ -1,0 +1,29 @@
+{
+  "hash": "871d3562",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7366875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.47018749999999976,
+      "jp": "助かった",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.17018750000000082,
+          "jp": "助",
+          "prob": 0.4974075257778168
+        },
+        {
+          "start": 0.17018750000000082,
+          "end": 0.47018749999999976,
+          "jp": "かった",
+          "prob": 0.9909795522689819
+        }
+      ],
+      "ko": "살았다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

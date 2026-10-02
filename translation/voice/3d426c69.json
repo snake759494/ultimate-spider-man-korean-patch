@@ -1,0 +1,15 @@
+{
+  "hash": "3d426c69",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 4.15,
+  "segments": [
+    {
+      "start": 0,
+      "end": 4.15,
+      "jp": "おい、あの変な服に惑わされるなよ。あんなのこきおどしだ!",
+      "ko": "야, 저 이상한 옷에 속지 마. 겁주려는 것뿐이야!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

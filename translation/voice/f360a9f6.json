@@ -1,0 +1,35 @@
+{
+  "hash": "f360a9f6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.94525,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.94525,
+      "jp": "どうして!?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.37493750000000015,
+          "jp": "どう",
+          "prob": 0.43305885791778564
+        },
+        {
+          "start": 0.37493750000000015,
+          "end": 0.6149374999999999,
+          "jp": "して",
+          "prob": 0.8409515023231506
+        },
+        {
+          "start": 0.6149374999999999,
+          "end": 0.94525,
+          "jp": "!?",
+          "prob": 0.36412355303764343
+        }
+      ],
+      "ko": "어째서!?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

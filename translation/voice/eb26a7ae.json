@@ -1,0 +1,15 @@
+{
+  "hash": "eb26a7ae",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.2484375,
+  "segments": [
+    {
+      "start": 0.6855625000000014,
+      "end": 2.2484375,
+      "jp": "何だ、あれは!",
+      "ko": "뭐야, 저건!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

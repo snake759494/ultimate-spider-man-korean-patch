@@ -1,0 +1,41 @@
+{
+  "hash": "3ba48dc4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1564375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7754375000000024,
+      "jp": "これでも食え!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.21543750000000017,
+          "jp": "これ",
+          "prob": 0.6521092057228088
+        },
+        {
+          "start": 0.21543750000000017,
+          "end": 0.41543749999999946,
+          "jp": "でも",
+          "prob": 0.9683009386062622
+        },
+        {
+          "start": 0.41543749999999946,
+          "end": 0.6154375000000023,
+          "jp": "食",
+          "prob": 0.7733655571937561
+        },
+        {
+          "start": 0.6154375000000023,
+          "end": 0.7754375000000024,
+          "jp": "え!",
+          "prob": 0.8972346186637878
+        }
+      ],
+      "ko": "이거나 먹어라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

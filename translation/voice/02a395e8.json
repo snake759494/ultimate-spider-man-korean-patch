@@ -1,0 +1,59 @@
+{
+  "hash": "02a395e8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.45675,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.38,
+      "jp": "はぁ、そう来たかい",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3,
+          "jp": "は",
+          "prob": 0.24898046255111694
+        },
+        {
+          "start": 0.3,
+          "end": 0.44,
+          "jp": "ぁ、",
+          "prob": 0.34617477655410767
+        },
+        {
+          "start": 0.48,
+          "end": 0.74,
+          "jp": "そう",
+          "prob": 0.9547204375267029
+        },
+        {
+          "start": 0.74,
+          "end": 0.92,
+          "jp": "来",
+          "prob": 0.5093246102333069
+        },
+        {
+          "start": 0.92,
+          "end": 1.04,
+          "jp": "た",
+          "prob": 0.990341067314148
+        },
+        {
+          "start": 1.04,
+          "end": 1.18,
+          "jp": "か",
+          "prob": 0.9256047606468201
+        },
+        {
+          "start": 1.18,
+          "end": 1.38,
+          "jp": "い",
+          "prob": 0.9645730257034302
+        }
+      ],
+      "ko": "아, 그렇게 나오시겠다?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

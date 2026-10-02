@@ -1,0 +1,15 @@
+{
+  "hash": "052a6dfe",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.72225,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.72225,
+      "jp": "なんでそうなるの?",
+      "ko": "왜 그렇게 되는 거야?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

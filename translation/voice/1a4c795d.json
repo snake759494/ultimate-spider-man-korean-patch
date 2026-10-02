@@ -1,0 +1,15 @@
+{
+  "hash": "1a4c795d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3415625,
+  "segments": [
+    {
+      "start": 0.08793749999999978,
+      "end": 1.3415625,
+      "jp": "銃だ!構えて撃て!",
+      "ko": "총이다! 조준하고 쏴!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

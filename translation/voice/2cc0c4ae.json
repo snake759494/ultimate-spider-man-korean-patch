@@ -1,0 +1,15 @@
+{
+  "hash": "2cc0c4ae",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0660625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0660625,
+      "jp": "やってやろうじゃないか",
+      "ko": "어디 한번 해 보자!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

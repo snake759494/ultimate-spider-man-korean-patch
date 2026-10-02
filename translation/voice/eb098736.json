@@ -1,0 +1,47 @@
+{
+  "hash": "eb098736",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.42075,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.42075,
+      "jp": "素晴らしい…",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3206875,
+          "jp": "素",
+          "prob": 0.6985598206520081
+        },
+        {
+          "start": 0.3206875,
+          "end": 0.6206874999999998,
+          "jp": "晴",
+          "prob": 0.9975131750106812
+        },
+        {
+          "start": 0.6206874999999998,
+          "end": 0.7406874999999999,
+          "jp": "ら",
+          "prob": 0.9993215799331665
+        },
+        {
+          "start": 0.7406874999999999,
+          "end": 1.1806874999999994,
+          "jp": "しい",
+          "prob": 0.9789202213287354
+        },
+        {
+          "start": 1.1806874999999994,
+          "end": 1.42075,
+          "jp": "…",
+          "prob": 0.5004499554634094
+        }
+      ],
+      "ko": "훌륭하군..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "832f0cdb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.163125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6814999999999962,
+      "jp": "何だそれは!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3014999999999972,
+          "jp": "何",
+          "prob": 0.4109574556350708
+        },
+        {
+          "start": 0.3014999999999972,
+          "end": 0.48149999999999693,
+          "jp": "だ",
+          "prob": 0.9626360535621643
+        },
+        {
+          "start": 0.48149999999999693,
+          "end": 0.6814999999999962,
+          "jp": "それは!",
+          "prob": 0.5445951223373413
+        }
+      ],
+      "ko": "그게 뭐야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

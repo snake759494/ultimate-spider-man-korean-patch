@@ -1,0 +1,41 @@
+{
+  "hash": "2ad218ad",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.03525,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7054374999999999,
+      "jp": "こうやるんだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22543749999999996,
+          "jp": "こう",
+          "prob": 0.794352114200592
+        },
+        {
+          "start": 0.22543749999999996,
+          "end": 0.42543750000000014,
+          "jp": "や",
+          "prob": 0.9934775829315186
+        },
+        {
+          "start": 0.42543750000000014,
+          "end": 0.5454374999999998,
+          "jp": "る",
+          "prob": 0.9992470741271973
+        },
+        {
+          "start": 0.5454374999999998,
+          "end": 0.7054374999999999,
+          "jp": "んだ!",
+          "prob": 0.9866747260093689
+        }
+      ],
+      "ko": "이렇게 하는 거야."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

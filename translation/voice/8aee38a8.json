@@ -1,0 +1,29 @@
+{
+  "hash": "8aee38a8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.651875,
+  "segments": [
+    {
+      "start": 0.019812500000000455,
+      "end": 0.4398124999999986,
+      "jp": "行け!",
+      "words": [
+        {
+          "start": 0.019812500000000455,
+          "end": 0.23981249999999932,
+          "jp": "行",
+          "prob": 0.5476697683334351
+        },
+        {
+          "start": 0.23981249999999932,
+          "end": 0.4398124999999986,
+          "jp": "け!",
+          "prob": 0.9770647287368774
+        }
+      ],
+      "ko": "가!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

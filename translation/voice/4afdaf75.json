@@ -1,0 +1,15 @@
+{
+  "hash": "4afdaf75",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.9001875,
+  "segments": [
+    {
+      "start": 0.7553750000000008,
+      "end": 2.7153750000000016,
+      "jp": "要なんだ!深刻な財政団なんだ!",
+      "ko": "돈이 필요해! 사정이 정말 심각하다고!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

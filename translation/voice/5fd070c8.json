@@ -1,0 +1,35 @@
+{
+  "hash": "5fd070c8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8384375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8384375,
+      "jp": "このやろ、",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.38,
+          "jp": "この",
+          "prob": 0.5952792167663574
+        },
+        {
+          "start": 0.38,
+          "end": 0.6,
+          "jp": "や",
+          "prob": 0.3253941535949707
+        },
+        {
+          "start": 0.6,
+          "end": 0.8384375,
+          "jp": "ろ、",
+          "prob": 0.7669390439987183
+        }
+      ],
+      "ko": "이 자식!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

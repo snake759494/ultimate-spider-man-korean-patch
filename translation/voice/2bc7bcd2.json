@@ -1,0 +1,15 @@
+{
+  "hash": "2bc7bcd2",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.39075,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.3,
+      "jp": "メリージェのこと、真剣に思ってるせいかな",
+      "ko": "메리 제인을 진지하게 생각해서 그런 걸까?"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

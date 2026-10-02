@@ -1,0 +1,47 @@
+{
+  "hash": "4673ee4f",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.193125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.193125,
+      "jp": "この人病院へ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.19125000000000014,
+          "jp": "この",
+          "prob": 0.918165922164917
+        },
+        {
+          "start": 0.19125000000000014,
+          "end": 0.3512500000000003,
+          "jp": "人",
+          "prob": 0.962619960308075
+        },
+        {
+          "start": 0.3512500000000003,
+          "end": 0.7912500000000007,
+          "jp": "病",
+          "prob": 0.8177541494369507
+        },
+        {
+          "start": 0.7912500000000007,
+          "end": 0.9312500000000004,
+          "jp": "院",
+          "prob": 0.9957042336463928
+        },
+        {
+          "start": 0.9312500000000004,
+          "end": 1.193125,
+          "jp": "へ",
+          "prob": 0.9637383818626404
+        }
+      ],
+      "ko": "이 사람을 병원으로!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

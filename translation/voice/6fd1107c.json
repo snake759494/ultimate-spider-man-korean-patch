@@ -1,0 +1,15 @@
+{
+  "hash": "6fd1107c",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.80275,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.72,
+      "jp": "そこの絵に描いたような悪者を投稿しなさい",
+      "ko": "거기, 그림 같은 악당! 투항하라!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

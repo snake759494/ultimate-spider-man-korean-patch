@@ -1,0 +1,29 @@
+{
+  "hash": "dc68720c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 5.4164375,
+  "segments": [
+    {
+      "start": 0.05,
+      "end": 1.05,
+      "jp": "お前",
+      "words": [
+        {
+          "start": 0.05,
+          "end": 0.71,
+          "jp": "お",
+          "prob": 0.23279301822185516
+        },
+        {
+          "start": 0.71,
+          "end": 1.05,
+          "jp": "前",
+          "prob": 0.8682485222816467
+        }
+      ],
+      "ko": "너!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

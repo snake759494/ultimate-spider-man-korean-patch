@@ -1,0 +1,15 @@
+{
+  "hash": "d0d43177",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.0250625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.0250625,
+      "jp": "えこれがそのそいつさ",
+      "ko": "그래, 이게 그 녀석이야."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

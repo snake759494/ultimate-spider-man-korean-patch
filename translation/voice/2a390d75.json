@@ -1,0 +1,35 @@
+{
+  "hash": "2a390d75",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.7891875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.72,
+      "jp": "これはどうも、",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3,
+          "jp": "これは",
+          "prob": 0.7460490465164185
+        },
+        {
+          "start": 0.3,
+          "end": 0.52,
+          "jp": "どう",
+          "prob": 0.9260420203208923
+        },
+        {
+          "start": 0.52,
+          "end": 0.72,
+          "jp": "も、",
+          "prob": 0.9429464340209961
+        }
+      ],
+      "ko": "이거 고맙군."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

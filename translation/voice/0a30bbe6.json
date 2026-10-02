@@ -1,0 +1,15 @@
+{
+  "hash": "0a30bbe6",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.3708125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.26,
+      "jp": "リードリチャーズとスーストームは天才",
+      "ko": "리드 리처즈와 수 스톰은 천재야."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

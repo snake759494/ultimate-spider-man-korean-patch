@@ -1,0 +1,71 @@
+{
+  "hash": "94596735",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7145625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5,
+      "jp": "悪い子には押し置きだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.32,
+          "jp": "悪",
+          "prob": 0.9667065739631653
+        },
+        {
+          "start": 0.32,
+          "end": 0.5,
+          "jp": "い",
+          "prob": 0.9723950624465942
+        },
+        {
+          "start": 0.5,
+          "end": 0.62,
+          "jp": "子",
+          "prob": 0.9788624048233032
+        },
+        {
+          "start": 0.62,
+          "end": 0.84,
+          "jp": "には",
+          "prob": 0.9903291463851929
+        },
+        {
+          "start": 0.84,
+          "end": 1.06,
+          "jp": "押",
+          "prob": 0.7008146047592163
+        },
+        {
+          "start": 1.06,
+          "end": 1.16,
+          "jp": "し",
+          "prob": 0.9793455600738525
+        },
+        {
+          "start": 1.16,
+          "end": 1.22,
+          "jp": "置",
+          "prob": 0.7191591262817383
+        },
+        {
+          "start": 1.22,
+          "end": 1.34,
+          "jp": "き",
+          "prob": 0.9929019808769226
+        },
+        {
+          "start": 1.34,
+          "end": 1.5,
+          "jp": "だ!",
+          "prob": 0.986863374710083
+        }
+      ],
+      "ko": "나쁜 아이는 벌을 받아야지!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

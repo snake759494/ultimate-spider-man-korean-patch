@@ -1,0 +1,15 @@
+{
+  "hash": "52955bbe",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0523125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0523125,
+      "jp": "気をつけてよ!",
+      "ko": "조심해!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "65a87c65",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8253125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8249999999999993,
+      "jp": "構わないわ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.16499999999999915,
+          "jp": "構",
+          "prob": 0.43144139647483826
+        },
+        {
+          "start": 0.16499999999999915,
+          "end": 0.30499999999999794,
+          "jp": "わ",
+          "prob": 0.9653791189193726
+        },
+        {
+          "start": 0.30499999999999794,
+          "end": 0.48499999999999943,
+          "jp": "ない",
+          "prob": 0.9937566518783569
+        },
+        {
+          "start": 0.48499999999999943,
+          "end": 0.8249999999999993,
+          "jp": "わ",
+          "prob": 0.9815789461135864
+        }
+      ],
+      "ko": "상관없어."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

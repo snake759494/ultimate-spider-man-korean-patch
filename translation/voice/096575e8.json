@@ -1,0 +1,15 @@
+{
+  "hash": "096575e8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3335,
+  "segments": [
+    {
+      "start": 0.24318749999999945,
+      "end": 1.3335,
+      "jp": "ニュータントメー",
+      "ko": "뮤턴트 자식!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

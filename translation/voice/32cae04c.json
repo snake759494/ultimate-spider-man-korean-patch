@@ -1,0 +1,41 @@
+{
+  "hash": "32cae04c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.23475,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0557499999999997,
+      "jp": "もういいだろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3357499999999991,
+          "jp": "もう",
+          "prob": 0.9840150475502014
+        },
+        {
+          "start": 0.3357499999999991,
+          "end": 0.6557499999999976,
+          "jp": "いい",
+          "prob": 0.9942315816879272
+        },
+        {
+          "start": 0.6557499999999976,
+          "end": 0.8157499999999978,
+          "jp": "だ",
+          "prob": 0.9985089898109436
+        },
+        {
+          "start": 0.8157499999999978,
+          "end": 1.0557499999999997,
+          "jp": "ろ!",
+          "prob": 0.9739713668823242
+        }
+      ],
+      "ko": "이제 됐잖아?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

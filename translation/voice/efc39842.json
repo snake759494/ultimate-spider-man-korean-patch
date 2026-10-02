@@ -1,0 +1,15 @@
+{
+  "hash": "efc39842",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6204375,
+  "segments": [
+    {
+      "start": 0.17818749999999994,
+      "end": 0.5381874999999994,
+      "jp": "やめろ!",
+      "ko": "그만해!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

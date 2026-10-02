@@ -1,0 +1,47 @@
+{
+  "hash": "95452634",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.983,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.78,
+      "jp": "全員ふせろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24,
+          "jp": "全",
+          "prob": 0.5612087249755859
+        },
+        {
+          "start": 0.24,
+          "end": 0.4,
+          "jp": "員",
+          "prob": 0.9987269043922424
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "jp": "ふ",
+          "prob": 0.30004024505615234
+        },
+        {
+          "start": 0.5,
+          "end": 0.62,
+          "jp": "せ",
+          "prob": 0.8943099975585938
+        },
+        {
+          "start": 0.62,
+          "end": 0.78,
+          "jp": "ろ!",
+          "prob": 0.9978448152542114
+        }
+      ],
+      "ko": "모두 엎드려!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

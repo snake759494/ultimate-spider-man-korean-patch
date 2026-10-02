@@ -1,0 +1,41 @@
+{
+  "hash": "2502afb6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.385875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.948812499999999,
+      "jp": "ま、まずいな!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18881249999999916,
+          "jp": "ま、",
+          "prob": 0.593561053276062
+        },
+        {
+          "start": 0.3688124999999989,
+          "end": 0.6088124999999991,
+          "jp": "まず",
+          "prob": 0.9009246230125427
+        },
+        {
+          "start": 0.6088124999999991,
+          "end": 0.7688124999999992,
+          "jp": "い",
+          "prob": 0.997051477432251
+        },
+        {
+          "start": 0.7688124999999992,
+          "end": 0.948812499999999,
+          "jp": "な!",
+          "prob": 0.9986667633056641
+        }
+      ],
+      "ko": "이, 이거 큰일인데!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

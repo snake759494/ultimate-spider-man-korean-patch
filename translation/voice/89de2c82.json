@@ -1,0 +1,41 @@
+{
+  "hash": "89de2c82",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.14975,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9681875,
+      "jp": "わかったわかった!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2281875,
+          "jp": "わ",
+          "prob": 0.3762933909893036
+        },
+        {
+          "start": 0.2281875,
+          "end": 0.42818749999999994,
+          "jp": "かった",
+          "prob": 0.995593249797821
+        },
+        {
+          "start": 0.42818749999999994,
+          "end": 0.6481875000000001,
+          "jp": "わ",
+          "prob": 0.5877267122268677
+        },
+        {
+          "start": 0.6481875000000001,
+          "end": 0.9681875,
+          "jp": "かった!",
+          "prob": 0.9995713829994202
+        }
+      ],
+      "ko": "알았어, 알았다고!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "a9b73464",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.035625,
+  "segments": [
+    {
+      "start": 0.03137500000000415,
+      "end": 0.7313750000000034,
+      "jp": "無理だ!",
+      "words": [
+        {
+          "start": 0.03137500000000415,
+          "end": 0.33137500000000486,
+          "jp": "無",
+          "prob": 0.8312758803367615
+        },
+        {
+          "start": 0.33137500000000486,
+          "end": 0.491375000000005,
+          "jp": "理",
+          "prob": 0.9986780285835266
+        },
+        {
+          "start": 0.491375000000005,
+          "end": 0.7313750000000034,
+          "jp": "だ!",
+          "prob": 0.9248301386833191
+        }
+      ],
+      "ko": "무리야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

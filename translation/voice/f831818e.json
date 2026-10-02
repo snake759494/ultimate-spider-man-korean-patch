@@ -1,0 +1,15 @@
+{
+  "hash": "f831818e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2955625,
+  "segments": [
+    {
+      "start": 0.19881249999999984,
+      "end": 1.2955625,
+      "jp": "大こげじゃねーか",
+      "ko": "새까맣게 탔잖아!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

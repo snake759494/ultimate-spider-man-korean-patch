@@ -1,0 +1,41 @@
+{
+  "hash": "73f82cc9",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.021125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7888125000000001,
+      "jp": "全員どけ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2688124999999999,
+          "jp": "全",
+          "prob": 0.8526294231414795
+        },
+        {
+          "start": 0.2688124999999999,
+          "end": 0.4688125000000001,
+          "jp": "員",
+          "prob": 0.9991912245750427
+        },
+        {
+          "start": 0.4688125000000001,
+          "end": 0.5888125,
+          "jp": "ど",
+          "prob": 0.14015407860279083
+        },
+        {
+          "start": 0.5888125,
+          "end": 0.7888125000000001,
+          "jp": "け!",
+          "prob": 0.9921618103981018
+        }
+      ],
+      "ko": "모두 비켜!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

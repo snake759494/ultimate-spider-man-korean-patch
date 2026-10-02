@@ -1,0 +1,35 @@
+{
+  "hash": "cdb5341a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.764375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5577499999999986,
+      "jp": "そこだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.19774999999999743,
+          "jp": "そ",
+          "prob": 0.9886101484298706
+        },
+        {
+          "start": 0.19774999999999743,
+          "end": 0.35774999999999757,
+          "jp": "こ",
+          "prob": 0.9967363476753235
+        },
+        {
+          "start": 0.35774999999999757,
+          "end": 0.5577499999999986,
+          "jp": "だ!",
+          "prob": 0.9983951449394226
+        }
+      ],
+      "ko": "저기다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

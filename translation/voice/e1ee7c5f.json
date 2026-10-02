@@ -1,0 +1,23 @@
+{
+  "hash": "e1ee7c5f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.5980625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.2708124999999999,
+      "jp": "どう?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2708124999999999,
+          "jp": "どう?",
+          "prob": 0.5443652272224426
+        }
+      ],
+      "ko": "어때?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

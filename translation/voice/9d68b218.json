@@ -1,0 +1,41 @@
+{
+  "hash": "9d68b218",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.0729375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0729375,
+      "jp": "悪くないな",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28025000000000233,
+          "jp": "悪",
+          "prob": 0.9126118123531342
+        },
+        {
+          "start": 0.28025000000000233,
+          "end": 0.4802500000000016,
+          "jp": "く",
+          "prob": 0.997928261756897
+        },
+        {
+          "start": 0.4802500000000016,
+          "end": 0.6402500000000018,
+          "jp": "ない",
+          "prob": 0.989207923412323
+        },
+        {
+          "start": 0.6402500000000018,
+          "end": 1.0729375,
+          "jp": "な",
+          "prob": 0.9973020553588867
+        }
+      ],
+      "ko": "나쁘지 않군."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

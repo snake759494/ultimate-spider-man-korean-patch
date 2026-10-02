@@ -1,0 +1,35 @@
+{
+  "hash": "a21c5fcc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.857125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.625812499999995,
+      "jp": "なんでもない",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.20581249999999685,
+          "jp": "なん",
+          "prob": 0.3714325726032257
+        },
+        {
+          "start": 0.20581249999999685,
+          "end": 0.4258124999999957,
+          "jp": "でも",
+          "prob": 0.9696176052093506
+        },
+        {
+          "start": 0.4258124999999957,
+          "end": 0.625812499999995,
+          "jp": "ない",
+          "prob": 0.98029625415802
+        }
+      ],
+      "ko": "아무것도 아니야."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,65 @@
+{
+  "hash": "fd9c83f8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.318375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.318375,
+      "jp": "命あっての物だねだ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.36,
+          "jp": "命",
+          "prob": 0.5165531635284424
+        },
+        {
+          "start": 0.36,
+          "end": 0.76,
+          "jp": "あ",
+          "prob": 0.6457595825195312
+        },
+        {
+          "start": 0.76,
+          "end": 0.96,
+          "jp": "って",
+          "prob": 0.9921227097511292
+        },
+        {
+          "start": 0.96,
+          "end": 1.14,
+          "jp": "の",
+          "prob": 0.9793658256530762
+        },
+        {
+          "start": 1.14,
+          "end": 1.44,
+          "jp": "物",
+          "prob": 0.4426470696926117
+        },
+        {
+          "start": 1.44,
+          "end": 1.7,
+          "jp": "だ",
+          "prob": 0.3789929747581482
+        },
+        {
+          "start": 1.7,
+          "end": 1.78,
+          "jp": "ね",
+          "prob": 0.9772937893867493
+        },
+        {
+          "start": 1.78,
+          "end": 2.318375,
+          "jp": "だ",
+          "prob": 0.8418281674385071
+        }
+      ],
+      "ko": "목숨이 붙어 있어야 뭘 하지!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "f2c49251",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.942,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9166250000000034,
+      "jp": "殺してやる!",
+      "ko": "죽여 버리겠다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

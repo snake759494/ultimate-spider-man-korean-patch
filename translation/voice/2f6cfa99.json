@@ -1,0 +1,15 @@
+{
+  "hash": "2f6cfa99",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3524375,
+  "segments": [
+    {
+      "start": 0.22693749999999824,
+      "end": 1.1269375000000004,
+      "jp": "まずいぞ",
+      "ko": "큰일이군!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "8ca21809",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.6378125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.6378125,
+      "jp": " ええええええまったくよ",
+      "ko": "정말이지!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

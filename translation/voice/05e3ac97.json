@@ -1,0 +1,65 @@
+{
+  "hash": "05e3ac97",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.3185,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.28,
+      "jp": "もっと早く動かないと",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24,
+          "jp": "も",
+          "prob": 0.7453476190567017
+        },
+        {
+          "start": 0.24,
+          "end": 0.38,
+          "jp": "っと",
+          "prob": 0.998174786567688
+        },
+        {
+          "start": 0.38,
+          "end": 0.56,
+          "jp": "早",
+          "prob": 0.8206378817558289
+        },
+        {
+          "start": 0.56,
+          "end": 0.7,
+          "jp": "く",
+          "prob": 0.998788058757782
+        },
+        {
+          "start": 0.7,
+          "end": 0.84,
+          "jp": "動",
+          "prob": 0.9880180358886719
+        },
+        {
+          "start": 0.84,
+          "end": 0.98,
+          "jp": "か",
+          "prob": 0.9655914902687073
+        },
+        {
+          "start": 0.98,
+          "end": 1.08,
+          "jp": "ない",
+          "prob": 0.9980800151824951
+        },
+        {
+          "start": 1.08,
+          "end": 1.28,
+          "jp": "と",
+          "prob": 0.9963130354881287
+        }
+      ],
+      "ko": "더 빨리 움직여야겠어."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

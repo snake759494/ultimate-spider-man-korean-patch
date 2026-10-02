@@ -1,0 +1,41 @@
+{
+  "hash": "80892268",
+  "duration": 25.254875,
+  "segments": [
+    {
+      "start": 6.32,
+      "end": 7.86,
+      "jp": "新しい",
+      "logprob": -0.5077509456559232,
+      "no_speech": 0.7181450724601746,
+      "ko": "",
+      "review_note": "Unconfirmed non-speech fragment; omitted after second recognition pass."
+    },
+    {
+      "start": 8.76,
+      "end": 9.04,
+      "jp": "全部",
+      "logprob": -0.5077509456559232,
+      "no_speech": 0.7181450724601746,
+      "ko": "",
+      "review_note": "Unconfirmed non-speech fragment; omitted after second recognition pass."
+    },
+    {
+      "start": 15.28,
+      "end": 17.4,
+      "jp": "ヘディブロックが割られてる",
+      "logprob": -0.5077509456559232,
+      "no_speech": 0.7181450724601746,
+      "ko": "에디 브록이 난동을 부리고 있다!"
+    },
+    {
+      "start": 17.4,
+      "end": 19.12,
+      "jp": "現代人の死球増援をくれ",
+      "logprob": -0.5077509456559232,
+      "no_speech": 0.7181450724601746,
+      "ko": "현 위치로 즉시 지원 바란다!"
+    }
+  ],
+  "status": "draft_asr_review_required"
+}

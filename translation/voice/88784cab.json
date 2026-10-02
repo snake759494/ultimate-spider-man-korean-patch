@@ -1,0 +1,29 @@
+{
+  "hash": "88784cab",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.769625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.769625,
+      "jp": "なんだよ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2973749999999997,
+          "jp": "なんだ",
+          "prob": 0.8724216222763062
+        },
+        {
+          "start": 0.2973749999999997,
+          "end": 0.769625,
+          "jp": "よ!",
+          "prob": 0.9980608820915222
+        }
+      ],
+      "ko": "뭐야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

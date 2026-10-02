@@ -1,0 +1,53 @@
+{
+  "hash": "1c5c76a1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 5.74975,
+  "segments": [
+    {
+      "start": 1.21,
+      "end": 4.25,
+      "jp": "だ…だめだ…",
+      "words": [
+        {
+          "start": 1.21,
+          "end": 1.57,
+          "jp": "だ",
+          "prob": 0.36533311009407043
+        },
+        {
+          "start": 1.57,
+          "end": 1.93,
+          "jp": "…",
+          "prob": 0.28845322132110596
+        },
+        {
+          "start": 1.93,
+          "end": 2.93,
+          "jp": "だ",
+          "prob": 0.5054780840873718
+        },
+        {
+          "start": 2.93,
+          "end": 3.17,
+          "jp": "め",
+          "prob": 0.9840813875198364
+        },
+        {
+          "start": 3.17,
+          "end": 3.67,
+          "jp": "だ",
+          "prob": 0.6179430484771729
+        },
+        {
+          "start": 3.67,
+          "end": 4.25,
+          "jp": "…",
+          "prob": 0.6424741148948669
+        }
+      ],
+      "ko": "아... 안 돼."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

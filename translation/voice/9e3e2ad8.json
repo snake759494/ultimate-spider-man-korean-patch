@@ -1,0 +1,47 @@
+{
+  "hash": "9e3e2ad8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0983125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.93675,
+      "jp": "何もしてないって",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.21675,
+          "jp": "何",
+          "prob": 0.6035802364349365
+        },
+        {
+          "start": 0.21675,
+          "end": 0.43674999999999997,
+          "jp": "も",
+          "prob": 0.9254186153411865
+        },
+        {
+          "start": 0.43674999999999997,
+          "end": 0.5967500000000001,
+          "jp": "して",
+          "prob": 0.902850329875946
+        },
+        {
+          "start": 0.5967500000000001,
+          "end": 0.7167500000000002,
+          "jp": "ない",
+          "prob": 0.9753522872924805
+        },
+        {
+          "start": 0.7167500000000002,
+          "end": 0.93675,
+          "jp": "って",
+          "prob": 0.9024964570999146
+        }
+      ],
+      "ko": "아무 짓도 안 했다고!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "afc1120f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.902875,
+  "segments": [
+    {
+      "start": 0.09462500000000063,
+      "end": 2.902875,
+      "jp": "7時半まで帰れなかったんだ、目がかすむよ",
+      "ko": "7시 반까지 집에 못 갔어. 눈이 침침하네."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

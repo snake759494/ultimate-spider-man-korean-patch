@@ -1,0 +1,15 @@
+{
+  "hash": "9d24aa7e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.06675,
+  "segments": [
+    {
+      "start": 0.060249999999999915,
+      "end": 3.06675,
+      "jp": "この程度しかできないなら、縛り上げてもしょうがないだろ",
+      "ko": "그 정도 실력이라면 묶어 봤자 소용없겠지."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

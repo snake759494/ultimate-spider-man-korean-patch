@@ -1,0 +1,35 @@
+{
+  "hash": "971cbafe",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1523125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9653750000000016,
+      "jp": "何なんだよ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3053750000000015,
+          "jp": "何",
+          "prob": 0.4251357614994049
+        },
+        {
+          "start": 0.3053750000000015,
+          "end": 0.6453750000000014,
+          "jp": "なんだ",
+          "prob": 0.9891447424888611
+        },
+        {
+          "start": 0.6453750000000014,
+          "end": 0.9653750000000016,
+          "jp": "よ!",
+          "prob": 0.9943650960922241
+        }
+      ],
+      "ko": "뭐야, 대체!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

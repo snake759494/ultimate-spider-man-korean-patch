@@ -1,0 +1,41 @@
+{
+  "hash": "df68ca5c",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.5529375,
+  "segments": [
+    {
+      "start": 0.2850625000000022,
+      "end": 1.3850625000000036,
+      "jp": "上段だよ",
+      "words": [
+        {
+          "start": 0.2850625000000022,
+          "end": 0.7050625000000039,
+          "jp": "上",
+          "prob": 0.09815672039985657
+        },
+        {
+          "start": 0.7050625000000039,
+          "end": 0.9450625000000024,
+          "jp": "段",
+          "prob": 0.9897312521934509
+        },
+        {
+          "start": 0.9450625000000024,
+          "end": 1.085062500000003,
+          "jp": "だ",
+          "prob": 0.9971938133239746
+        },
+        {
+          "start": 1.085062500000003,
+          "end": 1.3850625000000036,
+          "jp": "よ",
+          "prob": 0.998211145401001
+        }
+      ],
+      "ko": "농담이야."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

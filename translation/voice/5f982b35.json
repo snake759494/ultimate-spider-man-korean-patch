@@ -1,0 +1,41 @@
+{
+  "hash": "5f982b35",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8265625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6952500000000006,
+      "jp": "どうなってるんだ?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.23524999999999974,
+          "jp": "どう",
+          "prob": 0.8544348478317261
+        },
+        {
+          "start": 0.23524999999999974,
+          "end": 0.3752500000000003,
+          "jp": "な",
+          "prob": 0.9918633699417114
+        },
+        {
+          "start": 0.3752500000000003,
+          "end": 0.5152499999999991,
+          "jp": "ってる",
+          "prob": 0.8939040899276733
+        },
+        {
+          "start": 0.5152499999999991,
+          "end": 0.6952500000000006,
+          "jp": "んだ?",
+          "prob": 0.9964655637741089
+        }
+      ],
+      "ko": "어떻게 된 거야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

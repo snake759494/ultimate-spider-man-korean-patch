@@ -1,0 +1,15 @@
+{
+  "hash": "60bb3cb8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.891125,
+  "segments": [
+    {
+      "start": 0.10350000000000037,
+      "end": 0.891125,
+      "jp": "やったー!",
+      "ko": "해냈다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

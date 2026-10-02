@@ -1,0 +1,41 @@
+{
+  "hash": "91ecec3b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0773125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9133125,
+      "jp": "目標路上!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.23331250000000026,
+          "jp": "目",
+          "prob": 0.9948922395706177
+        },
+        {
+          "start": 0.23331250000000026,
+          "end": 0.49331250000000004,
+          "jp": "標",
+          "prob": 0.9998763799667358
+        },
+        {
+          "start": 0.49331250000000004,
+          "end": 0.7533124999999998,
+          "jp": "路",
+          "prob": 0.3488609194755554
+        },
+        {
+          "start": 0.7533124999999998,
+          "end": 0.9133125,
+          "jp": "上!",
+          "prob": 0.9469362497329712
+        }
+      ],
+      "ko": "목표는 도로 위에 있다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

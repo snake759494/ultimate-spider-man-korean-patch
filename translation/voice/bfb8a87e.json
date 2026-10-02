@@ -1,0 +1,15 @@
+{
+  "hash": "bfb8a87e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.044625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.96,
+      "jp": "次の一発で粉々にしてやる",
+      "ko": "다음 한 방에 산산조각 내 주마!"
+    }
+  ],
+  "recognition": "kotoba_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

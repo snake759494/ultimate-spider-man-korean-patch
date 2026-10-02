@@ -1,0 +1,41 @@
+{
+  "hash": "f1dc0498",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.9260625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7456875000000007,
+      "jp": "くじくか",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.185687500000002,
+          "jp": "く",
+          "prob": 0.409061998128891
+        },
+        {
+          "start": 0.185687500000002,
+          "end": 0.42568750000000044,
+          "jp": "じ",
+          "prob": 0.9959651231765747
+        },
+        {
+          "start": 0.42568750000000044,
+          "end": 0.5456875000000014,
+          "jp": "く",
+          "prob": 0.9644182324409485
+        },
+        {
+          "start": 0.5456875000000014,
+          "end": 0.7456875000000007,
+          "jp": "か",
+          "prob": 0.985315203666687
+        }
+      ],
+      "ko": "물리쳐 볼까."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

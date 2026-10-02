@@ -1,0 +1,15 @@
+{
+  "hash": "53b5a47e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5530625,
+  "segments": [
+    {
+      "start": 0.16368749999999999,
+      "end": 1.5530625,
+      "jp": "ねぇ、乗せてってよ!",
+      "ko": "야, 나도 태워 줘!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,65 @@
+{
+  "hash": "cc6310a4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6115,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.46,
+      "jp": "これで一貫の終わりだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.4,
+          "jp": "これで",
+          "prob": 0.8741243481636047
+        },
+        {
+          "start": 0.4,
+          "end": 0.72,
+          "jp": "一",
+          "prob": 0.8697926998138428
+        },
+        {
+          "start": 0.72,
+          "end": 0.9,
+          "jp": "貫",
+          "prob": 0.7104211151599884
+        },
+        {
+          "start": 0.9,
+          "end": 1.04,
+          "jp": "の",
+          "prob": 0.985597550868988
+        },
+        {
+          "start": 1.04,
+          "end": 1.2,
+          "jp": "終",
+          "prob": 0.9609178304672241
+        },
+        {
+          "start": 1.2,
+          "end": 1.26,
+          "jp": "わ",
+          "prob": 0.984231173992157
+        },
+        {
+          "start": 1.26,
+          "end": 1.32,
+          "jp": "り",
+          "prob": 0.9995096921920776
+        },
+        {
+          "start": 1.32,
+          "end": 1.46,
+          "jp": "だ!",
+          "prob": 0.995306670665741
+        }
+      ],
+      "ko": "이걸로 끝장이다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

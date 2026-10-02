@@ -1,0 +1,15 @@
+{
+  "hash": "e8d9c625",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.202375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.202375,
+      "jp": "おい! 気をつけろ!",
+      "ko": "야! 조심해!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

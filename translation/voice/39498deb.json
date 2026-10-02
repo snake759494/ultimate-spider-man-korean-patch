@@ -1,0 +1,41 @@
+{
+  "hash": "39498deb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8783125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7709374999999996,
+      "jp": "やめてくれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.19093749999999954,
+          "jp": "や",
+          "prob": 0.7180739641189575
+        },
+        {
+          "start": 0.19093749999999954,
+          "end": 0.3709374999999997,
+          "jp": "めて",
+          "prob": 0.9973817467689514
+        },
+        {
+          "start": 0.3709374999999997,
+          "end": 0.5909374999999999,
+          "jp": "く",
+          "prob": 0.9975161552429199
+        },
+        {
+          "start": 0.5909374999999999,
+          "end": 0.7709374999999996,
+          "jp": "れ!",
+          "prob": 0.999702513217926
+        }
+      ],
+      "ko": "그만해 줘!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

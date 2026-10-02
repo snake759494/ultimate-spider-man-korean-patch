@@ -1,0 +1,29 @@
+{
+  "hash": "acdcf519",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.15875,
+  "segments": [
+    {
+      "start": 0.42731250000000287,
+      "end": 1.087312500000003,
+      "jp": "痛い!",
+      "words": [
+        {
+          "start": 0.42731250000000287,
+          "end": 0.6473125000000017,
+          "jp": "痛",
+          "prob": 0.25398680567741394
+        },
+        {
+          "start": 0.6473125000000017,
+          "end": 1.087312500000003,
+          "jp": "い!",
+          "prob": 0.9776040315628052
+        }
+      ],
+      "ko": "아파..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

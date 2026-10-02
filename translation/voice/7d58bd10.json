@@ -1,0 +1,15 @@
+{
+  "hash": "7d58bd10",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9951875,
+  "segments": [
+    {
+      "start": 0.182875000000001,
+      "end": 0.862874999999999,
+      "jp": "やってやれ!",
+      "ko": "해치워!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

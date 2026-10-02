@@ -1,0 +1,19 @@
+{
+  "hash": "559694ab",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6101875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6101875,
+      "jp": "テレビの方が吹けて見えるのね",
+      "ko": "TV에서는 더 나이 들어 보이네."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

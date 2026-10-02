@@ -1,0 +1,35 @@
+{
+  "hash": "574e0bce",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8719375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7048749999999941,
+      "jp": "撃つぞ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2448749999999933,
+          "jp": "撃",
+          "prob": 0.5231208764016628
+        },
+        {
+          "start": 0.2448749999999933,
+          "end": 0.44487499999999613,
+          "jp": "つ",
+          "prob": 0.6777573227882385
+        },
+        {
+          "start": 0.44487499999999613,
+          "end": 0.7048749999999941,
+          "jp": "ぞ!",
+          "prob": 0.9957017302513123
+        }
+      ],
+      "ko": "쏜다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

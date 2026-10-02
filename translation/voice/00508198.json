@@ -1,0 +1,15 @@
+{
+  "hash": "00508198",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.073875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.073875,
+      "jp": "ふん、父は少々おかしな男だったのさ",
+      "ko": "흥, 아버지는 좀 이상한 사람이었지."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

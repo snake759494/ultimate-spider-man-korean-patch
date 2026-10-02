@@ -1,0 +1,15 @@
+{
+  "hash": "1b78033e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6498125,
+  "segments": [
+    {
+      "start": 0.1040624999999995,
+      "end": 1.6498125,
+      "jp": "後よろしく!俺は行くよ!",
+      "ko": "뒤는 부탁해! 난 갈게!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

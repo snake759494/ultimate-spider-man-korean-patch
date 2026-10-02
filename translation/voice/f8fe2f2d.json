@@ -1,0 +1,15 @@
+{
+  "hash": "f8fe2f2d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2159375,
+  "segments": [
+    {
+      "start": 0.5349999999999966,
+      "end": 1.1749999999999972,
+      "jp": "離せ!",
+      "ko": "놔!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

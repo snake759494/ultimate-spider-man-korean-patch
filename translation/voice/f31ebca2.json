@@ -1,0 +1,53 @@
+{
+  "hash": "f31ebca2",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7785625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7785625,
+      "jp": "ブロックがいるぞ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.14,
+          "jp": "ブ",
+          "prob": 0.9492589235305786
+        },
+        {
+          "start": 0.14,
+          "end": 0.24,
+          "jp": "ロ",
+          "prob": 0.9944974780082703
+        },
+        {
+          "start": 0.24,
+          "end": 0.32,
+          "jp": "ック",
+          "prob": 0.9828648567199707
+        },
+        {
+          "start": 0.32,
+          "end": 0.48,
+          "jp": "が",
+          "prob": 0.9876589179039001
+        },
+        {
+          "start": 0.48,
+          "end": 0.56,
+          "jp": "いる",
+          "prob": 0.9577237963676453
+        },
+        {
+          "start": 0.56,
+          "end": 0.7785625,
+          "jp": "ぞ",
+          "prob": 0.998055100440979
+        }
+      ],
+      "ko": "브록이 저기 있다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

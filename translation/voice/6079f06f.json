@@ -1,0 +1,15 @@
+{
+  "hash": "6079f06f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.594,
+  "segments": [
+    {
+      "start": 0.07725000000000026,
+      "end": 1.594,
+      "jp": "お前みたいのに用はない!",
+      "ko": "너 같은 놈한테 볼일 없어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

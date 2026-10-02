@@ -1,0 +1,35 @@
+{
+  "hash": "ab8b960e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8931875,
+  "segments": [
+    {
+      "start": 0.016812499999999453,
+      "end": 0.6368124999999996,
+      "jp": "食らえ!",
+      "words": [
+        {
+          "start": 0.016812499999999453,
+          "end": 0.21681249999999963,
+          "jp": "食",
+          "prob": 0.3928280174732208
+        },
+        {
+          "start": 0.21681249999999963,
+          "end": 0.4168124999999998,
+          "jp": "ら",
+          "prob": 0.709234356880188
+        },
+        {
+          "start": 0.4168124999999998,
+          "end": 0.6368124999999996,
+          "jp": "え!",
+          "prob": 0.9488794803619385
+        }
+      ],
+      "ko": "받아라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

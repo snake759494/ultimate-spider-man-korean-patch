@@ -1,0 +1,41 @@
+{
+  "hash": "d7d66410",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.75975,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.75975,
+      "jp": "行ってみろ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22931249999999892,
+          "jp": "行",
+          "prob": 0.7541675567626953
+        },
+        {
+          "start": 0.22931249999999892,
+          "end": 0.4493124999999978,
+          "jp": "って",
+          "prob": 0.9964878559112549
+        },
+        {
+          "start": 0.4493124999999978,
+          "end": 0.5493124999999992,
+          "jp": "み",
+          "prob": 0.9969322681427002
+        },
+        {
+          "start": 0.5493124999999992,
+          "end": 0.75975,
+          "jp": "ろ",
+          "prob": 0.9956817626953125
+        }
+      ],
+      "ko": "해 봐."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

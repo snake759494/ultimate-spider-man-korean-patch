@@ -1,0 +1,15 @@
+{
+  "hash": "153ba8c4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.4995,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.4,
+      "jp": "おい貴様その靴は違反だぞ",
+      "ko": "어이, 너! 그 신발은 규정 위반이야!"
+    }
+  ],
+  "recognition": "kotoba_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

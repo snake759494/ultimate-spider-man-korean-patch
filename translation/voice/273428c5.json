@@ -1,0 +1,15 @@
+{
+  "hash": "273428c5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.64325,
+  "segments": [
+    {
+      "start": 0.22487499999999994,
+      "end": 1.6048749999999998,
+      "jp": "それで強いつもりか?",
+      "ko": "그걸로 강한 줄 아냐?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

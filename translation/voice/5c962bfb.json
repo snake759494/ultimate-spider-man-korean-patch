@@ -1,0 +1,19 @@
+{
+  "hash": "5c962bfb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.652625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.652625,
+      "jp": "みんな逃げようぜ",
+      "ko": "다들 도망가자!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_dictionary_medium_batch_review_required"
+}

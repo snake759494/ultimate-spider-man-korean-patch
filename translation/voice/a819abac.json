@@ -1,0 +1,29 @@
+{
+  "hash": "a819abac",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.5249375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.35287500000000094,
+      "jp": "こい!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.11287499999999895,
+          "jp": "こ",
+          "prob": 0.8706420063972473
+        },
+        {
+          "start": 0.11287499999999895,
+          "end": 0.35287500000000094,
+          "jp": "い!",
+          "prob": 0.984021008014679
+        }
+      ],
+      "ko": "덤벼!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

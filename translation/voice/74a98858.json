@@ -1,0 +1,41 @@
+{
+  "hash": "74a98858",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.973125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7690000000000001,
+      "jp": "懐かしいな",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.30899999999999994,
+          "jp": "懐",
+          "prob": 0.935975193977356
+        },
+        {
+          "start": 0.30899999999999994,
+          "end": 0.5090000000000001,
+          "jp": "か",
+          "prob": 0.9985529780387878
+        },
+        {
+          "start": 0.5090000000000001,
+          "end": 0.609,
+          "jp": "しい",
+          "prob": 0.994560182094574
+        },
+        {
+          "start": 0.609,
+          "end": 0.7690000000000001,
+          "jp": "な",
+          "prob": 0.9972885847091675
+        }
+      ],
+      "ko": "그립네."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

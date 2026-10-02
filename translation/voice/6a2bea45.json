@@ -1,0 +1,35 @@
+{
+  "hash": "6a2bea45",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.5226875,
+  "segments": [
+    {
+      "start": 0.013624999999997556,
+      "end": 0.373624999999997,
+      "jp": " 捨てろ!",
+      "words": [
+        {
+          "start": 0.013624999999997556,
+          "end": 0.1736249999999977,
+          "jp": " 捨",
+          "prob": 0.9372642934322357
+        },
+        {
+          "start": 0.1736249999999977,
+          "end": 0.23362499999999642,
+          "jp": "て",
+          "prob": 0.9829878807067871
+        },
+        {
+          "start": 0.23362499999999642,
+          "end": 0.373624999999997,
+          "jp": "ろ!",
+          "prob": 0.9953922033309937
+        }
+      ],
+      "ko": "버려!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

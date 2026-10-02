@@ -1,0 +1,15 @@
+{
+  "hash": "2315c06e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.321,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.321,
+      "jp": "さあ、引け。",
+      "ko": "자, 물러나."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

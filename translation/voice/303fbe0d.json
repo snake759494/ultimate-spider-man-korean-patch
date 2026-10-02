@@ -1,0 +1,41 @@
+{
+  "hash": "303fbe0d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.040625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8436249999999994,
+      "jp": "離してくれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2836249999999989,
+          "jp": "離",
+          "prob": 0.11835760623216629
+        },
+        {
+          "start": 0.2836249999999989,
+          "end": 0.5036249999999995,
+          "jp": "して",
+          "prob": 0.9924501180648804
+        },
+        {
+          "start": 0.5036249999999995,
+          "end": 0.7236249999999984,
+          "jp": "く",
+          "prob": 0.9950048327445984
+        },
+        {
+          "start": 0.7236249999999984,
+          "end": 0.8436249999999994,
+          "jp": "れ!",
+          "prob": 0.9987764954566956
+        }
+      ],
+      "ko": "놔 줘!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

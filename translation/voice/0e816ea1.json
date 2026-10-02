@@ -1,0 +1,41 @@
+{
+  "hash": "0e816ea1",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 3.3615,
+  "segments": [
+    {
+      "start": 1.0899375000000013,
+      "end": 3.109937500000001,
+      "jp": "どんな問題?え?",
+      "words": [
+        {
+          "start": 1.0899375000000013,
+          "end": 1.4899375,
+          "jp": "ど",
+          "prob": 0.4656476378440857
+        },
+        {
+          "start": 1.4899375,
+          "end": 1.889937500000002,
+          "jp": "んな",
+          "prob": 0.9977521300315857
+        },
+        {
+          "start": 1.889937500000002,
+          "end": 2.2099375000000023,
+          "jp": "問題?",
+          "prob": 0.9355435371398926
+        },
+        {
+          "start": 2.889937500000002,
+          "end": 3.109937500000001,
+          "jp": "え?",
+          "prob": 0.28629493713378906
+        }
+      ],
+      "ko": "무슨 문제라도 있어?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

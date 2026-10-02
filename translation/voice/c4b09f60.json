@@ -1,0 +1,15 @@
+{
+  "hash": "c4b09f60",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.3574375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.32,
+      "jp": "実は、まんざらでもないんだろ、エディ",
+      "ko": "사실 그렇게 싫지만은 않은 거지, 에디?"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

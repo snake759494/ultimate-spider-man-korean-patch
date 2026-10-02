@@ -1,0 +1,15 @@
+{
+  "hash": "4ad7e266",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.965625,
+  "segments": [
+    {
+      "start": 0.18043750000000003,
+      "end": 0.965625,
+      "jp": "キルショットだ!",
+      "ko": "치명타다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

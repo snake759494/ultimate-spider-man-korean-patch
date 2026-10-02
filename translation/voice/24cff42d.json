@@ -1,0 +1,41 @@
+{
+  "hash": "24cff42d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.012375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8095000000000003,
+      "jp": "何なんだよ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24950000000000028,
+          "jp": "何",
+          "prob": 0.4297047257423401
+        },
+        {
+          "start": 0.24950000000000028,
+          "end": 0.48950000000000005,
+          "jp": "なん",
+          "prob": 0.01933629810810089
+        },
+        {
+          "start": 0.48950000000000005,
+          "end": 0.6295000000000002,
+          "jp": "だ",
+          "prob": 0.9019649624824524
+        },
+        {
+          "start": 0.6295000000000002,
+          "end": 0.8095000000000003,
+          "jp": "よ!",
+          "prob": 0.9951906204223633
+        }
+      ],
+      "ko": "뭐야, 대체!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

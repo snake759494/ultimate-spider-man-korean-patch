@@ -1,0 +1,15 @@
+{
+  "hash": "3551b248",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8849375,
+  "segments": [
+    {
+      "start": 0.13643749999999955,
+      "end": 0.8849375,
+      "jp": "金はどこだ?",
+      "ko": "돈 어딨지?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,29 @@
+{
+  "hash": "b83f4bb6",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.7245625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8623750000000001,
+      "jp": "なんだった!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.4023750000000028,
+          "jp": "なんだ",
+          "prob": 0.4386884868144989
+        },
+        {
+          "start": 0.4023750000000028,
+          "end": 0.8623750000000001,
+          "jp": "った!",
+          "prob": 0.30308735370635986
+        }
+      ],
+      "ko": "뭐였지?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

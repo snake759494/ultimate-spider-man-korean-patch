@@ -1,0 +1,29 @@
+{
+  "hash": "5a7fa6ab",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.5728125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.41068749999999987,
+      "jp": "いいか?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.19068749999999923,
+          "jp": "いい",
+          "prob": 0.9249933958053589
+        },
+        {
+          "start": 0.19068749999999923,
+          "end": 0.41068749999999987,
+          "jp": "か?",
+          "prob": 0.9857543706893921
+        }
+      ],
+      "ko": "알겠나?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

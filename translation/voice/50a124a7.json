@@ -1,0 +1,23 @@
+{
+  "hash": "50a124a7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6270625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.2451875000000001,
+      "jp": "何?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2451875000000001,
+          "jp": "何?",
+          "prob": 0.2091439962387085
+        }
+      ],
+      "ko": "뭐?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

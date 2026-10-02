@@ -1,0 +1,15 @@
+{
+  "hash": "2d8ed26b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4799375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.4799375,
+      "jp": "虫野郎",
+      "ko": "벌레 자식!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

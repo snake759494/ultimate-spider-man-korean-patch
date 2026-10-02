@@ -1,0 +1,18 @@
+{
+  "hash": "c56cf7e8",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.743,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.6,
+      "jp": "ぐはっ!",
+      "logprob": -0.7979950904846191,
+      "no_speech": 0.4570438861846924,
+      "ko": ""
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "no_caption_individual_asr_checked",
+  "review_note": "피격 신음. 배치 및 개별 ASR 대조에 의한 분류이며 청취 검수와 구분."
+}

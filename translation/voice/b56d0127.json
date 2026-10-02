@@ -1,0 +1,65 @@
+{
+  "hash": "b56d0127",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.1865,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.9,
+      "jp": "お前は、俺のポスじゃない",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "お",
+          "prob": 0.7923765778541565
+        },
+        {
+          "start": 0.22,
+          "end": 0.38,
+          "jp": "前",
+          "prob": 0.9497338533401489
+        },
+        {
+          "start": 0.38,
+          "end": 0.58,
+          "jp": "は、",
+          "prob": 0.9949997663497925
+        },
+        {
+          "start": 0.86,
+          "end": 1.2,
+          "jp": "俺",
+          "prob": 0.9179824590682983
+        },
+        {
+          "start": 1.2,
+          "end": 1.34,
+          "jp": "の",
+          "prob": 0.9958743453025818
+        },
+        {
+          "start": 1.34,
+          "end": 1.48,
+          "jp": "ポ",
+          "prob": 0.8258667588233948
+        },
+        {
+          "start": 1.48,
+          "end": 1.58,
+          "jp": "ス",
+          "prob": 0.9392285346984863
+        },
+        {
+          "start": 1.58,
+          "end": 1.9,
+          "jp": "じゃない",
+          "prob": 0.9677820205688477
+        }
+      ],
+      "ko": "넌 내 상사가 아냐."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

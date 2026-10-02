@@ -1,0 +1,29 @@
+{
+  "hash": "949fc550",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.166625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8418749999999982,
+      "jp": "なんだこれは!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.46187499999999915,
+          "jp": "なんだ",
+          "prob": 0.9376034736633301
+        },
+        {
+          "start": 0.46187499999999915,
+          "end": 0.8418749999999982,
+          "jp": "これは!",
+          "prob": 0.9922296404838562
+        }
+      ],
+      "ko": "이게 뭐야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

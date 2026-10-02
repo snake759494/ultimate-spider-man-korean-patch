@@ -1,0 +1,15 @@
+{
+  "hash": "25287c5b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.08125,
+  "segments": [
+    {
+      "start": 0.15856250000000038,
+      "end": 1.08125,
+      "jp": "男を撃つぞ。",
+      "ko": "저 남자를 쏘겠다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

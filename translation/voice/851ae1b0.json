@@ -1,0 +1,15 @@
+{
+  "hash": "851ae1b0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.578875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.578875,
+      "jp": "を伏せろ!",
+      "ko": "엎드려!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

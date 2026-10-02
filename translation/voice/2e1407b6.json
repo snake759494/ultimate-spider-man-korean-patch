@@ -1,0 +1,35 @@
+{
+  "hash": "2e1407b6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.091625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0358125000000005,
+      "jp": "まだまだ…",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3158125000000007,
+          "jp": "まだ",
+          "prob": 0.9676565527915955
+        },
+        {
+          "start": 0.3158125000000007,
+          "end": 0.5758125000000005,
+          "jp": "まだ",
+          "prob": 0.9894469976425171
+        },
+        {
+          "start": 0.5758125000000005,
+          "end": 1.0358125000000005,
+          "jp": "…",
+          "prob": 0.16444629430770874
+        }
+      ],
+      "ko": "아직이야..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

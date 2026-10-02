@@ -1,0 +1,59 @@
+{
+  "hash": "8f925689",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.656125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.48,
+      "jp": "痛かったら泣いてみろ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "痛",
+          "prob": 0.6432191729545593
+        },
+        {
+          "start": 0.22,
+          "end": 0.52,
+          "jp": "かった",
+          "prob": 0.9938044548034668
+        },
+        {
+          "start": 0.52,
+          "end": 0.74,
+          "jp": "ら",
+          "prob": 0.997863233089447
+        },
+        {
+          "start": 0.74,
+          "end": 0.88,
+          "jp": "泣",
+          "prob": 0.9546850621700287
+        },
+        {
+          "start": 0.88,
+          "end": 1.12,
+          "jp": "いて",
+          "prob": 0.9985359907150269
+        },
+        {
+          "start": 1.12,
+          "end": 1.26,
+          "jp": "み",
+          "prob": 0.9973378777503967
+        },
+        {
+          "start": 1.26,
+          "end": 1.48,
+          "jp": "ろ",
+          "prob": 0.9890350699424744
+        }
+      ],
+      "ko": "아프면 울어 봐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

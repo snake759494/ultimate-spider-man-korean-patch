@@ -1,0 +1,47 @@
+{
+  "hash": "eb14a615",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.20775,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0481875,
+      "jp": "俺は本気だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2681874999999998,
+          "jp": "俺",
+          "prob": 0.7649263739585876
+        },
+        {
+          "start": 0.2681874999999998,
+          "end": 0.4681875,
+          "jp": "は",
+          "prob": 0.9929003715515137
+        },
+        {
+          "start": 0.4681875,
+          "end": 0.7081874999999997,
+          "jp": "本",
+          "prob": 0.93276047706604
+        },
+        {
+          "start": 0.7081874999999997,
+          "end": 0.8481874999999999,
+          "jp": "気",
+          "prob": 0.9621371030807495
+        },
+        {
+          "start": 0.8481874999999999,
+          "end": 1.0481875,
+          "jp": "だ!",
+          "prob": 0.9778594970703125
+        }
+      ],
+      "ko": "난 진심이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

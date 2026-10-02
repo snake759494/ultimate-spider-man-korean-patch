@@ -1,0 +1,16 @@
+{
+  "hash": "99a4e6a3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.52525,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.52525,
+      "jp": "ありがとう",
+      "ko": "고마워."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "timing_note": "Batch word alignment squeezed a short thank-you into 0.104 seconds. Display the caption within its complete 0.525-second source clip.",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

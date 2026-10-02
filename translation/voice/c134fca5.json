@@ -1,0 +1,35 @@
+{
+  "hash": "c134fca5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.668,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.4013124999999995,
+      "jp": "何なんだ?これは",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.341312499999999,
+          "jp": "何",
+          "prob": 0.8451920747756958
+        },
+        {
+          "start": 0.341312499999999,
+          "end": 0.721312499999998,
+          "jp": "なんだ?",
+          "prob": 0.9968048334121704
+        },
+        {
+          "start": 1.2013124999999985,
+          "end": 1.4013124999999995,
+          "jp": "これは",
+          "prob": 0.7134952545166016
+        }
+      ],
+      "ko": "뭐야, 이건?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

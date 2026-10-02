@@ -1,0 +1,15 @@
+{
+  "hash": "ea0a16de",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8744375,
+  "segments": [
+    {
+      "start": 0.12468749999999673,
+      "end": 1.8744375,
+      "jp": "これ意外にスカッとするな",
+      "ko": "이거 의외로 후련하네."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

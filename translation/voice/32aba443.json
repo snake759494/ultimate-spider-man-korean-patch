@@ -1,0 +1,35 @@
+{
+  "hash": "32aba443",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1154375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0014375000000006,
+      "jp": "ちょっと待て",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3414375000000005,
+          "jp": "ちょっと",
+          "prob": 0.9346440434455872
+        },
+        {
+          "start": 0.3414375000000005,
+          "end": 0.7214375000000004,
+          "jp": "待",
+          "prob": 0.3521811068058014
+        },
+        {
+          "start": 0.7214375000000004,
+          "end": 1.0014375000000006,
+          "jp": "て",
+          "prob": 0.9988648891448975
+        }
+      ],
+      "ko": "잠깐 기다려."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

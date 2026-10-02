@@ -1,0 +1,29 @@
+{
+  "hash": "047b6b25",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.32025,
+  "segments": [
+    {
+      "start": 0.45606249999999804,
+      "end": 1.0760624999999955,
+      "jp": "わかった!",
+      "words": [
+        {
+          "start": 0.45606249999999804,
+          "end": 0.8160624999999975,
+          "jp": "わ",
+          "prob": 0.2714625597000122
+        },
+        {
+          "start": 0.8160624999999975,
+          "end": 1.0760624999999955,
+          "jp": "かった!",
+          "prob": 0.9999042749404907
+        }
+      ],
+      "ko": "알았어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

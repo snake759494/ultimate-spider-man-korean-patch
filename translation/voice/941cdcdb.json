@@ -1,0 +1,17 @@
+{
+  "hash": "941cdcdb",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 5.098375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 5.04,
+      "jp": "エディ、こんなの君じゃない、スーツに操られてるんだ",
+      "logprob": -0.35361249203031714,
+      "no_speech": 0.08676327019929886,
+      "ko": "에디, 이건 네 모습이 아니야.\n슈트가 널 조종하고 있어!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_medium_individual"
+}

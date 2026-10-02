@@ -1,0 +1,47 @@
+{
+  "hash": "a31d62d8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.162375,
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 1.04,
+      "jp": "ひとりだけだ!",
+      "words": [
+        {
+          "start": 0.02,
+          "end": 0.24,
+          "jp": "ひ",
+          "prob": 0.0628817230463028
+        },
+        {
+          "start": 0.24,
+          "end": 0.4,
+          "jp": "と",
+          "prob": 0.9884993433952332
+        },
+        {
+          "start": 0.4,
+          "end": 0.52,
+          "jp": "り",
+          "prob": 0.722366988658905
+        },
+        {
+          "start": 0.52,
+          "end": 0.76,
+          "jp": "だけ",
+          "prob": 0.9582368731498718
+        },
+        {
+          "start": 0.76,
+          "end": 1.04,
+          "jp": "だ!",
+          "prob": 0.9867759346961975
+        }
+      ],
+      "ko": "한 명뿐이다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

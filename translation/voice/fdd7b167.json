@@ -1,0 +1,15 @@
+{
+  "hash": "fdd7b167",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.76975,
+  "segments": [
+    {
+      "start": 0.23131250000000136,
+      "end": 1.76975,
+      "jp": "はぁ、命中だ!",
+      "ko": "하, 명중이다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "6712e882",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.9345,
+  "segments": [
+    {
+      "start": 0.3250624999999978,
+      "end": 1.9345,
+      "jp": "楽しませてもらおうか",
+      "ko": "어디 한번 즐겨 볼까?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

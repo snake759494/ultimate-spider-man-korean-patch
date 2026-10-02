@@ -1,0 +1,15 @@
+{
+  "hash": "2369ab4c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.1473125,
+  "segments": [
+    {
+      "start": 0.12449999999999939,
+      "end": 2.1473125,
+      "jp": "ああ、負けると腹が立つ",
+      "ko": "아, 지면 화가 나."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

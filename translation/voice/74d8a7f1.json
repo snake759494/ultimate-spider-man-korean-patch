@@ -1,0 +1,35 @@
+{
+  "hash": "74d8a7f1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0881875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8729374999999999,
+      "jp": "直撃だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2929375000000001,
+          "jp": "直",
+          "prob": 0.19969777762889862
+        },
+        {
+          "start": 0.2929375000000001,
+          "end": 0.5729375000000001,
+          "jp": "撃",
+          "prob": 0.9918398559093475
+        },
+        {
+          "start": 0.5729375000000001,
+          "end": 0.8729374999999999,
+          "jp": "だ!",
+          "prob": 0.9874244332313538
+        }
+      ],
+      "ko": "직격이다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

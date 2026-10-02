@@ -1,0 +1,15 @@
+{
+  "hash": "688fd7e6",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.9163125,
+  "segments": [
+    {
+      "start": 0.024312499999999737,
+      "end": 0.8043125,
+      "jp": "くるぞ!",
+      "ko": "온다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

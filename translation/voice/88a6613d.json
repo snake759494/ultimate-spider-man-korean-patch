@@ -1,0 +1,15 @@
+{
+  "hash": "88a6613d",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 6.0756875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 6.04,
+      "jp": "脳みそが頭蓋骨から出たがるのはたまらないけど、 エディを放っておくわけにはいかない。 また人が死ぬことになる。",
+      "ko": "뇌가 두개골 밖으로 튀어나올 것 같아도 에디를 내버려 둘 순 없어. 또 누군가 죽을 거야."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

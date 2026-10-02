@@ -1,0 +1,59 @@
+{
+  "hash": "89cd0250",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6106875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.58,
+      "jp": "母さんは 成人だった",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24,
+          "jp": "母",
+          "prob": 0.715213418006897
+        },
+        {
+          "start": 0.24,
+          "end": 0.52,
+          "jp": "さん",
+          "prob": 0.9004374146461487
+        },
+        {
+          "start": 0.52,
+          "end": 0.72,
+          "jp": "は",
+          "prob": 0.9888222217559814
+        },
+        {
+          "start": 0.78,
+          "end": 0.92,
+          "jp": " 成",
+          "prob": 0.25361916422843933
+        },
+        {
+          "start": 0.92,
+          "end": 1.1,
+          "jp": "人",
+          "prob": 0.9527820944786072
+        },
+        {
+          "start": 1.1,
+          "end": 1.24,
+          "jp": "だ",
+          "prob": 0.9801172614097595
+        },
+        {
+          "start": 1.24,
+          "end": 1.58,
+          "jp": "った",
+          "prob": 0.9956310987472534
+        }
+      ],
+      "ko": "어머니는 성인 같은 분이셨어."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

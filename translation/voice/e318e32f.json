@@ -1,0 +1,15 @@
+{
+  "hash": "e318e32f",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.8876875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.82,
+      "jp": "とるにたらんくももどき人間が",
+      "ko": "하찮은 거미 흉내나 내는 인간 같으니!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

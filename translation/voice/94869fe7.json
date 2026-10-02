@@ -1,0 +1,15 @@
+{
+  "hash": "94869fe7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.371875,
+  "segments": [
+    {
+      "start": 0.2639375000000008,
+      "end": 3.371875,
+      "jp": "今日は、生涯忘れえぬ日になるだろう",
+      "ko": "오늘은 평생 잊지 못할 날이 될 것이다."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

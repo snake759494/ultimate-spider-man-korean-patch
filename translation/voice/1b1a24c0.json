@@ -1,0 +1,41 @@
+{
+  "hash": "1b1a24c0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.884375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7671874999999986,
+      "jp": "頑張れよ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28718749999999815,
+          "jp": "頑",
+          "prob": 0.777665376663208
+        },
+        {
+          "start": 0.28718749999999815,
+          "end": 0.48718749999999744,
+          "jp": "張",
+          "prob": 0.9960809350013733
+        },
+        {
+          "start": 0.48718749999999744,
+          "end": 0.6071874999999984,
+          "jp": "れ",
+          "prob": 0.9946893453598022
+        },
+        {
+          "start": 0.6071874999999984,
+          "end": 0.7671874999999986,
+          "jp": "よ",
+          "prob": 0.9742525815963745
+        }
+      ],
+      "ko": "힘내!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "177dc950",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3248125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.1530625000000008,
+      "jp": "やれー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.29306249999999956,
+          "jp": "や",
+          "prob": 0.965719997882843
+        },
+        {
+          "start": 0.29306249999999956,
+          "end": 0.5730625000000007,
+          "jp": "れ",
+          "prob": 0.5943102240562439
+        },
+        {
+          "start": 0.5730625000000007,
+          "end": 1.1530625000000008,
+          "jp": "ー!",
+          "prob": 0.3174859881401062
+        }
+      ],
+      "ko": "해치워!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

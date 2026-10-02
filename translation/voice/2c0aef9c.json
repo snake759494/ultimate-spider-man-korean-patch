@@ -1,0 +1,35 @@
+{
+  "hash": "2c0aef9c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8303125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6353124999999995,
+      "jp": "急いで!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2553124999999987,
+          "jp": "急",
+          "prob": 0.9174252152442932
+        },
+        {
+          "start": 0.2553124999999987,
+          "end": 0.49531249999999893,
+          "jp": "い",
+          "prob": 0.9957389831542969
+        },
+        {
+          "start": 0.49531249999999893,
+          "end": 0.6353124999999995,
+          "jp": "で!",
+          "prob": 0.9963361024856567
+        }
+      ],
+      "ko": "서둘러!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "aa8a67e8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2325625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9239375000000001,
+      "jp": "もう終わった!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3439375,
+          "jp": "もう",
+          "prob": 0.896132230758667
+        },
+        {
+          "start": 0.3439375,
+          "end": 0.6239374999999998,
+          "jp": "終",
+          "prob": 0.9531409740447998
+        },
+        {
+          "start": 0.6239374999999998,
+          "end": 0.6839374999999999,
+          "jp": "わ",
+          "prob": 0.9901549816131592
+        },
+        {
+          "start": 0.6839374999999999,
+          "end": 0.9239375000000001,
+          "jp": "った!",
+          "prob": 0.9979808926582336
+        }
+      ],
+      "ko": "벌써 끝났어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

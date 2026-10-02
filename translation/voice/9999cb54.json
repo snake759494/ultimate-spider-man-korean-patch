@@ -1,0 +1,41 @@
+{
+  "hash": "9999cb54",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.10775,
+  "segments": [
+    {
+      "start": 0.13112500000000082,
+      "end": 0.8511250000000006,
+      "jp": "あいだだ!",
+      "words": [
+        {
+          "start": 0.13112500000000082,
+          "end": 0.331125000000001,
+          "jp": "あ",
+          "prob": 0.24442698061466217
+        },
+        {
+          "start": 0.331125000000001,
+          "end": 0.5511250000000008,
+          "jp": "い",
+          "prob": 0.1398329883813858
+        },
+        {
+          "start": 0.5511250000000008,
+          "end": 0.6711250000000009,
+          "jp": "だ",
+          "prob": 0.8947734236717224
+        },
+        {
+          "start": 0.6711250000000009,
+          "end": 0.8511250000000006,
+          "jp": "だ!",
+          "prob": 0.9323199987411499
+        }
+      ],
+      "ko": "아야야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

@@ -1,0 +1,77 @@
+{
+  "hash": "a29b65fe",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.77525,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.66,
+      "jp": "タカが全身体痛男だろ?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.14,
+          "jp": "タ",
+          "prob": 0.24151873588562012
+        },
+        {
+          "start": 0.14,
+          "end": 0.22,
+          "jp": "カ",
+          "prob": 0.9661295413970947
+        },
+        {
+          "start": 0.22,
+          "end": 0.4,
+          "jp": "が",
+          "prob": 0.6228257417678833
+        },
+        {
+          "start": 0.4,
+          "end": 0.58,
+          "jp": "全",
+          "prob": 0.9394773244857788
+        },
+        {
+          "start": 0.58,
+          "end": 0.74,
+          "jp": "身",
+          "prob": 0.9906237721443176
+        },
+        {
+          "start": 0.74,
+          "end": 0.96,
+          "jp": "体",
+          "prob": 0.7766249775886536
+        },
+        {
+          "start": 0.96,
+          "end": 1.1,
+          "jp": "痛",
+          "prob": 0.6422107815742493
+        },
+        {
+          "start": 1.1,
+          "end": 1.32,
+          "jp": "男",
+          "prob": 0.8593044281005859
+        },
+        {
+          "start": 1.32,
+          "end": 1.5,
+          "jp": "だ",
+          "prob": 0.9918583035469055
+        },
+        {
+          "start": 1.5,
+          "end": 1.66,
+          "jp": "ろ?",
+          "prob": 0.8379877209663391
+        }
+      ],
+      "ko": "고작 쫄쫄이 입은 놈이잖아?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

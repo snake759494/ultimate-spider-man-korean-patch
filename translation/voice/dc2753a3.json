@@ -1,0 +1,35 @@
+{
+  "hash": "dc2753a3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7940625,
+  "segments": [
+    {
+      "start": 0.43618749999999906,
+      "end": 1.3961875,
+      "jp": "すべる!",
+      "words": [
+        {
+          "start": 0.43618749999999906,
+          "end": 0.9161874999999995,
+          "jp": "す",
+          "prob": 0.18632270395755768
+        },
+        {
+          "start": 0.9161874999999995,
+          "end": 1.176187500000001,
+          "jp": "べ",
+          "prob": 0.8912770748138428
+        },
+        {
+          "start": 1.176187500000001,
+          "end": 1.3961875,
+          "jp": "る!",
+          "prob": 0.9943956136703491
+        }
+      ],
+      "ko": "미끄러워!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

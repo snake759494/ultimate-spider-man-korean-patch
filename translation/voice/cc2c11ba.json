@@ -1,0 +1,15 @@
+{
+  "hash": "cc2c11ba",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2915625,
+  "segments": [
+    {
+      "start": 0.078125,
+      "end": 1.198125,
+      "jp": "訴えてやる!",
+      "ko": "고소할 거야!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

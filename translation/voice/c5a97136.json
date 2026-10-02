@@ -1,0 +1,41 @@
+{
+  "hash": "c5a97136",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.04975,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9750000000000014,
+      "jp": "車に戻れ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3150000000000013,
+          "jp": "車",
+          "prob": 0.9724794626235962
+        },
+        {
+          "start": 0.3150000000000013,
+          "end": 0.5350000000000001,
+          "jp": "に",
+          "prob": 0.9994235038757324
+        },
+        {
+          "start": 0.5350000000000001,
+          "end": 0.7550000000000026,
+          "jp": "戻",
+          "prob": 0.9931324124336243
+        },
+        {
+          "start": 0.7550000000000026,
+          "end": 0.9750000000000014,
+          "jp": "れ!",
+          "prob": 0.9956154823303223
+        }
+      ],
+      "ko": "차로 돌아가!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

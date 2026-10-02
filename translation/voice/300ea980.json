@@ -1,0 +1,15 @@
+{
+  "hash": "300ea980",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.112375,
+  "segments": [
+    {
+      "start": 0.12349999999999994,
+      "end": 1.9435000000000002,
+      "jp": "はっ!驚いたか!",
+      "ko": "하! 놀랐냐!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

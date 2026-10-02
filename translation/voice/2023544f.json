@@ -1,0 +1,15 @@
+{
+  "hash": "2023544f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.646125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.646125,
+      "jp": "くそ",
+      "ko": "젠장!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

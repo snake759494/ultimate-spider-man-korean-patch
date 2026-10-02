@@ -1,0 +1,15 @@
+{
+  "hash": "11f22bbe",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.172375,
+  "segments": [
+    {
+      "start": 1.8395000000000001,
+      "end": 2.172375,
+      "jp": "ダメ",
+      "ko": "안 돼!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

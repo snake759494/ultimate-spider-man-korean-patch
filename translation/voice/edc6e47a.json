@@ -1,0 +1,41 @@
+{
+  "hash": "edc6e47a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6223125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.22,
+      "jp": "攻撃成功!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.38,
+          "jp": "攻",
+          "prob": 0.9138525724411011
+        },
+        {
+          "start": 0.38,
+          "end": 0.54,
+          "jp": "撃",
+          "prob": 0.9998001456260681
+        },
+        {
+          "start": 0.54,
+          "end": 0.92,
+          "jp": "成",
+          "prob": 0.9631469249725342
+        },
+        {
+          "start": 0.92,
+          "end": 1.22,
+          "jp": "功!",
+          "prob": 0.9956438541412354
+        }
+      ],
+      "ko": "공격 성공!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

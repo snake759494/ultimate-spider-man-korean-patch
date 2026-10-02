@@ -1,0 +1,29 @@
+{
+  "hash": "65906a69",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8086875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5051249999999996,
+      "jp": "殺せ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22512499999999935,
+          "jp": "殺",
+          "prob": 0.9298362731933594
+        },
+        {
+          "start": 0.22512499999999935,
+          "end": 0.5051249999999996,
+          "jp": "せ!",
+          "prob": 0.9703932404518127
+        }
+      ],
+      "ko": "죽여!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "25e6267e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.783,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7331875000000032,
+      "jp": "何の話だかさっぱり分からないね。",
+      "ko": "무슨 소린지 전혀 모르겠는데."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

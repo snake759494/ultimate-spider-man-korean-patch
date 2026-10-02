@@ -1,0 +1,171 @@
+from pathlib import Path
+import json,re
+mapping=json.loads(Path('translation/glyph_map_extended.json').read_text(encoding='utf-8'))
+table='''ULTIMATE SPIDER-MAN=얼티밋 스파이더맨
+STORY BY=원작 이야기
+IN THE ART STYLE OF=원화 스타일
+PRESIDENT=대표
+CREATIVE DIRECTORS=크리에이티브 디렉터
+LEAD GAME DESIGNER=게임 기획 총괄
+ART DIRECTOR=미술 감독
+TECHNICAL DIRECTOR=기술 감독
+LEAD PROGRAMMER=프로그래밍 총괄
+AUDIO DIRECTOR=음향 감독
+EXECUTIVE PRODUCER=제작 총괄
+SENIOR PRODUCER=선임 프로듀서
+PRODUCERS=프로듀서
+LEAD STORY=이야기 총괄
+MISSION DESIGNER=미션 기획
+STORY DESIGN TEAM=이야기 기획팀
+LEAD OPEN CITY DESIGNER=도시 기획 총괄
+OPEN CITY DESIGN TEAM=도시 기획팀
+DESIGN INTERNS=기획 인턴
+CONCEPT ARTISTS=콘셉트 아트
+LEAD CHARACTER MODELER=캐릭터 모델링 총괄
+CHARACTER MODELERS=캐릭터 모델링
+LEAD ANIMATOR=애니메이션 총괄
+ANIMATORS=애니메이션
+LEAD LEVEL BUILDER=맵 제작 총괄
+LEVEL BUILDERS=맵 제작
+LEAD TEXTURE ARTIST=텍스처 총괄
+TEXTURE ARTISTS=텍스처 제작
+LEAD MOTION=모션 총괄
+GRAPHICS ARTIST=그래픽 아트
+MOTION GRAPHICS ARTISTS=모션 그래픽
+CINEMATIC ANIMATORS=영상 애니메이션
+SPECIAL EFFECTS=특수 효과
+USER INTERFACE ARTIST=사용자 인터페이스 아트
+ART INTERN=미술 인턴
+LEAD AI PROGRAMMER=인공지능 프로그래밍 총괄
+AI AND GAMEPLAY=인공지능 및 게임플레이
+PROGRAMMING=프로그래밍
+ENGINE AND=엔진 및
+TOOLS PROGRAMMING=도구 프로그래밍
+GRAPHICS PROGRAMMING=그래픽 프로그래밍
+PHYSICS AND=물리 및
+ANIMATION PROGRAMMING=애니메이션 프로그래밍
+SOUND PROGRAMMING=음향 프로그래밍
+PROGRAMMING INTERN=프로그래밍 인턴
+TECHNOLOGY DIRECTOR=기술 개발 감독
+TOOLS AND LIBRARIES=개발 도구 및 라이브러리
+DATA COMPRESSION BY=데이터 압축 기술
+LEAD SOUND DESIGNER=음향 제작 총괄
+COMPOSER=작곡
+SOUND DESIGNERS=음향 제작
+ADDITIONAL SOUND=추가 음향
+VOICE RECORDING=음성 녹음
+ENGINEER=엔지니어
+MUSIC BY=음악
+ADDITIONAL REMIXES=추가 리믹스
+DRUMS AND DJEMBE=드럼 및 젬베
+VOICE OVER DIRECTION=성우 연출
+CAST=출연 성우
+DEVELOPMENT DIRECTOR=개발 감독
+EXECUTIVE PRODUCERS=제작 총괄
+ASSOCIATE PRODUCERS=보조 프로듀서
+PRODUCTION COORDINATOR=제작 조정
+ADDITIONAL PRODUCTION=추가 제작
+DIRECTOR OF OPERATIONS=운영 감독
+INFORMATION TECHNOLOGY=정보 기술
+OFFICE MANAGERS=사무 관리
+RECRUITING=채용
+RECEPTION=안내
+QUALITY ASSURANCE LEADS=품질 검증 총괄
+QUALITY ASSURANCE=품질 검증
+SPECIAL THANKS=감사의 말씀
+TREYARCH THANKS=TREYARCH 감사의 말씀
+PUBLISHED BY=배급
+WORLDWIDE STUDIOS=전 세계 스튜디오
+PRODUCTION=제작
+HEAD OF=총괄
+PRODUCER=프로듀서
+PRODUCTION COORDINATORS=제작 조정
+MARKETING AND=마케팅 및
+PUBLIC RELATIONS=홍보
+GLOBAL BRAND MANAGERS=글로벌 브랜드 관리
+ASSOCIATE BRAND MANAGER=브랜드 관리 보조
+DIRECTOR, GLOBAL BRAND=글로벌 브랜드 이사
+MANAGEMENT=관리
+VP, GLOBAL BRAND=글로벌 브랜드 부사장
+SENIOR VICE PRESIDENT,=수석 부사장
+GLOBAL BRAND=글로벌 브랜드
+DIRECTOR CORPORATE=기업 담당 이사
+COMMUNICATIONS=커뮤니케이션
+MANAGER CORPORATE=기업 담당 관리자
+PUBLICIST CORPORATE=기업 홍보 담당
+JUNIOR PUBLICIST=홍보 보조
+CORPORATE COMMUNICATIONS=기업 커뮤니케이션
+QUALITY ASSURANCE AND=품질 검증 및
+CUSTOMER SUPPORT=고객 지원
+PROJECT LEADS=프로젝트 책임자
+SENIOR PROJECT LEADS=선임 프로젝트 책임자
+QA MANAGER=품질 검증 관리자
+FLOOR LEADS=현장 책임자
+DATABASE MANAGER=데이터베이스 관리자
+TEST TEAM=테스트팀
+SR. MANAGER=선임 관리자
+TECHNICAL=기술
+REQUIREMENTS GROUP=요건 검증팀
+SR. LEAD TECHNICAL=선임 기술 책임자
+TESTERS, TECHNICAL=기술 테스터
+CUSTOMER SUPPORT LEADS=고객 지원 책임자
+CS/QA SPECIAL THANKS=고객 지원 및 품질 검증 감사의 말씀
+LEGAL=법무
+DIRECTOR OF LEGAL=법무 이사
+AND BUSINESS AFFAIRS=및 사업 업무
+SENIOR COUNSEL=선임 법률 고문
+SENIOR PARALEGAL=선임 법무 보조
+PARALEGAL=법무 보조
+LEGAL ADMINISTRATIVE=법무 행정
+ASSISTANT=보조
+CREATIVE SERVICES=크리에이티브 서비스
+VP CREATIVE SERVICES=크리에이티브 서비스 부사장
+AND OPERATIONS=및 운영
+DIRECTOR OF=담당 이사
+ASSISTANT MANAGER=관리 보조
+PACKAGING DESIGN AND=패키지 디자인 및
+SOFTWARE MANUAL DESIGN=게임 설명서 디자인
+SENIOR VICE PRESIDENT=수석 부사장
+VP UK,=영국 지사 부사장
+EMERGING MARKETS AND=신흥 시장 및
+EUROPEAN MARKETING=유럽 마케팅
+PUBLISHING SERVICES=배급 서비스
+SENIOR LOCALISATION=선임 현지화
+MANAGER=관리자
+SENIOR BRAND MANAGER=선임 브랜드 관리자
+LOCALISATION=현지화
+PROJECT MANAGER=프로젝트 관리자
+COORDINATOR=조정 담당
+PR MANAGER UK/ROE=영국 및 유럽 홍보 관리자
+EUROPEAN=유럽
+OPERATIONS MANAGER=운영 관리자
+PRODUCTION PLANNERS=제작 계획
+LOCALISATION TESTERS=현지화 테스터
+ACTIVISION SPECIAL THANKS=ACTIVISION 감사의 말씀
+VICE PRESIDENT=부사장
+OF INTERACTIVE -=인터랙티브 부문
+PRESIDENT OF=총괄 사장
+WORLDWIDE CONSUMER=전 세계 소비자
+PRODUCTS=제품 부문
+LEGAL AFFAIRS=법무 업무
+WE WOULD LIKE TO THANK STAN LEE AND=STAN LEE와 STEVE DITKO에게 감사드립니다.
+STEVE DITKO WITHOUT WHOSE CREATIVE VISION=두 분의 창의적인 비전이 없었다면
+NONE OF THIS WOULD HAVE BEEN POSSIBLE.=이 모든 것은 불가능했을 것입니다.
+with=협력'''
+mp=dict(line.split('=',1) for line in table.splitlines())
+src=Path('work/packs/GLOBALTEXT_JAPANESE.bin').read_bytes()[0x7e1c:0xd8b4].split(b'\0')[0].decode('ascii')
+out=[];changed=[]
+for line in src.split('\n'):
+ plain=re.sub(r'[\x00-\x1f]|\[[0-9.]+\]','',line).strip()
+ if plain in mp:
+  line=line.replace(plain,mp[plain]);changed.append(plain)
+  # Name lines use the Latin-only slot 1. Korean acknowledgements use slot 4.
+  if any(ord(c)>127 for c in line):line=line.replace('\x0c[1]','\x0c[4]')
+ out.append(line)
+text='\n'.join(out)
+def encode(s):return b''.join(mapping[c].to_bytes(2,'big') if c in mapping else c.encode('ascii') for c in s)
+data=encode(text)+b'\0';assert len(data)<=0xd8b4-0x7e1c
+p=bytearray(Path('build/GLOBALTEXT_JAPANESE.bin').read_bytes());p[0x7e1c:0xd8b4]=data+bytes(0xd8b4-0x7e1c-len(data))
+Path('build/GLOBALTEXT_JAPANESE.bin').write_bytes(p)
+Path('translation/credits.json').write_text(json.dumps(dict(translations=mp,source=src,korean=text),ensure_ascii=False,indent=2),encoding='utf-8')
+print('credits headings',len(changed),'bytes',len(data))

@@ -1,0 +1,35 @@
+{
+  "hash": "9ca0f700",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9723125,
+  "segments": [
+    {
+      "start": 0.002812499999997442,
+      "end": 0.7228124999999981,
+      "jp": "開けろ!",
+      "words": [
+        {
+          "start": 0.002812499999997442,
+          "end": 0.2828124999999986,
+          "jp": "開",
+          "prob": 0.695014476776123
+        },
+        {
+          "start": 0.2828124999999986,
+          "end": 0.4428124999999987,
+          "jp": "け",
+          "prob": 0.9343835711479187
+        },
+        {
+          "start": 0.4428124999999987,
+          "end": 0.7228124999999981,
+          "jp": "ろ!",
+          "prob": 0.9901482462882996
+        }
+      ],
+      "ko": "열어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

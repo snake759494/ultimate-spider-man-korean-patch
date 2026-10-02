@@ -1,0 +1,41 @@
+{
+  "hash": "e1cb93c3",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.8470625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8470625,
+      "jp": "やっちまい!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.223749999999999,
+          "jp": "や",
+          "prob": 0.5504287481307983
+        },
+        {
+          "start": 0.223749999999999,
+          "end": 0.42375000000000185,
+          "jp": "っち",
+          "prob": 0.9826750159263611
+        },
+        {
+          "start": 0.42375000000000185,
+          "end": 0.5237499999999997,
+          "jp": "ま",
+          "prob": 0.9895781874656677
+        },
+        {
+          "start": 0.5237499999999997,
+          "end": 0.8470625,
+          "jp": "い!",
+          "prob": 0.9406948685646057
+        }
+      ],
+      "ko": "해치워!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

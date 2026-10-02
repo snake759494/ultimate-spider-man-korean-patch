@@ -1,0 +1,35 @@
+{
+  "hash": "09749f56",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.91775,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6653749999999974,
+      "jp": "集まれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22537499999999966,
+          "jp": "集",
+          "prob": 0.45425131916999817
+        },
+        {
+          "start": 0.22537499999999966,
+          "end": 0.48537499999999767,
+          "jp": "ま",
+          "prob": 0.9940049052238464
+        },
+        {
+          "start": 0.48537499999999767,
+          "end": 0.6653749999999974,
+          "jp": "れ!",
+          "prob": 0.9984381794929504
+        }
+      ],
+      "ko": "집결하라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

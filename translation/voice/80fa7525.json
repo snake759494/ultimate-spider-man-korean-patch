@@ -1,0 +1,35 @@
+{
+  "hash": "80fa7525",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.087625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9017500000000034,
+      "jp": "喉乾いた!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3217500000000051,
+          "jp": "喉",
+          "prob": 0.5965063646435738
+        },
+        {
+          "start": 0.3217500000000051,
+          "end": 0.6417500000000018,
+          "jp": "乾",
+          "prob": 0.793887197971344
+        },
+        {
+          "start": 0.6417500000000018,
+          "end": 0.9017500000000034,
+          "jp": "いた!",
+          "prob": 0.9640512466430664
+        }
+      ],
+      "ko": "목말라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "c4826da1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9090625,
+  "segments": [
+    {
+      "start": 0.009875000000000966,
+      "end": 0.6298749999999984,
+      "jp": "なんてこと?",
+      "words": [
+        {
+          "start": 0.009875000000000966,
+          "end": 0.28987499999999855,
+          "jp": "なん",
+          "prob": 0.7255947589874268
+        },
+        {
+          "start": 0.28987499999999855,
+          "end": 0.4898750000000014,
+          "jp": "て",
+          "prob": 0.9377314448356628
+        },
+        {
+          "start": 0.4898750000000014,
+          "end": 0.6298749999999984,
+          "jp": "こと?",
+          "prob": 0.29152777791023254
+        }
+      ],
+      "ko": "이게 무슨 일이야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

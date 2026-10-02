@@ -1,0 +1,29 @@
+{
+  "hash": "ac4cf8d3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0140625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.588874999999998,
+      "jp": "いいぞ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26887499999999775,
+          "jp": "いい",
+          "prob": 0.3352879583835602
+        },
+        {
+          "start": 0.26887499999999775,
+          "end": 0.588874999999998,
+          "jp": "ぞ",
+          "prob": 0.9669033885002136
+        }
+      ],
+      "ko": "좋아!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

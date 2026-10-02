@@ -1,0 +1,53 @@
+{
+  "hash": "efcfb75b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.03275,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8,
+      "jp": "そうおこなきちゃ、",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28,
+          "jp": "そう",
+          "prob": 0.8140919804573059
+        },
+        {
+          "start": 0.28,
+          "end": 0.44,
+          "jp": "お",
+          "prob": 0.191385880112648
+        },
+        {
+          "start": 0.44,
+          "end": 0.48,
+          "jp": "こ",
+          "prob": 0.6524997353553772
+        },
+        {
+          "start": 0.48,
+          "end": 0.58,
+          "jp": "な",
+          "prob": 0.6599786877632141
+        },
+        {
+          "start": 0.58,
+          "end": 0.64,
+          "jp": "き",
+          "prob": 0.8942329287528992
+        },
+        {
+          "start": 0.64,
+          "end": 0.8,
+          "jp": "ちゃ、",
+          "prob": 0.8374018669128418
+        }
+      ],
+      "ko": "그래야지!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

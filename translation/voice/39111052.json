@@ -1,0 +1,15 @@
+{
+  "hash": "39111052",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.71375,
+  "segments": [
+    {
+      "start": 0.32237500000000097,
+      "end": 1.71375,
+      "jp": "痛めつけろー!",
+      "ko": "혼쭐을 내 줘!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

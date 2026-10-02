@@ -1,0 +1,15 @@
+{
+  "hash": "06988c12",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 4.5033125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 4.5033125,
+      "jp": "はブロックスは女の趣味はいいんだけど映画のセンスがな",
+      "ko": "브룩스는 여자를 보는 눈은 있는데 영화 취향은 영..."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

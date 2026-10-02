@@ -1,0 +1,41 @@
+{
+  "hash": "33259428",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.97175,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8088750000000005,
+      "jp": "ちょっとタイム!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22887500000000038,
+          "jp": "ちょっと",
+          "prob": 0.8775303363800049
+        },
+        {
+          "start": 0.22887500000000038,
+          "end": 0.6288749999999999,
+          "jp": "タ",
+          "prob": 0.9220786690711975
+        },
+        {
+          "start": 0.6288749999999999,
+          "end": 0.6888750000000003,
+          "jp": "イ",
+          "prob": 0.9997591376304626
+        },
+        {
+          "start": 0.6888750000000003,
+          "end": 0.8088750000000005,
+          "jp": "ム!",
+          "prob": 0.9987027645111084
+        }
+      ],
+      "ko": "잠깐, 타임!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

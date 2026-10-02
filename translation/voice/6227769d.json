@@ -1,0 +1,35 @@
+{
+  "hash": "6227769d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8330625,
+  "segments": [
+    {
+      "start": 0.09268750000000381,
+      "end": 1.3526875000000018,
+      "jp": "うふふ、よし",
+      "words": [
+        {
+          "start": 0.09268750000000381,
+          "end": 0.25268750000000395,
+          "jp": "う",
+          "prob": 0.009987754747271538
+        },
+        {
+          "start": 0.25268750000000395,
+          "end": 0.632687500000003,
+          "jp": "ふふ、",
+          "prob": 0.11152206361293793
+        },
+        {
+          "start": 0.9726875000000028,
+          "end": 1.3526875000000018,
+          "jp": "よし",
+          "prob": 0.20779918134212494
+        }
+      ],
+      "ko": "흐흐, 좋아!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,29 @@
+{
+  "hash": "d5947911",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3405,
+  "segments": [
+    {
+      "start": 0.01956250000000015,
+      "end": 0.8195625,
+      "jp": "どうした?",
+      "words": [
+        {
+          "start": 0.01956250000000015,
+          "end": 0.4195625000000005,
+          "jp": "どう",
+          "prob": 0.9347679018974304
+        },
+        {
+          "start": 0.4195625000000005,
+          "end": 0.8195625,
+          "jp": "した?",
+          "prob": 0.9687826037406921
+        }
+      ],
+      "ko": "왜 그래?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

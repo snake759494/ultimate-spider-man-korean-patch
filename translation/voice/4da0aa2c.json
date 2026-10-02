@@ -1,0 +1,35 @@
+{
+  "hash": "4da0aa2c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.627375,
+  "segments": [
+    {
+      "start": 0.3230624999999989,
+      "end": 1.627375,
+      "jp": "まただわ",
+      "words": [
+        {
+          "start": 0.3230624999999989,
+          "end": 0.7630625000000002,
+          "jp": "また",
+          "prob": 0.35289517045021057
+        },
+        {
+          "start": 0.7630625000000002,
+          "end": 1.2030625000000015,
+          "jp": "だ",
+          "prob": 0.8974244594573975
+        },
+        {
+          "start": 1.2030625000000015,
+          "end": 1.627375,
+          "jp": "わ",
+          "prob": 0.8630925416946411
+        }
+      ],
+      "ko": "또야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

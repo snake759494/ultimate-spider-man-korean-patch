@@ -1,0 +1,15 @@
+{
+  "hash": "668778e3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.6373125,
+  "segments": [
+    {
+      "start": 0.40993749999999984,
+      "end": 2.6373125,
+      "jp": "これで、とどめだ!",
+      "ko": "이걸로 끝이다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

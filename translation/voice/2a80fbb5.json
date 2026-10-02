@@ -1,0 +1,15 @@
+{
+  "hash": "2a80fbb5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 5.5388125,
+  "segments": [
+    {
+      "start": 0.04962499999999892,
+      "end": 5.529624999999999,
+      "jp": "親父の弁護士はインドでトラブってた親父を救い出した。つまり俺もどうにかしてくれるってわけだ。",
+      "ko": "아버지 변호사가 인도에서 곤경에 빠진 아버지도 구해 냈어. 그러니까 나도 어떻게든 해 주겠지."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

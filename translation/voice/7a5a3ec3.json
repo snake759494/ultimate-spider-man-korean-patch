@@ -1,0 +1,41 @@
+{
+  "hash": "7a5a3ec3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.927625,
+  "segments": [
+    {
+      "start": 0.53,
+      "end": 1.53,
+      "jp": "お腹が…",
+      "words": [
+        {
+          "start": 0.53,
+          "end": 0.95,
+          "jp": "お",
+          "prob": 0.8770008683204651
+        },
+        {
+          "start": 0.95,
+          "end": 1.17,
+          "jp": "腹",
+          "prob": 0.9765516221523285
+        },
+        {
+          "start": 1.17,
+          "end": 1.37,
+          "jp": "が",
+          "prob": 0.9737668633460999
+        },
+        {
+          "start": 1.37,
+          "end": 1.53,
+          "jp": "…",
+          "prob": 0.16876238584518433
+        }
+      ],
+      "ko": "배가..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,19 @@
+{
+  "hash": "76c1a0a9",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.275375,
+  "segments": [
+    {
+      "start": 0.10118750000000176,
+      "end": 1.261187500000002,
+      "jp": "たしの1ドルは?",
+      "ko": "내 1달러는?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

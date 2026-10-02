@@ -1,0 +1,15 @@
+{
+  "hash": "18eadb73",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7505,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7505,
+      "jp": "合流地点で再結集だ!",
+      "ko": "합류 지점에서 재집결하자!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

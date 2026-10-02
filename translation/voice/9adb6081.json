@@ -1,0 +1,15 @@
+{
+  "hash": "9adb6081",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8671875,
+  "segments": [
+    {
+      "start": 0.252812500000001,
+      "end": 0.8671875,
+      "jp": "助かった",
+      "ko": "살았다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

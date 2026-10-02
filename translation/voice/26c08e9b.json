@@ -1,0 +1,15 @@
+{
+  "hash": "26c08e9b",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.4568125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.4,
+      "jp": "いちぼくさんに退散した方が良さそうだな",
+      "ko": "쏜살같이 달아나는 게 좋겠어."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

@@ -1,0 +1,65 @@
+{
+  "hash": "1238c880",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.630875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.42,
+      "jp": "ヘリオ呼べ!1964だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2,
+          "jp": "ヘ",
+          "prob": 0.8294389843940735
+        },
+        {
+          "start": 0.2,
+          "end": 0.28,
+          "jp": "リ",
+          "prob": 0.977251410484314
+        },
+        {
+          "start": 0.28,
+          "end": 0.38,
+          "jp": "オ",
+          "prob": 0.938189685344696
+        },
+        {
+          "start": 0.38,
+          "end": 0.5,
+          "jp": "呼",
+          "prob": 0.6866548657417297
+        },
+        {
+          "start": 0.5,
+          "end": 0.6,
+          "jp": "べ!",
+          "prob": 0.9618059396743774
+        },
+        {
+          "start": 1.22,
+          "end": 1.62,
+          "jp": "19",
+          "prob": 0.9340803027153015
+        },
+        {
+          "start": 1.62,
+          "end": 2.18,
+          "jp": "64",
+          "prob": 0.9611155390739441
+        },
+        {
+          "start": 2.18,
+          "end": 2.42,
+          "jp": "だ!",
+          "prob": 0.9051559567451477
+        }
+      ],
+      "ko": "헬기를 불러! 1964이다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

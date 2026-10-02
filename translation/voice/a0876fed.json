@@ -1,0 +1,35 @@
+{
+  "hash": "a0876fed",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.9404375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9166250000000034,
+      "jp": "死ねえ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.29662500000000236,
+          "jp": "死",
+          "prob": 0.9050173163414001
+        },
+        {
+          "start": 0.29662500000000236,
+          "end": 0.5566250000000039,
+          "jp": "ね",
+          "prob": 0.4376540184020996
+        },
+        {
+          "start": 0.5566250000000039,
+          "end": 0.9166250000000034,
+          "jp": "え!",
+          "prob": 0.8136906623840332
+        }
+      ],
+      "ko": "죽어라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

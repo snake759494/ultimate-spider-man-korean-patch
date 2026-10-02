@@ -1,0 +1,15 @@
+{
+  "hash": "0c6cfe50",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 5.94125,
+  "segments": [
+    {
+      "start": 3.496812499999999,
+      "end": 5.94125,
+      "jp": "…ちょっと興奮しちゃった",
+      "ko": "좀 흥분했네."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

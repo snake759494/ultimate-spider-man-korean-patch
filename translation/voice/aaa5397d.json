@@ -1,0 +1,35 @@
+{
+  "hash": "aaa5397d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.902375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.902375,
+      "jp": "えっと…",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.27793749999999995,
+          "jp": "え",
+          "prob": 0.4116852879524231
+        },
+        {
+          "start": 0.27793749999999995,
+          "end": 0.5979375,
+          "jp": "っと",
+          "prob": 0.9593432545661926
+        },
+        {
+          "start": 0.5979375,
+          "end": 0.902375,
+          "jp": "…",
+          "prob": 0.1443018913269043
+        }
+      ],
+      "ko": "그러니까..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

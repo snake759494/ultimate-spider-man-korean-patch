@@ -1,0 +1,41 @@
+{
+  "hash": "94965fa1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9975,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9975,
+      "jp": "痛いなぁ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2310624999999984,
+          "jp": "痛",
+          "prob": 0.6626795530319214
+        },
+        {
+          "start": 0.2310624999999984,
+          "end": 0.4710624999999986,
+          "jp": "い",
+          "prob": 0.9968870282173157
+        },
+        {
+          "start": 0.4710624999999986,
+          "end": 0.6710624999999997,
+          "jp": "な",
+          "prob": 0.9762675166130066
+        },
+        {
+          "start": 0.6710624999999997,
+          "end": 0.9975,
+          "jp": "ぁ",
+          "prob": 0.4689011573791504
+        }
+      ],
+      "ko": "아프네."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

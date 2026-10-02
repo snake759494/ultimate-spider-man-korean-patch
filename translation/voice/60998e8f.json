@@ -1,0 +1,15 @@
+{
+  "hash": "60998e8f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.95975,
+  "segments": [
+    {
+      "start": 0.28325000000000067,
+      "end": 0.8232499999999998,
+      "jp": "急げ!",
+      "ko": "서둘러!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

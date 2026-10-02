@@ -1,0 +1,41 @@
+{
+  "hash": "780c038b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.75275,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.3513124999999997,
+      "jp": "おぉ!腕が!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2713124999999996,
+          "jp": "お",
+          "prob": 0.3002946376800537
+        },
+        {
+          "start": 0.2713124999999996,
+          "end": 0.5113124999999998,
+          "jp": "ぉ!",
+          "prob": 0.33926689624786377
+        },
+        {
+          "start": 0.8313124999999997,
+          "end": 1.1313125,
+          "jp": "腕",
+          "prob": 0.8066979348659515
+        },
+        {
+          "start": 1.1313125,
+          "end": 1.3513124999999997,
+          "jp": "が!",
+          "prob": 0.9648656845092773
+        }
+      ],
+      "ko": "아! 내 팔!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

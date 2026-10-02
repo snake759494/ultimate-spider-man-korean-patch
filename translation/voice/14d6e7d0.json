@@ -1,0 +1,15 @@
+{
+  "hash": "14d6e7d0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.27075,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.27075,
+      "jp": "こんなものいらん",
+      "ko": "이런 건 필요 없어."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

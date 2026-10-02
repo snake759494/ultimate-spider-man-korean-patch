@@ -1,0 +1,59 @@
+{
+  "hash": "c585ca3a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.9993125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.8,
+      "jp": "正気はない!撤退だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.4,
+          "jp": "正",
+          "prob": 0.06502752751111984
+        },
+        {
+          "start": 0.4,
+          "end": 0.6,
+          "jp": "気",
+          "prob": 0.842772364616394
+        },
+        {
+          "start": 0.6,
+          "end": 0.74,
+          "jp": "は",
+          "prob": 0.9427787661552429
+        },
+        {
+          "start": 0.74,
+          "end": 0.94,
+          "jp": "ない!",
+          "prob": 0.9136631488800049
+        },
+        {
+          "start": 1.36,
+          "end": 1.44,
+          "jp": "撤",
+          "prob": 0.806626945734024
+        },
+        {
+          "start": 1.44,
+          "end": 1.62,
+          "jp": "退",
+          "prob": 0.9735372066497803
+        },
+        {
+          "start": 1.62,
+          "end": 1.8,
+          "jp": "だ!",
+          "prob": 0.9825239777565002
+        }
+      ],
+      "ko": "승산이 없다! 후퇴하라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

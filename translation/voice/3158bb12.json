@@ -1,0 +1,29 @@
+{
+  "hash": "3158bb12",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7709375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5691875000000017,
+      "jp": "準備完了!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.269187500000001,
+          "jp": "準備",
+          "prob": 0.9605173468589783
+        },
+        {
+          "start": 0.269187500000001,
+          "end": 0.5691875000000017,
+          "jp": "完了!",
+          "prob": 0.9918006062507629
+        }
+      ],
+      "ko": "준비 완료."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,29 @@
+{
+  "hash": "35a3f4ad",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.767875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7358750000000036,
+      "jp": "見ろ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2358750000000036,
+          "jp": "見",
+          "prob": 0.04659970477223396
+        },
+        {
+          "start": 0.2358750000000036,
+          "end": 0.7358750000000036,
+          "jp": "ろ",
+          "prob": 0.681793212890625
+        }
+      ],
+      "ko": "봐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "02def87f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.323625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.323625,
+      "jp": "ちょっと待ってくれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.299312500000001,
+          "jp": "ちょっと",
+          "prob": 0.9617502689361572
+        },
+        {
+          "start": 0.299312500000001,
+          "end": 0.6593125000000004,
+          "jp": "待って",
+          "prob": 0.9769775867462158
+        },
+        {
+          "start": 0.6593125000000004,
+          "end": 0.9193125000000002,
+          "jp": "く",
+          "prob": 0.9975398778915405
+        },
+        {
+          "start": 0.9193125000000002,
+          "end": 1.323625,
+          "jp": "れ!",
+          "prob": 0.999578058719635
+        }
+      ],
+      "ko": "잠깐 기다려 줘."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

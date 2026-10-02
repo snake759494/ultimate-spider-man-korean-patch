@@ -1,0 +1,29 @@
+{
+  "hash": "1bfe569d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.211125,
+  "segments": [
+    {
+      "start": 1.3718750000000002,
+      "end": 2.211125,
+      "jp": "なんだぁ!",
+      "words": [
+        {
+          "start": 1.3718750000000002,
+          "end": 2.0118750000000003,
+          "jp": "なんだ",
+          "prob": 0.029393009841442108
+        },
+        {
+          "start": 2.0118750000000003,
+          "end": 2.211125,
+          "jp": "ぁ!",
+          "prob": 0.46557214856147766
+        }
+      ],
+      "ko": "뭐야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,23 @@
+{
+  "hash": "a059c09c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9325625,
+  "segments": [
+    {
+      "start": 0.6478125000000006,
+      "end": 0.9325625,
+      "jp": "何",
+      "words": [
+        {
+          "start": 0.6478125000000006,
+          "end": 0.9325625,
+          "jp": "何",
+          "prob": 0.03778116777539253
+        }
+      ],
+      "ko": "뭐?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

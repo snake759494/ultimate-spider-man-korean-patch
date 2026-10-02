@@ -1,0 +1,35 @@
+{
+  "hash": "ab73b646",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.468375,
+  "segments": [
+    {
+      "start": 0.011374999999999247,
+      "end": 0.9913749999999997,
+      "jp": "こんな靴軸!",
+      "words": [
+        {
+          "start": 0.011374999999999247,
+          "end": 0.43137500000000006,
+          "jp": "こんな",
+          "prob": 0.9109761118888855
+        },
+        {
+          "start": 0.43137500000000006,
+          "end": 0.7513749999999995,
+          "jp": "靴",
+          "prob": 0.6563798189163208
+        },
+        {
+          "start": 0.7513749999999995,
+          "end": 0.9913749999999997,
+          "jp": "軸!",
+          "prob": 0.5940166562795639
+        }
+      ],
+      "ko": "이런 굴욕이!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

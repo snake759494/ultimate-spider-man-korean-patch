@@ -1,0 +1,15 @@
+{
+  "hash": "f6fba282",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 5.67925,
+  "segments": [
+    {
+      "start": 0,
+      "end": 5.64,
+      "jp": "みんな落ち着いていけ 葉や触手がいくら生えていようと 中身はただのクソガキだ",
+      "ko": "다들 침착해. 이빨과 촉수가 아무리 돋아나도 속은 그냥 꼬맹이야."
+    }
+  ],
+  "recognition": "kotoba_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

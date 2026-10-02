@@ -1,0 +1,41 @@
+{
+  "hash": "36a21e45",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.312875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0634374999999991,
+      "jp": "ちょっと待ってくれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2834374999999998,
+          "jp": "ちょっと",
+          "prob": 0.9558206796646118
+        },
+        {
+          "start": 0.2834374999999998,
+          "end": 0.6634374999999988,
+          "jp": "待って",
+          "prob": 0.9347190260887146
+        },
+        {
+          "start": 0.6634374999999988,
+          "end": 0.9234374999999986,
+          "jp": "く",
+          "prob": 0.9946169257164001
+        },
+        {
+          "start": 0.9234374999999986,
+          "end": 1.0634374999999991,
+          "jp": "れ!",
+          "prob": 0.9973260164260864
+        }
+      ],
+      "ko": "잠깐 기다려 줘."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,29 @@
+{
+  "source_sha256": "5e19d2cd69a8a11290e8a727fa119f58d8620ee805c24279933efc0a050bb302",
+  "build_sha256": "a6d3aa028a74ecb77fe8a00d4577ca325ca5851ed9684e6ac2b92adcecbb12b4",
+  "source_bytes": 4155015168,
+  "build_bytes": 4155015168,
+  "unchanged_bytes_compared": 3379442606,
+  "all_file_lbas_preserved": true,
+  "modified_files": [
+    "SLPM_664.04",
+    "PACKS/AMALGA.PAK",
+    "PACKS/MOVIES.PAK"
+  ],
+  "modified_videos": [
+    "2badd8d3.ipu",
+    "88dd1e5f.ipu",
+    "92dcb463.ipu",
+    "92dcb464.ipu",
+    "c3bfe245.ipu",
+    "c3bfe247.ipu",
+    "d216758b.ipu",
+    "41dab593.pss"
+  ],
+  "archive_expansion_only_overwrites_zero_padding": true,
+  "disc_tail_and_final_sector_preserved": true,
+  "patch_sha256": "82e24bb4303c45d2f25f669daf76bf90549df5b3ae206a97223d47228621926d",
+  "patch_bytes": 394789493,
+  "xdelta_apply_sha256": "a6d3aa028a74ecb77fe8a00d4577ca325ca5851ed9684e6ac2b92adcecbb12b4",
+  "xdelta_apply_matches_build": true
+}

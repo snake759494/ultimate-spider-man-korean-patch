@@ -1,0 +1,15 @@
+{
+  "hash": "857d5ec3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7813125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7813125,
+      "jp": "あれを見ろ!",
+      "ko": "저것 봐!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

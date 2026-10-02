@@ -1,0 +1,29 @@
+{
+  "hash": "f6e1e50f",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.414,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.3956249999999999,
+      "jp": "何も",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1556249999999999,
+          "jp": "何",
+          "prob": 0.6888294816017151
+        },
+        {
+          "start": 0.1556249999999999,
+          "end": 0.3956249999999999,
+          "jp": "も",
+          "prob": 0.9864811897277832
+        }
+      ],
+      "ko": "아무것도."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

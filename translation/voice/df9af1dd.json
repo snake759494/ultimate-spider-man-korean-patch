@@ -1,0 +1,29 @@
+{
+  "hash": "df9af1dd",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3678125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.059750000000001,
+      "jp": "いやだ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.35974999999999824,
+          "jp": "いや",
+          "prob": 0.1304459422826767
+        },
+        {
+          "start": 0.35974999999999824,
+          "end": 1.059750000000001,
+          "jp": "だ",
+          "prob": 0.9035279154777527
+        }
+      ],
+      "ko": "싫어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

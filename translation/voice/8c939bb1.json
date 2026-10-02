@@ -1,0 +1,19 @@
+{
+  "hash": "8c939bb1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.888375,
+  "segments": [
+    {
+      "start": 0.18456250000000018,
+      "end": 0.8645624999999999,
+      "jp": "何の匂い?",
+      "ko": "무슨 냄새지?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_dictionary_medium_batch_review_required"
+}

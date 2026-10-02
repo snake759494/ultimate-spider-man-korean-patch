@@ -1,0 +1,65 @@
+{
+  "hash": "eaf0b07a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.0595,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.04,
+      "jp": "どうすんだよ、どうすんだよ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26,
+          "jp": "どう",
+          "prob": 0.8562540411949158
+        },
+        {
+          "start": 0.26,
+          "end": 0.48,
+          "jp": "す",
+          "prob": 0.8607263565063477
+        },
+        {
+          "start": 0.48,
+          "end": 0.66,
+          "jp": "んだ",
+          "prob": 0.9757331013679504
+        },
+        {
+          "start": 0.66,
+          "end": 0.98,
+          "jp": "よ、",
+          "prob": 0.9776460528373718
+        },
+        {
+          "start": 1.1,
+          "end": 1.3,
+          "jp": "どう",
+          "prob": 0.9743391275405884
+        },
+        {
+          "start": 1.3,
+          "end": 1.5,
+          "jp": "す",
+          "prob": 0.9679389595985413
+        },
+        {
+          "start": 1.5,
+          "end": 1.68,
+          "jp": "んだ",
+          "prob": 0.9899680614471436
+        },
+        {
+          "start": 1.68,
+          "end": 2.04,
+          "jp": "よ!",
+          "prob": 0.9962028861045837
+        }
+      ],
+      "ko": "어떡하지? 어떡하냐고!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

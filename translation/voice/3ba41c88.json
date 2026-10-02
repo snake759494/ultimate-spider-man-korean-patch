@@ -1,0 +1,15 @@
+{
+  "hash": "3ba41c88",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.36725,
+  "segments": [
+    {
+      "start": 0.17093750000000085,
+      "end": 1.36725,
+      "jp": "思い知らせてやれ!",
+      "ko": "본때를 보여 줘!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

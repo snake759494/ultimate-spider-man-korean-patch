@@ -1,0 +1,15 @@
+{
+  "hash": "98bfb48d",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.9836875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.84,
+      "jp": "お礼のキスでもしてほしかったな",
+      "ko": "답례로 키스라도 해 주면 좋겠는데."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "2cf15cef",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6776875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6776875,
+      "jp": "ぶちのめせー!",
+      "ko": "박살 내 버려!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

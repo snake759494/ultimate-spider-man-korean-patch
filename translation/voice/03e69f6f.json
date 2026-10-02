@@ -1,0 +1,15 @@
+{
+  "hash": "03e69f6f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3308125,
+  "segments": [
+    {
+      "start": 0.24631250000000016,
+      "end": 1.3308125,
+      "jp": " 顔はやめてくれ",
+      "ko": "얼굴은 때리지 마!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "612e4763",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.0379375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8891249999999999,
+      "jp": "もう持たない",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.30912500000000165,
+          "jp": "もう",
+          "prob": 0.6743660569190979
+        },
+        {
+          "start": 0.30912500000000165,
+          "end": 0.5291250000000005,
+          "jp": "持",
+          "prob": 0.5586093664169312
+        },
+        {
+          "start": 0.5291250000000005,
+          "end": 0.6691250000000011,
+          "jp": "た",
+          "prob": 0.9798550009727478
+        },
+        {
+          "start": 0.6691250000000011,
+          "end": 0.8891249999999999,
+          "jp": "ない",
+          "prob": 0.9977872371673584
+        }
+      ],
+      "ko": "더는 못 버텨."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

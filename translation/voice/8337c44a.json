@@ -1,0 +1,53 @@
+{
+  "hash": "8337c44a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1126875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9,
+      "jp": "もう一回やるか?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "もう",
+          "prob": 0.7557619214057922
+        },
+        {
+          "start": 0.22,
+          "end": 0.44,
+          "jp": "一",
+          "prob": 0.6574498414993286
+        },
+        {
+          "start": 0.44,
+          "end": 0.56,
+          "jp": "回",
+          "prob": 0.9889352917671204
+        },
+        {
+          "start": 0.56,
+          "end": 0.7,
+          "jp": "や",
+          "prob": 0.9893904328346252
+        },
+        {
+          "start": 0.7,
+          "end": 0.76,
+          "jp": "る",
+          "prob": 0.9971700310707092
+        },
+        {
+          "start": 0.76,
+          "end": 0.9,
+          "jp": "か?",
+          "prob": 0.990658164024353
+        }
+      ],
+      "ko": "한 번 더 할까?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "86db0325",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.704375,
+  "segments": [
+    {
+      "start": 0.2698124999999998,
+      "end": 1.704375,
+      "jp": "いけ!スパイダーマン!",
+      "ko": "가라! 스파이더맨!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

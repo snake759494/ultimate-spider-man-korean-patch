@@ -1,0 +1,41 @@
+{
+  "hash": "d57d7cf4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.476125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.476125,
+      "jp": "もう帰るー",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28331250000000097,
+          "jp": "もう",
+          "prob": 0.49644869565963745
+        },
+        {
+          "start": 0.28331250000000097,
+          "end": 0.6833125000000013,
+          "jp": "帰",
+          "prob": 0.9934411644935608
+        },
+        {
+          "start": 0.6833125000000013,
+          "end": 1.0433125000000008,
+          "jp": "る",
+          "prob": 0.9862191081047058
+        },
+        {
+          "start": 1.0433125000000008,
+          "end": 1.476125,
+          "jp": "ー",
+          "prob": 0.16647744178771973
+        }
+      ],
+      "ko": "이제 집에 갈래!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

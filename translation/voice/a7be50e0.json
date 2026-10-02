@@ -1,0 +1,15 @@
+{
+  "hash": "a7be50e0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5224375,
+  "segments": [
+    {
+      "start": 0.04393750000000196,
+      "end": 1.5224375,
+      "jp": "ちょ、ちょっと、タイム",
+      "ko": "자, 잠깐만! 타임!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

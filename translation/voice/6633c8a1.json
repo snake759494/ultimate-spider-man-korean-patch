@@ -1,0 +1,15 @@
+{
+  "hash": "6633c8a1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.98525,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.9078125000000004,
+      "jp": "目標確認、たぶん",
+      "ko": "목표 확인. 아마도."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

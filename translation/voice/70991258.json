@@ -1,0 +1,15 @@
+{
+  "hash": "70991258",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.373625,
+  "segments": [
+    {
+      "start": 0.26931249999999984,
+      "end": 3.373625,
+      "jp": "んっふふふー 糸切れには気をつけろよ",
+      "ko": "흐흐흐, 거미줄 떨어지지 않게 조심해."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

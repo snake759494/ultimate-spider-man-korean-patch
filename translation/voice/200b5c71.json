@@ -1,0 +1,15 @@
+{
+  "hash": "200b5c71",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.50925,
+  "segments": [
+    {
+      "start": 0.0980624999999975,
+      "end": 1.50925,
+      "jp": "みんな退職だ",
+      "ko": "모두 후퇴하라!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

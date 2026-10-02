@@ -1,0 +1,15 @@
+{
+  "hash": "da4e7c28",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 4.5276875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 4.5276875,
+      "jp": "ねえ、あれスパイダーマン?バトロック?ああいうのって見分けがつかないのよね?",
+      "ko": "저거 스파이더맨이야? 배트록이야? 저런 사람들은 구분이 안 되더라."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

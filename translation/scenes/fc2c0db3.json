@@ -1,0 +1,15 @@
+{
+  "hash": "fc2c0db3",
+  "duration": 38.8995625,
+  "segments": [
+    {
+      "start": 6.35,
+      "end": 7.27,
+      "jp": "なんてこった!",
+      "logprob": -0.6022287160158157,
+      "no_speech": 0.0967240110039711,
+      "ko": "맙소사!"
+    }
+  ],
+  "status": "draft_asr_review_required"
+}

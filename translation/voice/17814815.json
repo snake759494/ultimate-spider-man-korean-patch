@@ -1,0 +1,71 @@
+{
+  "hash": "17814815",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.4754375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.44,
+      "jp": "で、君はダウンってわけ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2,
+          "jp": "で、",
+          "prob": 0.7132757306098938
+        },
+        {
+          "start": 0.38,
+          "end": 0.54,
+          "jp": "君",
+          "prob": 0.8500344753265381
+        },
+        {
+          "start": 0.54,
+          "end": 0.74,
+          "jp": "は",
+          "prob": 0.9963285326957703
+        },
+        {
+          "start": 0.74,
+          "end": 0.9,
+          "jp": "ダ",
+          "prob": 0.9234324097633362
+        },
+        {
+          "start": 0.9,
+          "end": 0.98,
+          "jp": "ウ",
+          "prob": 0.9971593618392944
+        },
+        {
+          "start": 0.98,
+          "end": 1.08,
+          "jp": "ン",
+          "prob": 0.9119554758071899
+        },
+        {
+          "start": 1.08,
+          "end": 1.14,
+          "jp": "って",
+          "prob": 0.8253242373466492
+        },
+        {
+          "start": 1.14,
+          "end": 1.26,
+          "jp": "わ",
+          "prob": 0.5409329533576965
+        },
+        {
+          "start": 1.26,
+          "end": 1.44,
+          "jp": "け",
+          "prob": 0.9990611672401428
+        }
+      ],
+      "ko": "그래서, 넌 쓰러진 거고."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

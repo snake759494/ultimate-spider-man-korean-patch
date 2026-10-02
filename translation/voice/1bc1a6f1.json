@@ -1,0 +1,15 @@
+{
+  "hash": "1bc1a6f1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.637625,
+  "segments": [
+    {
+      "start": 0.3101875000000014,
+      "end": 1.3901874999999997,
+      "jp": "私のバーグ!",
+      "ko": "내 가방!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

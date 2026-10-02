@@ -1,0 +1,25 @@
+{
+  "hash": "d1500246",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.8200625,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 1.32,
+      "jp": "いてっ!",
+      "logprob": -0.5527851051754422,
+      "no_speech": 0.28620201349258423,
+      "ko": "아야!"
+    },
+    {
+      "start": 1.42,
+      "end": 2.74,
+      "jp": "もっと早く避けないと!",
+      "logprob": -0.5527851051754422,
+      "no_speech": 0.28620201349258423,
+      "ko": "좀 더 빨리 피해야겠어!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_medium_individual"
+}

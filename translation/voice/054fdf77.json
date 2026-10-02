@@ -1,0 +1,15 @@
+{
+  "hash": "054fdf77",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7240625,
+  "segments": [
+    {
+      "start": 0.15775000000000006,
+      "end": 1.6977499999999996,
+      "jp": "人がどういうようと気にしないよ",
+      "ko": "남들이 뭐라든 신경 안 써."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

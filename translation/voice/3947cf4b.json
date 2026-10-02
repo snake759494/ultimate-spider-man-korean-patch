@@ -1,0 +1,15 @@
+{
+  "hash": "3947cf4b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2726875,
+  "segments": [
+    {
+      "start": 0.1474999999999973,
+      "end": 1.2074999999999996,
+      "jp": "ネットで買えんのか?",
+      "ko": "인터넷에서 살 수 있어?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

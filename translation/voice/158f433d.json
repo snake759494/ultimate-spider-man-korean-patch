@@ -1,0 +1,15 @@
+{
+  "hash": "158f433d",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.7994375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5,
+      "jp": "ママ!",
+      "ko": "엄마!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

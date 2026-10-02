@@ -1,0 +1,15 @@
+{
+  "hash": "c7412f39",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.036,
+  "segments": [
+    {
+      "start": 0.3159375000000004,
+      "end": 0.8359375,
+      "jp": "出ろ!",
+      "ko": "나와!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

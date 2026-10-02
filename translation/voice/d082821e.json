@@ -1,0 +1,19 @@
+{
+  "hash": "d082821e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.661125,
+  "segments": [
+    {
+      "start": 0.15212500000000162,
+      "end": 1.661125,
+      "jp": "ありがとう、スパイダーマン!",
+      "ko": "고마워요, 스파이더맨!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_dictionary_medium_batch_review_required"
+}

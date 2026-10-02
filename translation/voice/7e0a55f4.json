@@ -1,0 +1,15 @@
+{
+  "hash": "7e0a55f4",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.85375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.74,
+      "jp": "そして、しりもちを作った",
+      "ko": "그리고 엉덩방아를 찧었지."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

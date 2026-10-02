@@ -1,0 +1,41 @@
+{
+  "hash": "513d82fe",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.236875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0992499999999978,
+      "jp": "おーすごいな!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.27924999999999933,
+          "jp": "お",
+          "prob": 0.7166773676872253
+        },
+        {
+          "start": 0.27924999999999933,
+          "end": 0.3992500000000003,
+          "jp": "ー",
+          "prob": 0.451259583234787
+        },
+        {
+          "start": 0.3992500000000003,
+          "end": 0.7792499999999993,
+          "jp": "すごい",
+          "prob": 0.5237663388252258
+        },
+        {
+          "start": 0.7792499999999993,
+          "end": 1.0992499999999978,
+          "jp": "な!",
+          "prob": 0.9986011385917664
+        }
+      ],
+      "ko": "오, 대단한데!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

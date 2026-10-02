@@ -1,0 +1,41 @@
+{
+  "hash": "4aeaaae6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.886125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.4906249999999943,
+      "jp": "ああ、よかった、ありがとう",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.21062499999999318,
+          "jp": "ああ、",
+          "prob": 0.7351390719413757
+        },
+        {
+          "start": 0.3906249999999929,
+          "end": 0.47062499999999474,
+          "jp": "よ",
+          "prob": 0.8868391513824463
+        },
+        {
+          "start": 0.47062499999999474,
+          "end": 0.7706249999999955,
+          "jp": "かった、",
+          "prob": 0.9995482563972473
+        },
+        {
+          "start": 1.170624999999994,
+          "end": 1.4906249999999943,
+          "jp": "ありがとう",
+          "prob": 0.9669827222824097
+        }
+      ],
+      "ko": "아, 다행이다. 고마워!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

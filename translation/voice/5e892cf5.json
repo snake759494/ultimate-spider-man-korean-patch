@@ -1,0 +1,17 @@
+{
+  "hash": "5e892cf5",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.411375,
+  "segments": [
+    {
+      "start": 0.86,
+      "end": 2.3,
+      "jp": "うまく避けないとな",
+      "logprob": -0.5703836133082708,
+      "no_speech": 0.17720754444599152,
+      "ko": "잘 피해야겠어."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_medium_individual"
+}

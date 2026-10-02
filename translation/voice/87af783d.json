@@ -1,0 +1,15 @@
+{
+  "hash": "87af783d",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.9350625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.28,
+      "jp": "破壊する!",
+      "ko": "파괴하겠다!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

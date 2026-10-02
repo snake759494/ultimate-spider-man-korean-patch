@@ -1,0 +1,15 @@
+{
+  "hash": "fb9dbfe4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2904375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.2904375,
+      "jp": "焼き打ちだ",
+      "ko": "불태워 버려!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

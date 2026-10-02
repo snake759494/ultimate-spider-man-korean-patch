@@ -1,0 +1,41 @@
+{
+  "hash": "f6311158",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6724375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.4980000000000029,
+      "jp": "ふせてろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.09800000000000253,
+          "jp": "ふ",
+          "prob": 0.9325439929962158
+        },
+        {
+          "start": 0.09800000000000253,
+          "end": 0.27800000000000225,
+          "jp": "せ",
+          "prob": 0.7275246381759644
+        },
+        {
+          "start": 0.27800000000000225,
+          "end": 0.3580000000000023,
+          "jp": "て",
+          "prob": 0.41849106550216675
+        },
+        {
+          "start": 0.3580000000000023,
+          "end": 0.4980000000000029,
+          "jp": "ろ!",
+          "prob": 0.9930986762046814
+        }
+      ],
+      "ko": "엎드려 있어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "e5bf337b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.292625,
+  "segments": [
+    {
+      "start": 0.4673750000000001,
+      "end": 1.1873750000000003,
+      "jp": "まずい!",
+      "ko": "큰일이야."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "3f380323",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.626375,
+  "segments": [
+    {
+      "start": 0.1771875000000005,
+      "end": 0.5771875000000009,
+      "jp": "かかれ!",
+      "ko": "공격해!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

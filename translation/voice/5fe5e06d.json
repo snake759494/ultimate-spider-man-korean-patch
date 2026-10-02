@@ -1,0 +1,35 @@
+{
+  "hash": "5fe5e06d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.82025,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.42256249999999795,
+      "jp": "やるぞ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1425624999999986,
+          "jp": "や",
+          "prob": 0.9846750497817993
+        },
+        {
+          "start": 0.1425624999999986,
+          "end": 0.2625624999999978,
+          "jp": "る",
+          "prob": 0.9956550598144531
+        },
+        {
+          "start": 0.2625624999999978,
+          "end": 0.42256249999999795,
+          "jp": "ぞ!",
+          "prob": 0.995834231376648
+        }
+      ],
+      "ko": "간다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

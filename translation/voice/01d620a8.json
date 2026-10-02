@@ -1,0 +1,15 @@
+{
+  "hash": "01d620a8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.0479375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.0479375,
+      "jp": "航空部隊、経路をォクストロット6に移行せよ",
+      "ko": "항공 부대, 경로 폭스트롯 6으로 이동하라."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

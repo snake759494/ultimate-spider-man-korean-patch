@@ -1,0 +1,42 @@
+{
+  "hash": "cda4df4f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 12.82675,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.2600000000000002,
+      "jp": "遺伝共生体についてはお近くの図書館まで",
+      "logprob": -0.1340217073174084,
+      "no_speech": 0.013654802925884724,
+      "ko": "공생체에 대해선 가까운 도서관에서 알아보세요."
+    },
+    {
+      "start": 3.2600000000000002,
+      "end": 6.72,
+      "jp": "共生体と一戦交える場合",
+      "logprob": -0.1340217073174084,
+      "no_speech": 0.013654802925884724,
+      "ko": "공생체와 한판 붙을 때는"
+    },
+    {
+      "start": 6.72,
+      "end": 8.74,
+      "jp": "真っ向勝負は避けること",
+      "logprob": -0.1340217073174084,
+      "no_speech": 0.013654802925884724,
+      "ko": "정면 승부를 피하세요."
+    },
+    {
+      "start": 8.74,
+      "end": 12.620000000000001,
+      "jp": "インターネット上の情報を当てにしていると",
+      "logprob": -0.1340217073174084,
+      "no_speech": 0.013654802925884724,
+      "ko": "인터넷 정보만 믿다가는..."
+    }
+  ],
+  "recognition": "kotoba_individual",
+  "status": "translated_from_individual_asr_context_checked",
+  "review_note": "Three ASR sources agree on truncated final clause; sentence ending is not invented. Full listening verification remains pending."
+}

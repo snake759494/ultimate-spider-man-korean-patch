@@ -1,0 +1,41 @@
+{
+  "hash": "5831f838",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.894625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8608750000000001,
+      "jp": "後は大丈夫だ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18087500000000034,
+          "jp": "後",
+          "prob": 0.042739998549222946
+        },
+        {
+          "start": 0.18087500000000034,
+          "end": 0.32087499999999913,
+          "jp": "は",
+          "prob": 0.9876235723495483
+        },
+        {
+          "start": 0.32087499999999913,
+          "end": 0.5608749999999993,
+          "jp": "大丈夫",
+          "prob": 0.9837452173233032
+        },
+        {
+          "start": 0.5608749999999993,
+          "end": 0.8608750000000001,
+          "jp": "だ",
+          "prob": 0.9902008175849915
+        }
+      ],
+      "ko": "이제 괜찮아."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

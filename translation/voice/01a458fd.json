@@ -1,0 +1,35 @@
+{
+  "hash": "01a458fd",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7525,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6129374999999939,
+      "jp": "警察だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1729374999999962,
+          "jp": "警",
+          "prob": 0.8437647819519043
+        },
+        {
+          "start": 0.1729374999999962,
+          "end": 0.3729374999999955,
+          "jp": "察",
+          "prob": 0.9988552331924438
+        },
+        {
+          "start": 0.3729374999999955,
+          "end": 0.6129374999999939,
+          "jp": "だ!",
+          "prob": 0.9927893280982971
+        }
+      ],
+      "ko": "경찰이다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

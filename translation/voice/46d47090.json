@@ -1,0 +1,41 @@
+{
+  "hash": "46d47090",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.0663125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0663125,
+      "jp": "危なかったな",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2265625,
+          "jp": "危",
+          "prob": 0.7732612490653992
+        },
+        {
+          "start": 0.2265625,
+          "end": 0.42656250000000107,
+          "jp": "な",
+          "prob": 0.9956161975860596
+        },
+        {
+          "start": 0.42656250000000107,
+          "end": 0.6065625000000008,
+          "jp": "かった",
+          "prob": 0.9986463189125061
+        },
+        {
+          "start": 0.6065625000000008,
+          "end": 1.0663125,
+          "jp": "な",
+          "prob": 0.9897301197052002
+        }
+      ],
+      "ko": "위험했어."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

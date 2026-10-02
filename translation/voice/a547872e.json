@@ -1,0 +1,35 @@
+{
+  "hash": "a547872e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0406875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7511875000000003,
+      "jp": "まずいぞ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3511875,
+          "jp": "まず",
+          "prob": 0.8380973935127258
+        },
+        {
+          "start": 0.3511875,
+          "end": 0.5511874999999993,
+          "jp": "い",
+          "prob": 0.9990723133087158
+        },
+        {
+          "start": 0.5511874999999993,
+          "end": 0.7511875000000003,
+          "jp": "ぞ",
+          "prob": 0.99774169921875
+        }
+      ],
+      "ko": "큰일이군!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

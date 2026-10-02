@@ -1,0 +1,15 @@
+{
+  "hash": "6b0969af",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.576375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.52,
+      "jp": "テレビの方が痩せて見えるのね",
+      "ko": "텔레비전에서는 더 날씬해 보이네."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

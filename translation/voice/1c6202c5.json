@@ -1,0 +1,15 @@
+{
+  "hash": "1c6202c5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2798125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.2798125,
+      "jp": "お前なにさまのつもりだ!",
+      "ko": "네가 뭔데 이래!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

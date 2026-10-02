@@ -1,0 +1,41 @@
+{
+  "hash": "032bedb0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0211875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6633125,
+      "jp": "撤収しよう!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1433125000000004,
+          "jp": "撤",
+          "prob": 0.8885257840156555
+        },
+        {
+          "start": 0.1433125000000004,
+          "end": 0.3233125000000001,
+          "jp": "収",
+          "prob": 0.9993801116943359
+        },
+        {
+          "start": 0.3233125000000001,
+          "end": 0.48331250000000026,
+          "jp": "し",
+          "prob": 0.9979141354560852
+        },
+        {
+          "start": 0.48331250000000026,
+          "end": 0.6633125,
+          "jp": "よう!",
+          "prob": 0.9909101128578186
+        }
+      ],
+      "ko": "철수하자!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

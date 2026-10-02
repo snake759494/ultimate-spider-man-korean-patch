@@ -1,0 +1,15 @@
+{
+  "hash": "03809f22",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.667125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.667125,
+      "jp": "そらでも強いつもりか",
+      "ko": "그걸로 강한 줄 아냐?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

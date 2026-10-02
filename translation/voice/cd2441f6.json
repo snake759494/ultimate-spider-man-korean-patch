@@ -1,0 +1,41 @@
+{
+  "hash": "cd2441f6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.076875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.076875,
+      "jp": "やられたぁ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24656250000000002,
+          "jp": "や",
+          "prob": 0.8427242040634155
+        },
+        {
+          "start": 0.24656250000000002,
+          "end": 0.3865624999999997,
+          "jp": "ら",
+          "prob": 0.9971351623535156
+        },
+        {
+          "start": 0.3865624999999997,
+          "end": 0.6465624999999999,
+          "jp": "れた",
+          "prob": 0.9930180311203003
+        },
+        {
+          "start": 0.6465624999999999,
+          "end": 1.076875,
+          "jp": "ぁ!",
+          "prob": 0.1312376707792282
+        }
+      ],
+      "ko": "당했어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

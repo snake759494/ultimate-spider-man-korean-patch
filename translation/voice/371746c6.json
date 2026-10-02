@@ -1,0 +1,15 @@
+{
+  "hash": "371746c6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.94575,
+  "segments": [
+    {
+      "start": 0.08893750000000011,
+      "end": 0.8089375000000025,
+      "jp": "なんだそれは?",
+      "ko": "그건 뭐야?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

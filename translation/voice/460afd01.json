@@ -1,0 +1,15 @@
+{
+  "hash": "460afd01",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.16775,
+  "segments": [
+    {
+      "start": 0.1085624999999979,
+      "end": 2.128562500000001,
+      "jp": "おい、やられた!おいって!",
+      "ko": "야, 당했어! 야, 듣고 있어?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

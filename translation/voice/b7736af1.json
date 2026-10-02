@@ -1,0 +1,53 @@
+{
+  "hash": "b7736af1",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.806375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.5,
+      "jp": "うわぁ! 助けて! 助けて!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "うわ",
+          "prob": 0.3661532700061798
+        },
+        {
+          "start": 0.22,
+          "end": 0.84,
+          "jp": "ぁ!",
+          "prob": 0.35504257678985596
+        },
+        {
+          "start": 1.06,
+          "end": 1.22,
+          "jp": " 助",
+          "prob": 0.9902123808860779
+        },
+        {
+          "start": 1.22,
+          "end": 1.4,
+          "jp": "けて!",
+          "prob": 0.9949690699577332
+        },
+        {
+          "start": 2.0,
+          "end": 2.24,
+          "jp": " 助",
+          "prob": 0.9923926591873169
+        },
+        {
+          "start": 2.24,
+          "end": 2.5,
+          "jp": "けて!",
+          "prob": 0.997864305973053
+        }
+      ],
+      "ko": "으악! 살려 줘! 살려 줘!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

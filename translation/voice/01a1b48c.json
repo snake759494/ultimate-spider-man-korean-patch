@@ -1,0 +1,15 @@
+{
+  "hash": "01a1b48c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1908125,
+  "segments": [
+    {
+      "start": 0.09793750000000045,
+      "end": 1.1908125,
+      "jp": "死にたくなきゃ急げ",
+      "ko": "죽기 싫으면 서둘러!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

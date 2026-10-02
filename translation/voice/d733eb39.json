@@ -1,0 +1,15 @@
+{
+  "hash": "d733eb39",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.403375,
+  "segments": [
+    {
+      "start": 0.8497500000000002,
+      "end": 2.403375,
+      "jp": "いいねー!",
+      "ko": "좋은데!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

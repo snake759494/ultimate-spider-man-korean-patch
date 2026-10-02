@@ -1,0 +1,41 @@
+{
+  "hash": "efc53661",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9383125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9383125,
+      "jp": "こんなの嫌だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2744375000000012,
+          "jp": "こんな",
+          "prob": 0.15943893790245056
+        },
+        {
+          "start": 0.2744375000000012,
+          "end": 0.4744375000000005,
+          "jp": "の",
+          "prob": 0.9885216951370239
+        },
+        {
+          "start": 0.4744375000000005,
+          "end": 0.6144375000000011,
+          "jp": "嫌",
+          "prob": 0.7917103171348572
+        },
+        {
+          "start": 0.6144375000000011,
+          "end": 0.9383125,
+          "jp": "だ!",
+          "prob": 0.9948484897613525
+        }
+      ],
+      "ko": "이런 건 싫어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,47 @@
+{
+  "hash": "69feefff",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.33925,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.33925,
+      "jp": "ふせろ 早く",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1330625000000012,
+          "jp": "ふ",
+          "prob": 0.4148886203765869
+        },
+        {
+          "start": 0.1330625000000012,
+          "end": 0.3130625000000009,
+          "jp": "せ",
+          "prob": 0.9992541670799255
+        },
+        {
+          "start": 0.3130625000000009,
+          "end": 0.47306250000000105,
+          "jp": "ろ",
+          "prob": 0.996920108795166
+        },
+        {
+          "start": 0.7130625000000013,
+          "end": 0.9330625000000001,
+          "jp": " 早",
+          "prob": 0.9873378276824951
+        },
+        {
+          "start": 0.9330625000000001,
+          "end": 1.33925,
+          "jp": "く",
+          "prob": 0.999707043170929
+        }
+      ],
+      "ko": "엎드려, 빨리!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

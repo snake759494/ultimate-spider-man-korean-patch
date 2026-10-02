@@ -1,0 +1,15 @@
+{
+  "hash": "21586835",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0764375,
+  "segments": [
+    {
+      "start": 0.0716874999999999,
+      "end": 1.0764375,
+      "jp": "来やがれ!",
+      "ko": "덤벼!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

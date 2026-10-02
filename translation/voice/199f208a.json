@@ -1,0 +1,47 @@
+{
+  "hash": "199f208a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6136875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.58,
+      "jp": "なあ、頼むよ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.34,
+          "jp": "な",
+          "prob": 0.45454686880111694
+        },
+        {
+          "start": 0.34,
+          "end": 0.62,
+          "jp": "あ、",
+          "prob": 0.3401026129722595
+        },
+        {
+          "start": 0.7,
+          "end": 1.08,
+          "jp": "頼",
+          "prob": 0.943366140127182
+        },
+        {
+          "start": 1.08,
+          "end": 1.28,
+          "jp": "む",
+          "prob": 0.9921544194221497
+        },
+        {
+          "start": 1.28,
+          "end": 1.58,
+          "jp": "よ!",
+          "prob": 0.9964448809623718
+        }
+      ],
+      "ko": "제발, 부탁이야."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

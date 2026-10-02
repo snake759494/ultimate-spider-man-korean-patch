@@ -1,0 +1,41 @@
+{
+  "hash": "48f47af0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2745625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0515624999999993,
+      "jp": "殺してやる!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3515625,
+          "jp": "殺",
+          "prob": 0.9303007125854492
+        },
+        {
+          "start": 0.3515625,
+          "end": 0.6915624999999999,
+          "jp": "して",
+          "prob": 0.9980505704879761
+        },
+        {
+          "start": 0.6915624999999999,
+          "end": 0.8715624999999996,
+          "jp": "や",
+          "prob": 0.9989653825759888
+        },
+        {
+          "start": 0.8715624999999996,
+          "end": 1.0515624999999993,
+          "jp": "る!",
+          "prob": 0.9988389611244202
+        }
+      ],
+      "ko": "죽여 주마!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

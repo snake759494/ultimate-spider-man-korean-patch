@@ -1,0 +1,15 @@
+{
+  "hash": "afc21858",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.736625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.736625,
+      "jp": "パジャマって頭おかしいんじゃねえ",
+      "ko": "잠옷이라니, 머리가 어떻게 된 거 아냐?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

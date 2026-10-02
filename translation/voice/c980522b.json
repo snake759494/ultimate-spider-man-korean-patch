@@ -1,0 +1,15 @@
+{
+  "hash": "c980522b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.682125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.72,
+      "jp": "だ…だめ",
+      "ko": "아... 안 돼."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

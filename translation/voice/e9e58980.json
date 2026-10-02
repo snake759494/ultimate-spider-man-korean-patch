@@ -1,0 +1,23 @@
+{
+  "hash": "e9e58980",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8294375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.42131250000000087,
+      "jp": "なんだ?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.42131250000000087,
+          "jp": "なんだ?",
+          "prob": 0.8180604577064514
+        }
+      ],
+      "ko": "뭐지?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

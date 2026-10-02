@@ -1,0 +1,15 @@
+{
+  "hash": "17500405",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.646,
+  "segments": [
+    {
+      "start": 0.23606250000000006,
+      "end": 1.646,
+      "jp": "いい、恥さらしだ",
+      "ko": "망신 제대로 당하는군!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

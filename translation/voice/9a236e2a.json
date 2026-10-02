@@ -1,0 +1,15 @@
+{
+  "hash": "9a236e2a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 4.22325,
+  "segments": [
+    {
+      "start": 0,
+      "end": 4.22325,
+      "jp": "先週役人を占めた時は誰も瞬き一つしなかっただろ?",
+      "ko": "지난주에 관리를 손봤을 때는 아무도 눈 하나 깜짝 안 했잖아?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

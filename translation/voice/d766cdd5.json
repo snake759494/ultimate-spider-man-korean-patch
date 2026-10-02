@@ -1,0 +1,15 @@
+{
+  "hash": "d766cdd5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5756875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5,
+      "jp": "この街にはもううんざるよ!",
+      "ko": "이 도시는 이제 지긋지긋해!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "7d5af243",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0376875,
+  "segments": [
+    {
+      "start": 0.04768749999999855,
+      "end": 1.0376875,
+      "jp": "武器を捨てるんだ!",
+      "ko": "무기를 버려!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

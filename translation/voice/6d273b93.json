@@ -1,0 +1,59 @@
+{
+  "hash": "6d273b93",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2590625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.1,
+      "jp": "アジドで再結集!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "ア",
+          "prob": 0.7175472378730774
+        },
+        {
+          "start": 0.22,
+          "end": 0.28,
+          "jp": "ジ",
+          "prob": 0.9042025208473206
+        },
+        {
+          "start": 0.28,
+          "end": 0.4,
+          "jp": "ド",
+          "prob": 0.5339937806129456
+        },
+        {
+          "start": 0.4,
+          "end": 0.52,
+          "jp": "で",
+          "prob": 0.9922778606414795
+        },
+        {
+          "start": 0.52,
+          "end": 0.7,
+          "jp": "再",
+          "prob": 0.8874635100364685
+        },
+        {
+          "start": 0.7,
+          "end": 0.86,
+          "jp": "結",
+          "prob": 0.8096765875816345
+        },
+        {
+          "start": 0.86,
+          "end": 1.1,
+          "jp": "集!",
+          "prob": 0.6472120881080627
+        }
+      ],
+      "ko": "은신처에서 다시 집결해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

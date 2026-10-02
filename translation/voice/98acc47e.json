@@ -1,0 +1,15 @@
+{
+  "hash": "98acc47e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.4625,
+  "segments": [
+    {
+      "start": 1.237124999999999,
+      "end": 2.4625,
+      "jp": "い、痛い",
+      "ko": "아, 아파!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

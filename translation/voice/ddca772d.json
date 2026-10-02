@@ -1,0 +1,41 @@
+{
+  "hash": "ddca772d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.932125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8615625000000016,
+      "jp": "知ったことか!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.20156250000000142,
+          "jp": "知",
+          "prob": 0.6364659070968628
+        },
+        {
+          "start": 0.20156250000000142,
+          "end": 0.42156250000000384,
+          "jp": "った",
+          "prob": 0.9958518743515015
+        },
+        {
+          "start": 0.42156250000000384,
+          "end": 0.5415625000000013,
+          "jp": "こと",
+          "prob": 0.8544392585754395
+        },
+        {
+          "start": 0.5415625000000013,
+          "end": 0.8615625000000016,
+          "jp": "か!",
+          "prob": 0.8628393411636353
+        }
+      ],
+      "ko": "내가 알 게 뭐야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

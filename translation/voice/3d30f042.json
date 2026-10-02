@@ -1,0 +1,71 @@
+{
+  "hash": "3d30f042",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.8674375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.62,
+      "jp": "だんだん、根に持ってきたよ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.44,
+          "jp": "だ",
+          "prob": 0.8473706841468811
+        },
+        {
+          "start": 0.44,
+          "end": 0.86,
+          "jp": "んだ",
+          "prob": 0.926457941532135
+        },
+        {
+          "start": 0.86,
+          "end": 1.2,
+          "jp": "ん、",
+          "prob": 0.9880731701850891
+        },
+        {
+          "start": 1.32,
+          "end": 1.62,
+          "jp": "根",
+          "prob": 0.5393313765525818
+        },
+        {
+          "start": 1.62,
+          "end": 1.8,
+          "jp": "に",
+          "prob": 0.9910659193992615
+        },
+        {
+          "start": 1.8,
+          "end": 1.92,
+          "jp": "持",
+          "prob": 0.8025434613227844
+        },
+        {
+          "start": 1.92,
+          "end": 2.12,
+          "jp": "って",
+          "prob": 0.9974898099899292
+        },
+        {
+          "start": 2.12,
+          "end": 2.34,
+          "jp": "きた",
+          "prob": 0.8258881568908691
+        },
+        {
+          "start": 2.34,
+          "end": 2.62,
+          "jp": "よ",
+          "prob": 0.9849611520767212
+        }
+      ],
+      "ko": "점점 앙심이 생기는데."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

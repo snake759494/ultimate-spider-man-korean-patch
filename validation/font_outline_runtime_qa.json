@@ -1,0 +1,14 @@
+{
+  "build_sha256": "a6d3aa028a74ecb77fe8a00d4577ca325ca5851ed9684e6ac2b92adcecbb12b4",
+  "cold_boot": true,
+  "observed": [
+    "Title Korean prompt",
+    "New profile labels and yellow text",
+    "First Venom fight",
+    "Korean tutorial on light green background"
+  ],
+  "screenshot": "screenshots/폰트_테두리_수정후.png",
+  "old_savestate_used": false,
+  "qa_god_mode_used": false,
+  "scope": "Font rendering smoke check; not a full playthrough"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "fb47c807",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.3373125,
+  "segments": [
+    {
+      "start": 1.4690625000000015,
+      "end": 3.3373125,
+      "jp": "へえしょ恐怖症なんだ",
+      "ko": "난 폐소 공포증이 있어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

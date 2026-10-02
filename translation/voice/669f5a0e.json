@@ -1,0 +1,41 @@
+{
+  "hash": "669f5a0e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7885,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6904374999999998,
+      "jp": "頭下げる!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2704374999999999,
+          "jp": "頭",
+          "prob": 0.8254362940788269
+        },
+        {
+          "start": 0.2704374999999999,
+          "end": 0.49043749999999964,
+          "jp": "下",
+          "prob": 0.7894889116287231
+        },
+        {
+          "start": 0.49043749999999964,
+          "end": 0.5504374999999992,
+          "jp": "げ",
+          "prob": 0.9973142743110657
+        },
+        {
+          "start": 0.5504374999999992,
+          "end": 0.6904374999999998,
+          "jp": "る!",
+          "prob": 0.972764790058136
+        }
+      ],
+      "ko": "머리 숙여!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

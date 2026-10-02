@@ -1,0 +1,47 @@
+{
+  "hash": "8fd42027",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.67,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.67,
+      "jp": "だ…だめだ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3,
+          "jp": "だ",
+          "prob": 0.6109592318534851
+        },
+        {
+          "start": 0.3,
+          "end": 0.8,
+          "jp": "…",
+          "prob": 0.2144571840763092
+        },
+        {
+          "start": 0.8,
+          "end": 1.14,
+          "jp": "だ",
+          "prob": 0.6118596196174622
+        },
+        {
+          "start": 1.14,
+          "end": 1.28,
+          "jp": "め",
+          "prob": 0.9924699664115906
+        },
+        {
+          "start": 1.28,
+          "end": 1.67,
+          "jp": "だ",
+          "prob": 0.9986478686332703
+        }
+      ],
+      "ko": "아... 안 돼."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

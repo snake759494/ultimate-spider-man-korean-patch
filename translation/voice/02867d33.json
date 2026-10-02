@@ -1,0 +1,15 @@
+{
+  "hash": "02867d33",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7669375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7669375,
+      "jp": "ネット、鍵なくしました",
+      "ko": "저기, 열쇠를 잃어버렸어요."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

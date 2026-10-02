@@ -1,0 +1,15 @@
+{
+  "hash": "57cd87b4",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.7511875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.62,
+      "jp": "いい加減イライラしてくるな",
+      "ko": "슬슬 짜증 나는데."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

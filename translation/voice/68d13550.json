@@ -1,0 +1,41 @@
+{
+  "hash": "68d13550",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.181375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0784375000000002,
+      "jp": "来ないでー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.19843750000000027,
+          "jp": "来",
+          "prob": 0.16348466277122498
+        },
+        {
+          "start": 0.19843750000000027,
+          "end": 0.45843750000000005,
+          "jp": "ない",
+          "prob": 0.9907671213150024
+        },
+        {
+          "start": 0.45843750000000005,
+          "end": 0.7184375000000003,
+          "jp": "で",
+          "prob": 0.9835236668586731
+        },
+        {
+          "start": 0.7184375000000003,
+          "end": 1.0784375000000002,
+          "jp": "ー!",
+          "prob": 0.07929988205432892
+        }
+      ],
+      "ko": "오지 마!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

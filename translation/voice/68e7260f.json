@@ -1,0 +1,15 @@
+{
+  "hash": "68e7260f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8704375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7307499999999996,
+      "jp": "っ ありゃすごい難道だった",
+      "ko": "정말 엄청난 난투였어."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

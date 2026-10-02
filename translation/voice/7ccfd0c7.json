@@ -1,0 +1,41 @@
+{
+  "hash": "7ccfd0c7",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.52975,
+  "segments": [
+    {
+      "start": 1.2838125000000034,
+      "end": 2.3638125000000016,
+      "jp": "ってこれマジ?",
+      "words": [
+        {
+          "start": 1.2838125000000034,
+          "end": 1.6038125000000036,
+          "jp": "って",
+          "prob": 0.021100550889968872
+        },
+        {
+          "start": 1.6038125000000036,
+          "end": 1.9238125000000004,
+          "jp": "これ",
+          "prob": 0.7776418328285217
+        },
+        {
+          "start": 1.9238125000000004,
+          "end": 2.183812500000002,
+          "jp": "マ",
+          "prob": 0.7450748682022095
+        },
+        {
+          "start": 2.183812500000002,
+          "end": 2.3638125000000016,
+          "jp": "ジ?",
+          "prob": 0.9953977465629578
+        }
+      ],
+      "ko": "이거 진짜야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

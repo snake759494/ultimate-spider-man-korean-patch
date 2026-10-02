@@ -1,0 +1,15 @@
+{
+  "hash": "1d648de7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.79575,
+  "segments": [
+    {
+      "start": 0.3019999999999996,
+      "end": 0.79575,
+      "jp": "馬鹿か、",
+      "ko": "바보냐?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

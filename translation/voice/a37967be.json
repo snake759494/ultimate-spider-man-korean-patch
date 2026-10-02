@@ -1,0 +1,35 @@
+{
+  "hash": "a37967be",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6858125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6415625000000009,
+      "jp": "いいだろう",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.20156250000000053,
+          "jp": "いい",
+          "prob": 0.6447001099586487
+        },
+        {
+          "start": 0.20156250000000053,
+          "end": 0.38156250000000114,
+          "jp": "だ",
+          "prob": 0.9835752248764038
+        },
+        {
+          "start": 0.38156250000000114,
+          "end": 0.6415625000000009,
+          "jp": "ろう",
+          "prob": 0.6490662693977356
+        }
+      ],
+      "ko": "좋다."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

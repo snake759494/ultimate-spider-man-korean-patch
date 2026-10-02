@@ -1,0 +1,35 @@
+{
+  "hash": "9c0e0ccb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.72625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5048749999999984,
+      "jp": "くずめ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.14487499999999898,
+          "jp": "く",
+          "prob": 0.7133232355117798
+        },
+        {
+          "start": 0.14487499999999898,
+          "end": 0.34487499999999827,
+          "jp": "ず",
+          "prob": 0.7879201769828796
+        },
+        {
+          "start": 0.34487499999999827,
+          "end": 0.5048749999999984,
+          "jp": "め!",
+          "prob": 0.9876683354377747
+        }
+      ],
+      "ko": "쓰레기 같은 놈!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

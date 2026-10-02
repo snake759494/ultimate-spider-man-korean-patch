@@ -1,0 +1,15 @@
+{
+  "hash": "a873a631",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6360625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6360625,
+      "jp": "Tシャツ全シリーズ持ってるよ",
+      "ko": "티셔츠 시리즈는 전부 갖고 있어."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

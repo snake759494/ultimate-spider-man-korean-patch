@@ -1,0 +1,71 @@
+{
+  "hash": "7e2338c0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.78725,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.62,
+      "jp": "これからERの順番待ちよ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.16,
+          "jp": "これ",
+          "prob": 0.7804661393165588
+        },
+        {
+          "start": 0.16,
+          "end": 0.4,
+          "jp": "から",
+          "prob": 0.9849676489830017
+        },
+        {
+          "start": 0.4,
+          "end": 0.66,
+          "jp": "ER",
+          "prob": 0.7747873663902283
+        },
+        {
+          "start": 0.66,
+          "end": 0.88,
+          "jp": "の",
+          "prob": 0.9845276474952698
+        },
+        {
+          "start": 0.88,
+          "end": 1.06,
+          "jp": "順",
+          "prob": 0.9874013960361481
+        },
+        {
+          "start": 1.06,
+          "end": 1.2,
+          "jp": "番",
+          "prob": 0.9849022030830383
+        },
+        {
+          "start": 1.2,
+          "end": 1.36,
+          "jp": "待",
+          "prob": 0.8260653018951416
+        },
+        {
+          "start": 1.36,
+          "end": 1.5,
+          "jp": "ち",
+          "prob": 0.9935285449028015
+        },
+        {
+          "start": 1.5,
+          "end": 1.62,
+          "jp": "よ",
+          "prob": 0.838049590587616
+        }
+      ],
+      "ko": "이젠 응급실에서 기다려야겠네."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

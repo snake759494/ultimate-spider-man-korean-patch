@@ -1,0 +1,15 @@
+{
+  "hash": "1e493134",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.70075,
+  "segments": [
+    {
+      "start": 0.20381249999999795,
+      "end": 0.70075,
+      "jp": "出るんだ!",
+      "ko": "나와!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

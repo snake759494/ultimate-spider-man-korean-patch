@@ -1,0 +1,41 @@
+{
+  "hash": "c8e2b822",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.9186875,
+  "segments": [
+    {
+      "start": 0.1773125000000002,
+      "end": 2.5973125,
+      "jp": "お前 殺す",
+      "words": [
+        {
+          "start": 0.1773125000000002,
+          "end": 0.49731250000000005,
+          "jp": "お",
+          "prob": 0.5753543972969055
+        },
+        {
+          "start": 0.49731250000000005,
+          "end": 0.8173124999999999,
+          "jp": "前",
+          "prob": 0.9019259810447693
+        },
+        {
+          "start": 1.4373125,
+          "end": 1.8373125000000003,
+          "jp": " 殺",
+          "prob": 0.9773692488670349
+        },
+        {
+          "start": 1.8373125000000003,
+          "end": 2.5973125,
+          "jp": "す",
+          "prob": 0.9956967830657959
+        }
+      ],
+      "ko": "널 죽이겠다."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

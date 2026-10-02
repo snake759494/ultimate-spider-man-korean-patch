@@ -1,0 +1,35 @@
+{
+  "hash": "61d4b72f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.804125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5915625000000002,
+      "jp": "パンチだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1515625000000007,
+          "jp": "パ",
+          "prob": 0.9622609615325928
+        },
+        {
+          "start": 0.1515625000000007,
+          "end": 0.43156250000000007,
+          "jp": "ンチ",
+          "prob": 0.9116281867027283
+        },
+        {
+          "start": 0.43156250000000007,
+          "end": 0.5915625000000002,
+          "jp": "だ!",
+          "prob": 0.9501585960388184
+        }
+      ],
+      "ko": "주먹이다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

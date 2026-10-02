@@ -1,0 +1,59 @@
+{
+  "hash": "81e3c0e7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4921875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.34,
+      "jp": "会議に遅れるだろ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "会",
+          "prob": 0.8951273560523987
+        },
+        {
+          "start": 0.22,
+          "end": 0.38,
+          "jp": "議",
+          "prob": 0.9973862767219543
+        },
+        {
+          "start": 0.38,
+          "end": 0.5,
+          "jp": "に",
+          "prob": 0.9882094860076904
+        },
+        {
+          "start": 0.5,
+          "end": 0.76,
+          "jp": "遅",
+          "prob": 0.8621404767036438
+        },
+        {
+          "start": 0.76,
+          "end": 0.96,
+          "jp": "れる",
+          "prob": 0.9745790362358093
+        },
+        {
+          "start": 0.96,
+          "end": 1.12,
+          "jp": "だ",
+          "prob": 0.9773954749107361
+        },
+        {
+          "start": 1.12,
+          "end": 1.34,
+          "jp": "ろ",
+          "prob": 0.6274007558822632
+        }
+      ],
+      "ko": "회의에 늦잖아!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

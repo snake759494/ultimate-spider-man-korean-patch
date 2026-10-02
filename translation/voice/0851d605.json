@@ -1,0 +1,15 @@
+{
+  "hash": "0851d605",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.379,
+  "segments": [
+    {
+      "start": 0.1729999999999996,
+      "end": 1.379,
+      "jp": "目標が地上に降下!",
+      "ko": "목표가 지상으로 내려간다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

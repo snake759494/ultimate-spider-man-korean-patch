@@ -1,0 +1,41 @@
+{
+  "hash": "f1ab4176",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9089375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.72,
+      "jp": "落ち着け!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28,
+          "jp": "落",
+          "prob": 0.7128247618675232
+        },
+        {
+          "start": 0.28,
+          "end": 0.36,
+          "jp": "ち",
+          "prob": 0.997634768486023
+        },
+        {
+          "start": 0.36,
+          "end": 0.52,
+          "jp": "着",
+          "prob": 0.9721938967704773
+        },
+        {
+          "start": 0.52,
+          "end": 0.72,
+          "jp": "け!",
+          "prob": 0.9590917825698853
+        }
+      ],
+      "ko": "진정해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

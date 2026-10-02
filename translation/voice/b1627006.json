@@ -1,0 +1,47 @@
+{
+  "hash": "b1627006",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.934125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.934125,
+      "jp": " hoっといてくれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.19306249999999991,
+          "jp": " ho",
+          "prob": 7.540183287346736e-05
+        },
+        {
+          "start": 0.19306249999999991,
+          "end": 0.37306249999999963,
+          "jp": "っと",
+          "prob": 0.09437823295593262
+        },
+        {
+          "start": 0.37306249999999963,
+          "end": 0.49306249999999885,
+          "jp": "いて",
+          "prob": 0.9950750470161438
+        },
+        {
+          "start": 0.49306249999999885,
+          "end": 0.6330624999999994,
+          "jp": "く",
+          "prob": 0.9868729114532471
+        },
+        {
+          "start": 0.6330624999999994,
+          "end": 0.934125,
+          "jp": "れ!",
+          "prob": 0.9982064962387085
+        }
+      ],
+      "ko": "내버려 둬!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

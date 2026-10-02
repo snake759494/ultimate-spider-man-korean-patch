@@ -1,0 +1,15 @@
+{
+  "hash": "1cbad1eb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.779625,
+  "segments": [
+    {
+      "start": 0.12581250000000122,
+      "end": 1.779625,
+      "jp": "たく、踏んだり蹴ったりだ",
+      "ko": "정말, 되는 일이 하나도 없네."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

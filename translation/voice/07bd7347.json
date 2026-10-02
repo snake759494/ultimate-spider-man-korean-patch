@@ -1,0 +1,15 @@
+{
+  "hash": "07bd7347",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0428125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0428125,
+      "jp": "腹減ったぞ",
+      "ko": "배고파!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

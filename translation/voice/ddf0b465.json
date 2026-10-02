@@ -1,0 +1,15 @@
+{
+  "hash": "ddf0b465",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.1724375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.1724375,
+      "jp": "ああ、ありがとう、ありがとう",
+      "ko": "아, 고마워요. 고마워요."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

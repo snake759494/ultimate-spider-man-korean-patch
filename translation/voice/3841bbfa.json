@@ -1,0 +1,15 @@
+{
+  "hash": "3841bbfa",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.586125,
+  "segments": [
+    {
+      "start": 0.22525000000000084,
+      "end": 1.586125,
+      "jp": "叩きのめしてやる!",
+      "ko": "뭉개 버리겠어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

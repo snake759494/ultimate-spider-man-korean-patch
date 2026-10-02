@@ -1,0 +1,15 @@
+{
+  "hash": "3fa2a94f",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.4624375,
+  "segments": [
+    {
+      "start": 0.2238124999999993,
+      "end": 1.4624375,
+      "jp": "うなぎのぼりだ!",
+      "ko": "쭉쭉 올라간다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

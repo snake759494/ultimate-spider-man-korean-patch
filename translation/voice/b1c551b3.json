@@ -1,0 +1,15 @@
+{
+  "hash": "b1c551b3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.98825,
+  "segments": [
+    {
+      "start": 0.11768750000000061,
+      "end": 0.98825,
+      "jp": "ひざまづけ!",
+      "ko": "무릎 꿇어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

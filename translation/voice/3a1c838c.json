@@ -1,0 +1,35 @@
+{
+  "hash": "3a1c838c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1480625,
+  "segments": [
+    {
+      "start": 0.09831249999999869,
+      "end": 0.7583124999999988,
+      "jp": " 攻撃開始!",
+      "words": [
+        {
+          "start": 0.09831249999999869,
+          "end": 0.1983125000000001,
+          "jp": " 攻",
+          "prob": 0.9937981963157654
+        },
+        {
+          "start": 0.1983125000000001,
+          "end": 0.43831249999999855,
+          "jp": "撃",
+          "prob": 0.9995766878128052
+        },
+        {
+          "start": 0.43831249999999855,
+          "end": 0.7583124999999988,
+          "jp": "開始!",
+          "prob": 0.933756947517395
+        }
+      ],
+      "ko": "공격 개시!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

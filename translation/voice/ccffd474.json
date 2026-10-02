@@ -1,0 +1,35 @@
+{
+  "hash": "ccffd474",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.0095,
+  "segments": [
+    {
+      "start": 0.0661250000000031,
+      "end": 0.7061250000000037,
+      "jp": "食らえ!",
+      "words": [
+        {
+          "start": 0.0661250000000031,
+          "end": 0.2861250000000055,
+          "jp": "食",
+          "prob": 0.5302813053131104
+        },
+        {
+          "start": 0.2861250000000055,
+          "end": 0.4861250000000048,
+          "jp": "ら",
+          "prob": 0.9808135628700256
+        },
+        {
+          "start": 0.4861250000000048,
+          "end": 0.7061250000000037,
+          "jp": "え!",
+          "prob": 0.9827032089233398
+        }
+      ],
+      "ko": "받아라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "1e960aa7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7935,
+  "segments": [
+    {
+      "start": 0.19162499999999838,
+      "end": 0.7935,
+      "jp": "停戦だ!",
+      "ko": "사격 중지!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

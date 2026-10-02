@@ -1,0 +1,29 @@
+{
+  "hash": "bad97fe1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.742,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.30362500000000026,
+      "jp": "どれ?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18362500000000104,
+          "jp": "ど",
+          "prob": 0.8658151626586914
+        },
+        {
+          "start": 0.18362500000000104,
+          "end": 0.30362500000000026,
+          "jp": "れ?",
+          "prob": 0.638530433177948
+        }
+      ],
+      "ko": "어느 거?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

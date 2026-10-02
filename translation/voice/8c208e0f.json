@@ -1,0 +1,35 @@
+{
+  "hash": "8c208e0f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.38225,
+  "segments": [
+    {
+      "start": 0.028625000000000123,
+      "end": 0.9686250000000003,
+      "jp": "もう一発!",
+      "words": [
+        {
+          "start": 0.028625000000000123,
+          "end": 0.42862500000000026,
+          "jp": "もう",
+          "prob": 0.3476721942424774
+        },
+        {
+          "start": 0.42862500000000026,
+          "end": 0.7086250000000001,
+          "jp": "一",
+          "prob": 0.5405053496360779
+        },
+        {
+          "start": 0.7086250000000001,
+          "end": 0.9686250000000003,
+          "jp": "発!",
+          "prob": 0.1502758115530014
+        }
+      ],
+      "ko": "한 방 더!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

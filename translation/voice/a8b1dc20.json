@@ -1,0 +1,15 @@
+{
+  "hash": "a8b1dc20",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.02575,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.02575,
+      "jp": "ああ、お願い、やめて!",
+      "ko": "아, 제발 그만해!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

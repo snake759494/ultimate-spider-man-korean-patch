@@ -1,0 +1,15 @@
+{
+  "hash": "59bf94ed",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1294375,
+  "segments": [
+    {
+      "start": 0.2711875000000017,
+      "end": 1.1294375,
+      "jp": "やつだけだ!",
+      "ko": "놈뿐이야!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

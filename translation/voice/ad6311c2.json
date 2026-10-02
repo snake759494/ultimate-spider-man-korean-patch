@@ -1,0 +1,15 @@
+{
+  "hash": "ad6311c2",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7095625,
+  "segments": [
+    {
+      "start": 0.49293750000000003,
+      "end": 0.7095625,
+      "jp": "ありがとう!",
+      "ko": "고마워!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

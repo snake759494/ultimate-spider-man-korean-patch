@@ -1,0 +1,65 @@
+{
+  "hash": "13667c24",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.44825,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.26,
+      "jp": "俺が嘘つきだとでも",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24,
+          "jp": "俺",
+          "prob": 0.8285593390464783
+        },
+        {
+          "start": 0.24,
+          "end": 0.4,
+          "jp": "が",
+          "prob": 0.9815862774848938
+        },
+        {
+          "start": 0.4,
+          "end": 0.62,
+          "jp": "嘘",
+          "prob": 0.9499792456626892
+        },
+        {
+          "start": 0.62,
+          "end": 0.76,
+          "jp": "つ",
+          "prob": 0.9123024940490723
+        },
+        {
+          "start": 0.76,
+          "end": 0.86,
+          "jp": "き",
+          "prob": 0.9905474781990051
+        },
+        {
+          "start": 0.86,
+          "end": 0.96,
+          "jp": "だ",
+          "prob": 0.9958904981613159
+        },
+        {
+          "start": 0.96,
+          "end": 1.06,
+          "jp": "と",
+          "prob": 0.3843725621700287
+        },
+        {
+          "start": 1.06,
+          "end": 1.26,
+          "jp": "でも",
+          "prob": 0.7943027019500732
+        }
+      ],
+      "ko": "내가 거짓말한다는 거야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

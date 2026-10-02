@@ -1,0 +1,35 @@
+{
+  "hash": "3fcefa0b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6020625,
+  "segments": [
+    {
+      "start": 0.28187499999999943,
+      "end": 1.6018749999999997,
+      "jp": "助かったよ",
+      "words": [
+        {
+          "start": 0.28187499999999943,
+          "end": 0.921875,
+          "jp": "助",
+          "prob": 0.4731288254261017
+        },
+        {
+          "start": 0.921875,
+          "end": 1.2818749999999994,
+          "jp": "かった",
+          "prob": 0.9964780211448669
+        },
+        {
+          "start": 1.2818749999999994,
+          "end": 1.6018749999999997,
+          "jp": "よ",
+          "prob": 0.8989569544792175
+        }
+      ],
+      "ko": "덕분에 살았어."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

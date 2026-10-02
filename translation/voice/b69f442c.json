@@ -1,0 +1,19 @@
+{
+  "hash": "b69f442c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.782875,
+  "segments": [
+    {
+      "start": 0.11524999999999785,
+      "end": 1.782875,
+      "jp": "そうそう、これのことだ",
+      "ko": "맞아, 바로 이거야."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_dictionary_medium_batch_review_required"
+}

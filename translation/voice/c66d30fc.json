@@ -1,0 +1,35 @@
+{
+  "hash": "c66d30fc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1824375,
+  "segments": [
+    {
+      "start": 0.04531250000000142,
+      "end": 0.9253125000000004,
+      "jp": "なんだこれは!これは、",
+      "words": [
+        {
+          "start": 0.04531250000000142,
+          "end": 0.3653125000000017,
+          "jp": "なんだ",
+          "prob": 0.9165183901786804
+        },
+        {
+          "start": 0.3653125000000017,
+          "end": 0.7253125000000011,
+          "jp": "これは!",
+          "prob": 0.8731194138526917
+        },
+        {
+          "start": 0.7253125000000011,
+          "end": 0.9253125000000004,
+          "jp": "これは、",
+          "prob": 0.06664278358221054
+        }
+      ],
+      "ko": "뭐야, 이건! 이건..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

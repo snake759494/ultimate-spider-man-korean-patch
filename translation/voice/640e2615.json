@@ -1,0 +1,35 @@
+{
+  "hash": "640e2615",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.594625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5878750000000004,
+      "jp": "やめてー",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.12787499999999952,
+          "jp": "や",
+          "prob": 0.764618992805481
+        },
+        {
+          "start": 0.12787499999999952,
+          "end": 0.5678750000000008,
+          "jp": "めて",
+          "prob": 0.9862870573997498
+        },
+        {
+          "start": 0.5678750000000008,
+          "end": 1.5878750000000004,
+          "jp": "ー",
+          "prob": 0.31694772839546204
+        }
+      ],
+      "ko": "그만해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

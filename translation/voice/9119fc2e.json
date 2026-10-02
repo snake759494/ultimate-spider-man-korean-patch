@@ -1,0 +1,29 @@
+{
+  "hash": "9119fc2e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.551375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.34131250000000435,
+      "jp": "出ろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.14131250000000506,
+          "jp": "出",
+          "prob": 0.7194488644599915
+        },
+        {
+          "start": 0.14131250000000506,
+          "end": 0.34131250000000435,
+          "jp": "ろ!",
+          "prob": 0.9803698062896729
+        }
+      ],
+      "ko": "나와!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

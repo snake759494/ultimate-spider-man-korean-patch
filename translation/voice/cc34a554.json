@@ -1,0 +1,15 @@
+{
+  "hash": "cc34a554",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6071875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6,
+      "jp": "それでも強いつもりか?",
+      "ko": "그러고도 강한 줄 아나?"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

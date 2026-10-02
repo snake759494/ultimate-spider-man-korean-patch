@@ -1,0 +1,35 @@
+{
+  "hash": "268e7ab7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8649375,
+  "segments": [
+    {
+      "start": 0.020437499999996334,
+      "end": 0.7404374999999952,
+      "jp": "急げよ!",
+      "words": [
+        {
+          "start": 0.020437499999996334,
+          "end": 0.3404374999999966,
+          "jp": "急",
+          "prob": 0.7504364252090454
+        },
+        {
+          "start": 0.3404374999999966,
+          "end": 0.5404374999999959,
+          "jp": "げ",
+          "prob": 0.9978582262992859
+        },
+        {
+          "start": 0.5404374999999959,
+          "end": 0.7404374999999952,
+          "jp": "よ!",
+          "prob": 0.34341442584991455
+        }
+      ],
+      "ko": "서두르라고!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

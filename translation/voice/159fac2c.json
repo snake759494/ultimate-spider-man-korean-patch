@@ -1,0 +1,15 @@
+{
+  "hash": "159fac2c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4666875,
+  "segments": [
+    {
+      "start": 0.16056250000000105,
+      "end": 1.4666875,
+      "jp": "目標建物の側面上!",
+      "ko": "목표, 건물 측면에 있다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

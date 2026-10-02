@@ -1,0 +1,15 @@
+{
+  "hash": "ef5618d5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.4809375,
+  "segments": [
+    {
+      "start": 0.35293749999999946,
+      "end": 2.3529374999999995,
+      "jp": "っ!落ち着け!",
+      "ko": "진정해!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

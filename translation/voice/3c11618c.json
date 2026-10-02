@@ -1,0 +1,15 @@
+{
+  "hash": "3c11618c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7833125,
+  "segments": [
+    {
+      "start": 0.2636875000000032,
+      "end": 0.7436875000000001,
+      "jp": "目が!",
+      "ko": "눈이..."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

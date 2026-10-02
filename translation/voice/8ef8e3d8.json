@@ -1,0 +1,15 @@
+{
+  "hash": "8ef8e3d8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.54575,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.54,
+      "jp": "この書類カバン匂うんだけど",
+      "ko": "이 서류 가방에서 냄새가 나는데."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

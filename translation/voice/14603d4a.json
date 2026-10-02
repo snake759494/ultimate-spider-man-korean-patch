@@ -1,0 +1,15 @@
+{
+  "hash": "14603d4a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 5.198,
+  "segments": [
+    {
+      "start": 0.78,
+      "end": 5.198,
+      "jp": "スーパーヒーローと戦うなんて、もうゴリゴリだ",
+      "ko": "슈퍼히어로와 싸우는 건 이제 질색이야!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

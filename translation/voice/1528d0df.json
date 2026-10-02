@@ -1,0 +1,65 @@
+{
+  "hash": "1528d0df",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 4.1635,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.42,
+      "jp": "ほんとに、ほんとに! ありがとう!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2,
+          "jp": "ほ",
+          "prob": 0.1259545236825943
+        },
+        {
+          "start": 0.2,
+          "end": 0.46,
+          "jp": "んと",
+          "prob": 0.6507529020309448
+        },
+        {
+          "start": 0.46,
+          "end": 0.74,
+          "jp": "に、",
+          "prob": 0.9842979311943054
+        },
+        {
+          "start": 1.54,
+          "end": 1.74,
+          "jp": "ほ",
+          "prob": 0.6196181774139404
+        },
+        {
+          "start": 1.74,
+          "end": 2.1,
+          "jp": "んと",
+          "prob": 0.8949721455574036
+        },
+        {
+          "start": 2.1,
+          "end": 2.4,
+          "jp": "に!",
+          "prob": 0.9762697815895081
+        },
+        {
+          "start": 2.64,
+          "end": 3.0,
+          "jp": " あり",
+          "prob": 0.09515674412250519
+        },
+        {
+          "start": 3.0,
+          "end": 3.42,
+          "jp": "がとう!",
+          "prob": 0.8528891801834106
+        }
+      ],
+      "ko": "정말... 정말... 고마워요..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

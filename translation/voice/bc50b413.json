@@ -1,0 +1,15 @@
+{
+  "hash": "bc50b413",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.807375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.78,
+      "jp": "あった、トリスケリオンだ",
+      "ko": "찾았다. 트리스켈리온이야."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

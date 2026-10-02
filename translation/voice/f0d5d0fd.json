@@ -1,0 +1,15 @@
+{
+  "hash": "f0d5d0fd",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0961875,
+  "segments": [
+    {
+      "start": 0.2291249999999998,
+      "end": 0.9291250000000026,
+      "jp": "オラオラ!",
+      "ko": "자, 간다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

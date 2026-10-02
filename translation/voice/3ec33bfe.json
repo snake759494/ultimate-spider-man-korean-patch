@@ -1,0 +1,41 @@
+{
+  "hash": "3ec33bfe",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.795625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6880624999999991,
+      "jp": "俺がやる!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22806249999999828,
+          "jp": "俺",
+          "prob": 0.8335016965866089
+        },
+        {
+          "start": 0.22806249999999828,
+          "end": 0.408062499999998,
+          "jp": "が",
+          "prob": 0.9979812502861023
+        },
+        {
+          "start": 0.408062499999998,
+          "end": 0.528062499999999,
+          "jp": "や",
+          "prob": 0.98316490650177
+        },
+        {
+          "start": 0.528062499999999,
+          "end": 0.6880624999999991,
+          "jp": "る!",
+          "prob": 0.9982507824897766
+        }
+      ],
+      "ko": "내가 하겠어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

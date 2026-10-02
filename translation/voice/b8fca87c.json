@@ -1,0 +1,35 @@
+{
+  "hash": "b8fca87c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2825,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9435000000000002,
+      "jp": "おい!みんな!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2635000000000005,
+          "jp": "おい!",
+          "prob": 0.5828484296798706
+        },
+        {
+          "start": 0.5035000000000007,
+          "end": 0.7035,
+          "jp": "み",
+          "prob": 0.711327850818634
+        },
+        {
+          "start": 0.7035,
+          "end": 0.9435000000000002,
+          "jp": "んな!",
+          "prob": 0.9947400689125061
+        }
+      ],
+      "ko": "이봐! 다들!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

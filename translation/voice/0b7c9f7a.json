@@ -1,0 +1,41 @@
+{
+  "hash": "0b7c9f7a",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.08425,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8908749999999999,
+      "jp": "なんてこった!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3108749999999998,
+          "jp": "なん",
+          "prob": 0.7052377462387085
+        },
+        {
+          "start": 0.3108749999999998,
+          "end": 0.590875,
+          "jp": "て",
+          "prob": 0.9652891755104065
+        },
+        {
+          "start": 0.590875,
+          "end": 0.7108749999999997,
+          "jp": "こ",
+          "prob": 0.8870145082473755
+        },
+        {
+          "start": 0.7108749999999997,
+          "end": 0.8908749999999999,
+          "jp": "った!",
+          "prob": 0.9912195801734924
+        }
+      ],
+      "ko": "이럴 수가."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

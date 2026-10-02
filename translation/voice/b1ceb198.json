@@ -1,0 +1,15 @@
+{
+  "hash": "b1ceb198",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.073,
+  "segments": [
+    {
+      "start": 0.1094375000000003,
+      "end": 0.9894374999999993,
+      "jp": "たわけたこと!",
+      "ko": "어리석은 짓을!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

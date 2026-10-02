@@ -1,0 +1,35 @@
+{
+  "hash": "b6cd5017",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.323375,
+  "segments": [
+    {
+      "start": 0.055624999999999813,
+      "end": 1.3156249999999998,
+      "jp": " 目が…",
+      "words": [
+        {
+          "start": 0.055624999999999813,
+          "end": 0.33562499999999984,
+          "jp": " 目",
+          "prob": 0.728968620300293
+        },
+        {
+          "start": 0.33562499999999984,
+          "end": 0.6556249999999997,
+          "jp": "が",
+          "prob": 0.9947443008422852
+        },
+        {
+          "start": 0.6556249999999997,
+          "end": 1.3156249999999998,
+          "jp": "…",
+          "prob": 0.4110310673713684
+        }
+      ],
+      "ko": "눈이..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

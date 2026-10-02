@@ -1,0 +1,35 @@
+{
+  "hash": "1d46cf40",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.809375,
+  "segments": [
+    {
+      "start": 0.05081249999999993,
+      "end": 0.6308125,
+      "jp": "ドカンダ!",
+      "words": [
+        {
+          "start": 0.05081249999999993,
+          "end": 0.2708124999999999,
+          "jp": "ド",
+          "prob": 0.7495110630989075
+        },
+        {
+          "start": 0.2708124999999999,
+          "end": 0.45081249999999984,
+          "jp": "カ",
+          "prob": 0.9580139517784119
+        },
+        {
+          "start": 0.45081249999999984,
+          "end": 0.6308125,
+          "jp": "ンダ!",
+          "prob": 0.6625875234603882
+        }
+      ],
+      "ko": "쾅이다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

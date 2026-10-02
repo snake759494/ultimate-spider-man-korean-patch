@@ -1,0 +1,15 @@
+{
+  "hash": "ad3968b6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 4.66725,
+  "segments": [
+    {
+      "start": 0,
+      "end": 4.6,
+      "jp": "おやじのもん売って車ドレスアップしたなんて知られたら、ぶっ殺されるな",
+      "ko": "아버지 물건을 팔아 차를 꾸민 걸 들키면 죽을 거야."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

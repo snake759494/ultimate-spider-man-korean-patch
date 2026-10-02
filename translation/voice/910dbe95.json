@@ -1,0 +1,35 @@
+{
+  "hash": "910dbe95",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7238125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7238125,
+      "jp": "補足した",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.19399999999999995,
+          "jp": "補",
+          "prob": 0.516013853251934
+        },
+        {
+          "start": 0.19399999999999995,
+          "end": 0.3540000000000001,
+          "jp": "足",
+          "prob": 0.9836081862449646
+        },
+        {
+          "start": 0.3540000000000001,
+          "end": 0.7238125,
+          "jp": "した",
+          "prob": 0.9734700918197632
+        }
+      ],
+      "ko": "포착했다."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

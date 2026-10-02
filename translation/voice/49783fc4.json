@@ -1,0 +1,15 @@
+{
+  "hash": "49783fc4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2114375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.1400000000000001,
+      "jp": "雪が好きだ",
+      "ko": "난 눈이 좋아."
+    }
+  ],
+  "recognition": "kotoba_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

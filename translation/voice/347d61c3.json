@@ -1,0 +1,15 @@
+{
+  "hash": "347d61c3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.511,
+  "segments": [
+    {
+      "start": 0.14743750000000055,
+      "end": 1.511,
+      "jp": "はっ!命中だ!",
+      "ko": "명중이다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

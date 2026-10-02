@@ -1,0 +1,15 @@
+{
+  "hash": "c1356951",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.616125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.616125,
+      "jp": "おい、みんな!",
+      "ko": "이봐! 다들!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

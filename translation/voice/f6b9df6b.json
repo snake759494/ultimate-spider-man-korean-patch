@@ -1,0 +1,15 @@
+{
+  "hash": "f6b9df6b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.29775,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.29775,
+      "jp": "痛い!なんだよ、お前!",
+      "ko": "아파! 뭐야, 너!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

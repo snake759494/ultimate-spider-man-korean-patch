@@ -1,0 +1,35 @@
+{
+  "hash": "d2a21c64",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.57325,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5054999999999996,
+      "jp": "よーし!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22550000000000026,
+          "jp": "よ",
+          "prob": 0.427761971950531
+        },
+        {
+          "start": 0.22550000000000026,
+          "end": 0.36549999999999905,
+          "jp": "ー",
+          "prob": 0.5551143884658813
+        },
+        {
+          "start": 0.36549999999999905,
+          "end": 0.5054999999999996,
+          "jp": "し!",
+          "prob": 0.9935348033905029
+        }
+      ],
+      "ko": "좋았어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

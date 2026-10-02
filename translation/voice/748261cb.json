@@ -1,0 +1,15 @@
+{
+  "hash": "748261cb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8133125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.8133125,
+      "jp": "こいつやったら興奮してやがる",
+      "ko": "이놈, 맞을수록 흥분하잖아!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

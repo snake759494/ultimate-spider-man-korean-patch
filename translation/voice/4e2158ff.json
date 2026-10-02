@@ -1,0 +1,15 @@
+{
+  "hash": "4e2158ff",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 3.74075,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.62,
+      "jp": "密接、販売、根絶!",
+      "ko": "말살! 분쇄! 박멸!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "b61f396b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.69025,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.49393750000000036,
+      "jp": "タイム!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2139375000000001,
+          "jp": "タ",
+          "prob": 0.9090158343315125
+        },
+        {
+          "start": 0.2139375000000001,
+          "end": 0.3339375000000002,
+          "jp": "イ",
+          "prob": 0.9996930360794067
+        },
+        {
+          "start": 0.3339375000000002,
+          "end": 0.49393750000000036,
+          "jp": "ム!",
+          "prob": 0.9993815422058105
+        }
+      ],
+      "ko": "잠깐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

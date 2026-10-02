@@ -1,0 +1,15 @@
+{
+  "hash": "24bf9ad0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.636875,
+  "segments": [
+    {
+      "start": 0.0754374999999996,
+      "end": 0.636875,
+      "jp": "警報は?",
+      "ko": "경보는?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

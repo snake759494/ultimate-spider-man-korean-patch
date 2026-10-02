@@ -1,0 +1,53 @@
+{
+  "hash": "30b8faf1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.256625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.1,
+      "jp": "車線を開けろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26,
+          "jp": "車",
+          "prob": 0.5334928035736084
+        },
+        {
+          "start": 0.26,
+          "end": 0.5,
+          "jp": "線",
+          "prob": 0.6496684551239014
+        },
+        {
+          "start": 0.5,
+          "end": 0.66,
+          "jp": "を",
+          "prob": 0.9946296215057373
+        },
+        {
+          "start": 0.66,
+          "end": 0.82,
+          "jp": "開",
+          "prob": 0.9047386050224304
+        },
+        {
+          "start": 0.82,
+          "end": 0.94,
+          "jp": "け",
+          "prob": 0.9449405074119568
+        },
+        {
+          "start": 0.94,
+          "end": 1.1,
+          "jp": "ろ!",
+          "prob": 0.9664945006370544
+        }
+      ],
+      "ko": "차선을 비워!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

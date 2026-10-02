@@ -1,0 +1,15 @@
+{
+  "hash": "f339ef66",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.094625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.094625,
+      "jp": "逃げなきゃ",
+      "ko": "도망쳐야 해..."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

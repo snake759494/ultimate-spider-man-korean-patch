@@ -1,0 +1,15 @@
+{
+  "hash": "1f24b5e1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.792375,
+  "segments": [
+    {
+      "start": 0.0807500000000001,
+      "end": 2.792375,
+      "jp": "ちょっと古いかもしれんが、あんた生かすよ!",
+      "ko": "좀 옛날 표현일지 모르지만, 당신 정말 멋져!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

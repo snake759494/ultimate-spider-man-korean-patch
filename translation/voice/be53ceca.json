@@ -1,0 +1,29 @@
+{
+  "hash": "be53ceca",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.80125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.4921249999999944,
+      "jp": "なに?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2721249999999955,
+          "jp": "な",
+          "prob": 0.46964210271835327
+        },
+        {
+          "start": 0.2721249999999955,
+          "end": 0.4921249999999944,
+          "jp": "に?",
+          "prob": 0.9356153011322021
+        }
+      ],
+      "ko": "뭐?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

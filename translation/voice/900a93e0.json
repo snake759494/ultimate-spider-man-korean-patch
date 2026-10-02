@@ -1,0 +1,41 @@
+{
+  "hash": "900a93e0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0786875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7401249999999999,
+      "jp": "たま切れた!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1801250000000003,
+          "jp": "た",
+          "prob": 0.3129222095012665
+        },
+        {
+          "start": 0.1801250000000003,
+          "end": 0.3801250000000005,
+          "jp": "ま",
+          "prob": 0.9842733144760132
+        },
+        {
+          "start": 0.3801250000000005,
+          "end": 0.5201250000000002,
+          "jp": "切",
+          "prob": 0.4984663128852844
+        },
+        {
+          "start": 0.5201250000000002,
+          "end": 0.7401249999999999,
+          "jp": "れた!",
+          "prob": 0.625375509262085
+        }
+      ],
+      "ko": "탄약이 떨어졌다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "56c41288",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6530625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5512499999999996,
+      "jp": "隠れろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.271250000000002,
+          "jp": "隠",
+          "prob": 0.9892235994338989
+        },
+        {
+          "start": 0.271250000000002,
+          "end": 0.411249999999999,
+          "jp": "れ",
+          "prob": 0.9833833575248718
+        },
+        {
+          "start": 0.411249999999999,
+          "end": 0.5512499999999996,
+          "jp": "ろ!",
+          "prob": 0.9987649917602539
+        }
+      ],
+      "ko": "숨어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

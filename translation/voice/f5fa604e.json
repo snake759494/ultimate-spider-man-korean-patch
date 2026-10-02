@@ -1,0 +1,15 @@
+{
+  "hash": "f5fa604e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.288375,
+  "segments": [
+    {
+      "start": 0.880374999999999,
+      "end": 2.288375,
+      "jp": " 指が折れたっぽい",
+      "ko": "손가락이 부러진 것 같아."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

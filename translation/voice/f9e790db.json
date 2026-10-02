@@ -1,0 +1,15 @@
+{
+  "hash": "f9e790db",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.0788125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.0788125,
+      "jp": "こいつが計画したんだ俺は関係ない",
+      "ko": "이 녀석이 꾸민 일이야. 난 상관없어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

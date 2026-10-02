@@ -1,0 +1,15 @@
+{
+  "hash": "f39a870b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.799875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.799875,
+      "jp": "すげーな",
+      "ko": "굉장하네."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

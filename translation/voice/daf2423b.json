@@ -1,0 +1,41 @@
+{
+  "hash": "daf2423b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9036875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9036875,
+      "jp": " 壁を狙え",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2958124999999967,
+          "jp": " 壁",
+          "prob": 0.9860302805900574
+        },
+        {
+          "start": 0.2958124999999967,
+          "end": 0.43581249999999727,
+          "jp": "を",
+          "prob": 0.9944798946380615
+        },
+        {
+          "start": 0.43581249999999727,
+          "end": 0.5958124999999974,
+          "jp": "狙",
+          "prob": 0.9811791181564331
+        },
+        {
+          "start": 0.5958124999999974,
+          "end": 0.9036875,
+          "jp": "え",
+          "prob": 0.9494552612304688
+        }
+      ],
+      "ko": "벽을 노려!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

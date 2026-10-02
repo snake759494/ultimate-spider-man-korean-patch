@@ -1,0 +1,15 @@
+{
+  "hash": "4d32f1dd",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6093125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6,
+      "jp": "すごいな、かっこよかったぞ!",
+      "ko": "대단한데, 멋졌어!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

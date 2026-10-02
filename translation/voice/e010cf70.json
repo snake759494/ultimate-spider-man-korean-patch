@@ -1,0 +1,35 @@
+{
+  "hash": "e010cf70",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.7606875,
+  "segments": [
+    {
+      "start": 0.028000000000002245,
+      "end": 0.6080000000000041,
+      "jp": "行くぞ!",
+      "words": [
+        {
+          "start": 0.028000000000002245,
+          "end": 0.2880000000000038,
+          "jp": "行",
+          "prob": 0.74732905626297
+        },
+        {
+          "start": 0.2880000000000038,
+          "end": 0.3880000000000017,
+          "jp": "く",
+          "prob": 0.9947391152381897
+        },
+        {
+          "start": 0.3880000000000017,
+          "end": 0.6080000000000041,
+          "jp": "ぞ!",
+          "prob": 0.9968340992927551
+        }
+      ],
+      "ko": "간다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

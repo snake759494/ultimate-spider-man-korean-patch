@@ -1,0 +1,15 @@
+{
+  "hash": "e42583a3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.9564375,
+  "segments": [
+    {
+      "start": 1.2337500000000006,
+      "end": 2.0737500000000004,
+      "jp": "ママ!",
+      "ko": "엄마!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

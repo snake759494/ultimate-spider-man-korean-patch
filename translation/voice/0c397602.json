@@ -1,0 +1,65 @@
+{
+  "hash": "0c397602",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.700875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.46,
+      "jp": "マップタツにしてやれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28,
+          "jp": "マ",
+          "prob": 0.4300020933151245
+        },
+        {
+          "start": 0.28,
+          "end": 0.46,
+          "jp": "ップ",
+          "prob": 0.9956873059272766
+        },
+        {
+          "start": 0.46,
+          "end": 0.6,
+          "jp": "タ",
+          "prob": 0.46421435475349426
+        },
+        {
+          "start": 0.6,
+          "end": 0.72,
+          "jp": "ツ",
+          "prob": 0.4338977634906769
+        },
+        {
+          "start": 0.72,
+          "end": 0.86,
+          "jp": "に",
+          "prob": 0.9542419910430908
+        },
+        {
+          "start": 0.86,
+          "end": 0.98,
+          "jp": "して",
+          "prob": 0.9833680987358093
+        },
+        {
+          "start": 0.98,
+          "end": 1.18,
+          "jp": "や",
+          "prob": 0.9977383613586426
+        },
+        {
+          "start": 1.18,
+          "end": 1.46,
+          "jp": "れ!",
+          "prob": 0.9390679001808167
+        }
+      ],
+      "ko": "두 동강 내 버려!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

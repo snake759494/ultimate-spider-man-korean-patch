@@ -1,0 +1,41 @@
+{
+  "hash": "5d35bd37",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4510625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.1941875,
+      "jp": "今のはどうだ?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2941874999999996,
+          "jp": "今",
+          "prob": 0.33681392669677734
+        },
+        {
+          "start": 0.2941874999999996,
+          "end": 0.6741874999999995,
+          "jp": "のは",
+          "prob": 0.9331863522529602
+        },
+        {
+          "start": 0.6741874999999995,
+          "end": 0.9341875000000002,
+          "jp": "どう",
+          "prob": 0.7215006351470947
+        },
+        {
+          "start": 0.9341875000000002,
+          "end": 1.1941875,
+          "jp": "だ?",
+          "prob": 0.9892680048942566
+        }
+      ],
+      "ko": "방금 건 어때?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

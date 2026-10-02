@@ -1,0 +1,53 @@
+{
+  "hash": "e7ae7600",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9371875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.78,
+      "jp": "なにしやがる!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2,
+          "jp": "な",
+          "prob": 0.21094824373722076
+        },
+        {
+          "start": 0.2,
+          "end": 0.34,
+          "jp": "に",
+          "prob": 0.9477556347846985
+        },
+        {
+          "start": 0.34,
+          "end": 0.46,
+          "jp": "し",
+          "prob": 0.9561588168144226
+        },
+        {
+          "start": 0.46,
+          "end": 0.54,
+          "jp": "や",
+          "prob": 0.7547938227653503
+        },
+        {
+          "start": 0.54,
+          "end": 0.64,
+          "jp": "が",
+          "prob": 0.9940274953842163
+        },
+        {
+          "start": 0.64,
+          "end": 0.78,
+          "jp": "る!",
+          "prob": 0.9974147081375122
+        }
+      ],
+      "ko": "뭐 하는 짓이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

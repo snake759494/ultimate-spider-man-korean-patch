@@ -1,0 +1,15 @@
+{
+  "hash": "09595d8b",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.4440625,
+  "segments": [
+    {
+      "start": 0.9232499999999995,
+      "end": 2.363249999999999,
+      "jp": "日遊びは危険だぞ",
+      "ko": "불장난은 위험해!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "5ca74dfe",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.9066875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.58,
+      "jp": "禁止が直っちゃったよ",
+      "ko": "근시가 나아 버렸어."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

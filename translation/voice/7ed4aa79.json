@@ -1,0 +1,35 @@
+{
+  "hash": "7ed4aa79",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.465125,
+  "segments": [
+    {
+      "start": 0.2680000000000007,
+      "end": 1.465125,
+      "jp": "外したか",
+      "words": [
+        {
+          "start": 0.2680000000000007,
+          "end": 0.6680000000000001,
+          "jp": "外",
+          "prob": 0.05705348029732704
+        },
+        {
+          "start": 0.6680000000000001,
+          "end": 1.0679999999999996,
+          "jp": "した",
+          "prob": 0.9923542737960815
+        },
+        {
+          "start": 1.0679999999999996,
+          "end": 1.465125,
+          "jp": "か",
+          "prob": 0.9931144118309021
+        }
+      ],
+      "ko": "빗나갔나."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

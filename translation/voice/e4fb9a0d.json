@@ -1,0 +1,19 @@
+{
+  "hash": "e4fb9a0d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.4110625,
+  "segments": [
+    {
+      "start": 0.1273124999999986,
+      "end": 0.38731250000000017,
+      "jp": "やれ!",
+      "ko": "해치워!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_dictionary_medium_batch_review_required"
+}

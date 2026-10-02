@@ -1,0 +1,15 @@
+{
+  "hash": "0ce98d25",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.108125,
+  "segments": [
+    {
+      "start": 0.24600000000000044,
+      "end": 1.108125,
+      "jp": "システムを放棄",
+      "ko": "시스템을 포기하라!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

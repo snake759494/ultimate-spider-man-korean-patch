@@ -1,0 +1,35 @@
+{
+  "hash": "1481fffd",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7593125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5148125000000006,
+      "jp": "そこだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.21481249999999985,
+          "jp": "そ",
+          "prob": 0.977482259273529
+        },
+        {
+          "start": 0.21481249999999985,
+          "end": 0.33481249999999996,
+          "jp": "こ",
+          "prob": 0.9730039834976196
+        },
+        {
+          "start": 0.33481249999999996,
+          "end": 0.5148125000000006,
+          "jp": "だ!",
+          "prob": 0.9918900728225708
+        }
+      ],
+      "ko": "저기다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

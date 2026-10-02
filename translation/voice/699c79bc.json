@@ -1,0 +1,15 @@
+{
+  "hash": "699c79bc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.031125,
+  "segments": [
+    {
+      "start": 0.20993750000000055,
+      "end": 1.031125,
+      "jp": " 気をつけてよ",
+      "ko": "조심해!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

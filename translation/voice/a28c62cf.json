@@ -1,0 +1,41 @@
+{
+  "hash": "a28c62cf",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8306875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8306875,
+      "jp": "警報は…",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2828124999999986,
+          "jp": "警",
+          "prob": 0.443869411945343
+        },
+        {
+          "start": 0.2828124999999986,
+          "end": 0.48281249999999876,
+          "jp": "報",
+          "prob": 0.9699159264564514
+        },
+        {
+          "start": 0.48281249999999876,
+          "end": 0.6428124999999989,
+          "jp": "は",
+          "prob": 0.995148241519928
+        },
+        {
+          "start": 0.6428124999999989,
+          "end": 0.8306875,
+          "jp": "…",
+          "prob": 0.29671454429626465
+        }
+      ],
+      "ko": "경보는?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,53 @@
+{
+  "hash": "83352203",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3379375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.32,
+      "jp": "なあ、落ち着け!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28,
+          "jp": "な",
+          "prob": 0.0773385688662529
+        },
+        {
+          "start": 0.28,
+          "end": 0.4,
+          "jp": "あ、",
+          "prob": 0.3638748824596405
+        },
+        {
+          "start": 0.4,
+          "end": 0.56,
+          "jp": "落",
+          "prob": 0.9253599047660828
+        },
+        {
+          "start": 0.56,
+          "end": 0.68,
+          "jp": "ち",
+          "prob": 0.9969863295555115
+        },
+        {
+          "start": 0.68,
+          "end": 0.8,
+          "jp": "着",
+          "prob": 0.9809352159500122
+        },
+        {
+          "start": 0.8,
+          "end": 1.32,
+          "jp": "け!",
+          "prob": 0.9845432639122009
+        }
+      ],
+      "ko": "이봐, 진정해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

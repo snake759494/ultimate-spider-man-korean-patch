@@ -1,0 +1,15 @@
+{
+  "hash": "27a80dd4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7810625,
+  "segments": [
+    {
+      "start": 0.287625000000002,
+      "end": 1.7810625,
+      "jp": "真っ二つにしてやれー!",
+      "ko": "두 동강 내 버려!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

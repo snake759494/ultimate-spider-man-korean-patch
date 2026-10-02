@@ -1,0 +1,15 @@
+{
+  "hash": "0ba8c4a1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.475,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.475,
+      "jp": "うてよ こんなの楽勝だ",
+      "ko": "쏴! 이런 건 식은 죽 먹기야!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

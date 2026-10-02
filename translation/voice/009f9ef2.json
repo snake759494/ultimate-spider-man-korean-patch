@@ -1,0 +1,41 @@
+{
+  "hash": "009f9ef2",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.034125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.034125,
+      "jp": "頼むよ…",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3517500000000009,
+          "jp": "頼",
+          "prob": 0.8898867964744568
+        },
+        {
+          "start": 0.3517500000000009,
+          "end": 0.5717499999999998,
+          "jp": "む",
+          "prob": 0.9872369766235352
+        },
+        {
+          "start": 0.5717499999999998,
+          "end": 0.7917500000000004,
+          "jp": "よ",
+          "prob": 0.9955642223358154
+        },
+        {
+          "start": 0.7917500000000004,
+          "end": 1.034125,
+          "jp": "…",
+          "prob": 0.57094407081604
+        }
+      ],
+      "ko": "제발..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "7e52ce6d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.025,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.828125,
+      "jp": "高さんだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.328125,
+          "jp": "高",
+          "prob": 0.1279076337814331
+        },
+        {
+          "start": 0.328125,
+          "end": 0.5881250000000016,
+          "jp": "さん",
+          "prob": 0.08685596287250519
+        },
+        {
+          "start": 0.5881250000000016,
+          "end": 0.828125,
+          "jp": "だ!",
+          "prob": 0.9968947172164917
+        }
+      ],
+      "ko": "항복이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

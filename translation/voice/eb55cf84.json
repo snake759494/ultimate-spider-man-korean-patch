@@ -1,0 +1,29 @@
+{
+  "hash": "eb55cf84",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.014375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5753749999999993,
+      "jp": "鉄集!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2753749999999995,
+          "jp": "鉄",
+          "prob": 0.33246731758117676
+        },
+        {
+          "start": 0.2753749999999995,
+          "end": 0.5753749999999993,
+          "jp": "集!",
+          "prob": 0.21519118547439575
+        }
+      ],
+      "ko": "철수!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

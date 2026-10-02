@@ -1,0 +1,15 @@
+{
+  "hash": "6e107eca",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 5.0099375,
+  "segments": [
+    {
+      "start": 2.671437499999996,
+      "end": 4.591437499999998,
+      "jp": "全部食べなきゃよかった",
+      "ko": "다 먹지 말걸 그랬어."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

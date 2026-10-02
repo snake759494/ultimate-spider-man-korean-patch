@@ -1,0 +1,15 @@
+{
+  "hash": "69061961",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.9313125,
+  "segments": [
+    {
+      "start": 0.1280000000000001,
+      "end": 1.8880000000000008,
+      "jp": "僕よりワスプが凄いってだけ?",
+      "ko": "와스프가 나보다 낫다는 거야?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "cdab12b3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1289375,
+  "segments": [
+    {
+      "start": 0.3932500000000001,
+      "end": 1.1289375,
+      "jp": "いいね",
+      "ko": "좋네."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "f83b5f56",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 5.0316875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 5.0316875,
+      "jp": "これまで何人がこの剣に倒れたか向かってきた数だけ切った",
+      "ko": "지금까지 몇 명이나 이 검에 쓰러졌을까. 덤벼든 만큼 베었다."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

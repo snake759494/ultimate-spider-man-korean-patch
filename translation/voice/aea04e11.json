@@ -1,0 +1,15 @@
+{
+  "hash": "aea04e11",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7354375,
+  "segments": [
+    {
+      "start": 0.14499999999999957,
+      "end": 0.7354375,
+      "jp": "敵接近!",
+      "ko": "적 접근!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

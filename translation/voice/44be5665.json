@@ -1,0 +1,29 @@
+{
+  "hash": "44be5665",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.4010625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.22162499999999996,
+      "jp": "…いて!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.0416249999999998,
+          "jp": "…",
+          "prob": 0.2809610962867737
+        },
+        {
+          "start": 0.0416249999999998,
+          "end": 0.22162499999999996,
+          "jp": "いて!",
+          "prob": 0.31656819581985474
+        }
+      ],
+      "ko": "아야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

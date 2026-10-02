@@ -1,0 +1,15 @@
+{
+  "hash": "1ced409f",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 3.2351875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.14,
+      "jp": "転ぶ練習でもしないわ そっちで見てて手をかすからさ",
+      "ko": "넘어지는 연습이라도 해 볼래? 옆에서 도와줄게."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

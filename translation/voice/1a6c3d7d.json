@@ -1,0 +1,65 @@
+{
+  "hash": "1a6c3d7d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6388125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.46,
+      "jp": "お前たち、ちゃんとしろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24,
+          "jp": "お",
+          "prob": 0.698058545589447
+        },
+        {
+          "start": 0.24,
+          "end": 0.42,
+          "jp": "前",
+          "prob": 0.9412461519241333
+        },
+        {
+          "start": 0.42,
+          "end": 0.58,
+          "jp": "た",
+          "prob": 0.8449201583862305
+        },
+        {
+          "start": 0.58,
+          "end": 0.76,
+          "jp": "ち、",
+          "prob": 0.996957540512085
+        },
+        {
+          "start": 0.9,
+          "end": 1.04,
+          "jp": "ちゃん",
+          "prob": 0.6070082187652588
+        },
+        {
+          "start": 1.04,
+          "end": 1.2,
+          "jp": "と",
+          "prob": 0.9967573285102844
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "jp": "し",
+          "prob": 0.9667103886604309
+        },
+        {
+          "start": 1.3,
+          "end": 1.46,
+          "jp": "ろ!",
+          "prob": 0.995677649974823
+        }
+      ],
+      "ko": "너희, 똑바로 해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

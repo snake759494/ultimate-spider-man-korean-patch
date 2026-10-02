@@ -1,0 +1,15 @@
+{
+  "hash": "885f1c34",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.393875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.393875,
+      "jp": "恐ろしいミュータントめ!",
+      "ko": "무서운 뮤턴트 놈!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

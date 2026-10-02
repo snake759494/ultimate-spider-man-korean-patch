@@ -1,0 +1,15 @@
+{
+  "hash": "ce13867a",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 3.04875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.8,
+      "jp": "突っ立ってるつもりなら、拳に物を言わせるぞ!",
+      "ko": "계속 서 있을 거면 주먹으로 말해 주지!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

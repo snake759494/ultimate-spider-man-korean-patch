@@ -1,0 +1,65 @@
+{
+  "hash": "64ca8f88",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6225625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6225625,
+      "jp": "ありがとうスパイダーマン",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.5,
+          "jp": "ありがとう",
+          "prob": 0.8260789513587952
+        },
+        {
+          "start": 0.5,
+          "end": 0.78,
+          "jp": "ス",
+          "prob": 0.4152457118034363
+        },
+        {
+          "start": 0.78,
+          "end": 0.96,
+          "jp": "パ",
+          "prob": 0.965904712677002
+        },
+        {
+          "start": 0.96,
+          "end": 1.04,
+          "jp": "イ",
+          "prob": 0.9916371703147888
+        },
+        {
+          "start": 1.04,
+          "end": 1.18,
+          "jp": "ダ",
+          "prob": 0.9703301787376404
+        },
+        {
+          "start": 1.18,
+          "end": 1.26,
+          "jp": "ー",
+          "prob": 0.9932230710983276
+        },
+        {
+          "start": 1.26,
+          "end": 1.42,
+          "jp": "マ",
+          "prob": 0.9758028388023376
+        },
+        {
+          "start": 1.42,
+          "end": 1.6225625,
+          "jp": "ン",
+          "prob": 0.9284469485282898
+        }
+      ],
+      "ko": "고마워요, 스파이더맨!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

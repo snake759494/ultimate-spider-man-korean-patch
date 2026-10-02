@@ -1,0 +1,18 @@
+{
+  "hash": "a6d531bb",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.480375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 2.46,
+      "jp": "ぬぅっ、ぬぅっ、ふぅっ",
+      "logprob": -0.755032689947831,
+      "no_speech": 0.5570019483566284,
+      "ko": ""
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "no_caption_individual_asr_checked",
+  "review_note": "연속 신음. 배치 및 개별 ASR 대조에 의한 분류이며 청취 검수와 구분."
+}

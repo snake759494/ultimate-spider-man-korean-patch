@@ -1,0 +1,35 @@
+{
+  "hash": "c0699a2b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4229375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.4229375,
+      "jp": "あ、なんだ!?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2173124999999998,
+          "jp": "あ、",
+          "prob": 0.47015294432640076
+        },
+        {
+          "start": 0.4573125,
+          "end": 0.9573125,
+          "jp": "なんだ",
+          "prob": 0.9643014669418335
+        },
+        {
+          "start": 0.9573125,
+          "end": 1.4229375,
+          "jp": "!?",
+          "prob": 0.1919337511062622
+        }
+      ],
+      "ko": "아, 뭐야!?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

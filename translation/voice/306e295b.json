@@ -1,0 +1,41 @@
+{
+  "hash": "306e295b",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.9935625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9110000000000014,
+      "jp": "あれそうだっけ?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2710000000000008,
+          "jp": "あれ",
+          "prob": 0.8529965877532959
+        },
+        {
+          "start": 0.2710000000000008,
+          "end": 0.5509999999999984,
+          "jp": "そうだ",
+          "prob": 0.5983098745346069
+        },
+        {
+          "start": 0.5509999999999984,
+          "end": 0.7910000000000004,
+          "jp": "っ",
+          "prob": 0.9947383999824524
+        },
+        {
+          "start": 0.7910000000000004,
+          "end": 0.9110000000000014,
+          "jp": "け?",
+          "prob": 0.9987614154815674
+        }
+      ],
+      "ko": "어라, 그랬던가?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

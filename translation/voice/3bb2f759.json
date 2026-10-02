@@ -1,0 +1,15 @@
+{
+  "hash": "3bb2f759",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.4740625,
+  "segments": [
+    {
+      "start": 0.25118750000000034,
+      "end": 2.2311875000000008,
+      "jp": "僕の愛からは逃げられないぞ",
+      "ko": "내 사랑에선 도망칠 수 없어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

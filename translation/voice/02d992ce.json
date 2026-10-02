@@ -1,0 +1,35 @@
+{
+  "hash": "02d992ce",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9350625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8097499999999993,
+      "jp": "この野郎!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3897499999999994,
+          "jp": "この",
+          "prob": 0.9771476984024048
+        },
+        {
+          "start": 0.3897499999999994,
+          "end": 0.60975,
+          "jp": "野",
+          "prob": 0.9975312948226929
+        },
+        {
+          "start": 0.60975,
+          "end": 0.8097499999999993,
+          "jp": "郎!",
+          "prob": 0.9993397295475006
+        }
+      ],
+      "ko": "이 자식!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

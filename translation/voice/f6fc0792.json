@@ -1,0 +1,35 @@
+{
+  "hash": "f6fc0792",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.865625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5661875000000016,
+      "jp": "どこだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2661875000000009,
+          "jp": "ど",
+          "prob": 0.9727200269699097
+        },
+        {
+          "start": 0.2661875000000009,
+          "end": 0.4061875000000015,
+          "jp": "こ",
+          "prob": 0.9982360601425171
+        },
+        {
+          "start": 0.4061875000000015,
+          "end": 0.5661875000000016,
+          "jp": "だ!",
+          "prob": 0.9948855042457581
+        }
+      ],
+      "ko": "어디 있지!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

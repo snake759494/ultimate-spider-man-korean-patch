@@ -1,0 +1,41 @@
+{
+  "hash": "51fc63b9",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8943125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6502500000000033,
+      "jp": "後退しろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.19025000000000247,
+          "jp": "後",
+          "prob": 0.21319319307804108
+        },
+        {
+          "start": 0.19025000000000247,
+          "end": 0.3502500000000026,
+          "jp": "退",
+          "prob": 0.9369040727615356
+        },
+        {
+          "start": 0.3502500000000026,
+          "end": 0.4902500000000032,
+          "jp": "し",
+          "prob": 0.9488241076469421
+        },
+        {
+          "start": 0.4902500000000032,
+          "end": 0.6502500000000033,
+          "jp": "ろ!",
+          "prob": 0.9270247220993042
+        }
+      ],
+      "ko": "후퇴해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

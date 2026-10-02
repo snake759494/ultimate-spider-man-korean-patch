@@ -1,0 +1,47 @@
+{
+  "hash": "ecde7bca",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.31875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.31875,
+      "jp": "助けてくれー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.21762500000000173,
+          "jp": "助",
+          "prob": 0.9180335998535156
+        },
+        {
+          "start": 0.21762500000000173,
+          "end": 0.7576250000000009,
+          "jp": "けて",
+          "prob": 0.9969770908355713
+        },
+        {
+          "start": 0.7576250000000009,
+          "end": 0.917625000000001,
+          "jp": "く",
+          "prob": 0.9956405162811279
+        },
+        {
+          "start": 0.917625000000001,
+          "end": 1.0776250000000012,
+          "jp": "れ",
+          "prob": 0.9928078651428223
+        },
+        {
+          "start": 1.0776250000000012,
+          "end": 1.31875,
+          "jp": "ー!",
+          "prob": 0.7118701338768005
+        }
+      ],
+      "ko": "살려 줘!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

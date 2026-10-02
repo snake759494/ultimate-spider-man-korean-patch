@@ -1,0 +1,15 @@
+{
+  "hash": "38bedd55",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7789375,
+  "segments": [
+    {
+      "start": 0.25637500000000024,
+      "end": 0.7789375,
+      "jp": "ダメだ!",
+      "ko": "안 돼..."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

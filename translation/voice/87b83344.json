@@ -1,0 +1,35 @@
+{
+  "hash": "87b83344",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8486875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.448875000000001,
+      "jp": "撃てない!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.30887500000000045,
+          "jp": "撃",
+          "prob": 0.6544889062643051
+        },
+        {
+          "start": 0.30887500000000045,
+          "end": 1.2288750000000022,
+          "jp": "て",
+          "prob": 0.9739508032798767
+        },
+        {
+          "start": 1.2288750000000022,
+          "end": 1.448875000000001,
+          "jp": "ない!",
+          "prob": 0.987261176109314
+        }
+      ],
+      "ko": "쏠 수 없어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

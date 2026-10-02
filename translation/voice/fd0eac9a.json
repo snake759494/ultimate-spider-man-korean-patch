@@ -1,0 +1,47 @@
+{
+  "hash": "fd0eac9a",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.062125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.94,
+      "jp": "引っ込んでろ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "引",
+          "prob": 0.6091416478157043
+        },
+        {
+          "start": 0.22,
+          "end": 0.4,
+          "jp": "っ",
+          "prob": 0.9923261404037476
+        },
+        {
+          "start": 0.4,
+          "end": 0.52,
+          "jp": "込",
+          "prob": 0.9743715822696686
+        },
+        {
+          "start": 0.52,
+          "end": 0.68,
+          "jp": "んで",
+          "prob": 0.8898538947105408
+        },
+        {
+          "start": 0.68,
+          "end": 0.94,
+          "jp": "ろ",
+          "prob": 0.9572062492370605
+        }
+      ],
+      "ko": "빠져 있어."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

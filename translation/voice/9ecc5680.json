@@ -1,0 +1,15 @@
+{
+  "hash": "9ecc5680",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.7249375,
+  "segments": [
+    {
+      "start": 0.1753750000000025,
+      "end": 3.5153750000000024,
+      "jp": "確かマダムウェブの方が早かったんじゃないかな?",
+      "ko": "마담 웹도 너보단 빨랐던 것 같은데?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

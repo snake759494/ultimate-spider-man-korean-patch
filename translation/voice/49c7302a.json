@@ -1,0 +1,15 @@
+{
+  "hash": "49c7302a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.8435,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.8435,
+      "jp": "うううううううううう聞いたきゃ言えよ。でも高が数ドルの話だぜ。",
+      "ko": "듣고 싶으면 말해. 하지만 고작 몇 달러 얘기야."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

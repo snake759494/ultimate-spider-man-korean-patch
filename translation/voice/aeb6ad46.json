@@ -1,0 +1,53 @@
+{
+  "hash": "aeb6ad46",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4454375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.22,
+      "jp": "またアイツらね",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.42,
+          "jp": "また",
+          "prob": 0.8150543570518494
+        },
+        {
+          "start": 0.42,
+          "end": 0.64,
+          "jp": "ア",
+          "prob": 0.21223418414592743
+        },
+        {
+          "start": 0.64,
+          "end": 0.68,
+          "jp": "イ",
+          "prob": 0.9982967972755432
+        },
+        {
+          "start": 0.68,
+          "end": 0.84,
+          "jp": "ツ",
+          "prob": 0.9903844594955444
+        },
+        {
+          "start": 0.84,
+          "end": 1.0,
+          "jp": "ら",
+          "prob": 0.9317961931228638
+        },
+        {
+          "start": 1.0,
+          "end": 1.22,
+          "jp": "ね",
+          "prob": 0.9084969758987427
+        }
+      ],
+      "ko": "또 저 녀석들이네."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

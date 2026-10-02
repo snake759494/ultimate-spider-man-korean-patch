@@ -1,0 +1,15 @@
+{
+  "hash": "225f8337",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.772375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.683250000000001,
+      "jp": "子供にあなたの名前をつけた",
+      "ko": "아이 이름을 당신 이름으로 지었어요."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

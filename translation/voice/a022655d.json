@@ -1,0 +1,29 @@
+{
+  "hash": "a022655d",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.2899375,
+  "segments": [
+    {
+      "start": 0.018875000000001307,
+      "end": 0.5988749999999996,
+      "jp": "いいぜ!",
+      "words": [
+        {
+          "start": 0.018875000000001307,
+          "end": 0.35887500000000117,
+          "jp": "いい",
+          "prob": 0.3050425946712494
+        },
+        {
+          "start": 0.35887500000000117,
+          "end": 0.5988749999999996,
+          "jp": "ぜ!",
+          "prob": 0.5827435255050659
+        }
+      ],
+      "ko": "좋아!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

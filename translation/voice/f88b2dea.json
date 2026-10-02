@@ -1,0 +1,35 @@
+{
+  "hash": "f88b2dea",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0594375,
+  "segments": [
+    {
+      "start": 0.009062499999998863,
+      "end": 1.0490624999999998,
+      "jp": "すごいわね!",
+      "words": [
+        {
+          "start": 0.009062499999998863,
+          "end": 0.44906250000000014,
+          "jp": "すごい",
+          "prob": 0.881166398525238
+        },
+        {
+          "start": 0.44906250000000014,
+          "end": 0.7090624999999999,
+          "jp": "わ",
+          "prob": 0.9809550642967224
+        },
+        {
+          "start": 0.7090624999999999,
+          "end": 1.0490624999999998,
+          "jp": "ね!",
+          "prob": 0.9696146845817566
+        }
+      ],
+      "ko": "대단하네요!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

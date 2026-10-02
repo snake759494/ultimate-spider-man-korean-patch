@@ -1,0 +1,29 @@
+{
+  "hash": "4ff1cd89",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.9684375,
+  "segments": [
+    {
+      "start": 0.07587499999999991,
+      "end": 0.9558750000000003,
+      "jp": "まずい",
+      "words": [
+        {
+          "start": 0.07587499999999991,
+          "end": 0.5158750000000003,
+          "jp": "まず",
+          "prob": 0.07583300769329071
+        },
+        {
+          "start": 0.5158750000000003,
+          "end": 0.9558750000000003,
+          "jp": "い",
+          "prob": 0.9543450474739075
+        }
+      ],
+      "ko": "큰일이네."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

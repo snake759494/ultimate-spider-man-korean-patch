@@ -1,0 +1,15 @@
+{
+  "hash": "3dbf5025",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5666875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5666875,
+      "jp": "ねぇ、滑る!",
+      "ko": "야, 미끄러워!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,19 @@
+{
+  "hash": "432e1796",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.98425,
+  "segments": [
+    {
+      "start": 0.30918750000000017,
+      "end": 1.98425,
+      "jp": "ちょっと!本気でやってるの!?",
+      "ko": "잠깐! 진심이야?!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_dictionary_medium_batch_review_required"
+}

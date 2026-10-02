@@ -1,0 +1,15 @@
+{
+  "hash": "73523b7f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.2805625,
+  "segments": [
+    {
+      "start": 0.44943750000000016,
+      "end": 2.2805625,
+      "jp": "あなたのような人がいてよかった!",
+      "ko": "당신 같은 사람이 있어서 다행이에요!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

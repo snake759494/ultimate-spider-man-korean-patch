@@ -1,0 +1,15 @@
+{
+  "hash": "2b7bdbff",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6454375,
+  "segments": [
+    {
+      "start": 0.11574999999999847,
+      "end": 1.6454375,
+      "jp": "勝手にしろ、俺は引くぞ!",
+      "ko": "맘대로 해. 난 빠질 테니까!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

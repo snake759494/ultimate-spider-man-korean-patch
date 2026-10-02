@@ -1,0 +1,15 @@
+{
+  "hash": "98c33165",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 4.1021875,
+  "segments": [
+    {
+      "start": 0.15212499999999807,
+      "end": 4.1021875,
+      "jp": "こいつを顔に突きつけてやれや、奴らもおたあげさ、何一つ出来はしねえんだ",
+      "ko": "이걸 얼굴에 들이대면 놈들도 꼼짝 못 해. 아무것도 못 한다고."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

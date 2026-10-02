@@ -1,0 +1,47 @@
+{
+  "hash": "eccda3b4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.97775,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.97775,
+      "jp": "目標ダウン!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.19206250000000225,
+          "jp": "目",
+          "prob": 0.9868460893630981
+        },
+        {
+          "start": 0.19206250000000225,
+          "end": 0.45206250000000203,
+          "jp": "標",
+          "prob": 0.9989564418792725
+        },
+        {
+          "start": 0.45206250000000203,
+          "end": 0.7120625000000018,
+          "jp": "ダ",
+          "prob": 0.9900388121604919
+        },
+        {
+          "start": 0.7120625000000018,
+          "end": 0.8520625000000024,
+          "jp": "ウ",
+          "prob": 0.9992280006408691
+        },
+        {
+          "start": 0.8520625000000024,
+          "end": 0.97775,
+          "jp": "ン!",
+          "prob": 0.9989861845970154
+        }
+      ],
+      "ko": "목표 제압."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,59 @@
+{
+  "hash": "31a3604e",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.7535,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.64,
+      "jp": "お次は一階になります",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18,
+          "jp": "お",
+          "prob": 0.514896810054779
+        },
+        {
+          "start": 0.18,
+          "end": 0.34,
+          "jp": "次",
+          "prob": 0.9082789421081543
+        },
+        {
+          "start": 0.34,
+          "end": 0.54,
+          "jp": "は",
+          "prob": 0.9585747122764587
+        },
+        {
+          "start": 0.54,
+          "end": 0.76,
+          "jp": "一",
+          "prob": 0.6095054149627686
+        },
+        {
+          "start": 0.76,
+          "end": 0.9,
+          "jp": "階",
+          "prob": 0.7258210927248001
+        },
+        {
+          "start": 0.9,
+          "end": 1.1,
+          "jp": "にな",
+          "prob": 0.9815442562103271
+        },
+        {
+          "start": 1.1,
+          "end": 1.64,
+          "jp": "ります",
+          "prob": 0.927669882774353
+        }
+      ],
+      "ko": "다음은 1층입니다."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

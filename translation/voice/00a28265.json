@@ -1,0 +1,29 @@
+{
+  "hash": "00a28265",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.073875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6843125000000008,
+      "jp": "危ない!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28431249999999864,
+          "jp": "危",
+          "prob": 0.8477318286895752
+        },
+        {
+          "start": 0.28431249999999864,
+          "end": 0.6843125000000008,
+          "jp": "ない!",
+          "prob": 0.9543284177780151
+        }
+      ],
+      "ko": "위험해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

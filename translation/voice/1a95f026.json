@@ -1,0 +1,41 @@
+{
+  "hash": "1a95f026",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.729625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.729625,
+      "jp": "あれを見ろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2811875000000006,
+          "jp": "あれ",
+          "prob": 0.7938042879104614
+        },
+        {
+          "start": 0.2811875000000006,
+          "end": 0.44118750000000073,
+          "jp": "を",
+          "prob": 0.9216838479042053
+        },
+        {
+          "start": 0.44118750000000073,
+          "end": 0.5011875000000003,
+          "jp": "見",
+          "prob": 0.9369564652442932
+        },
+        {
+          "start": 0.5011875000000003,
+          "end": 0.729625,
+          "jp": "ろ!",
+          "prob": 0.9958143830299377
+        }
+      ],
+      "ko": "저것 봐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

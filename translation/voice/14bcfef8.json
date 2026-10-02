@@ -1,0 +1,65 @@
+{
+  "hash": "14bcfef8",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.6751875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.2,
+      "jp": "こっちへ来い、ピーター",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.38,
+          "jp": "こ",
+          "prob": 0.8035428524017334
+        },
+        {
+          "start": 0.38,
+          "end": 0.76,
+          "jp": "っち",
+          "prob": 0.9922274947166443
+        },
+        {
+          "start": 0.76,
+          "end": 1.0,
+          "jp": "へ",
+          "prob": 0.9832766056060791
+        },
+        {
+          "start": 1.0,
+          "end": 1.2,
+          "jp": "来",
+          "prob": 0.6388847827911377
+        },
+        {
+          "start": 1.2,
+          "end": 1.48,
+          "jp": "い、",
+          "prob": 0.996880292892456
+        },
+        {
+          "start": 1.56,
+          "end": 1.7,
+          "jp": "ピ",
+          "prob": 0.8604871034622192
+        },
+        {
+          "start": 1.7,
+          "end": 1.94,
+          "jp": "ー",
+          "prob": 0.8529112935066223
+        },
+        {
+          "start": 1.94,
+          "end": 2.2,
+          "jp": "ター",
+          "prob": 0.7838255167007446
+        }
+      ],
+      "ko": "이리 와, 피터."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

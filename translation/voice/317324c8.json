@@ -1,0 +1,47 @@
+{
+  "hash": "317324c8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.834375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.64,
+      "jp": "当たってくれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2,
+          "jp": "当",
+          "prob": 0.7501325607299805
+        },
+        {
+          "start": 0.2,
+          "end": 0.28,
+          "jp": "た",
+          "prob": 0.9748099446296692
+        },
+        {
+          "start": 0.28,
+          "end": 0.4,
+          "jp": "って",
+          "prob": 0.9846649765968323
+        },
+        {
+          "start": 0.4,
+          "end": 0.52,
+          "jp": "く",
+          "prob": 0.9744042158126831
+        },
+        {
+          "start": 0.52,
+          "end": 0.64,
+          "jp": "れ!",
+          "prob": 0.9912432432174683
+        }
+      ],
+      "ko": "맞아라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "1f9fbdc8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.68725,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.68725,
+      "jp": "ジープ部隊デルタウイスキーへ",
+      "ko": "지프 부대, 델타 위스키로 이동."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

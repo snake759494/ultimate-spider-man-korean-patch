@@ -1,0 +1,15 @@
+{
+  "hash": "0d700709",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.54375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5378749999999997,
+      "jp": "全く恥をしれ",
+      "ko": "정말 부끄러운 줄 알아!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

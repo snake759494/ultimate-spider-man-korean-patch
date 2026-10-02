@@ -1,0 +1,15 @@
+{
+  "hash": "aa38efee",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8430625,
+  "segments": [
+    {
+      "start": 0.07250000000000156,
+      "end": 1.8430625,
+      "jp": "あのマスクをー!",
+      "ko": "저 가면을...!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

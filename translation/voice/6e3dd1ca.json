@@ -1,0 +1,47 @@
+{
+  "hash": "6e3dd1ca",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.947875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.94,
+      "jp": "奴を見たか?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.32,
+          "jp": "奴",
+          "prob": 0.6393079310655594
+        },
+        {
+          "start": 0.32,
+          "end": 0.42,
+          "jp": "を",
+          "prob": 0.7407252788543701
+        },
+        {
+          "start": 0.42,
+          "end": 0.5,
+          "jp": "見",
+          "prob": 0.762204110622406
+        },
+        {
+          "start": 0.5,
+          "end": 0.64,
+          "jp": "た",
+          "prob": 0.991551399230957
+        },
+        {
+          "start": 0.64,
+          "end": 0.94,
+          "jp": "か?",
+          "prob": 0.913753867149353
+        }
+      ],
+      "ko": "녀석을 봤나?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

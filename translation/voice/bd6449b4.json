@@ -1,0 +1,41 @@
+{
+  "hash": "bd6449b4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9028125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.793687499999999,
+      "jp": "敵全身中",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.25368749999999807,
+          "jp": "敵",
+          "prob": 0.9944665431976318
+        },
+        {
+          "start": 0.25368749999999807,
+          "end": 0.4336874999999978,
+          "jp": "全",
+          "prob": 0.622504711151123
+        },
+        {
+          "start": 0.4336874999999978,
+          "end": 0.5536874999999988,
+          "jp": "身",
+          "prob": 0.9737136960029602
+        },
+        {
+          "start": 0.5536874999999988,
+          "end": 0.793687499999999,
+          "jp": "中",
+          "prob": 0.966389536857605
+        }
+      ],
+      "ko": "적 전진 중."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

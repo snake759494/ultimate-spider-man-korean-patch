@@ -1,0 +1,15 @@
+{
+  "hash": "fb020378",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7274375,
+  "segments": [
+    {
+      "start": 0.2165000000000017,
+      "end": 0.7274375,
+      "jp": "ぶっ壊せ",
+      "ko": "부숴 버려!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,47 @@
+{
+  "hash": "cf0aa251",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6639375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6639375,
+      "jp": "誰か! 助けてー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "誰",
+          "prob": 0.7298210859298706
+        },
+        {
+          "start": 0.22,
+          "end": 0.44,
+          "jp": "か!",
+          "prob": 0.9752657413482666
+        },
+        {
+          "start": 0.76,
+          "end": 0.96,
+          "jp": " 助",
+          "prob": 0.9888437986373901
+        },
+        {
+          "start": 0.96,
+          "end": 1.26,
+          "jp": "けて",
+          "prob": 0.9931156039237976
+        },
+        {
+          "start": 1.26,
+          "end": 1.6639375,
+          "jp": "ー!",
+          "prob": 0.10857995599508286
+        }
+      ],
+      "ko": "누구 없어요! 도와줘요!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

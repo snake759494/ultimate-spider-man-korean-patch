@@ -1,0 +1,29 @@
+{
+  "hash": "b50630c3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9385625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.36793750000000003,
+      "jp": "元気?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1879375000000003,
+          "jp": "元",
+          "prob": 0.48769620060920715
+        },
+        {
+          "start": 0.1879375000000003,
+          "end": 0.36793750000000003,
+          "jp": "気?",
+          "prob": 0.9951024055480957
+        }
+      ],
+      "ko": "잘 지내?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "4c655faf",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.95775,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5246875000000006,
+      "jp": "食らえ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18468750000000078,
+          "jp": "食",
+          "prob": 0.9068460464477539
+        },
+        {
+          "start": 0.18468750000000078,
+          "end": 0.3446875000000009,
+          "jp": "ら",
+          "prob": 0.9975591897964478
+        },
+        {
+          "start": 0.3446875000000009,
+          "end": 0.5246875000000006,
+          "jp": "え!",
+          "prob": 0.9604905843734741
+        }
+      ],
+      "ko": "받아라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

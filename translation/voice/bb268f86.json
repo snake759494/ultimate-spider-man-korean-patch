@@ -1,0 +1,35 @@
+{
+  "hash": "bb268f86",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.744,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.43074999999999974,
+      "jp": "くせろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.11074999999999946,
+          "jp": "く",
+          "prob": 0.7453585267066956
+        },
+        {
+          "start": 0.11074999999999946,
+          "end": 0.2907499999999992,
+          "jp": "せ",
+          "prob": 0.8072511553764343
+        },
+        {
+          "start": 0.2907499999999992,
+          "end": 0.43074999999999974,
+          "jp": "ろ!",
+          "prob": 0.979401707649231
+        }
+      ],
+      "ko": "엎드려!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

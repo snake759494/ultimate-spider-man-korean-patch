@@ -1,0 +1,59 @@
+{
+  "hash": "25a3cf91",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.982875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.92,
+      "jp": "それ以上近寄れないんだろ?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.36,
+          "jp": "それ",
+          "prob": 0.7666084170341492
+        },
+        {
+          "start": 0.36,
+          "end": 0.7,
+          "jp": "以上",
+          "prob": 0.9400188326835632
+        },
+        {
+          "start": 0.7,
+          "end": 0.98,
+          "jp": "近",
+          "prob": 0.6742373704910278
+        },
+        {
+          "start": 0.98,
+          "end": 1.16,
+          "jp": "寄",
+          "prob": 0.9422655403614044
+        },
+        {
+          "start": 1.16,
+          "end": 1.34,
+          "jp": "れない",
+          "prob": 0.9723313450813293
+        },
+        {
+          "start": 1.34,
+          "end": 1.64,
+          "jp": "んだ",
+          "prob": 0.9737346172332764
+        },
+        {
+          "start": 1.64,
+          "end": 1.92,
+          "jp": "ろ?",
+          "prob": 0.7286936640739441
+        }
+      ],
+      "ko": "더는 가까이 못 오는 거지?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

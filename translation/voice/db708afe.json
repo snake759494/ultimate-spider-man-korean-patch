@@ -1,0 +1,35 @@
+{
+  "hash": "db708afe",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.2851875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.2074374999999993,
+      "jp": "え、車は?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22743749999999885,
+          "jp": "え、",
+          "prob": 0.34018364548683167
+        },
+        {
+          "start": 0.6074374999999996,
+          "end": 0.9074374999999986,
+          "jp": "車",
+          "prob": 0.9729022979736328
+        },
+        {
+          "start": 0.9074374999999986,
+          "end": 1.2074374999999993,
+          "jp": "は?",
+          "prob": 0.9917146563529968
+        }
+      ],
+      "ko": "차는?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "7be595ff",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.211,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.211,
+      "jp": "今度は、な、何だよ!",
+      "ko": "이번엔 뭐, 뭐야!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

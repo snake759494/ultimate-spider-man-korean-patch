@@ -1,0 +1,15 @@
+{
+  "hash": "21f084a5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5615625,
+  "segments": [
+    {
+      "start": 0.15793750000000006,
+      "end": 1.3579375000000002,
+      "jp": "叩きのめしてくれる!",
+      "ko": "두들겨 패 주마!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

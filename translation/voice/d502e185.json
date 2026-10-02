@@ -1,0 +1,29 @@
+{
+  "hash": "d502e185",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9115,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5910624999999996,
+      "jp": "腕が!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3510624999999994,
+          "jp": "腕",
+          "prob": 0.6310568451881409
+        },
+        {
+          "start": 0.3510624999999994,
+          "end": 0.5910624999999996,
+          "jp": "が!",
+          "prob": 0.9214761257171631
+        }
+      ],
+      "ko": "팔이..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

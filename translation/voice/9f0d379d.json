@@ -1,0 +1,29 @@
+{
+  "hash": "9f0d379d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.750625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5302499999999999,
+      "jp": "助けて!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1902499999999998,
+          "jp": "助",
+          "prob": 0.6519883275032043
+        },
+        {
+          "start": 0.1902499999999998,
+          "end": 0.5302499999999999,
+          "jp": "けて!",
+          "prob": 0.9484342932701111
+        }
+      ],
+      "ko": "살려 줘!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

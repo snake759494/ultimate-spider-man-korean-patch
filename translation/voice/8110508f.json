@@ -1,0 +1,41 @@
+{
+  "hash": "8110508f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.05775,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.05775,
+      "jp": "危なかったな!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18206250000000068,
+          "jp": "危",
+          "prob": 0.6882764101028442
+        },
+        {
+          "start": 0.18206250000000068,
+          "end": 0.3620625000000004,
+          "jp": "な",
+          "prob": 0.9655589461326599
+        },
+        {
+          "start": 0.3620625000000004,
+          "end": 0.5820624999999993,
+          "jp": "かった",
+          "prob": 0.998921275138855
+        },
+        {
+          "start": 0.5820624999999993,
+          "end": 1.05775,
+          "jp": "な!",
+          "prob": 0.992084801197052
+        }
+      ],
+      "ko": "위험했어."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "1e302c7a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2065,
+  "segments": [
+    {
+      "start": 0.17031249999999787,
+      "end": 1.2065,
+      "jp": "タイヤ射撃許可を!",
+      "ko": "타이어 사격 허가를 요청한다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

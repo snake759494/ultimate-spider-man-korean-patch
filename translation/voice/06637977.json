@@ -1,0 +1,15 @@
+{
+  "hash": "06637977",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5075625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5075625,
+      "jp": "おい、なにするんだ!",
+      "ko": "야, 뭐 하는 거야!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "ef71450f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.93075,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6471249999999991,
+      "jp": "来るんだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1871249999999982,
+          "jp": "来",
+          "prob": 0.8808485865592957
+        },
+        {
+          "start": 0.1871249999999982,
+          "end": 0.3671249999999979,
+          "jp": "る",
+          "prob": 0.9965632557868958
+        },
+        {
+          "start": 0.3671249999999979,
+          "end": 0.6471249999999991,
+          "jp": "んだ!",
+          "prob": 0.9932041168212891
+        }
+      ],
+      "ko": "이리 와!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

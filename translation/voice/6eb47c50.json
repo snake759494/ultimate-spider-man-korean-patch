@@ -1,0 +1,19 @@
+{
+  "hash": "6eb47c50",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.67675,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.67675,
+      "jp": "見えるか?",
+      "ko": "보이나?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

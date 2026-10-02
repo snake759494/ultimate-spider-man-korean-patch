@@ -1,0 +1,15 @@
+{
+  "hash": "2d7dbd2e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5005,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5005,
+      "jp": "ーなんて屈辱だ",
+      "ko": "이런 굴욕을 당하다니!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

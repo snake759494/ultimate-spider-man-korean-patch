@@ -1,0 +1,29 @@
+{
+  "hash": "b4112813",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.82925,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6563125000000003,
+      "jp": "まずい!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.19631250000000033,
+          "jp": "まず",
+          "prob": 0.9700927138328552
+        },
+        {
+          "start": 0.19631250000000033,
+          "end": 0.6563125000000003,
+          "jp": "い!",
+          "prob": 0.998887836933136
+        }
+      ],
+      "ko": "큰일이야."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

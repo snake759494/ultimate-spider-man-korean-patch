@@ -1,0 +1,41 @@
+{
+  "hash": "1fd0290e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.752125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8290625000000009,
+      "jp": "攻撃成功!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.20906249999999993,
+          "jp": "攻",
+          "prob": 0.8558472990989685
+        },
+        {
+          "start": 0.20906249999999993,
+          "end": 0.36906250000000007,
+          "jp": "撃",
+          "prob": 0.9994288682937622
+        },
+        {
+          "start": 0.36906250000000007,
+          "end": 0.6090625000000003,
+          "jp": "成",
+          "prob": 0.8608127236366272
+        },
+        {
+          "start": 0.6090625000000003,
+          "end": 0.8290625000000009,
+          "jp": "功!",
+          "prob": 0.9971768856048584
+        }
+      ],
+      "ko": "공격 성공!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

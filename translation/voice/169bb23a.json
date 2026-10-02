@@ -1,0 +1,29 @@
+{
+  "hash": "169bb23a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.71625,
+  "segments": [
+    {
+      "start": 0.011187499999998352,
+      "end": 0.4711874999999992,
+      "jp": "急げ!",
+      "words": [
+        {
+          "start": 0.011187499999998352,
+          "end": 0.27118749999999814,
+          "jp": "急",
+          "prob": 0.7433435320854187
+        },
+        {
+          "start": 0.27118749999999814,
+          "end": 0.4711874999999992,
+          "jp": "げ!",
+          "prob": 0.9985920786857605
+        }
+      ],
+      "ko": "서둘러!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

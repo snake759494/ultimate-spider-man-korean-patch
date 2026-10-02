@@ -1,0 +1,29 @@
+{
+  "hash": "7a619f41",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.8458125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6695625000000014,
+      "jp": "急げ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3695625000000007,
+          "jp": "急",
+          "prob": 0.29423224925994873
+        },
+        {
+          "start": 0.3695625000000007,
+          "end": 0.6695625000000014,
+          "jp": "げ!",
+          "prob": 0.996870219707489
+        }
+      ],
+      "ko": "서둘러!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "137ee637",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.693625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.693625,
+      "jp": "ガッツリ盗んでやったぜ",
+      "ko": "제대로 한탕 했지!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

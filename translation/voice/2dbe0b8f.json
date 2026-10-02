@@ -1,0 +1,41 @@
+{
+  "hash": "2dbe0b8f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8120625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7169374999999967,
+      "jp": "…嘘だろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": -0.10306250000000361,
+          "jp": "…",
+          "prob": 0.352660596370697
+        },
+        {
+          "start": 0,
+          "end": 0.29693749999999497,
+          "jp": "嘘",
+          "prob": 0.8812999129295349
+        },
+        {
+          "start": 0.29693749999999497,
+          "end": 0.5169374999999974,
+          "jp": "だ",
+          "prob": 0.9968706965446472
+        },
+        {
+          "start": 0.5169374999999974,
+          "end": 0.7169374999999967,
+          "jp": "ろ!",
+          "prob": 0.992265522480011
+        }
+      ],
+      "ko": "거짓말이지!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

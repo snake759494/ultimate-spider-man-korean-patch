@@ -1,0 +1,15 @@
+{
+  "hash": "ee804ecc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5338125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5338125,
+      "jp": "痛っ!やられた!",
+      "ko": "아야! 당했어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "fa867aa3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0104375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.88,
+      "jp": "これでどうだ?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.38,
+          "jp": "これで",
+          "prob": 0.8499467968940735
+        },
+        {
+          "start": 0.38,
+          "end": 0.66,
+          "jp": "どう",
+          "prob": 0.8828575015068054
+        },
+        {
+          "start": 0.66,
+          "end": 0.88,
+          "jp": "だ?",
+          "prob": 0.9795417189598083
+        }
+      ],
+      "ko": "이건 어때?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "1c5da433",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.931875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.9,
+      "jp": "バクスタービル、ファンタスティック4の本拠地だな",
+      "ko": "박스터 빌딩. 판타스틱 포의 본부로군."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

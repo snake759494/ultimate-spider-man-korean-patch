@@ -1,0 +1,15 @@
+{
+  "hash": "869e489f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.346125,
+  "segments": [
+    {
+      "start": 0.07981249999999918,
+      "end": 1.1398125000000014,
+      "jp": "俺に任せておけ!",
+      "ko": "나한테 맡겨."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

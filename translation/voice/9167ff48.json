@@ -1,0 +1,29 @@
+{
+  "hash": "9167ff48",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6828125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.46,
+      "jp": "行け、",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26,
+          "jp": "行",
+          "prob": 0.4198657274246216
+        },
+        {
+          "start": 0.26,
+          "end": 0.46,
+          "jp": "け、",
+          "prob": 0.9638255834579468
+        }
+      ],
+      "ko": "가!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,29 @@
+{
+  "hash": "b1bb0d59",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.65175,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6204999999999998,
+      "jp": "早く!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22050000000000125,
+          "jp": "早",
+          "prob": 0.8713825345039368
+        },
+        {
+          "start": 0.22050000000000125,
+          "end": 0.6204999999999998,
+          "jp": "く!",
+          "prob": 0.9984723925590515
+        }
+      ],
+      "ko": "빨리!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

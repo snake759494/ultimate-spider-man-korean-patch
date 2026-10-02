@@ -1,0 +1,15 @@
+{
+  "hash": "015edb74",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.710125,
+  "segments": [
+    {
+      "start": 0.1847499999999993,
+      "end": 1.710125,
+      "jp": "何が起こってるんだ?",
+      "ko": "무슨 일이 벌어지는 거야?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

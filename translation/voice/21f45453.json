@@ -1,0 +1,29 @@
+{
+  "hash": "21f45453",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.5466875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.29768749999999855,
+      "jp": "こい!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1776875000000011,
+          "jp": "こ",
+          "prob": 0.5208132863044739
+        },
+        {
+          "start": 0.1776875000000011,
+          "end": 0.29768749999999855,
+          "jp": "い!",
+          "prob": 0.949055016040802
+        }
+      ],
+      "ko": "덤벼!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

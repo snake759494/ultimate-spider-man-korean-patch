@@ -1,0 +1,29 @@
+{
+  "hash": "7336c1c6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.79225,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6956249999999999,
+      "jp": "なんだよ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.295625,
+          "jp": "なんだ",
+          "prob": 0.6640276312828064
+        },
+        {
+          "start": 0.295625,
+          "end": 0.6956249999999999,
+          "jp": "よ!",
+          "prob": 0.9940470457077026
+        }
+      ],
+      "ko": "뭐야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

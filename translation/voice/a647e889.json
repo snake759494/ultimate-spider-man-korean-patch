@@ -1,0 +1,15 @@
+{
+  "hash": "a647e889",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.614625,
+  "segments": [
+    {
+      "start": 0.11800000000000033,
+      "end": 1.614625,
+      "jp": "あれ、もう壊れた",
+      "ko": "어라, 벌써 망가졌네."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

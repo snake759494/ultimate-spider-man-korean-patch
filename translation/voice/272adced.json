@@ -1,0 +1,15 @@
+{
+  "hash": "272adced",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.756125,
+  "segments": [
+    {
+      "start": 0.22100000000000009,
+      "end": 1.681,
+      "jp": "くそー、早すぎる!",
+      "ko": "젠장, 너무 빨라!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

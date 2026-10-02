@@ -1,0 +1,15 @@
+{
+  "hash": "3c9ac10d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9445,
+  "segments": [
+    {
+      "start": 0.10100000000000264,
+      "end": 0.9445,
+      "jp": "くそー!",
+      "ko": "젠장!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

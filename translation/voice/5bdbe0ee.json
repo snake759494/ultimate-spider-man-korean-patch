@@ -1,0 +1,19 @@
+{
+  "hash": "5bdbe0ee",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5399375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5399375,
+      "jp": "お金を取り返したいんだ",
+      "ko": "내 돈을 되찾고 싶어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_dictionary_medium_batch_review_required"
+}

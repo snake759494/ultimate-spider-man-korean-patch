@@ -1,0 +1,15 @@
+{
+  "hash": "4c871130",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.642875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0818124999999998,
+      "jp": "俺は…",
+      "ko": "나는..."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

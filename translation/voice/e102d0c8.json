@@ -1,0 +1,59 @@
+{
+  "hash": "e102d0c8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.903625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.66,
+      "jp": "な、なに仕上がる!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "な、",
+          "prob": 0.776209831237793
+        },
+        {
+          "start": 0.48,
+          "end": 0.84,
+          "jp": "な",
+          "prob": 0.7260085940361023
+        },
+        {
+          "start": 0.84,
+          "end": 1.04,
+          "jp": "に",
+          "prob": 0.9710810780525208
+        },
+        {
+          "start": 1.04,
+          "end": 1.26,
+          "jp": "仕",
+          "prob": 0.5907891914248466
+        },
+        {
+          "start": 1.26,
+          "end": 1.38,
+          "jp": "上",
+          "prob": 0.9923816323280334
+        },
+        {
+          "start": 1.38,
+          "end": 1.48,
+          "jp": "が",
+          "prob": 0.9943007230758667
+        },
+        {
+          "start": 1.48,
+          "end": 1.66,
+          "jp": "る!",
+          "prob": 0.9944063425064087
+        }
+      ],
+      "ko": "뭐, 뭐 하는 짓이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

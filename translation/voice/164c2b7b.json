@@ -1,0 +1,15 @@
+{
+  "hash": "164c2b7b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.650375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6001875000000005,
+      "jp": "やめろよ痛いって",
+      "ko": "그만해, 아프다고!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

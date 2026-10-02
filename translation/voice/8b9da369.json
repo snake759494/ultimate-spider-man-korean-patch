@@ -1,0 +1,71 @@
+{
+  "hash": "8b9da369",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.1623125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.1623125,
+      "jp": "あの虫ケラを排除せよ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.36,
+          "jp": "あの",
+          "prob": 0.7659338116645813
+        },
+        {
+          "start": 0.36,
+          "end": 0.64,
+          "jp": "虫",
+          "prob": 0.8331142663955688
+        },
+        {
+          "start": 0.64,
+          "end": 0.76,
+          "jp": "ケ",
+          "prob": 0.36784827709198
+        },
+        {
+          "start": 0.76,
+          "end": 0.88,
+          "jp": "ラ",
+          "prob": 0.9365396499633789
+        },
+        {
+          "start": 0.88,
+          "end": 1.02,
+          "jp": "を",
+          "prob": 0.8907858729362488
+        },
+        {
+          "start": 1.02,
+          "end": 1.32,
+          "jp": "排",
+          "prob": 0.3849310278892517
+        },
+        {
+          "start": 1.32,
+          "end": 1.48,
+          "jp": "除",
+          "prob": 0.989825427532196
+        },
+        {
+          "start": 1.48,
+          "end": 1.62,
+          "jp": "せ",
+          "prob": 0.9673569798469543
+        },
+        {
+          "start": 1.62,
+          "end": 2.1623125,
+          "jp": "よ!",
+          "prob": 0.9030277729034424
+        }
+      ],
+      "ko": "저 벌레를 제거하라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

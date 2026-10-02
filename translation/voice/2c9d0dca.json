@@ -1,0 +1,15 @@
+{
+  "hash": "2c9d0dca",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7444375,
+  "segments": [
+    {
+      "start": 0.046875,
+      "end": 1.7444375,
+      "jp": "着やがれ、パジャマ野郎!",
+      "ko": "덤벼, 이 잠옷 자식!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

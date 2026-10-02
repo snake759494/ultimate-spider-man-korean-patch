@@ -1,0 +1,29 @@
+{
+  "hash": "fc2e736d",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.816,
+  "segments": [
+    {
+      "start": 0.06406250000000036,
+      "end": 0.784062500000001,
+      "jp": "痛っ!",
+      "words": [
+        {
+          "start": 0.06406250000000036,
+          "end": 0.42406250000000156,
+          "jp": "痛",
+          "prob": 0.3030645549297333
+        },
+        {
+          "start": 0.42406250000000156,
+          "end": 0.784062500000001,
+          "jp": "っ!",
+          "prob": 0.45602861046791077
+        }
+      ],
+      "ko": "아야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

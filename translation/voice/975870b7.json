@@ -1,0 +1,15 @@
+{
+  "hash": "975870b7",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.4240625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.4240625,
+      "jp": "燃えちまえ!",
+      "ko": "타 버려라!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

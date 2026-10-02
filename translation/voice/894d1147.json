@@ -1,0 +1,29 @@
+{
+  "hash": "894d1147",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7005,
+  "segments": [
+    {
+      "start": 0.05149999999999988,
+      "end": 0.7005,
+      "jp": "ダメ",
+      "words": [
+        {
+          "start": 0.05149999999999988,
+          "end": 0.2915000000000001,
+          "jp": "ダ",
+          "prob": 0.5574851036071777
+        },
+        {
+          "start": 0.2915000000000001,
+          "end": 0.7005,
+          "jp": "メ",
+          "prob": 0.9927079081535339
+        }
+      ],
+      "ko": "안 돼!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

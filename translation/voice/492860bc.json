@@ -1,0 +1,15 @@
+{
+  "hash": "492860bc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2995,
+  "segments": [
+    {
+      "start": 0.2546875000000002,
+      "end": 1.2995,
+      "jp": "幸運を祈るよ。",
+      "ko": "행운을 빌어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

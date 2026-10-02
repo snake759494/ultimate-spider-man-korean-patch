@@ -1,0 +1,29 @@
+{
+  "hash": "cd21636d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1095625,
+  "segments": [
+    {
+      "start": 0.04493749999999963,
+      "end": 0.6749374999999995,
+      "jp": "誰だ?",
+      "words": [
+        {
+          "start": 0.04493749999999963,
+          "end": 0.27493750000000006,
+          "jp": "誰",
+          "prob": 0.22978536784648895
+        },
+        {
+          "start": 0.27493750000000006,
+          "end": 0.6749374999999995,
+          "jp": "だ?",
+          "prob": 0.9932863116264343
+        }
+      ],
+      "ko": "누구지?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

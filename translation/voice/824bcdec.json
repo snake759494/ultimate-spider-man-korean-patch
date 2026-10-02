@@ -1,0 +1,35 @@
+{
+  "hash": "824bcdec",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8666875,
+  "segments": [
+    {
+      "start": 0.5246250000000021,
+      "end": 1.5846250000000008,
+      "jp": "またなの?",
+      "words": [
+        {
+          "start": 0.5246250000000021,
+          "end": 1.0046250000000008,
+          "jp": "また",
+          "prob": 0.2953976094722748
+        },
+        {
+          "start": 1.0046250000000008,
+          "end": 1.3846250000000015,
+          "jp": "な",
+          "prob": 0.9720622897148132
+        },
+        {
+          "start": 1.3846250000000015,
+          "end": 1.5846250000000008,
+          "jp": "の?",
+          "prob": 0.9965188503265381
+        }
+      ],
+      "ko": "또야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

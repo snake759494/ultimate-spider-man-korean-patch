@@ -1,0 +1,14 @@
+/work/
+/build/
+/release/
+/release_extended/
+__pycache__/
+*.pyc
+*.iso
+*.bin
+*.pak
+*.exe
+*.xdelta
+*.zip
+*.ttf
+*.p2s

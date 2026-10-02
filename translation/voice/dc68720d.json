@@ -1,0 +1,15 @@
+{
+  "hash": "dc68720d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 4.9346875,
+  "segments": [
+    {
+      "start": 1.0988750000000014,
+      "end": 4.9346875,
+      "jp": "腹減ったー食い物ー!",
+      "ko": "배고파! 먹을 것 좀!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

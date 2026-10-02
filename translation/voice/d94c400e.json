@@ -1,0 +1,15 @@
+{
+  "hash": "d94c400e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6258125,
+  "segments": [
+    {
+      "start": 0.11206249999999862,
+      "end": 0.5320624999999986,
+      "jp": "伏せろ!",
+      "ko": "엎드려!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

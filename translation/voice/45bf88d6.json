@@ -1,0 +1,29 @@
+{
+  "hash": "45bf88d6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.70275,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.4198750000000011,
+      "jp": "ママ?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.19987500000000225,
+          "jp": "マ",
+          "prob": 0.7419820427894592
+        },
+        {
+          "start": 0.19987500000000225,
+          "end": 0.4198750000000011,
+          "jp": "マ?",
+          "prob": 0.9468967914581299
+        }
+      ],
+      "ko": "엄마!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

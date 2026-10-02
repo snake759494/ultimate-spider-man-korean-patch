@@ -1,0 +1,35 @@
+{
+  "hash": "5210dc0f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.682375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5420624999999999,
+      "jp": "動くな!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24206250000000007,
+          "jp": "動",
+          "prob": 0.9084054231643677
+        },
+        {
+          "start": 0.24206250000000007,
+          "end": 0.4020625,
+          "jp": "く",
+          "prob": 0.9789618849754333
+        },
+        {
+          "start": 0.4020625,
+          "end": 0.5420624999999999,
+          "jp": "な!",
+          "prob": 0.9957101345062256
+        }
+      ],
+      "ko": "움직이지 마!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

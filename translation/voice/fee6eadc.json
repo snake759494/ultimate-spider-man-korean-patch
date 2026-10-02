@@ -1,0 +1,35 @@
+{
+  "hash": "fee6eadc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.287625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.287625,
+      "jp": "まずいー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.29325000000000045,
+          "jp": "まず",
+          "prob": 0.20998363196849823
+        },
+        {
+          "start": 0.29325000000000045,
+          "end": 0.9132500000000006,
+          "jp": "い",
+          "prob": 0.656532883644104
+        },
+        {
+          "start": 0.9132500000000006,
+          "end": 1.287625,
+          "jp": "ー!",
+          "prob": 0.190450519323349
+        }
+      ],
+      "ko": "큰일이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

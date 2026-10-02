@@ -1,0 +1,15 @@
+{
+  "hash": "09882f40",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.84175,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.84175,
+      "jp": "仕留めたな じゃあ終わりにするか",
+      "ko": "해치웠군. 그럼 끝내 볼까?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

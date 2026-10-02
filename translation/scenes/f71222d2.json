@@ -1,0 +1,15 @@
+{
+  "hash": "f71222d2",
+  "duration": 28.7749375,
+  "segments": [
+    {
+      "start": 2.42,
+      "end": 5.46,
+      "jp": "夜の日遠い?何様なつもりだよ",
+      "logprob": -0.43140310399672566,
+      "no_speech": 0.2541141211986542,
+      "ko": "밤 수영이라고? 자기가 뭔데 이래?"
+    }
+  ],
+  "status": "draft_asr_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "7c2e7ddb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2385625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9489374999999995,
+      "jp": "誰か助けて!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.20893749999999756,
+          "jp": "誰",
+          "prob": 0.795524537563324
+        },
+        {
+          "start": 0.20893749999999756,
+          "end": 0.40893749999999685,
+          "jp": "か",
+          "prob": 0.9948530793190002
+        },
+        {
+          "start": 0.40893749999999685,
+          "end": 0.6289374999999993,
+          "jp": "助",
+          "prob": 0.982689380645752
+        },
+        {
+          "start": 0.6289374999999993,
+          "end": 0.9489374999999995,
+          "jp": "けて!",
+          "prob": 0.9967305660247803
+        }
+      ],
+      "ko": "누가 좀 도와줘!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

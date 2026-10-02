@@ -1,0 +1,15 @@
+{
+  "hash": "05e52702",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7716875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7716875,
+      "jp": "車はいたなくぞ、どき",
+      "ko": "차는 내가 가져간다. 비켜!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

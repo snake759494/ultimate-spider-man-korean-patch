@@ -1,0 +1,15 @@
+{
+  "hash": "30edb035",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1750625,
+  "segments": [
+    {
+      "start": 0.15731249999999974,
+      "end": 1.1750625,
+      "jp": "もう十分だ!",
+      "ko": "이제 충분해!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

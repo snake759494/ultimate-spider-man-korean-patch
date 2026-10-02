@@ -1,0 +1,35 @@
+{
+  "hash": "2f523743",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.983,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.82,
+      "jp": "すげー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3,
+          "jp": "す",
+          "prob": 0.651423454284668
+        },
+        {
+          "start": 0.3,
+          "end": 0.52,
+          "jp": "げ",
+          "prob": 0.9734625220298767
+        },
+        {
+          "start": 0.52,
+          "end": 0.82,
+          "jp": "ー!",
+          "prob": 0.3601458668708801
+        }
+      ],
+      "ko": "굉장해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

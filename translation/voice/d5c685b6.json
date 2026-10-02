@@ -1,0 +1,35 @@
+{
+  "hash": "d5c685b6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.74075,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6368125000000013,
+      "jp": "目中だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2168125000000014,
+          "jp": "目",
+          "prob": 0.1968500316143036
+        },
+        {
+          "start": 0.2168125000000014,
+          "end": 0.43681250000000027,
+          "jp": "中",
+          "prob": 0.97430020570755
+        },
+        {
+          "start": 0.43681250000000027,
+          "end": 0.6368125000000013,
+          "jp": "だ!",
+          "prob": 0.9712967276573181
+        }
+      ],
+      "ko": "명중이다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

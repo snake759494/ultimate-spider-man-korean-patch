@@ -1,0 +1,29 @@
+{
+  "hash": "0885fc46",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6829375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.45687500000000014,
+      "jp": "待て!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1968749999999999,
+          "jp": "待",
+          "prob": 0.274808406829834
+        },
+        {
+          "start": 0.1968749999999999,
+          "end": 0.45687500000000014,
+          "jp": "て!",
+          "prob": 0.9981138706207275
+        }
+      ],
+      "ko": "멈춰!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

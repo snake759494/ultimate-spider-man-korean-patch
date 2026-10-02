@@ -1,0 +1,35 @@
+{
+  "hash": "61262904",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6186875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.4957500000000046,
+      "jp": "効かない?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1757500000000043,
+          "jp": "効",
+          "prob": 0.5788551568984985
+        },
+        {
+          "start": 0.1757500000000043,
+          "end": 0.31575000000000486,
+          "jp": "か",
+          "prob": 0.9833518862724304
+        },
+        {
+          "start": 0.31575000000000486,
+          "end": 0.4957500000000046,
+          "jp": "ない?",
+          "prob": 0.9995643496513367
+        }
+      ],
+      "ko": "안 통하나?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

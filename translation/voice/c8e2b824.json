@@ -1,0 +1,15 @@
+{
+  "hash": "c8e2b824",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 5.8225625,
+  "segments": [
+    {
+      "start": 0.8944375000000004,
+      "end": 4.374437499999999,
+      "jp": "殺せ!潰せ!",
+      "ko": "죽여! 짓밟아!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "154f6ba5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.90625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8543124999999989,
+      "jp": "誰だい!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2943125000000002,
+          "jp": "誰",
+          "prob": 0.9176413416862488
+        },
+        {
+          "start": 0.2943125000000002,
+          "end": 0.5743124999999978,
+          "jp": "だ",
+          "prob": 0.9491475820541382
+        },
+        {
+          "start": 0.5743124999999978,
+          "end": 0.8543124999999989,
+          "jp": "い!",
+          "prob": 0.3671554625034332
+        }
+      ],
+      "ko": "누구야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

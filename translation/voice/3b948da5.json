@@ -1,0 +1,15 @@
+{
+  "hash": "3b948da5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5165,
+  "segments": [
+    {
+      "start": 0.20743750000000283,
+      "end": 1.5165,
+      "jp": "助かった!スパイダーもん!",
+      "ko": "덕분에 살았어, 스파이더맨!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

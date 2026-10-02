@@ -1,0 +1,15 @@
+{
+  "hash": "a4a93298",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.870375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7,
+      "jp": "判滅せしめてやる!",
+      "ko": "파멸시켜 주마!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

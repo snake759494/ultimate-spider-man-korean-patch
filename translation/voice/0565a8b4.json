@@ -1,0 +1,15 @@
+{
+  "hash": "0565a8b4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6703125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6703125,
+      "jp": "こんなとこ来るつもりなかったのに",
+      "ko": "이런 데 올 생각은 없었는데!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

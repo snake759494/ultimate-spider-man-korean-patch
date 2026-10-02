@@ -1,0 +1,41 @@
+{
+  "hash": "61378c7e",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.9355,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9355,
+      "jp": "いつもいつも",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2396250000000002,
+          "jp": "いつ",
+          "prob": 0.2584056556224823
+        },
+        {
+          "start": 0.2396250000000002,
+          "end": 0.499625,
+          "jp": "も",
+          "prob": 0.9955151677131653
+        },
+        {
+          "start": 0.499625,
+          "end": 0.7196250000000006,
+          "jp": "いつ",
+          "prob": 0.44111189246177673
+        },
+        {
+          "start": 0.7196250000000006,
+          "end": 0.9355,
+          "jp": "も",
+          "prob": 0.9973209500312805
+        }
+      ],
+      "ko": "언제나 이 모양이야."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

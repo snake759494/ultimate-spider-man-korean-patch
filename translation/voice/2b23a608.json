@@ -1,0 +1,35 @@
+{
+  "hash": "2b23a608",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6756875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5398749999999986,
+      "jp": "上にいる!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.21987499999999827,
+          "jp": "上",
+          "prob": 0.9488074779510498
+        },
+        {
+          "start": 0.21987499999999827,
+          "end": 0.3798749999999984,
+          "jp": "に",
+          "prob": 0.9952734112739563
+        },
+        {
+          "start": 0.3798749999999984,
+          "end": 0.5398749999999986,
+          "jp": "いる!",
+          "prob": 0.9818555116653442
+        }
+      ],
+      "ko": "위에 있다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

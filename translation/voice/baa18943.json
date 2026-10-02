@@ -1,0 +1,35 @@
+{
+  "hash": "baa18943",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7171875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.4113125000000002,
+      "jp": "そこだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.17131249999999998,
+          "jp": "そ",
+          "prob": 0.9977843165397644
+        },
+        {
+          "start": 0.17131249999999998,
+          "end": 0.2913125000000001,
+          "jp": "こ",
+          "prob": 0.9957591891288757
+        },
+        {
+          "start": 0.2913125000000001,
+          "end": 0.4113125000000002,
+          "jp": "だ!",
+          "prob": 0.9945185780525208
+        }
+      ],
+      "ko": "저기다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

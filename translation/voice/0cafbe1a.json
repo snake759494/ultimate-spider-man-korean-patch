@@ -1,0 +1,15 @@
+{
+  "hash": "0cafbe1a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.64475,
+  "segments": [
+    {
+      "start": 0.12449999999999983,
+      "end": 1.4245,
+      "jp": "どうだいヒーローさんよ",
+      "ko": "어떠냐, 영웅 나리?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

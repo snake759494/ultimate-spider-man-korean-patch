@@ -1,0 +1,15 @@
+{
+  "hash": "1503eaad",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.4903125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.26,
+      "jp": "行っちまえ!",
+      "ko": "가 버려!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "22a9a68b",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.6755,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.64,
+      "jp": "素晴らしい奴だな",
+      "ko": "재빠른 녀석이네."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

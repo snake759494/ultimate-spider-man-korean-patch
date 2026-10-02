@@ -1,0 +1,15 @@
+{
+  "hash": "e3268540",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.878375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.5,
+      "jp": "化け物どんな気分だ?",
+      "ko": "괴물, 기분이 어때?"
+    }
+  ],
+  "recognition": "kotoba_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

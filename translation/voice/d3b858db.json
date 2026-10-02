@@ -1,0 +1,29 @@
+{
+  "hash": "d3b858db",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8156875,
+  "segments": [
+    {
+      "start": 0.005312499999995168,
+      "end": 0.605312499999993,
+      "jp": "話して",
+      "words": [
+        {
+          "start": 0.005312499999995168,
+          "end": 0.2653124999999932,
+          "jp": "話",
+          "prob": 0.2942487299442291
+        },
+        {
+          "start": 0.2653124999999932,
+          "end": 0.605312499999993,
+          "jp": "して",
+          "prob": 0.9887423515319824
+        }
+      ],
+      "ko": "놓아 줘!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

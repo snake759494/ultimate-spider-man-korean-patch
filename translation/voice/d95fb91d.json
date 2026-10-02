@@ -1,0 +1,65 @@
+{
+  "hash": "d95fb91d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6645625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6645625,
+      "jp": "ねちっこいやつだな",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28,
+          "jp": "ね",
+          "prob": 0.44533219933509827
+        },
+        {
+          "start": 0.28,
+          "end": 0.5,
+          "jp": "ち",
+          "prob": 0.5590925216674805
+        },
+        {
+          "start": 0.5,
+          "end": 0.64,
+          "jp": "っ",
+          "prob": 0.7815895676612854
+        },
+        {
+          "start": 0.64,
+          "end": 0.72,
+          "jp": "こ",
+          "prob": 0.9140270948410034
+        },
+        {
+          "start": 0.72,
+          "end": 0.92,
+          "jp": "いや",
+          "prob": 0.5974440574645996
+        },
+        {
+          "start": 0.92,
+          "end": 1.1,
+          "jp": "つ",
+          "prob": 0.987905740737915
+        },
+        {
+          "start": 1.1,
+          "end": 1.24,
+          "jp": "だ",
+          "prob": 0.9967632293701172
+        },
+        {
+          "start": 1.24,
+          "end": 1.6645625,
+          "jp": "な",
+          "prob": 0.9767749905586243
+        }
+      ],
+      "ko": "끈질긴 녀석이군!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

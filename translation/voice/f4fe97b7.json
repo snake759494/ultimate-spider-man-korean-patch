@@ -1,0 +1,35 @@
+{
+  "hash": "f4fe97b7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0134375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8339375000000011,
+      "jp": "なによ?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.31393750000000153,
+          "jp": "な",
+          "prob": 0.15106098353862762
+        },
+        {
+          "start": 0.31393750000000153,
+          "end": 0.5739375000000031,
+          "jp": "に",
+          "prob": 0.8449497818946838
+        },
+        {
+          "start": 0.5739375000000031,
+          "end": 0.8339375000000011,
+          "jp": "よ?",
+          "prob": 0.7352678179740906
+        }
+      ],
+      "ko": "뭐야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "f624f023",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.109125,
+  "segments": [
+    {
+      "start": 0.2674375000000002,
+      "end": 1.109125,
+      "jp": "なに?ゃあ!",
+      "ko": "뭐야?!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

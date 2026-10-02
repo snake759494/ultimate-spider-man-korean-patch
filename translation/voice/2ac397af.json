@@ -1,0 +1,41 @@
+{
+  "hash": "2ac397af",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9845625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9424374999999996,
+      "jp": "もう十分だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2624374999999999,
+          "jp": "もう",
+          "prob": 0.9392444491386414
+        },
+        {
+          "start": 0.2624374999999999,
+          "end": 0.5424374999999992,
+          "jp": "十",
+          "prob": 0.9954387545585632
+        },
+        {
+          "start": 0.5424374999999992,
+          "end": 0.7424374999999994,
+          "jp": "分",
+          "prob": 0.9997857213020325
+        },
+        {
+          "start": 0.7424374999999994,
+          "end": 0.9424374999999996,
+          "jp": "だ!",
+          "prob": 0.9992135763168335
+        }
+      ],
+      "ko": "이제 충분해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

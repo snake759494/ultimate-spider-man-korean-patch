@@ -1,0 +1,47 @@
+{
+  "hash": "7a59c20a",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.5315625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.38,
+      "jp": "これ、失くしましたよね",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2,
+          "jp": "これ、",
+          "prob": 0.7249404788017273
+        },
+        {
+          "start": 0.56,
+          "end": 0.78,
+          "jp": "失",
+          "prob": 0.292366623878479
+        },
+        {
+          "start": 0.78,
+          "end": 0.9,
+          "jp": "く",
+          "prob": 0.9614947438240051
+        },
+        {
+          "start": 0.9,
+          "end": 1.08,
+          "jp": "しました",
+          "prob": 0.9900887608528137
+        },
+        {
+          "start": 1.08,
+          "end": 1.38,
+          "jp": "よね",
+          "prob": 0.9948874115943909
+        }
+      ],
+      "ko": "이거 잃어버리셨죠?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

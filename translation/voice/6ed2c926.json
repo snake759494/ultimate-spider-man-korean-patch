@@ -1,0 +1,15 @@
+{
+  "hash": "6ed2c926",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.984625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.984625,
+      "jp": "魚は料理する前に占めろって 教えてやったや",
+      "ko": "생선은 요리하기 전에 숨통을 끊어야 한다고 가르쳐 줬지."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

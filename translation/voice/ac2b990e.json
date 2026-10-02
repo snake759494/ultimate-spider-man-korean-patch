@@ -1,0 +1,41 @@
+{
+  "hash": "ac2b990e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0464375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8886874999999996,
+      "jp": "こんなバカな!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3486875000000005,
+          "jp": "こんな",
+          "prob": 0.6838310956954956
+        },
+        {
+          "start": 0.3486875000000005,
+          "end": 0.6086875000000003,
+          "jp": "バ",
+          "prob": 0.5586855411529541
+        },
+        {
+          "start": 0.6086875000000003,
+          "end": 0.7086874999999999,
+          "jp": "カ",
+          "prob": 0.9842371344566345
+        },
+        {
+          "start": 0.7086874999999999,
+          "end": 0.8886874999999996,
+          "jp": "な!",
+          "prob": 0.9537634253501892
+        }
+      ],
+      "ko": "말도 안 돼!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

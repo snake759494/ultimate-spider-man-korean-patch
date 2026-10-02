@@ -1,0 +1,15 @@
+{
+  "hash": "392f3fea",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 4.316125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 4.316125,
+      "jp": "タイムズスクエアまで行って戻るいいな、よーい、スタート!",
+      "ko": "타임스 스퀘어까지 갔다 오는 거야. 알았지? 준비, 출발!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

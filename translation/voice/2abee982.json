@@ -1,0 +1,47 @@
+{
+  "hash": "2abee982",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1424375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.98,
+      "jp": "これ、取れないのか?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26,
+          "jp": "これ、",
+          "prob": 0.7578907608985901
+        },
+        {
+          "start": 0.38,
+          "end": 0.48,
+          "jp": "取",
+          "prob": 0.6310346722602844
+        },
+        {
+          "start": 0.48,
+          "end": 0.64,
+          "jp": "れない",
+          "prob": 0.9637786746025085
+        },
+        {
+          "start": 0.64,
+          "end": 0.8,
+          "jp": "の",
+          "prob": 0.9984675049781799
+        },
+        {
+          "start": 0.8,
+          "end": 0.98,
+          "jp": "か?",
+          "prob": 0.9882935285568237
+        }
+      ],
+      "ko": "이거 못 떼는 거야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "0344986c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7366875,
+  "segments": [
+    {
+      "start": 0.05068750000000044,
+      "end": 1.7366875,
+      "jp": "コスチュームどこで買ったのかしら",
+      "ko": "저 의상은 어디서 샀을까?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

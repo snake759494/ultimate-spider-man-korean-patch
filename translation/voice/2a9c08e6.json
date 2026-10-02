@@ -1,0 +1,35 @@
+{
+  "hash": "2a9c08e6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.44575,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0343750000000007,
+      "jp": "ああ!どうした!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.31437500000000007,
+          "jp": "ああ!",
+          "prob": 0.1777302473783493
+        },
+        {
+          "start": 0.5343750000000007,
+          "end": 0.7943750000000005,
+          "jp": "どう",
+          "prob": 0.8022019267082214
+        },
+        {
+          "start": 0.7943750000000005,
+          "end": 1.0343750000000007,
+          "jp": "した!",
+          "prob": 0.9958330988883972
+        }
+      ],
+      "ko": "아! 무슨 일이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

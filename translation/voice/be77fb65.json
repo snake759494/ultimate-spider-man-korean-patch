@@ -1,0 +1,35 @@
+{
+  "hash": "be77fb65",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.755625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.4604374999999994,
+      "jp": "終わった!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.16043750000000045,
+          "jp": "終",
+          "prob": 0.5930470824241638
+        },
+        {
+          "start": 0.16043750000000045,
+          "end": 0.2604375000000001,
+          "jp": "わ",
+          "prob": 0.9943398833274841
+        },
+        {
+          "start": 0.2604375000000001,
+          "end": 0.4604374999999994,
+          "jp": "った!",
+          "prob": 0.9898365139961243
+        }
+      ],
+      "ko": "끝났다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

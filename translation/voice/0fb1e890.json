@@ -1,0 +1,15 @@
+{
+  "hash": "0fb1e890",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7668125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7668125,
+      "jp": "ー!退却を!",
+      "ko": "후퇴하라!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

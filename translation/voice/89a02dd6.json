@@ -1,0 +1,59 @@
+{
+  "hash": "89a02dd6",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 5.4113125,
+  "segments": [
+    {
+      "start": 1.06,
+      "end": 3.96,
+      "jp": "思い知らせてやぁ",
+      "words": [
+        {
+          "start": 1.06,
+          "end": 1.42,
+          "jp": "思",
+          "prob": 0.0950397253036499
+        },
+        {
+          "start": 1.42,
+          "end": 1.78,
+          "jp": "い",
+          "prob": 0.9742582440376282
+        },
+        {
+          "start": 1.78,
+          "end": 2.08,
+          "jp": "知",
+          "prob": 0.943565309047699
+        },
+        {
+          "start": 2.08,
+          "end": 2.32,
+          "jp": "ら",
+          "prob": 0.9983396530151367
+        },
+        {
+          "start": 2.32,
+          "end": 2.76,
+          "jp": "せて",
+          "prob": 0.45629066228866577
+        },
+        {
+          "start": 2.76,
+          "end": 3.58,
+          "jp": "や",
+          "prob": 0.28665462136268616
+        },
+        {
+          "start": 3.58,
+          "end": 3.96,
+          "jp": "ぁ",
+          "prob": 0.1629398912191391
+        }
+      ],
+      "ko": "따끔하게 가르쳐 주마!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

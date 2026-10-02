@@ -1,0 +1,15 @@
+{
+  "hash": "2af90150",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.21225,
+  "segments": [
+    {
+      "start": 0.19424999999999937,
+      "end": 1.21225,
+      "jp": "目標、査定雷!",
+      "ko": "목표, 사정거리 내!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "35e7f006",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.654875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6295624999999951,
+      "jp": "お馬鹿さん!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.12956249999999514,
+          "jp": "お",
+          "prob": 0.6679348349571228
+        },
+        {
+          "start": 0.12956249999999514,
+          "end": 0.2695624999999957,
+          "jp": "馬",
+          "prob": 0.28819674253463745
+        },
+        {
+          "start": 0.2695624999999957,
+          "end": 0.36956249999999713,
+          "jp": "鹿",
+          "prob": 0.9499621689319611
+        },
+        {
+          "start": 0.36956249999999713,
+          "end": 0.6295624999999951,
+          "jp": "さん!",
+          "prob": 0.9816486835479736
+        }
+      ],
+      "ko": "바보 같긴!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

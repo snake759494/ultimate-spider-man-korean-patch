@@ -1,0 +1,35 @@
+{
+  "hash": "03665268",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.7915625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.613812499999991,
+      "jp": "はい、どうぞ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2138124999999924,
+          "jp": "はい、",
+          "prob": 0.8997962474822998
+        },
+        {
+          "start": 0.37381249999999255,
+          "end": 0.4738124999999904,
+          "jp": "どう",
+          "prob": 0.9945681095123291
+        },
+        {
+          "start": 0.4738124999999904,
+          "end": 0.613812499999991,
+          "jp": "ぞ!",
+          "prob": 0.999909520149231
+        }
+      ],
+      "ko": "자, 여기!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

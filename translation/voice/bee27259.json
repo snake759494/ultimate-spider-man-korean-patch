@@ -1,0 +1,35 @@
+{
+  "hash": "bee27259",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8858125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.54575,
+      "jp": "おい! みんな!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.4257500000000003,
+          "jp": "おい!",
+          "prob": 0.5618217587471008
+        },
+        {
+          "start": 0.9857500000000003,
+          "end": 1.2257500000000001,
+          "jp": " み",
+          "prob": 0.8864404261112213
+        },
+        {
+          "start": 1.2257500000000001,
+          "end": 1.54575,
+          "jp": "んな!",
+          "prob": 0.9881110191345215
+        }
+      ],
+      "ko": "이봐! 다들!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

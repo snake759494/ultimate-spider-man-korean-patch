@@ -1,0 +1,15 @@
+{
+  "hash": "1881d553",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0928125,
+  "segments": [
+    {
+      "start": 0.1743124999999992,
+      "end": 1.0928125,
+      "jp": "これはチャンスだ",
+      "ko": "지금이 기회야!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

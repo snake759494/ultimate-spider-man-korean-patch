@@ -1,0 +1,41 @@
+{
+  "hash": "358969d7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1431875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.839500000000001,
+      "jp": "このクズが!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2795000000000023,
+          "jp": "この",
+          "prob": 0.98226398229599
+        },
+        {
+          "start": 0.2795000000000023,
+          "end": 0.5594999999999999,
+          "jp": "ク",
+          "prob": 0.5742040276527405
+        },
+        {
+          "start": 0.5594999999999999,
+          "end": 0.6995000000000005,
+          "jp": "ズ",
+          "prob": 0.9544335603713989
+        },
+        {
+          "start": 0.6995000000000005,
+          "end": 0.839500000000001,
+          "jp": "が!",
+          "prob": 0.976323664188385
+        }
+      ],
+      "ko": "이 쓰레기!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

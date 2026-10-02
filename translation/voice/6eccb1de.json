@@ -1,0 +1,15 @@
+{
+  "hash": "6eccb1de",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4245,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.42,
+      "jp": "チョロチョロしあって",
+      "ko": "촐랑촐랑 돌아다니기는!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

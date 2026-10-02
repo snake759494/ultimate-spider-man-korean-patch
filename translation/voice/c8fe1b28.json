@@ -1,0 +1,15 @@
+{
+  "hash": "c8fe1b28",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.488625,
+  "segments": [
+    {
+      "start": 0.031875000000002984,
+      "end": 2.488625,
+      "jp": "なんだよお前ら、しっかりしろよ!",
+      "ko": "뭐 하는 거야, 너희들! 정신 차려!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

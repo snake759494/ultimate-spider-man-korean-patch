@@ -1,0 +1,15 @@
+{
+  "hash": "338f63df",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.681125,
+  "segments": [
+    {
+      "start": 0.27743749999999956,
+      "end": 0.681125,
+      "jp": "この野郎!",
+      "ko": "이 자식!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

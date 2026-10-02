@@ -1,0 +1,15 @@
+{
+  "hash": "2cf9de5a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.199375,
+  "segments": [
+    {
+      "start": 0.1983125000000001,
+      "end": 3.199375,
+      "jp": "逮捕するのが職務だが、どうやらあんたらは全人らしい",
+      "ko": "체포하는 게 내 일이지만, 아무래도 당신들은 선량한 사람들 같군."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

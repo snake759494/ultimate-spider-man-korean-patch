@@ -1,0 +1,15 @@
+{
+  "hash": "08d89399",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0255,
+  "segments": [
+    {
+      "start": 0.2886875,
+      "end": 1.0255,
+      "jp": "目中だ!",
+      "ko": "명중이다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

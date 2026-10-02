@@ -1,0 +1,15 @@
+{
+  "hash": "04f51d36",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.76,
+  "segments": [
+    {
+      "start": 0.17050000000000054,
+      "end": 0.7504999999999988,
+      "jp": "接敵",
+      "ko": "적과 접촉!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

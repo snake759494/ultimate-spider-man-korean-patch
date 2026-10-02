@@ -1,0 +1,15 @@
+{
+  "hash": "97333c25",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8041875,
+  "segments": [
+    {
+      "start": 0.16262499999999847,
+      "end": 1.8041875,
+      "jp": "お前たち、見てるな?",
+      "ko": "너희, 보고만 있지 마!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

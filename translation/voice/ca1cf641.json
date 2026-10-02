@@ -1,0 +1,19 @@
+{
+  "hash": "ca1cf641",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8685625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.8685625,
+      "jp": "ううそういつまでも戦いはしまい",
+      "ko": "계속 싸울 순 없겠지!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

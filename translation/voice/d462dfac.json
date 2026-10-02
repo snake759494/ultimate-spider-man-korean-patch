@@ -1,0 +1,35 @@
+{
+  "hash": "d462dfac",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.157375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.157375,
+      "jp": "撃てー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.25743749999999976,
+          "jp": "撃",
+          "prob": 0.8765349984169006
+        },
+        {
+          "start": 0.25743749999999976,
+          "end": 0.5174374999999998,
+          "jp": "て",
+          "prob": 0.9708400964736938
+        },
+        {
+          "start": 0.5174374999999998,
+          "end": 1.157375,
+          "jp": "ー!",
+          "prob": 0.17069236934185028
+        }
+      ],
+      "ko": "쏴!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

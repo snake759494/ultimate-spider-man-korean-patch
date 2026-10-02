@@ -1,0 +1,35 @@
+{
+  "hash": "48523e54",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.715875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.4973750000000008,
+      "jp": "出てけ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.21737500000000054,
+          "jp": "出",
+          "prob": 0.948494553565979
+        },
+        {
+          "start": 0.21737500000000054,
+          "end": 0.3573750000000002,
+          "jp": "て",
+          "prob": 0.9980430603027344
+        },
+        {
+          "start": 0.3573750000000002,
+          "end": 0.4973750000000008,
+          "jp": "け!",
+          "prob": 0.8012917041778564
+        }
+      ],
+      "ko": "나가!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "71d05916",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.83125,
+  "segments": [
+    {
+      "start": 0.010375000000003354,
+      "end": 2.7103750000000026,
+      "jp": "なんでチケットが手に入らないんだろうな",
+      "ko": "왜 표를 구할 수가 없는 걸까?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

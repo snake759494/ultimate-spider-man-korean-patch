@@ -1,0 +1,35 @@
+{
+  "hash": "2f650cee",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6349375,
+  "segments": [
+    {
+      "start": 0.035125000000000295,
+      "end": 0.4551250000000002,
+      "jp": "よっしゃ!",
+      "words": [
+        {
+          "start": 0.035125000000000295,
+          "end": 0.17512499999999998,
+          "jp": "よ",
+          "prob": 0.7567468285560608
+        },
+        {
+          "start": 0.17512499999999998,
+          "end": 0.27512500000000006,
+          "jp": "っ",
+          "prob": 0.998767614364624
+        },
+        {
+          "start": 0.27512500000000006,
+          "end": 0.4551250000000002,
+          "jp": "しゃ!",
+          "prob": 0.9835952520370483
+        }
+      ],
+      "ko": "좋았어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

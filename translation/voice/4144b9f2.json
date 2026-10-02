@@ -1,0 +1,35 @@
+{
+  "hash": "4144b9f2",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.849375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5251874999999995,
+      "jp": "どかんだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1451874999999987,
+          "jp": "ど",
+          "prob": 0.990780770778656
+        },
+        {
+          "start": 0.1451874999999987,
+          "end": 0.34518749999999976,
+          "jp": "か",
+          "prob": 0.9960339665412903
+        },
+        {
+          "start": 0.34518749999999976,
+          "end": 0.5251874999999995,
+          "jp": "んだ!",
+          "prob": 0.9942805767059326
+        }
+      ],
+      "ko": "쾅이다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

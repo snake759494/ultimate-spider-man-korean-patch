@@ -1,0 +1,59 @@
+{
+  "hash": "3d0bb718",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2878125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.2,
+      "jp": "お前たち見てるな",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.16,
+          "jp": "お",
+          "prob": 0.7246870994567871
+        },
+        {
+          "start": 0.16,
+          "end": 0.34,
+          "jp": "前",
+          "prob": 0.9126101732254028
+        },
+        {
+          "start": 0.34,
+          "end": 0.48,
+          "jp": "た",
+          "prob": 0.7991224527359009
+        },
+        {
+          "start": 0.48,
+          "end": 0.6,
+          "jp": "ち",
+          "prob": 0.9985039234161377
+        },
+        {
+          "start": 0.6,
+          "end": 0.78,
+          "jp": "見て",
+          "prob": 0.7805299162864685
+        },
+        {
+          "start": 0.78,
+          "end": 1.0,
+          "jp": "る",
+          "prob": 0.9493882060050964
+        },
+        {
+          "start": 1.0,
+          "end": 1.2,
+          "jp": "な",
+          "prob": 0.9932242631912231
+        }
+      ],
+      "ko": "너희, 보고만 있지 마!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

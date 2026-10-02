@@ -1,0 +1,65 @@
+{
+  "hash": "cf808ff5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.145875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.145875,
+      "jp": "こぞみ!なんて速さだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26,
+          "jp": "こ",
+          "prob": 0.2672191560268402
+        },
+        {
+          "start": 0.26,
+          "end": 0.48,
+          "jp": "ぞ",
+          "prob": 0.37326183915138245
+        },
+        {
+          "start": 0.48,
+          "end": 0.74,
+          "jp": "み!",
+          "prob": 0.7801216840744019
+        },
+        {
+          "start": 0.96,
+          "end": 1.22,
+          "jp": "なん",
+          "prob": 0.7603793740272522
+        },
+        {
+          "start": 1.22,
+          "end": 1.46,
+          "jp": "て",
+          "prob": 0.9901143312454224
+        },
+        {
+          "start": 1.46,
+          "end": 1.64,
+          "jp": "速",
+          "prob": 0.38422974944114685
+        },
+        {
+          "start": 1.64,
+          "end": 1.78,
+          "jp": "さ",
+          "prob": 0.744392991065979
+        },
+        {
+          "start": 1.78,
+          "end": 2.145875,
+          "jp": "だ!",
+          "prob": 0.9915333390235901
+        }
+      ],
+      "ko": "꼬마 녀석, 엄청나게 빠르군!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

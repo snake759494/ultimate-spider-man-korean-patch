@@ -1,0 +1,15 @@
+{
+  "hash": "d868fb34",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.509,
+  "segments": [
+    {
+      "start": 0.034250000000000114,
+      "end": 3.509,
+      "jp": "あいつの首を取った奴には10ポイント加算だ!",
+      "ko": "놈의 목을 따는 녀석에게 10점 추가다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "fe910bc4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.279125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.033875,
+      "jp": "こうやるんだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3938750000000004,
+          "jp": "こう",
+          "prob": 0.8582326769828796
+        },
+        {
+          "start": 0.3938750000000004,
+          "end": 0.6738749999999998,
+          "jp": "や",
+          "prob": 0.9761011004447937
+        },
+        {
+          "start": 0.6738749999999998,
+          "end": 0.8338749999999999,
+          "jp": "る",
+          "prob": 0.9887942671775818
+        },
+        {
+          "start": 0.8338749999999999,
+          "end": 1.033875,
+          "jp": "んだ!",
+          "prob": 0.9704843759536743
+        }
+      ],
+      "ko": "이렇게 하는 거야."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

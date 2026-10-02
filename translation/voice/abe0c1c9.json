@@ -1,0 +1,41 @@
+{
+  "hash": "abe0c1c9",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9259375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7951874999999999,
+      "jp": "このくずが",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2551874999999999,
+          "jp": "この",
+          "prob": 0.9368982911109924
+        },
+        {
+          "start": 0.2551874999999999,
+          "end": 0.4951874999999992,
+          "jp": "く",
+          "prob": 0.9920491576194763
+        },
+        {
+          "start": 0.4951874999999992,
+          "end": 0.6151874999999993,
+          "jp": "ず",
+          "prob": 0.9964689016342163
+        },
+        {
+          "start": 0.6151874999999993,
+          "end": 0.7951874999999999,
+          "jp": "が",
+          "prob": 0.9986131191253662
+        }
+      ],
+      "ko": "이 쓰레기 같은 놈!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

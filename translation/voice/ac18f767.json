@@ -1,0 +1,41 @@
+{
+  "hash": "ac18f767",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.12,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.12,
+      "jp": "目標確認",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.15731250000000685,
+          "jp": "目",
+          "prob": 0.45326313376426697
+        },
+        {
+          "start": 0.15731250000000685,
+          "end": 0.4973125000000067,
+          "jp": "標",
+          "prob": 0.9969210624694824
+        },
+        {
+          "start": 0.4973125000000067,
+          "end": 0.7773125000000078,
+          "jp": "確",
+          "prob": 0.9752466082572937
+        },
+        {
+          "start": 0.7773125000000078,
+          "end": 1.12,
+          "jp": "認",
+          "prob": 0.9982150793075562
+        }
+      ],
+      "ko": "목표 확인."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

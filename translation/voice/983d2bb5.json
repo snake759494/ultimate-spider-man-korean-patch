@@ -1,0 +1,41 @@
+{
+  "hash": "983d2bb5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.866375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7345624999999991,
+      "jp": "だまってろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.15456250000000082,
+          "jp": "だ",
+          "prob": 0.565951406955719
+        },
+        {
+          "start": 0.15456250000000082,
+          "end": 0.31456250000000097,
+          "jp": "ま",
+          "prob": 0.8058190941810608
+        },
+        {
+          "start": 0.31456250000000097,
+          "end": 0.4945625000000007,
+          "jp": "って",
+          "prob": 0.745311975479126
+        },
+        {
+          "start": 0.4945625000000007,
+          "end": 0.7345624999999991,
+          "jp": "ろ!",
+          "prob": 0.9791714549064636
+        }
+      ],
+      "ko": "입 다물어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,19 @@
+{
+  "hash": "946b7228",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.52725,
+  "segments": [
+    {
+      "start": 0.12437500000000234,
+      "end": 1.52725,
+      "jp": "おい、割り込むな",
+      "ko": "야, 끼어들지 마!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

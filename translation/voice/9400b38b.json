@@ -1,0 +1,41 @@
+{
+  "hash": "9400b38b",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.9758125,
+  "segments": [
+    {
+      "start": 0.017875000000000973,
+      "end": 1.9758125,
+      "jp": "もえろー!",
+      "words": [
+        {
+          "start": 0.017875000000000973,
+          "end": 0.4978750000000005,
+          "jp": "も",
+          "prob": 0.2369975596666336
+        },
+        {
+          "start": 0.4978750000000005,
+          "end": 0.6978750000000007,
+          "jp": "え",
+          "prob": 0.5139912962913513
+        },
+        {
+          "start": 0.6978750000000007,
+          "end": 1.1178750000000006,
+          "jp": "ろ",
+          "prob": 0.5798063278198242
+        },
+        {
+          "start": 1.1178750000000006,
+          "end": 1.9758125,
+          "jp": "ー!",
+          "prob": 0.2200605571269989
+        }
+      ],
+      "ko": "불타라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

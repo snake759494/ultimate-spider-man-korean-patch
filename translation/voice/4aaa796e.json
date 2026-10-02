@@ -1,0 +1,35 @@
+{
+  "hash": "4aaa796e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.193625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7640624999999996,
+      "jp": "俺は…",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.36406250000000107,
+          "jp": "俺",
+          "prob": 0.7515863180160522
+        },
+        {
+          "start": 0.36406250000000107,
+          "end": 0.5440625000000008,
+          "jp": "は",
+          "prob": 0.9915289878845215
+        },
+        {
+          "start": 0.5440625000000008,
+          "end": 0.7640624999999996,
+          "jp": "…",
+          "prob": 0.07369641214609146
+        }
+      ],
+      "ko": "나는..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

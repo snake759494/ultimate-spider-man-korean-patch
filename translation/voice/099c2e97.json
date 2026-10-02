@@ -1,0 +1,15 @@
+{
+  "hash": "099c2e97",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1680625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.12,
+      "jp": "お金を取り返したいんだ",
+      "ko": "내 돈을 되찾고 싶어!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "c2e20677",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4335,
+  "segments": [
+    {
+      "start": 0.03774999999999906,
+      "end": 1.4335,
+      "jp": "こいつはいただいて",
+      "ko": "이건 내가 가져가지."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

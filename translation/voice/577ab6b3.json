@@ -1,0 +1,15 @@
+{
+  "hash": "577ab6b3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 4.799125,
+  "segments": [
+    {
+      "start": 0.49487499999999995,
+      "end": 4.799125,
+      "jp": "そんな脱勢マスクつけなきゃならないなんて、よっぽどブサイクなんだな!",
+      "ko": "그런 촌스러운 가면을 써야 하다니 어지간히 못생겼나 보군!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

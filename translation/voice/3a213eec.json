@@ -1,0 +1,29 @@
+{
+  "hash": "3a213eec",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.6955,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6937499999999979,
+      "jp": "誰や!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.23374999999999702,
+          "jp": "誰",
+          "prob": 0.47742024064064026
+        },
+        {
+          "start": 0.23374999999999702,
+          "end": 0.6937499999999979,
+          "jp": "や!",
+          "prob": 0.8163313865661621
+        }
+      ],
+      "ko": "누구야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

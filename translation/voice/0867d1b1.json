@@ -1,0 +1,41 @@
+{
+  "hash": "0867d1b1",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.085875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8846249999999962,
+      "jp": "やるじゃないか!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24462499999999565,
+          "jp": "や",
+          "prob": 0.5645379424095154
+        },
+        {
+          "start": 0.24462499999999565,
+          "end": 0.42462499999999537,
+          "jp": "る",
+          "prob": 0.9970816969871521
+        },
+        {
+          "start": 0.42462499999999537,
+          "end": 0.6246249999999947,
+          "jp": "じゃない",
+          "prob": 0.9749262928962708
+        },
+        {
+          "start": 0.6246249999999947,
+          "end": 0.8846249999999962,
+          "jp": "か!",
+          "prob": 0.9974814057350159
+        }
+      ],
+      "ko": "제법인데!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

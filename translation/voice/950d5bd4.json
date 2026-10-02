@@ -1,0 +1,15 @@
+{
+  "hash": "950d5bd4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.596375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.596375,
+      "jp": "テレビの方が弱そうに見えるわね",
+      "ko": "텔레비전에서는 더 약해 보이네."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

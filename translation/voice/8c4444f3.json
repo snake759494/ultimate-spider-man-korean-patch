@@ -1,0 +1,47 @@
+{
+  "hash": "8c4444f3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2101875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9440624999999998,
+      "jp": "さあ行くぞ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24406250000000007,
+          "jp": "さ",
+          "prob": 0.9832497239112854
+        },
+        {
+          "start": 0.24406250000000007,
+          "end": 0.4640624999999998,
+          "jp": "あ",
+          "prob": 0.6056593656539917
+        },
+        {
+          "start": 0.4640624999999998,
+          "end": 0.6240625,
+          "jp": "行",
+          "prob": 0.5267481207847595
+        },
+        {
+          "start": 0.6240625,
+          "end": 0.7240625,
+          "jp": "く",
+          "prob": 0.9895813465118408
+        },
+        {
+          "start": 0.7240625,
+          "end": 0.9440624999999998,
+          "jp": "ぞ!",
+          "prob": 0.9975008368492126
+        }
+      ],
+      "ko": "자, 간다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

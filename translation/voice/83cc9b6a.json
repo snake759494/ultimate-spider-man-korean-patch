@@ -1,0 +1,15 @@
+{
+  "hash": "83cc9b6a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.77675,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6486249999999991,
+      "jp": "あいつに言ったっけ?",
+      "ko": "그 녀석한테 말했었나?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

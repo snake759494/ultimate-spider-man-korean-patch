@@ -1,0 +1,15 @@
+{
+  "hash": "bbbd631b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6165,
+  "segments": [
+    {
+      "start": 0.1714999999999982,
+      "end": 1.371500000000001,
+      "jp": "うそ、あいつ?",
+      "ko": "말도 안 돼, 저놈이?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

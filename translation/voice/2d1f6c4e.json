@@ -1,0 +1,15 @@
+{
+  "hash": "2d1f6c4e",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 3.184375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.16,
+      "jp": "ミュータントには一時の憩いもないってか",
+      "ko": "뮤턴트에겐 잠깐의 휴식도 없다는 거네."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

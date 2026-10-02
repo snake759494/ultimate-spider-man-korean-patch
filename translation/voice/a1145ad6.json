@@ -1,0 +1,35 @@
+{
+  "hash": "a1145ad6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8958125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8958125,
+      "jp": "なんだあれは",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.29643750000000324,
+          "jp": "なんだ",
+          "prob": 0.40425732731819153
+        },
+        {
+          "start": 0.29643750000000324,
+          "end": 0.5764375000000008,
+          "jp": "あれ",
+          "prob": 0.8925279974937439
+        },
+        {
+          "start": 0.5764375000000008,
+          "end": 0.8958125,
+          "jp": "は",
+          "prob": 0.942759096622467
+        }
+      ],
+      "ko": "저건 뭐야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

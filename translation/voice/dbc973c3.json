@@ -1,0 +1,41 @@
+{
+  "hash": "dbc973c3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8275,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6356249999999974,
+      "jp": "速すぎる!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.21562499999999574,
+          "jp": "速",
+          "prob": 0.325852632522583
+        },
+        {
+          "start": 0.21562499999999574,
+          "end": 0.4356249999999946,
+          "jp": "す",
+          "prob": 0.970649242401123
+        },
+        {
+          "start": 0.4356249999999946,
+          "end": 0.5156249999999964,
+          "jp": "ぎ",
+          "prob": 0.9955808520317078
+        },
+        {
+          "start": 0.5156249999999964,
+          "end": 0.6356249999999974,
+          "jp": "る!",
+          "prob": 0.9991419315338135
+        }
+      ],
+      "ko": "너무 빨라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

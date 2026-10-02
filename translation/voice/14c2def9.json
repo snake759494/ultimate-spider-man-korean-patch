@@ -1,0 +1,35 @@
+{
+  "hash": "14c2def9",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4390625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.1188124999999998,
+      "jp": "本当にありがとう",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.31881249999999994,
+          "jp": "本当",
+          "prob": 0.7759785056114197
+        },
+        {
+          "start": 0.31881249999999994,
+          "end": 0.6388124999999998,
+          "jp": "に",
+          "prob": 0.9965456128120422
+        },
+        {
+          "start": 0.6388124999999998,
+          "end": 1.1188124999999998,
+          "jp": "ありがとう",
+          "prob": 0.6955801248550415
+        }
+      ],
+      "ko": "정말 고마워요!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

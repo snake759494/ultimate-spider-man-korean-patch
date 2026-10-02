@@ -1,0 +1,15 @@
+{
+  "hash": "a21f9740",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5226875,
+  "segments": [
+    {
+      "start": 0.15906249999999922,
+      "end": 1.499062499999999,
+      "jp": "コスプレ野郎だ!",
+      "ko": "분장한 놈이다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

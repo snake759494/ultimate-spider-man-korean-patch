@@ -1,0 +1,15 @@
+{
+  "hash": "207d5a67",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6498125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6498125,
+      "jp": "この陰色野郎が",
+      "ko": "이 사기꾼 자식!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

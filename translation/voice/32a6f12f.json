@@ -1,0 +1,15 @@
+{
+  "hash": "32a6f12f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7128125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7128125,
+      "jp": "テレビの方が太って見えるわね",
+      "ko": "TV에선 더 뚱뚱해 보이던데."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "348b8a60",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.58375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.58375,
+      "jp": "正義の徹底を下してくれる",
+      "ko": "정의의 철퇴를 내려 주마!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

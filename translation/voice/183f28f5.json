@@ -1,0 +1,41 @@
+{
+  "hash": "183f28f5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.922125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7942499999999999,
+      "jp": "金なら持ってる!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1742499999999998,
+          "jp": "金",
+          "prob": 0.3210882246494293
+        },
+        {
+          "start": 0.1742499999999998,
+          "end": 0.37424999999999997,
+          "jp": "なら",
+          "prob": 0.2554180920124054
+        },
+        {
+          "start": 0.37424999999999997,
+          "end": 0.5742500000000001,
+          "jp": "持",
+          "prob": 0.9086050391197205
+        },
+        {
+          "start": 0.5742500000000001,
+          "end": 0.7942499999999999,
+          "jp": "ってる!",
+          "prob": 0.9614459276199341
+        }
+      ],
+      "ko": "돈이라면 있어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

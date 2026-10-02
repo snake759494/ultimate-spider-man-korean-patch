@@ -1,0 +1,35 @@
+{
+  "hash": "3d42167c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.05525,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9004999999999974,
+      "jp": "こんな屈辱!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3404999999999987,
+          "jp": "こんな",
+          "prob": 0.8363603949546814
+        },
+        {
+          "start": 0.3404999999999987,
+          "end": 0.5604999999999976,
+          "jp": "屈",
+          "prob": 0.6060981452465057
+        },
+        {
+          "start": 0.5604999999999976,
+          "end": 0.9004999999999974,
+          "jp": "辱!",
+          "prob": 0.8653666079044342
+        }
+      ],
+      "ko": "이런 굴욕을!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

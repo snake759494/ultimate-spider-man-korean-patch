@@ -1,0 +1,15 @@
+{
+  "hash": "2011d407",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.0135625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.0,
+      "jp": "ジープ部隊キロロメオへ",
+      "ko": "지프 부대, 킬로 로미오로!"
+    }
+  ],
+  "recognition": "kotoba_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "37821cdb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.808125,
+  "segments": [
+    {
+      "start": 0.13837499999999991,
+      "end": 2.7383749999999996,
+      "jp": "数では混ざってるのにどうしてこうなるんだ!",
+      "ko": "수가 더 많은데 왜 이렇게 되는 거야?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

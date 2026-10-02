@@ -1,0 +1,41 @@
+{
+  "hash": "d71fc493",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9221875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7370625000000004,
+      "jp": "逃げるんだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.25706249999999997,
+          "jp": "逃",
+          "prob": 0.9947493374347687
+        },
+        {
+          "start": 0.25706249999999997,
+          "end": 0.3770624999999992,
+          "jp": "げ",
+          "prob": 0.9993152618408203
+        },
+        {
+          "start": 0.3770624999999992,
+          "end": 0.5170624999999998,
+          "jp": "る",
+          "prob": 0.9986009001731873
+        },
+        {
+          "start": 0.5170624999999998,
+          "end": 0.7370625000000004,
+          "jp": "んだ!",
+          "prob": 0.99565190076828
+        }
+      ],
+      "ko": "도망쳐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

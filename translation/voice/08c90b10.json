@@ -1,0 +1,15 @@
+{
+  "hash": "08c90b10",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.92775,
+  "segments": [
+    {
+      "start": 0.05643750000000036,
+      "end": 0.92775,
+      "jp": "目標ダン!",
+      "ko": "목표 제압!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "39e699b1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7004375,
+  "segments": [
+    {
+      "start": 0.0696874999999999,
+      "end": 1.7004375,
+      "jp": "近づいたら訴えてやる!",
+      "ko": "다가오면 고소할 거야!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

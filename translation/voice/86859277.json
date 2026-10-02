@@ -1,0 +1,41 @@
+{
+  "hash": "86859277",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9668125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.744374999999998,
+      "jp": "ぶっ壊せ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.20437499999999886,
+          "jp": "ぶ",
+          "prob": 0.9864002466201782
+        },
+        {
+          "start": 0.20437499999999886,
+          "end": 0.40437499999999815,
+          "jp": "っ",
+          "prob": 0.9953800439834595
+        },
+        {
+          "start": 0.40437499999999815,
+          "end": 0.5443749999999987,
+          "jp": "壊",
+          "prob": 0.8958658874034882
+        },
+        {
+          "start": 0.5443749999999987,
+          "end": 0.744374999999998,
+          "jp": "せ!",
+          "prob": 0.9246857166290283
+        }
+      ],
+      "ko": "부숴 버려!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

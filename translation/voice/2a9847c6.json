@@ -1,0 +1,35 @@
+{
+  "hash": "2a9847c6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9114375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9114375,
+      "jp": "もうちょっとだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.30049999999999955,
+          "jp": "もう",
+          "prob": 0.839998185634613
+        },
+        {
+          "start": 0.30049999999999955,
+          "end": 0.5404999999999998,
+          "jp": "ちょっと",
+          "prob": 0.9662126302719116
+        },
+        {
+          "start": 0.5404999999999998,
+          "end": 0.9114375,
+          "jp": "だ!",
+          "prob": 0.9851760864257812
+        }
+      ],
+      "ko": "조금만 더!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

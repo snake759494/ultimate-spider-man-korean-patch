@@ -1,0 +1,29 @@
+{
+  "hash": "c9f84228",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0740625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5184999999999986,
+      "jp": "大変!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2984999999999989,
+          "jp": "大",
+          "prob": 0.6585360765457153
+        },
+        {
+          "start": 0.2984999999999989,
+          "end": 0.5184999999999986,
+          "jp": "変!",
+          "prob": 0.42292043566703796
+        }
+      ],
+      "ko": "큰일이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

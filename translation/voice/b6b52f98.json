@@ -1,0 +1,41 @@
+{
+  "hash": "b6b52f98",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.551125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8834375000000012,
+      "jp": "一体何なんだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2634375000000002,
+          "jp": "一",
+          "prob": 0.20598958432674408
+        },
+        {
+          "start": 0.2634375000000002,
+          "end": 0.4434375000000017,
+          "jp": "体",
+          "prob": 0.6368066668510437
+        },
+        {
+          "start": 0.4434375000000017,
+          "end": 0.6234375000000014,
+          "jp": "何",
+          "prob": 0.7705044150352478
+        },
+        {
+          "start": 0.6234375000000014,
+          "end": 0.8834375000000012,
+          "jp": "なんだ!",
+          "prob": 0.957482099533081
+        }
+      ],
+      "ko": "대체 뭐야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

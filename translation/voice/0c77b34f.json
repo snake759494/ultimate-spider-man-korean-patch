@@ -1,0 +1,29 @@
+{
+  "hash": "0c77b34f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.15,
+  "segments": [
+    {
+      "start": 0.061249999999997584,
+      "end": 0.7012499999999982,
+      "jp": "走って!",
+      "words": [
+        {
+          "start": 0.061249999999997584,
+          "end": 0.38124999999999787,
+          "jp": "走",
+          "prob": 0.43628308176994324
+        },
+        {
+          "start": 0.38124999999999787,
+          "end": 0.7012499999999982,
+          "jp": "って!",
+          "prob": 0.9815654754638672
+        }
+      ],
+      "ko": "달려!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "c143330c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.718375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.48350000000000026,
+      "jp": "やられた!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18350000000000044,
+          "jp": "や",
+          "prob": 0.8761043548583984
+        },
+        {
+          "start": 0.18350000000000044,
+          "end": 0.2835000000000001,
+          "jp": "ら",
+          "prob": 0.9941425919532776
+        },
+        {
+          "start": 0.2835000000000001,
+          "end": 0.48350000000000026,
+          "jp": "れた!",
+          "prob": 0.980274498462677
+        }
+      ],
+      "ko": "당했다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

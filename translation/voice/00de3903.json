@@ -1,0 +1,35 @@
+{
+  "hash": "00de3903",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.749875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5778125000000003,
+      "jp": "お前だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2178124999999973,
+          "jp": "お",
+          "prob": 0.8385945558547974
+        },
+        {
+          "start": 0.2178124999999973,
+          "end": 0.37781249999999744,
+          "jp": "前",
+          "prob": 0.9466292262077332
+        },
+        {
+          "start": 0.37781249999999744,
+          "end": 0.5778125000000003,
+          "jp": "だ!",
+          "prob": 0.9739132523536682
+        }
+      ],
+      "ko": "바로 너!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

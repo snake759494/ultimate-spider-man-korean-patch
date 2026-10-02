@@ -1,0 +1,41 @@
+{
+  "hash": "785132b3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.203,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.006499999999999,
+      "jp": "攻撃成功!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22649999999999793,
+          "jp": "攻",
+          "prob": 0.9630315899848938
+        },
+        {
+          "start": 0.22649999999999793,
+          "end": 0.44650000000000034,
+          "jp": "撃",
+          "prob": 0.9996975362300873
+        },
+        {
+          "start": 0.44650000000000034,
+          "end": 0.7264999999999979,
+          "jp": "成",
+          "prob": 0.9170158505439758
+        },
+        {
+          "start": 0.7264999999999979,
+          "end": 1.006499999999999,
+          "jp": "功!",
+          "prob": 0.9928383231163025
+        }
+      ],
+      "ko": "공격 성공!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

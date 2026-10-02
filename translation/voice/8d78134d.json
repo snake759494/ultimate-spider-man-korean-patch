@@ -1,0 +1,59 @@
+{
+  "hash": "8d78134d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.254375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.96,
+      "jp": "金でなんとかしろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24,
+          "jp": "金",
+          "prob": 0.5661477446556091
+        },
+        {
+          "start": 0.24,
+          "end": 0.38,
+          "jp": "で",
+          "prob": 0.9555574655532837
+        },
+        {
+          "start": 0.38,
+          "end": 0.54,
+          "jp": "なん",
+          "prob": 0.6228139996528625
+        },
+        {
+          "start": 0.54,
+          "end": 0.64,
+          "jp": "と",
+          "prob": 0.2480085790157318
+        },
+        {
+          "start": 0.64,
+          "end": 0.74,
+          "jp": "か",
+          "prob": 0.9519818425178528
+        },
+        {
+          "start": 0.74,
+          "end": 0.82,
+          "jp": "し",
+          "prob": 0.9696221947669983
+        },
+        {
+          "start": 0.82,
+          "end": 0.96,
+          "jp": "ろ!",
+          "prob": 0.9806621074676514
+        }
+      ],
+      "ko": "돈으로 해결해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

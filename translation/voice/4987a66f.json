@@ -1,0 +1,35 @@
+{
+  "hash": "4987a66f",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.5940625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5817499999999995,
+      "jp": "これで二人",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.20174999999999876,
+          "jp": "これで",
+          "prob": 0.9813079237937927
+        },
+        {
+          "start": 0.20174999999999876,
+          "end": 0.40174999999999805,
+          "jp": "二",
+          "prob": 0.4628644287586212
+        },
+        {
+          "start": 0.40174999999999805,
+          "end": 0.5817499999999995,
+          "jp": "人",
+          "prob": 0.9998389482498169
+        }
+      ],
+      "ko": "이걸로 두 명."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,29 @@
+{
+  "hash": "a72259df",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.905625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5029999999999966,
+      "jp": "やめて!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.20299999999999585,
+          "jp": "や",
+          "prob": 0.9433139562606812
+        },
+        {
+          "start": 0.20299999999999585,
+          "end": 0.5029999999999966,
+          "jp": "めて!",
+          "prob": 0.9235168099403381
+        }
+      ],
+      "ko": "그만해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

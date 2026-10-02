@@ -1,0 +1,15 @@
+{
+  "hash": "28d47d03",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7354375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7354375,
+      "jp": "なーによ!",
+      "ko": "뭐야!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

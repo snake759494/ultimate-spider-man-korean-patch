@@ -1,0 +1,71 @@
+{
+  "hash": "d49f2b7d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5971875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.46,
+      "jp": "いったいどうなっちまってるんだ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.16,
+          "jp": "い",
+          "prob": 0.3263232409954071
+        },
+        {
+          "start": 0.16,
+          "end": 0.32,
+          "jp": "った",
+          "prob": 0.9225539565086365
+        },
+        {
+          "start": 0.32,
+          "end": 0.4,
+          "jp": "い",
+          "prob": 0.9870609045028687
+        },
+        {
+          "start": 0.4,
+          "end": 0.58,
+          "jp": "どう",
+          "prob": 0.8304151296615601
+        },
+        {
+          "start": 0.58,
+          "end": 0.74,
+          "jp": "な",
+          "prob": 0.9927825927734375
+        },
+        {
+          "start": 0.74,
+          "end": 0.88,
+          "jp": "っち",
+          "prob": 0.9641135334968567
+        },
+        {
+          "start": 0.88,
+          "end": 0.98,
+          "jp": "ま",
+          "prob": 0.9257048964500427
+        },
+        {
+          "start": 0.98,
+          "end": 1.2,
+          "jp": "ってる",
+          "prob": 0.9556133151054382
+        },
+        {
+          "start": 1.2,
+          "end": 1.46,
+          "jp": "んだ",
+          "prob": 0.9966630339622498
+        }
+      ],
+      "ko": "대체 어떻게 된 거야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

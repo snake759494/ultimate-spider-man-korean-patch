@@ -1,0 +1,15 @@
+{
+  "hash": "295d7654",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4054375,
+  "segments": [
+    {
+      "start": 0.29025000000000034,
+      "end": 1.2702500000000008,
+      "jp": "ぶっ殺せー!",
+      "ko": "죽여 버려!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

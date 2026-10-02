@@ -1,0 +1,41 @@
+{
+  "hash": "7031926f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.056125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9752500000000008,
+      "jp": "この下手れ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2952500000000011,
+          "jp": "この",
+          "prob": 0.7380052804946899
+        },
+        {
+          "start": 0.2952500000000011,
+          "end": 0.5752500000000005,
+          "jp": "下",
+          "prob": 0.40395116806030273
+        },
+        {
+          "start": 0.5752500000000005,
+          "end": 0.6952499999999997,
+          "jp": "手",
+          "prob": 0.719519853591919
+        },
+        {
+          "start": 0.6952499999999997,
+          "end": 0.9752500000000008,
+          "jp": "れ",
+          "prob": 0.611007571220398
+        }
+      ],
+      "ko": "이 겁쟁이!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

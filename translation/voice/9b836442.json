@@ -1,0 +1,35 @@
+{
+  "hash": "9b836442",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.018375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.776250000000001,
+      "jp": "離れろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.35625000000000107,
+          "jp": "離",
+          "prob": 0.9519063234329224
+        },
+        {
+          "start": 0.35625000000000107,
+          "end": 0.5562500000000004,
+          "jp": "れ",
+          "prob": 0.9061431288719177
+        },
+        {
+          "start": 0.5562500000000004,
+          "end": 0.776250000000001,
+          "jp": "ろ!",
+          "prob": 0.9969623684883118
+        }
+      ],
+      "ko": "떨어져!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

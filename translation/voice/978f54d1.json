@@ -1,0 +1,41 @@
+{
+  "hash": "978f54d1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.268,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.2103125000000006,
+      "jp": "もうやめだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.47031250000000213,
+          "jp": "もう",
+          "prob": 0.9680095314979553
+        },
+        {
+          "start": 0.47031250000000213,
+          "end": 0.7903125000000024,
+          "jp": "や",
+          "prob": 0.7859663367271423
+        },
+        {
+          "start": 0.7903125000000024,
+          "end": 0.930312500000003,
+          "jp": "め",
+          "prob": 0.9891662001609802
+        },
+        {
+          "start": 0.930312500000003,
+          "end": 1.2103125000000006,
+          "jp": "だ!",
+          "prob": 0.928531289100647
+        }
+      ],
+      "ko": "이제 그만두겠어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

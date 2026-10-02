@@ -1,0 +1,35 @@
+{
+  "hash": "274b8fff",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7138125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6405624999999999,
+      "jp": " 行くぞ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2205625,
+          "jp": " 行",
+          "prob": 0.9482654333114624
+        },
+        {
+          "start": 0.2205625,
+          "end": 0.30056249999999984,
+          "jp": "く",
+          "prob": 0.9761338233947754
+        },
+        {
+          "start": 0.30056249999999984,
+          "end": 0.6405624999999999,
+          "jp": "ぞ!",
+          "prob": 0.9986745119094849
+        }
+      ],
+      "ko": "간다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,65 @@
+{
+  "hash": "4b76177e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.823625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.72,
+      "jp": "警察だ!手を開けろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24,
+          "jp": "警",
+          "prob": 0.908811092376709
+        },
+        {
+          "start": 0.24,
+          "end": 0.44,
+          "jp": "察",
+          "prob": 0.9989677667617798
+        },
+        {
+          "start": 0.44,
+          "end": 0.68,
+          "jp": "だ!",
+          "prob": 0.5976713299751282
+        },
+        {
+          "start": 1.02,
+          "end": 1.34,
+          "jp": "手",
+          "prob": 0.8431936502456665
+        },
+        {
+          "start": 1.34,
+          "end": 1.46,
+          "jp": "を",
+          "prob": 0.9968383312225342
+        },
+        {
+          "start": 1.46,
+          "end": 1.56,
+          "jp": "開",
+          "prob": 0.4940415918827057
+        },
+        {
+          "start": 1.56,
+          "end": 1.6,
+          "jp": "け",
+          "prob": 0.9226366877555847
+        },
+        {
+          "start": 1.6,
+          "end": 1.72,
+          "jp": "ろ!",
+          "prob": 0.9904984831809998
+        }
+      ],
+      "ko": "경찰이다! 손 들어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

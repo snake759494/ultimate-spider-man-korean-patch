@@ -1,0 +1,53 @@
+{
+  "hash": "6ce24d26",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6490625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.42,
+      "jp": "他にすることないの?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28,
+          "jp": "他",
+          "prob": 0.6380751132965088
+        },
+        {
+          "start": 0.28,
+          "end": 0.46,
+          "jp": "に",
+          "prob": 0.9933632612228394
+        },
+        {
+          "start": 0.46,
+          "end": 0.64,
+          "jp": "する",
+          "prob": 0.9879271388053894
+        },
+        {
+          "start": 0.64,
+          "end": 0.82,
+          "jp": "こと",
+          "prob": 0.9622500538825989
+        },
+        {
+          "start": 0.82,
+          "end": 1.16,
+          "jp": "ない",
+          "prob": 0.9474912285804749
+        },
+        {
+          "start": 1.16,
+          "end": 1.42,
+          "jp": "の?",
+          "prob": 0.9656602144241333
+        }
+      ],
+      "ko": "다른 할 일 없어?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

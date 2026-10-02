@@ -1,0 +1,35 @@
+{
+  "hash": "d3153372",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6259375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.4453125,
+      "jp": "逃げろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.16531250000000064,
+          "jp": "逃",
+          "prob": 0.8286164402961731
+        },
+        {
+          "start": 0.16531250000000064,
+          "end": 0.2653125000000003,
+          "jp": "げ",
+          "prob": 0.998506486415863
+        },
+        {
+          "start": 0.2653125000000003,
+          "end": 0.4453125,
+          "jp": "ろ!",
+          "prob": 0.8550196290016174
+        }
+      ],
+      "ko": "도망쳐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

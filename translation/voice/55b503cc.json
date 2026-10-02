@@ -1,0 +1,15 @@
+{
+  "hash": "55b503cc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3339375,
+  "segments": [
+    {
+      "start": 0.25375000000000014,
+      "end": 1.2537500000000001,
+      "jp": "ぼこってやれ!",
+      "ko": "흠씬 패 줘!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

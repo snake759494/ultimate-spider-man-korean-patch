@@ -1,0 +1,41 @@
+{
+  "hash": "2bab6163",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.06025,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9412500000000001,
+      "jp": "攻撃続行!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.20124999999999993,
+          "jp": "攻",
+          "prob": 0.9466668367385864
+        },
+        {
+          "start": 0.20124999999999993,
+          "end": 0.4212499999999988,
+          "jp": "撃",
+          "prob": 0.9997138679027557
+        },
+        {
+          "start": 0.4212499999999988,
+          "end": 0.6412499999999994,
+          "jp": "続",
+          "prob": 0.26636919379234314
+        },
+        {
+          "start": 0.6412499999999994,
+          "end": 0.9412500000000001,
+          "jp": "行!",
+          "prob": 0.3921646475791931
+        }
+      ],
+      "ko": "공격 계속!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

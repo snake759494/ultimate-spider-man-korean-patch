@@ -1,0 +1,29 @@
+{
+  "hash": "2d4748ca",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7686875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7686875,
+      "jp": "すごいよ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.40893749999999685,
+          "jp": "すごい",
+          "prob": 0.9328179359436035
+        },
+        {
+          "start": 0.40893749999999685,
+          "end": 0.7686875,
+          "jp": "よ!",
+          "prob": 0.9939963817596436
+        }
+      ],
+      "ko": "굉장한데!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "93a15b03",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.4396875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.4396875,
+      "jp": "来い!",
+      "ko": "덤벼!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

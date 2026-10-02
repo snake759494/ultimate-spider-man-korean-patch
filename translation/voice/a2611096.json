@@ -1,0 +1,20 @@
+{
+  "hash": "a2611096",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.644125,
+  "segments": [
+    {
+      "start": 0.05,
+      "end": 0.51,
+      "jp": "ぬお!",
+      "logprob": -0.8363994189671108,
+      "no_speech": 0.2201976627111435,
+      "ko": ""
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "no_caption_individual_asr_checked",
+  "review_note": "개별 인식 결과는 힘주는 신음. 배치 및 개별 ASR 대조에 의한 분류이며 청취 검수와 구분.",
+  "identical_audio_source": "20dceb7c",
+  "decoded_audio_sha256": "5337f350ddf34942e0080dad5f9e6f719d57f7b9cb7f7ac9485f4b7c17642d25"
+}

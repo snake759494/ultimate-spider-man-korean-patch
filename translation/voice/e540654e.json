@@ -1,0 +1,29 @@
+{
+  "hash": "e540654e",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.853875,
+  "segments": [
+    {
+      "start": 0.02593750000000039,
+      "end": 0.7059375000000001,
+      "jp": "お願いだ!",
+      "words": [
+        {
+          "start": 0.02593750000000039,
+          "end": 0.2659374999999997,
+          "jp": "お願い",
+          "prob": 0.4675254821777344
+        },
+        {
+          "start": 0.2659374999999997,
+          "end": 0.7059375000000001,
+          "jp": "だ!",
+          "prob": 0.976989209651947
+        }
+      ],
+      "ko": "부탁이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "41ecea85",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7110625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.47068750000000037,
+      "jp": "ドガンだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.15068750000000009,
+          "jp": "ド",
+          "prob": 0.223006933927536
+        },
+        {
+          "start": 0.15068750000000009,
+          "end": 0.29068750000000065,
+          "jp": "ガ",
+          "prob": 0.6992548704147339
+        },
+        {
+          "start": 0.29068750000000065,
+          "end": 0.35068750000000026,
+          "jp": "ン",
+          "prob": 0.6858178973197937
+        },
+        {
+          "start": 0.35068750000000026,
+          "end": 0.47068750000000037,
+          "jp": "だ!",
+          "prob": 0.9702479839324951
+        }
+      ],
+      "ko": "쾅이다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

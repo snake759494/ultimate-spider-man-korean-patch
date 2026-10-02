@@ -1,0 +1,35 @@
+{
+  "hash": "8ff549d6",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.4811875,
+  "segments": [
+    {
+      "start": 0.023562500000000597,
+      "end": 0.42356250000000006,
+      "jp": "くじく!",
+      "words": [
+        {
+          "start": 0.023562500000000597,
+          "end": 0.1435625000000007,
+          "jp": "く",
+          "prob": 0.775093138217926
+        },
+        {
+          "start": 0.1435625000000007,
+          "end": 0.30356249999999996,
+          "jp": "じ",
+          "prob": 0.9861082434654236
+        },
+        {
+          "start": 0.30356249999999996,
+          "end": 0.42356250000000006,
+          "jp": "く!",
+          "prob": 0.9812694787979126
+        }
+      ],
+      "ko": "물리친다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

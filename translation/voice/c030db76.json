@@ -1,0 +1,35 @@
+{
+  "hash": "c030db76",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8774375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5784375000000015,
+      "jp": "やったぞ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.21843750000000206,
+          "jp": "や",
+          "prob": 0.9783656597137451
+        },
+        {
+          "start": 0.21843750000000206,
+          "end": 0.3984375000000018,
+          "jp": "った",
+          "prob": 0.9995324611663818
+        },
+        {
+          "start": 0.3984375000000018,
+          "end": 0.5784375000000015,
+          "jp": "ぞ!",
+          "prob": 0.9989194869995117
+        }
+      ],
+      "ko": "해냈다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

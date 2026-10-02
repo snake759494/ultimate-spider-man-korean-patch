@@ -1,0 +1,15 @@
+{
+  "hash": "ed4a7705",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2434375,
+  "segments": [
+    {
+      "start": 0.03437500000000071,
+      "end": 1.1743750000000013,
+      "jp": "一発目!",
+      "ko": "첫 발이다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

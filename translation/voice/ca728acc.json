@@ -1,0 +1,35 @@
+{
+  "hash": "ca728acc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.57725,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.57725,
+      "jp": "やべぇ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.20037500000000108,
+          "jp": "や",
+          "prob": 0.8503066301345825
+        },
+        {
+          "start": 0.20037500000000108,
+          "end": 0.3603750000000012,
+          "jp": "べ",
+          "prob": 0.9507655501365662
+        },
+        {
+          "start": 0.3603750000000012,
+          "end": 0.57725,
+          "jp": "ぇ",
+          "prob": 0.8674318194389343
+        }
+      ],
+      "ko": "위험해."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

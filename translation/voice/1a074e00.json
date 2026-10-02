@@ -1,0 +1,15 @@
+{
+  "hash": "1a074e00",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.723625,
+  "segments": [
+    {
+      "start": 0.30112499999999986,
+      "end": 2.723625,
+      "jp": "だ、だめだ",
+      "ko": "아... 안 돼."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

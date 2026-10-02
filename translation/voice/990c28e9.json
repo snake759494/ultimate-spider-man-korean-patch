@@ -1,0 +1,35 @@
+{
+  "hash": "990c28e9",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7298125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5616250000000012,
+      "jp": "こっちだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1016250000000003,
+          "jp": "こ",
+          "prob": 0.9867631793022156
+        },
+        {
+          "start": 0.1016250000000003,
+          "end": 0.3416250000000005,
+          "jp": "っち",
+          "prob": 0.992388904094696
+        },
+        {
+          "start": 0.3416250000000005,
+          "end": 0.5616250000000012,
+          "jp": "だ!",
+          "prob": 0.9981583952903748
+        }
+      ],
+      "ko": "이쪽이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

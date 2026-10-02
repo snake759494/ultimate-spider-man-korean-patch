@@ -1,0 +1,41 @@
+{
+  "hash": "84ffc843",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8946875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8946875,
+      "jp": "やめてったら",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.10050000000000026,
+          "jp": "や",
+          "prob": 0.8273439407348633
+        },
+        {
+          "start": 0.10050000000000026,
+          "end": 0.3805000000000014,
+          "jp": "めて",
+          "prob": 0.99912029504776
+        },
+        {
+          "start": 0.3805000000000014,
+          "end": 0.6005000000000003,
+          "jp": "った",
+          "prob": 0.7019603848457336
+        },
+        {
+          "start": 0.6005000000000003,
+          "end": 0.8946875,
+          "jp": "ら",
+          "prob": 0.7723314762115479
+        }
+      ],
+      "ko": "그만하라니까!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

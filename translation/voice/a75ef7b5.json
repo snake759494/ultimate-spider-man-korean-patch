@@ -1,0 +1,41 @@
+{
+  "hash": "a75ef7b5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0170625,
+  "segments": [
+    {
+      "start": 0.016999999999999904,
+      "end": 0.7770000000000001,
+      "jp": " 仕留めろ!",
+      "words": [
+        {
+          "start": 0.016999999999999904,
+          "end": 0.2769999999999999,
+          "jp": " 仕",
+          "prob": 0.5564215965569019
+        },
+        {
+          "start": 0.2769999999999999,
+          "end": 0.43700000000000006,
+          "jp": "留",
+          "prob": 0.863088846206665
+        },
+        {
+          "start": 0.43700000000000006,
+          "end": 0.597,
+          "jp": "め",
+          "prob": 0.9953622221946716
+        },
+        {
+          "start": 0.597,
+          "end": 0.7770000000000001,
+          "jp": "ろ!",
+          "prob": 0.9984416365623474
+        }
+      ],
+      "ko": "해치워!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

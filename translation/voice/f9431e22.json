@@ -1,0 +1,15 @@
+{
+  "hash": "f9431e22",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2738125,
+  "segments": [
+    {
+      "start": 0.01249999999999929,
+      "end": 1.2524999999999977,
+      "jp": "お家へ帰らせて",
+      "ko": "집에 보내 줘!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

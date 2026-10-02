@@ -1,0 +1,47 @@
+{
+  "hash": "02359e31",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.204375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.94,
+      "jp": "武装していない!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2,
+          "jp": "武",
+          "prob": 0.2836362421512604
+        },
+        {
+          "start": 0.2,
+          "end": 0.4,
+          "jp": "装",
+          "prob": 0.9895531535148621
+        },
+        {
+          "start": 0.4,
+          "end": 0.6,
+          "jp": "して",
+          "prob": 0.9792576432228088
+        },
+        {
+          "start": 0.6,
+          "end": 0.76,
+          "jp": "い",
+          "prob": 0.9719246625900269
+        },
+        {
+          "start": 0.76,
+          "end": 0.94,
+          "jp": "ない!",
+          "prob": 0.9947367310523987
+        }
+      ],
+      "ko": "무장은 안 했어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

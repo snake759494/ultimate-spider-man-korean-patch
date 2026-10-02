@@ -1,0 +1,41 @@
+{
+  "hash": "93342b96",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.334,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.1318124999999988,
+      "jp": "これは戦争だ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.35181249999999764,
+          "jp": "これは",
+          "prob": 0.30190178751945496
+        },
+        {
+          "start": 0.35181249999999764,
+          "end": 0.7318124999999966,
+          "jp": "戦",
+          "prob": 0.9807901978492737
+        },
+        {
+          "start": 0.7318124999999966,
+          "end": 0.9118124999999999,
+          "jp": "争",
+          "prob": 0.9934183955192566
+        },
+        {
+          "start": 0.9118124999999999,
+          "end": 1.1318124999999988,
+          "jp": "だ",
+          "prob": 0.9832472205162048
+        }
+      ],
+      "ko": "이건 전쟁이야."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

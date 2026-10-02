@@ -1,0 +1,53 @@
+{
+  "hash": "221f36fe",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.574,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.36,
+      "jp": "じゃあ、合流地点で、",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.38,
+          "jp": "じゃあ、",
+          "prob": 0.5931799411773682
+        },
+        {
+          "start": 0.52,
+          "end": 0.68,
+          "jp": "合",
+          "prob": 0.41183754801750183
+        },
+        {
+          "start": 0.68,
+          "end": 0.86,
+          "jp": "流",
+          "prob": 0.9858027696609497
+        },
+        {
+          "start": 0.86,
+          "end": 1.02,
+          "jp": "地",
+          "prob": 0.8800417184829712
+        },
+        {
+          "start": 1.02,
+          "end": 1.14,
+          "jp": "点",
+          "prob": 0.9913399815559387
+        },
+        {
+          "start": 1.14,
+          "end": 1.36,
+          "jp": "で、",
+          "prob": 0.99456387758255
+        }
+      ],
+      "ko": "그럼 합류 지점에서 보자."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

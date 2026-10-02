@@ -1,0 +1,35 @@
+{
+  "hash": "ecc57342",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.5398125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.4542500000000018,
+      "jp": "こっちだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.11425000000000196,
+          "jp": "こ",
+          "prob": 0.6689524054527283
+        },
+        {
+          "start": 0.11425000000000196,
+          "end": 0.2942500000000017,
+          "jp": "っち",
+          "prob": 0.9892317652702332
+        },
+        {
+          "start": 0.2942500000000017,
+          "end": 0.4542500000000018,
+          "jp": "だ!",
+          "prob": 0.9937447905540466
+        }
+      ],
+      "ko": "이쪽이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

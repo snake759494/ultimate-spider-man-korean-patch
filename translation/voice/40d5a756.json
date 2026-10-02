@@ -1,0 +1,15 @@
+{
+  "hash": "40d5a756",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.3570625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.3570625,
+      "jp": "…この時計が気にったの?じゃああげるわ!",
+      "ko": "이 시계가 마음에 들어? 그럼 줄게!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

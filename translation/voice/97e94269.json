@@ -1,0 +1,15 @@
+{
+  "hash": "97e94269",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.4118125,
+  "segments": [
+    {
+      "start": 1.36,
+      "end": 2.4118125,
+      "jp": "さ、寒い",
+      "ko": "추, 추워."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

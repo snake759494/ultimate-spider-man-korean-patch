@@ -1,0 +1,41 @@
+{
+  "hash": "0813bd1f",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.483875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.3515624999999982,
+      "jp": "ちょっと、君たち!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3515624999999991,
+          "jp": "ちょっと、",
+          "prob": 0.5549330115318298
+        },
+        {
+          "start": 0.6515624999999989,
+          "end": 0.9115624999999987,
+          "jp": "君",
+          "prob": 0.6536434888839722
+        },
+        {
+          "start": 0.9115624999999987,
+          "end": 1.1115624999999998,
+          "jp": "た",
+          "prob": 0.8843984603881836
+        },
+        {
+          "start": 1.1115624999999998,
+          "end": 1.3515624999999982,
+          "jp": "ち!",
+          "prob": 0.9990878105163574
+        }
+      ],
+      "ko": "잠깐, 너희들!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

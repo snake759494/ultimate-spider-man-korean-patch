@@ -1,0 +1,41 @@
+{
+  "hash": "9b35778f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1454375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.96,
+      "jp": "作戦失敗!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28,
+          "jp": "作",
+          "prob": 0.6098663806915283
+        },
+        {
+          "start": 0.28,
+          "end": 0.5,
+          "jp": "戦",
+          "prob": 0.9992558062076569
+        },
+        {
+          "start": 0.5,
+          "end": 0.74,
+          "jp": "失",
+          "prob": 0.9612607359886169
+        },
+        {
+          "start": 0.74,
+          "end": 0.96,
+          "jp": "敗!",
+          "prob": 0.9964652359485626
+        }
+      ],
+      "ko": "작전 실패!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

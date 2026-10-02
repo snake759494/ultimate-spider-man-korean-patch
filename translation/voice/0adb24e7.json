@@ -1,0 +1,35 @@
+{
+  "hash": "0adb24e7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3606875,
+  "segments": [
+    {
+      "start": 0.5014375000000051,
+      "end": 1.141437500000002,
+      "jp": "タイム!",
+      "words": [
+        {
+          "start": 0.5014375000000051,
+          "end": 0.8614375000000045,
+          "jp": "タ",
+          "prob": 0.8103814721107483
+        },
+        {
+          "start": 0.8614375000000045,
+          "end": 1.001437500000005,
+          "jp": "イ",
+          "prob": 0.9993962049484253
+        },
+        {
+          "start": 1.001437500000005,
+          "end": 1.141437500000002,
+          "jp": "ム!",
+          "prob": 0.9990403056144714
+        }
+      ],
+      "ko": "잠깐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

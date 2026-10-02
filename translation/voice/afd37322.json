@@ -1,0 +1,47 @@
+{
+  "hash": "afd37322",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.097125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0859375,
+      "jp": "えぇ無理だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2659374999999997,
+          "jp": "え",
+          "prob": 0.07913791388273239
+        },
+        {
+          "start": 0.2659374999999997,
+          "end": 0.3259375000000002,
+          "jp": "ぇ",
+          "prob": 0.306179404258728
+        },
+        {
+          "start": 0.3259375000000002,
+          "end": 0.5859375,
+          "jp": "無",
+          "prob": 0.5553886890411377
+        },
+        {
+          "start": 0.5859375,
+          "end": 0.705937500000001,
+          "jp": "理",
+          "prob": 0.9995929598808289
+        },
+        {
+          "start": 0.705937500000001,
+          "end": 1.0859375,
+          "jp": "だ!",
+          "prob": 0.9986153841018677
+        }
+      ],
+      "ko": "안 돼, 무리야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

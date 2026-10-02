@@ -1,0 +1,15 @@
+{
+  "hash": "5cc772ac",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.9185,
+  "segments": [
+    {
+      "start": 0.049687500000000995,
+      "end": 2.9185,
+      "jp": "彼女さん、そのすっげぇドルスで現れてさ",
+      "ko": "그 여자가 끝내주는 드레스를 입고 나타났거든."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

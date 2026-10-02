@@ -1,0 +1,15 @@
+{
+  "hash": "067be59d",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 3.2629375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.2,
+      "jp": "水飲んでくるから一人相撲でも撮って後で感想を聞かせなよ",
+      "ko": "물 좀 마시고 올 테니까 혼자 씨름이나 해. 나중에 감상 들려줘."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

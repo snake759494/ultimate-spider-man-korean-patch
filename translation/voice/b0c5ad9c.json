@@ -1,0 +1,35 @@
+{
+  "hash": "b0c5ad9c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9051875,
+  "segments": [
+    {
+      "start": 0.048999999999995936,
+      "end": 0.46899999999999764,
+      "jp": "よっしゃ!",
+      "words": [
+        {
+          "start": 0.048999999999995936,
+          "end": 0.22899999999999565,
+          "jp": "よ",
+          "prob": 0.8680078983306885
+        },
+        {
+          "start": 0.22899999999999565,
+          "end": 0.3289999999999971,
+          "jp": "っ",
+          "prob": 0.9943853616714478
+        },
+        {
+          "start": 0.3289999999999971,
+          "end": 0.46899999999999764,
+          "jp": "しゃ!",
+          "prob": 0.9955509901046753
+        }
+      ],
+      "ko": "좋았어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

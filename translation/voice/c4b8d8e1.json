@@ -1,0 +1,15 @@
+{
+  "hash": "c4b8d8e1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3884375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.1748124999999998,
+      "jp": "…やられた!やられた!",
+      "ko": "당했어! 당했다고!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

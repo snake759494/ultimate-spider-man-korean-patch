@@ -1,0 +1,47 @@
+{
+  "hash": "b39d3b2e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4049375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.2730625,
+      "jp": "だから言っただろ?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3130625,
+          "jp": "だから",
+          "prob": 0.9018718004226685
+        },
+        {
+          "start": 0.3130625,
+          "end": 0.6930624999999999,
+          "jp": "言",
+          "prob": 0.9889447093009949
+        },
+        {
+          "start": 0.6930624999999999,
+          "end": 0.9130624999999997,
+          "jp": "った",
+          "prob": 0.9985906481742859
+        },
+        {
+          "start": 0.9130624999999997,
+          "end": 1.0530625000000002,
+          "jp": "だ",
+          "prob": 0.995503842830658
+        },
+        {
+          "start": 1.0530625000000002,
+          "end": 1.2730625,
+          "jp": "ろ?",
+          "prob": 0.9858113527297974
+        }
+      ],
+      "ko": "내가 말했잖아."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

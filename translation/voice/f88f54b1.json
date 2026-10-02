@@ -1,0 +1,15 @@
+{
+  "hash": "f88f54b1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.2748125,
+  "segments": [
+    {
+      "start": 0.69,
+      "end": 1.59,
+      "jp": "早く来たくれ",
+      "ko": "빨리 와 줘!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

@@ -1,0 +1,29 @@
+{
+  "hash": "f1c953de",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.7566875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.47656249999999645,
+      "jp": "ちょっと待って!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1965624999999953,
+          "jp": "ちょっと",
+          "prob": 0.906313955783844
+        },
+        {
+          "start": 0.1965624999999953,
+          "end": 0.47656249999999645,
+          "jp": "待って!",
+          "prob": 0.9294923543930054
+        }
+      ],
+      "ko": "잠깐만 기다려!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

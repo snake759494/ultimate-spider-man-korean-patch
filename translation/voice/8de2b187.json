@@ -1,0 +1,29 @@
+{
+  "hash": "8de2b187",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.651875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.606562499999999,
+      "jp": "痛い!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22656249999999822,
+          "jp": "痛",
+          "prob": 0.889460027217865
+        },
+        {
+          "start": 0.22656249999999822,
+          "end": 0.606562499999999,
+          "jp": "い!",
+          "prob": 0.8914592862129211
+        }
+      ],
+      "ko": "아파..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

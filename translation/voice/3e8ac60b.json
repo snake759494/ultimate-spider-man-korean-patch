@@ -1,0 +1,65 @@
+{
+  "hash": "3e8ac60b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6486875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.54,
+      "jp": "俺が誰か知ってるだろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3,
+          "jp": "俺",
+          "prob": 0.7356339693069458
+        },
+        {
+          "start": 0.3,
+          "end": 0.46,
+          "jp": "が",
+          "prob": 0.9649074077606201
+        },
+        {
+          "start": 0.46,
+          "end": 0.62,
+          "jp": "誰",
+          "prob": 0.9688622355461121
+        },
+        {
+          "start": 0.62,
+          "end": 0.8,
+          "jp": "か",
+          "prob": 0.996659517288208
+        },
+        {
+          "start": 0.8,
+          "end": 0.98,
+          "jp": "知",
+          "prob": 0.8995170593261719
+        },
+        {
+          "start": 0.98,
+          "end": 1.18,
+          "jp": "ってる",
+          "prob": 0.9607787132263184
+        },
+        {
+          "start": 1.18,
+          "end": 1.32,
+          "jp": "だ",
+          "prob": 0.9807631969451904
+        },
+        {
+          "start": 1.32,
+          "end": 1.54,
+          "jp": "ろ!",
+          "prob": 0.679985761642456
+        }
+      ],
+      "ko": "내가 누군지 알잖아!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

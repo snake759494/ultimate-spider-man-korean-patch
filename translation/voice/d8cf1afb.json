@@ -1,0 +1,15 @@
+{
+  "hash": "d8cf1afb",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.2571875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.08,
+      "jp": "馬鹿も、対外にしろ!",
+      "ko": "멍청한 짓도 적당히 해!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

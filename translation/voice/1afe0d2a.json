@@ -1,0 +1,16 @@
+{
+  "hash": "1afe0d2a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.3831875,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "jp": "来い!",
+      "logprob": -0.3069747984409332,
+      "no_speech": 0.5469399690628052,
+      "ko": "덤벼!"
+    }
+  ],
+  "status": "translated_batch_asr_review_required"
+}

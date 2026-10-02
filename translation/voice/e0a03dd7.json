@@ -1,0 +1,15 @@
+{
+  "hash": "e0a03dd7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.864,
+  "segments": [
+    {
+      "start": 0.09493749999999679,
+      "end": 1.4349375000000002,
+      "jp": "絶好調だ!",
+      "ko": "아주 좋아!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

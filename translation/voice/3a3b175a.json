@@ -1,0 +1,41 @@
+{
+  "hash": "3a3b175a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8296875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.698125,
+      "jp": "まあ、頼むよ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.35812500000000025,
+          "jp": "まあ、",
+          "prob": 0.2178957760334015
+        },
+        {
+          "start": 0.9981249999999999,
+          "end": 1.2981250000000002,
+          "jp": "頼",
+          "prob": 0.9780356884002686
+        },
+        {
+          "start": 1.2981250000000002,
+          "end": 1.478125,
+          "jp": "む",
+          "prob": 0.9905371069908142
+        },
+        {
+          "start": 1.478125,
+          "end": 1.698125,
+          "jp": "よ",
+          "prob": 0.9909460544586182
+        }
+      ],
+      "ko": "부탁 좀 하자."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

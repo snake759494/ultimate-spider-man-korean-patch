@@ -1,0 +1,41 @@
+{
+  "hash": "12c300e1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.809875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6706249999999994,
+      "jp": "撤収しよう!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1506249999999998,
+          "jp": "撤",
+          "prob": 0.9805820286273956
+        },
+        {
+          "start": 0.1506249999999998,
+          "end": 0.31062499999999993,
+          "jp": "収",
+          "prob": 0.999894767999649
+        },
+        {
+          "start": 0.31062499999999993,
+          "end": 0.4506250000000005,
+          "jp": "し",
+          "prob": 0.9939594268798828
+        },
+        {
+          "start": 0.4506250000000005,
+          "end": 0.6706249999999994,
+          "jp": "よう!",
+          "prob": 0.9503903388977051
+        }
+      ],
+      "ko": "철수하자!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

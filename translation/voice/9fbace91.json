@@ -1,0 +1,41 @@
+{
+  "hash": "9fbace91",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5989375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0079999999999991,
+      "jp": "何の匂い?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.347999999999999,
+          "jp": "何",
+          "prob": 0.001399500179104507
+        },
+        {
+          "start": 0.347999999999999,
+          "end": 0.4679999999999964,
+          "jp": "の",
+          "prob": 0.9950215816497803
+        },
+        {
+          "start": 0.4679999999999964,
+          "end": 0.9679999999999964,
+          "jp": "匂",
+          "prob": 0.9505024552345276
+        },
+        {
+          "start": 0.9679999999999964,
+          "end": 1.0079999999999991,
+          "jp": "い?",
+          "prob": 0.9879332184791565
+        }
+      ],
+      "ko": "무슨 냄새지?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

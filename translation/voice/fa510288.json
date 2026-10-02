@@ -1,0 +1,15 @@
+{
+  "hash": "fa510288",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.5228125,
+  "segments": [
+    {
+      "start": 1.5,
+      "end": 2.34,
+      "jp": "大丈夫かい?",
+      "ko": "괜찮아?"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

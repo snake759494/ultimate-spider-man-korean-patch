@@ -1,0 +1,29 @@
+{
+  "hash": "211ba26d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6778125,
+  "segments": [
+    {
+      "start": 0.07956249999999976,
+      "end": 0.33956249999999955,
+      "jp": " どれ?",
+      "words": [
+        {
+          "start": 0.07956249999999976,
+          "end": 0.19956249999999986,
+          "jp": " ど",
+          "prob": 0.15523718297481537
+        },
+        {
+          "start": 0.19956249999999986,
+          "end": 0.33956249999999955,
+          "jp": "れ?",
+          "prob": 0.5727247595787048
+        }
+      ],
+      "ko": "어느 거?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

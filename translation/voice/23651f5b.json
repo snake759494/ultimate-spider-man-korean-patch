@@ -1,0 +1,15 @@
+{
+  "hash": "23651f5b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6044375,
+  "segments": [
+    {
+      "start": 0.11987500000000217,
+      "end": 0.5398750000000021,
+      "jp": "被弾!",
+      "ko": "피격당했다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

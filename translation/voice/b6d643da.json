@@ -1,0 +1,77 @@
+{
+  "hash": "b6d643da",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.951,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.86,
+      "jp": "これが、スパイダーウェブ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.14,
+          "jp": "これ",
+          "prob": 0.6928151845932007
+        },
+        {
+          "start": 0.14,
+          "end": 0.26,
+          "jp": "が、",
+          "prob": 0.9936501383781433
+        },
+        {
+          "start": 0.32,
+          "end": 0.38,
+          "jp": "ス",
+          "prob": 0.9691539406776428
+        },
+        {
+          "start": 0.38,
+          "end": 0.46,
+          "jp": "パ",
+          "prob": 0.975709080696106
+        },
+        {
+          "start": 0.46,
+          "end": 0.52,
+          "jp": "イ",
+          "prob": 0.995419979095459
+        },
+        {
+          "start": 0.52,
+          "end": 0.6,
+          "jp": "ダ",
+          "prob": 0.9844414591789246
+        },
+        {
+          "start": 0.6,
+          "end": 0.68,
+          "jp": "ー",
+          "prob": 0.9411346316337585
+        },
+        {
+          "start": 0.68,
+          "end": 0.76,
+          "jp": "ウ",
+          "prob": 0.9576625823974609
+        },
+        {
+          "start": 0.76,
+          "end": 0.76,
+          "jp": "ェ",
+          "prob": 0.8205451369285583
+        },
+        {
+          "start": 0.76,
+          "end": 0.86,
+          "jp": "ブ!",
+          "prob": 0.7355140447616577
+        }
+      ],
+      "ko": "이것이 스파이더 웹!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

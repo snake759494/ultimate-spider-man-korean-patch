@@ -1,0 +1,35 @@
+{
+  "hash": "9fa963bc",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.1475,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7647500000000012,
+      "jp": "ちょっと待った!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3047500000000021,
+          "jp": "ちょっと",
+          "prob": 0.3471876382827759
+        },
+        {
+          "start": 0.3047500000000021,
+          "end": 0.604750000000001,
+          "jp": "待",
+          "prob": 0.7483649253845215
+        },
+        {
+          "start": 0.604750000000001,
+          "end": 0.7647500000000012,
+          "jp": "った!",
+          "prob": 0.8883414268493652
+        }
+      ],
+      "ko": "잠깐만!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

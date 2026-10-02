@@ -1,0 +1,15 @@
+{
+  "hash": "66fceb41",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.275875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.98,
+      "jp": "セリフの途中だったんだけど",
+      "ko": "아직 대사 끝나지도 않았거든."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

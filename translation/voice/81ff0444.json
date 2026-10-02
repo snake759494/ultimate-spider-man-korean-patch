@@ -1,0 +1,15 @@
+{
+  "hash": "81ff0444",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.7705625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.7705625,
+      "jp": "力が抜ける",
+      "ko": "힘이 빠진다."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

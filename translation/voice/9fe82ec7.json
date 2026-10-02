@@ -1,0 +1,41 @@
+{
+  "hash": "9fe82ec7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6806875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6083749999999988,
+      "jp": "痛い!痛い!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24837499999999935,
+          "jp": "痛",
+          "prob": 0.9150580763816833
+        },
+        {
+          "start": 0.24837499999999935,
+          "end": 0.24837499999999935,
+          "jp": "い!",
+          "prob": 0.9390426874160767
+        },
+        {
+          "start": 0.34837500000000077,
+          "end": 0.34837500000000077,
+          "jp": "痛",
+          "prob": 0.9206573367118835
+        },
+        {
+          "start": 0.34837500000000077,
+          "end": 0.6083749999999988,
+          "jp": "い!",
+          "prob": 0.9432799220085144
+        }
+      ],
+      "ko": "아야! 아프다고!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "bea1909a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.835375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.612312499999998,
+      "jp": "顔面だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2723124999999982,
+          "jp": "顔",
+          "prob": 0.9554592669010162
+        },
+        {
+          "start": 0.2723124999999982,
+          "end": 0.41231249999999875,
+          "jp": "面",
+          "prob": 0.9974029660224915
+        },
+        {
+          "start": 0.41231249999999875,
+          "end": 0.612312499999998,
+          "jp": "だ!",
+          "prob": 0.9989678859710693
+        }
+      ],
+      "ko": "얼굴을 노려!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

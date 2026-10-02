@@ -1,0 +1,15 @@
+{
+  "hash": "bb78f215",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.349375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.349375,
+      "jp": "ー!乱暴はやめて、お願い!",
+      "ko": "난폭하게 굴지 마, 제발!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

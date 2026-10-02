@@ -1,0 +1,29 @@
+{
+  "hash": "a52cf413",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.200125,
+  "segments": [
+    {
+      "start": 0.11149999999999949,
+      "end": 0.8315000000000001,
+      "jp": "こ、こんな!",
+      "words": [
+        {
+          "start": 0.11149999999999949,
+          "end": 0.21149999999999913,
+          "jp": "こ、",
+          "prob": 0.43157199025154114
+        },
+        {
+          "start": 0.8315000000000001,
+          "end": 0.8315000000000001,
+          "jp": "こんな!",
+          "prob": 0.7117375135421753
+        }
+      ],
+      "ko": "이, 이럴 수가..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

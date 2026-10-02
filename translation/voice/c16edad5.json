@@ -1,0 +1,15 @@
+{
+  "hash": "c16edad5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.1200625,
+  "segments": [
+    {
+      "start": 0.07750000000000057,
+      "end": 1.9375,
+      "jp": "まずい、来やがったぞ",
+      "ko": "큰일이다, 놈이 왔어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

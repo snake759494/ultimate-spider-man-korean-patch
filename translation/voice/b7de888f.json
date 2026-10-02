@@ -1,0 +1,35 @@
+{
+  "hash": "b7de888f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.705125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.4848750000000006,
+      "jp": "化け物",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.14487500000000075,
+          "jp": "化",
+          "prob": 0.1297326683998108
+        },
+        {
+          "start": 0.14487500000000075,
+          "end": 0.3048750000000009,
+          "jp": "け",
+          "prob": 0.969373881816864
+        },
+        {
+          "start": 0.3048750000000009,
+          "end": 0.4848750000000006,
+          "jp": "物",
+          "prob": 0.9289054870605469
+        }
+      ],
+      "ko": "괴물!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "6aef6c89",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.863875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.8,
+      "jp": "リードリチャーズサイエンスセンターだ",
+      "ko": "리드 리처즈 과학 센터야."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

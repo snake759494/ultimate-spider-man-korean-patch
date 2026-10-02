@@ -1,0 +1,53 @@
+{
+  "hash": "892fefd3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.376125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.24,
+      "jp": "なんでここにいるんだ?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26,
+          "jp": "なん",
+          "prob": 0.642831027507782
+        },
+        {
+          "start": 0.26,
+          "end": 0.42,
+          "jp": "で",
+          "prob": 0.9981651902198792
+        },
+        {
+          "start": 0.42,
+          "end": 0.64,
+          "jp": "ここ",
+          "prob": 0.9591999053955078
+        },
+        {
+          "start": 0.64,
+          "end": 0.82,
+          "jp": "に",
+          "prob": 0.996760904788971
+        },
+        {
+          "start": 0.82,
+          "end": 0.96,
+          "jp": "いる",
+          "prob": 0.9236815571784973
+        },
+        {
+          "start": 0.96,
+          "end": 1.24,
+          "jp": "んだ?",
+          "prob": 0.9953871369361877
+        }
+      ],
+      "ko": "왜 여기 있는 거야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "6c4d65fa",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2623125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9305625000000006,
+      "jp": "ピーター!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.17056249999999906,
+          "jp": "ピ",
+          "prob": 0.1056697815656662
+        },
+        {
+          "start": 0.17056249999999906,
+          "end": 0.5905625000000008,
+          "jp": "ー",
+          "prob": 0.9163480997085571
+        },
+        {
+          "start": 0.5905625000000008,
+          "end": 0.9305625000000006,
+          "jp": "ター!",
+          "prob": 0.8647687435150146
+        }
+      ],
+      "ko": "피터!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

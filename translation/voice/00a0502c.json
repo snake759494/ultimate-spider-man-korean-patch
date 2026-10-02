@@ -1,0 +1,15 @@
+{
+  "hash": "00a0502c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.98725,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.98725,
+      "jp": "何の話だかさっぱり分からない",
+      "ko": "무슨 말인지 전혀 모르겠어."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

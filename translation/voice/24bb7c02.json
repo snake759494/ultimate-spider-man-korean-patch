@@ -1,0 +1,29 @@
+{
+  "hash": "24bb7c02",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8573125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6862500000000011,
+      "jp": "すごいわ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3862500000000004,
+          "jp": "すごい",
+          "prob": 0.49101871252059937
+        },
+        {
+          "start": 0.3862500000000004,
+          "end": 0.6862500000000011,
+          "jp": "わ!",
+          "prob": 0.918279767036438
+        }
+      ],
+      "ko": "대단해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

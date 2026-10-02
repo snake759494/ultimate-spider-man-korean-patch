@@ -1,0 +1,15 @@
+{
+  "hash": "d6d8bc2b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.055375,
+  "segments": [
+    {
+      "start": 0.3651249999999999,
+      "end": 2.055375,
+      "jp": "お願い誰か助けてー!",
+      "ko": "제발 누가 좀 도와줘!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "063a48a6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4136875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.4136875,
+      "jp": "エンゴ、誰か",
+      "ko": "지원해 줘, 누구라도!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

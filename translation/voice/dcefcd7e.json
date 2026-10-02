@@ -1,0 +1,15 @@
+{
+  "hash": "dcefcd7e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.893,
+  "segments": [
+    {
+      "start": 0.3688749999999992,
+      "end": 1.893,
+      "jp": "もう、潮時だな",
+      "ko": "이제 물러날 때군."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

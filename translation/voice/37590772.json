@@ -1,0 +1,15 @@
+{
+  "hash": "37590772",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3899375,
+  "segments": [
+    {
+      "start": 0.23225000000000007,
+      "end": 1.3899375,
+      "jp": "このインチキ野郎が、",
+      "ko": "이 사기꾼 자식!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

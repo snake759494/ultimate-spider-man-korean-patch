@@ -1,0 +1,15 @@
+{
+  "hash": "0b16a7ea",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7198125,
+  "segments": [
+    {
+      "start": 0.15543750000000145,
+      "end": 1.7198125,
+      "jp": "ここで死ぬのさお前は!",
+      "ko": "넌 여기서 죽는 거야!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

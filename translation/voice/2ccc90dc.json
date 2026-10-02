@@ -1,0 +1,15 @@
+{
+  "hash": "2ccc90dc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7878125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6424374999999998,
+      "jp": "ちゃんと撃てる奴はいないのか!",
+      "ko": "제대로 쏠 줄 아는 놈 없어?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

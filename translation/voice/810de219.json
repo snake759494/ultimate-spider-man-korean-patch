@@ -1,0 +1,41 @@
+{
+  "hash": "810de219",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0508125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8821875000000006,
+      "jp": "攻撃失敗!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2621874999999996,
+          "jp": "攻",
+          "prob": 0.9777413010597229
+        },
+        {
+          "start": 0.2621874999999996,
+          "end": 0.4421874999999993,
+          "jp": "撃",
+          "prob": 0.9997141063213348
+        },
+        {
+          "start": 0.4421874999999993,
+          "end": 0.6821875000000013,
+          "jp": "失",
+          "prob": 0.9857942461967468
+        },
+        {
+          "start": 0.6821875000000013,
+          "end": 0.8821875000000006,
+          "jp": "敗!",
+          "prob": 0.998544305562973
+        }
+      ],
+      "ko": "공격 실패!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,29 @@
+{
+  "hash": "1a36bd7a",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.7270625,
+  "segments": [
+    {
+      "start": 0.037437499999999346,
+      "end": 0.5774374999999994,
+      "jp": "やばい!",
+      "words": [
+        {
+          "start": 0.037437499999999346,
+          "end": 0.33743749999999917,
+          "jp": "や",
+          "prob": 0.5263224244117737
+        },
+        {
+          "start": 0.33743749999999917,
+          "end": 0.5774374999999994,
+          "jp": "ばい!",
+          "prob": 0.9286315441131592
+        }
+      ],
+      "ko": "큰일인데..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

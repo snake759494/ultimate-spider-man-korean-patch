@@ -1,0 +1,29 @@
+{
+  "hash": "b7a7cc4f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8369375,
+  "segments": [
+    {
+      "start": 0.018749999999998934,
+      "end": 0.4787499999999998,
+      "jp": "誰だ!",
+      "words": [
+        {
+          "start": 0.018749999999998934,
+          "end": 0.25874999999999915,
+          "jp": "誰",
+          "prob": 0.9088905453681946
+        },
+        {
+          "start": 0.25874999999999915,
+          "end": 0.4787499999999998,
+          "jp": "だ!",
+          "prob": 0.9980162382125854
+        }
+      ],
+      "ko": "누구지?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

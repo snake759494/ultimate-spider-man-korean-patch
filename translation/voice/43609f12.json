@@ -1,0 +1,15 @@
+{
+  "hash": "43609f12",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7146875,
+  "segments": [
+    {
+      "start": 0.22306249999999994,
+      "end": 1.7146875,
+      "jp": "やっちまおうぜ!",
+      "ko": "해치우자!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

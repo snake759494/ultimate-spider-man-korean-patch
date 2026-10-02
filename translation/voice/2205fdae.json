@@ -1,0 +1,41 @@
+{
+  "hash": "2205fdae",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7274375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5793749999999989,
+      "jp": "てしゅう!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.15937499999999893,
+          "jp": "て",
+          "prob": 0.9429648518562317
+        },
+        {
+          "start": 0.15937499999999893,
+          "end": 0.3593749999999982,
+          "jp": "し",
+          "prob": 0.6857874989509583
+        },
+        {
+          "start": 0.3593749999999982,
+          "end": 0.5193749999999984,
+          "jp": "ゅ",
+          "prob": 0.9627066552639008
+        },
+        {
+          "start": 0.5193749999999984,
+          "end": 0.5793749999999989,
+          "jp": "う!",
+          "prob": 0.5215165615081787
+        }
+      ],
+      "ko": "철수!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

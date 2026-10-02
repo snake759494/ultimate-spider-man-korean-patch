@@ -1,0 +1,15 @@
+{
+  "hash": "3e0f852b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.460625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.3953125000000002,
+      "jp": "みんな伏せろ!",
+      "ko": "모두 엎드려!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

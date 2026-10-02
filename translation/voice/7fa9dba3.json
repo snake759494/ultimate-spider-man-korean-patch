@@ -1,0 +1,41 @@
+{
+  "hash": "7fa9dba3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4503125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.3168750000000031,
+      "jp": "力が抜ける",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.29687500000000355,
+          "jp": "力",
+          "prob": 0.7979924082756042
+        },
+        {
+          "start": 0.29687500000000355,
+          "end": 0.6768750000000026,
+          "jp": "が",
+          "prob": 0.9851394295692444
+        },
+        {
+          "start": 0.6768750000000026,
+          "end": 1.0968750000000043,
+          "jp": "抜",
+          "prob": 0.7499604821205139
+        },
+        {
+          "start": 1.0968750000000043,
+          "end": 1.3168750000000031,
+          "jp": "ける",
+          "prob": 0.9967055916786194
+        }
+      ],
+      "ko": "힘이 빠진다."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

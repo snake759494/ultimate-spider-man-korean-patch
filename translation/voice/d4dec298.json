@@ -1,0 +1,35 @@
+{
+  "hash": "d4dec298",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2135625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.202187499999999,
+      "jp": "いいねー",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3621874999999992,
+          "jp": "いい",
+          "prob": 0.5576196312904358
+        },
+        {
+          "start": 0.3621874999999992,
+          "end": 0.7621874999999996,
+          "jp": "ね",
+          "prob": 0.8606764674186707
+        },
+        {
+          "start": 0.7621874999999996,
+          "end": 1.202187499999999,
+          "jp": "ー",
+          "prob": 0.44315123558044434
+        }
+      ],
+      "ko": "좋은데!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

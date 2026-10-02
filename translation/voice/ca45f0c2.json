@@ -1,0 +1,29 @@
+{
+  "hash": "ca45f0c2",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.663875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.663875,
+      "jp": "まただ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28,
+          "jp": "また",
+          "prob": 0.7993039488792419
+        },
+        {
+          "start": 0.28,
+          "end": 0.663875,
+          "jp": "だ!",
+          "prob": 0.8241133689880371
+        }
+      ],
+      "ko": "또야..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

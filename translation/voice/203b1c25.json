@@ -1,0 +1,35 @@
+{
+  "hash": "203b1c25",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2833125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.2082499999999996,
+      "jp": "倒せー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24825000000000053,
+          "jp": "倒",
+          "prob": 0.9807776808738708
+        },
+        {
+          "start": 0.24825000000000053,
+          "end": 0.568249999999999,
+          "jp": "せ",
+          "prob": 0.8377024531364441
+        },
+        {
+          "start": 0.568249999999999,
+          "end": 1.2082499999999996,
+          "jp": "ー!",
+          "prob": 0.3613220155239105
+        }
+      ],
+      "ko": "쓰러뜨려!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

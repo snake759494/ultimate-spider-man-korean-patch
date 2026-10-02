@@ -1,0 +1,15 @@
+{
+  "hash": "39be79d1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.8138125,
+  "segments": [
+    {
+      "start": 0.34,
+      "end": 3.8138125,
+      "jp": "なんでいつも仕方すんだ!話があるって言ってんだろ!",
+      "ko": "왜 맨날 무시하는 거야? 할 말이 있다잖아!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

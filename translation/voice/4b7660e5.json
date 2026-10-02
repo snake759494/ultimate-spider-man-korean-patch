@@ -1,0 +1,35 @@
+{
+  "hash": "4b7660e5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9349375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6773750000000014,
+      "jp": "正気か?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2973750000000024,
+          "jp": "正",
+          "prob": 0.21959254145622253
+        },
+        {
+          "start": 0.2973750000000024,
+          "end": 0.4973750000000017,
+          "jp": "気",
+          "prob": 0.8197852969169617
+        },
+        {
+          "start": 0.4973750000000017,
+          "end": 0.6773750000000014,
+          "jp": "か?",
+          "prob": 0.9885250926017761
+        }
+      ],
+      "ko": "제정신이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

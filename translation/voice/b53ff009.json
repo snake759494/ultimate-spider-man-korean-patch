@@ -1,0 +1,35 @@
+{
+  "hash": "b53ff009",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.43675,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9355000000000002,
+      "jp": "撃てー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.23550000000000004,
+          "jp": "撃",
+          "prob": 0.8559260666370392
+        },
+        {
+          "start": 0.23550000000000004,
+          "end": 0.4355000000000002,
+          "jp": "て",
+          "prob": 0.7341787815093994
+        },
+        {
+          "start": 0.4355000000000002,
+          "end": 0.9355000000000002,
+          "jp": "ー!",
+          "prob": 0.4389413297176361
+        }
+      ],
+      "ko": "쏴!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

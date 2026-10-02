@@ -1,0 +1,15 @@
+{
+  "hash": "263d5408",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7020625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7020625,
+      "jp": "今日から俺も有名人だ",
+      "ko": "오늘부터 나도 유명인이야."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

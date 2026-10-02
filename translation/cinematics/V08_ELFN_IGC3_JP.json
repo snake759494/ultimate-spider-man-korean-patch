@@ -1,0 +1,28 @@
+{
+  "file": "V08_ELFN_IGC3_JP.wav",
+  "duration": 86.4426875,
+  "segments": [
+    {
+      "start": 22.7,
+      "end": 23.26,
+      "jp": "頼む",
+      "logprob": -0.3402220457792282,
+      "no_speech": 0.1388431191444397,
+      "words": [
+        {
+          "start": 22.7,
+          "end": 23.1,
+          "text": "頼"
+        },
+        {
+          "start": 23.1,
+          "end": 23.26,
+          "text": "む"
+        }
+      ],
+      "ko": "제발..."
+    }
+  ],
+  "video_hash": "c3bfe247",
+  "review": "Draft translated from local Japanese audio recognition with small/medium/large cross-check; playback QA pending"
+}

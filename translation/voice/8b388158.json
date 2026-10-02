@@ -1,0 +1,15 @@
+{
+  "hash": "8b388158",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.498,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.498,
+      "jp": "今のは聞いただろう",
+      "ko": "방금 건 제대로 먹혔겠지."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

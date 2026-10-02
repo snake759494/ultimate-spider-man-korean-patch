@@ -1,0 +1,19 @@
+{
+  "hash": "59d82d14",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6908125,
+  "segments": [
+    {
+      "start": 0.21906250000000327,
+      "end": 0.6908125,
+      "jp": "行くぞ",
+      "ko": "간다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_dictionary_medium_batch_review_required"
+}

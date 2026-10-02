@@ -1,0 +1,41 @@
+{
+  "hash": "7f4b63a7",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.6364375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.2123750000000015,
+      "jp": "ほら、どうした?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2923750000000016,
+          "jp": "ほ",
+          "prob": 0.5134180188179016
+        },
+        {
+          "start": 0.2923750000000016,
+          "end": 0.5323750000000018,
+          "jp": "ら、",
+          "prob": 0.9198161959648132
+        },
+        {
+          "start": 0.692375000000002,
+          "end": 0.8923750000000013,
+          "jp": "どう",
+          "prob": 0.9822583198547363
+        },
+        {
+          "start": 0.8923750000000013,
+          "end": 1.2123750000000015,
+          "jp": "した?",
+          "prob": 0.9969308972358704
+        }
+      ],
+      "ko": "왜 그래?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

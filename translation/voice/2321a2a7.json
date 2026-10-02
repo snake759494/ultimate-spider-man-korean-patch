@@ -1,0 +1,15 @@
+{
+  "hash": "2321a2a7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.284875,
+  "segments": [
+    {
+      "start": 0.11900000000000022,
+      "end": 1.284875,
+      "jp": "クズミュタントめ。",
+      "ko": "쓰레기 같은 뮤턴트!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

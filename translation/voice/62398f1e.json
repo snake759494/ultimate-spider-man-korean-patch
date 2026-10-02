@@ -1,0 +1,23 @@
+{
+  "hash": "62398f1e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7506875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.45943749999999905,
+      "jp": "よし!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.45943749999999905,
+          "jp": "よし!",
+          "prob": 0.41034966707229614
+        }
+      ],
+      "ko": "좋아!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

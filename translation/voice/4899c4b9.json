@@ -1,0 +1,15 @@
+{
+  "hash": "4899c4b9",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.3653125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.22,
+      "jp": "一族の名誉を取り返すために来たぞ!",
+      "ko": "가문의 명예를 되찾으러 왔다!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

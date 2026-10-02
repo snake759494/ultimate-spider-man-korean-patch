@@ -1,0 +1,15 @@
+{
+  "hash": "a82107ed",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.354125,
+  "segments": [
+    {
+      "start": 0.09624999999999995,
+      "end": 3.354125,
+      "jp": "もう勘弁してくれよ、頭蓋骨が割れちまうよ",
+      "ko": "제발 그만해! 머리통이 깨지겠어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

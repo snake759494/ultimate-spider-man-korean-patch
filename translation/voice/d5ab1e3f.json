@@ -1,0 +1,41 @@
+{
+  "hash": "d5ab1e3f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.236625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9961250000000001,
+      "jp": "倒れてくれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.23612500000000014,
+          "jp": "倒",
+          "prob": 0.14597894251346588
+        },
+        {
+          "start": 0.23612500000000014,
+          "end": 0.49612500000000015,
+          "jp": "れて",
+          "prob": 0.9607889652252197
+        },
+        {
+          "start": 0.49612500000000015,
+          "end": 0.7161249999999999,
+          "jp": "く",
+          "prob": 0.9845208525657654
+        },
+        {
+          "start": 0.7161249999999999,
+          "end": 0.9961250000000001,
+          "jp": "れ!",
+          "prob": 0.9945769309997559
+        }
+      ],
+      "ko": "제발 쓰러져!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

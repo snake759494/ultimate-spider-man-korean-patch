@@ -1,0 +1,41 @@
+{
+  "hash": "891f66ea",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1843125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9330624999999984,
+      "jp": "おー!来た!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2130624999999995,
+          "jp": "お",
+          "prob": 0.042364198714494705
+        },
+        {
+          "start": 0.2130624999999995,
+          "end": 0.5130624999999984,
+          "jp": "ー!",
+          "prob": 0.2934191823005676
+        },
+        {
+          "start": 0.6130624999999981,
+          "end": 0.7130624999999995,
+          "jp": "来",
+          "prob": 0.7428807616233826
+        },
+        {
+          "start": 0.7130624999999995,
+          "end": 0.9330624999999984,
+          "jp": "た!",
+          "prob": 0.9981281161308289
+        }
+      ],
+      "ko": "왔다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

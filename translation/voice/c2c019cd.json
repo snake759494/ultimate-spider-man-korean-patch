@@ -1,0 +1,15 @@
+{
+  "hash": "c2c019cd",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.423125,
+  "segments": [
+    {
+      "start": 0.7608749999999986,
+      "end": 2.423125,
+      "jp": "これじゃ銃が使えねえ",
+      "ko": "이래선 총을 못 쓰잖아!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

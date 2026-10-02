@@ -1,0 +1,15 @@
+{
+  "hash": "007fc767",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.571375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5,
+      "jp": "せめて貸したくらいはいいよ!",
+      "ko": "적어도 빌려 달라는 말은 해야지!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

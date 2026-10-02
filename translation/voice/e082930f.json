@@ -1,0 +1,15 @@
+{
+  "hash": "e082930f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3373125,
+  "segments": [
+    {
+      "start": 0.21225000000000094,
+      "end": 1.3373125,
+      "jp": "大したことねえよ",
+      "ko": "별거 아니야."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

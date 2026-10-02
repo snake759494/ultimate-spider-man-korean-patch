@@ -1,0 +1,15 @@
+{
+  "hash": "b4148949",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8199375,
+  "segments": [
+    {
+      "start": 0.00274999999999892,
+      "end": 0.8199375,
+      "jp": "化け物!",
+      "ko": "괴물!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

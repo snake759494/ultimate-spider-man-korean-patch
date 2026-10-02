@@ -1,0 +1,15 @@
+{
+  "hash": "15fae213",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7378125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7378125,
+      "jp": "他の人と目を合わせちゃだめよ",
+      "ko": "다른 사람과 눈 마주치지 마."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

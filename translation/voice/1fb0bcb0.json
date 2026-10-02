@@ -1,0 +1,35 @@
+{
+  "hash": "1fb0bcb0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.801375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6345624999999977,
+      "jp": "あ、危ない!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1345624999999977,
+          "jp": "あ、",
+          "prob": 0.23774489760398865
+        },
+        {
+          "start": 0.29456249999999784,
+          "end": 0.454562499999998,
+          "jp": "危",
+          "prob": 0.7576723694801331
+        },
+        {
+          "start": 0.454562499999998,
+          "end": 0.6345624999999977,
+          "jp": "ない!",
+          "prob": 0.9679003953933716
+        }
+      ],
+      "ko": "앗, 위험해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

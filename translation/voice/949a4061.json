@@ -1,0 +1,35 @@
+{
+  "hash": "949a4061",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.3764375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0500625000000028,
+      "jp": "い、いけ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.17006250000000023,
+          "jp": "い、",
+          "prob": 0.051604919135570526
+        },
+        {
+          "start": 0.6300625000000011,
+          "end": 0.8700624999999995,
+          "jp": "い",
+          "prob": 0.37781327962875366
+        },
+        {
+          "start": 0.8700624999999995,
+          "end": 1.0500625000000028,
+          "jp": "け",
+          "prob": 0.057677481323480606
+        }
+      ],
+      "ko": "가, 가!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "0276189e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.935625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7543749999999996,
+      "jp": "言っただろ?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.234375,
+          "jp": "言",
+          "prob": 0.6064220070838928
+        },
+        {
+          "start": 0.234375,
+          "end": 0.45437500000000064,
+          "jp": "った",
+          "prob": 0.9847078323364258
+        },
+        {
+          "start": 0.45437500000000064,
+          "end": 0.5943750000000012,
+          "jp": "だ",
+          "prob": 0.9884938597679138
+        },
+        {
+          "start": 0.5943750000000012,
+          "end": 0.7543749999999996,
+          "jp": "ろ?",
+          "prob": 0.9521288871765137
+        }
+      ],
+      "ko": "내가 말했지?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

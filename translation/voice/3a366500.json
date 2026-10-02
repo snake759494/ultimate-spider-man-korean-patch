@@ -1,0 +1,15 @@
+{
+  "hash": "3a366500",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.1425625,
+  "segments": [
+    {
+      "start": 0.5223125000000008,
+      "end": 3.1425625,
+      "jp": "そうだ!あんたのファンクラブを作るよ!",
+      "ko": "그래! 당신 팬클럽을 만들게!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "a754dbce",
+  "duration": 53.9855625,
+  "segments": [
+    {
+      "start": 41.14,
+      "end": 42.36,
+      "jp": "目標を確保",
+      "logprob": -0.32284533977508545,
+      "no_speech": 0.7332727313041687,
+      "ko": "목표 확보."
+    }
+  ],
+  "status": "draft_asr_review_required"
+}

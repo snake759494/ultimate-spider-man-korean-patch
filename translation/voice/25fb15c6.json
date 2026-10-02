@@ -1,0 +1,29 @@
+{
+  "hash": "25fb15c6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1095625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5172500000000007,
+      "jp": "今だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.23724999999999952,
+          "jp": "今",
+          "prob": 0.08930250257253647
+        },
+        {
+          "start": 0.23724999999999952,
+          "end": 0.5172500000000007,
+          "jp": "だ!",
+          "prob": 0.9366651177406311
+        }
+      ],
+      "ko": "지금이다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

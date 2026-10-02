@@ -1,0 +1,71 @@
+{
+  "hash": "ec6b7a87",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.597375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.597375,
+      "jp": "だからカメは嫌いなのよ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.4,
+          "jp": "だから",
+          "prob": 0.7911841869354248
+        },
+        {
+          "start": 0.4,
+          "end": 0.58,
+          "jp": "カ",
+          "prob": 0.4128674566745758
+        },
+        {
+          "start": 0.58,
+          "end": 0.64,
+          "jp": "メ",
+          "prob": 0.9979839324951172
+        },
+        {
+          "start": 0.64,
+          "end": 0.78,
+          "jp": "は",
+          "prob": 0.8609867691993713
+        },
+        {
+          "start": 0.78,
+          "end": 0.96,
+          "jp": "嫌",
+          "prob": 0.9831957221031189
+        },
+        {
+          "start": 0.96,
+          "end": 1.08,
+          "jp": "い",
+          "prob": 0.9988371729850769
+        },
+        {
+          "start": 1.08,
+          "end": 1.18,
+          "jp": "な",
+          "prob": 0.9915326237678528
+        },
+        {
+          "start": 1.18,
+          "end": 1.32,
+          "jp": "の",
+          "prob": 0.9969648718833923
+        },
+        {
+          "start": 1.32,
+          "end": 1.597375,
+          "jp": "よ",
+          "prob": 0.9912232160568237
+        }
+      ],
+      "ko": "이래서 거북이는 싫다니까."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "510756af",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.907875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6561875000000015,
+      "jp": "食らえ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2561875000000029,
+          "jp": "食",
+          "prob": 0.9348109364509583
+        },
+        {
+          "start": 0.2561875000000029,
+          "end": 0.41618750000000304,
+          "jp": "ら",
+          "prob": 0.9989637136459351
+        },
+        {
+          "start": 0.41618750000000304,
+          "end": 0.6561875000000015,
+          "jp": "え!",
+          "prob": 0.9939138293266296
+        }
+      ],
+      "ko": "받아라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

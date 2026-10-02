@@ -1,0 +1,15 @@
+{
+  "hash": "167b8858",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7059375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7059375,
+      "jp": "職場の人に言わなくっちゃ",
+      "ko": "직장 사람들한테 말해야겠어."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

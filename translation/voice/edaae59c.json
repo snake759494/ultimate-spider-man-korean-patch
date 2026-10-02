@@ -1,0 +1,15 @@
+{
+  "hash": "edaae59c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.9073125,
+  "segments": [
+    {
+      "start": 0.330937500000001,
+      "end": 1.9073125,
+      "jp": "最高の休暇になったわ!",
+      "ko": "최고의 휴가가 됐네요!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

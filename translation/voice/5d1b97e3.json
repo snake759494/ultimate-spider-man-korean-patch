@@ -1,0 +1,29 @@
+{
+  "hash": "5d1b97e3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.642,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.497750000000007,
+      "jp": "外した?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.17775000000000674,
+          "jp": "外",
+          "prob": 0.733799159526825
+        },
+        {
+          "start": 0.17775000000000674,
+          "end": 0.497750000000007,
+          "jp": "した?",
+          "prob": 0.9872130751609802
+        }
+      ],
+      "ko": "빗나갔어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

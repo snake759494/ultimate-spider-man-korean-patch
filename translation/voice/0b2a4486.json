@@ -1,0 +1,15 @@
+{
+  "hash": "0b2a4486",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7826875,
+  "segments": [
+    {
+      "start": 0.19674999999999798,
+      "end": 1.696749999999998,
+      "jp": "見てくれ武器はおろすから!",
+      "ko": "봐, 무기는 내려놓을게!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

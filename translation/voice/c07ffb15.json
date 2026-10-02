@@ -1,0 +1,29 @@
+{
+  "hash": "c07ffb15",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7459375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.46456249999999955,
+      "jp": "ヤバイ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18456250000000018,
+          "jp": "ヤ",
+          "prob": 0.8637231588363647
+        },
+        {
+          "start": 0.18456250000000018,
+          "end": 0.46456249999999955,
+          "jp": "バイ!",
+          "prob": 0.9229063987731934
+        }
+      ],
+      "ko": "큰일인데..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "bb868a34",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8115625,
+  "segments": [
+    {
+      "start": 0.030000000000001137,
+      "end": 0.6500000000000004,
+      "jp": "やったぞ!",
+      "words": [
+        {
+          "start": 0.030000000000001137,
+          "end": 0.27000000000000135,
+          "jp": "や",
+          "prob": 0.9554837942123413
+        },
+        {
+          "start": 0.27000000000000135,
+          "end": 0.47000000000000064,
+          "jp": "った",
+          "prob": 0.9772233366966248
+        },
+        {
+          "start": 0.47000000000000064,
+          "end": 0.6500000000000004,
+          "jp": "ぞ!",
+          "prob": 0.998359739780426
+        }
+      ],
+      "ko": "해냈다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

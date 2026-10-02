@@ -1,0 +1,15 @@
+{
+  "hash": "606472ec",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 6.16275,
+  "segments": [
+    {
+      "start": 0,
+      "end": 6.16275,
+      "jp": "それじゃあ、行くぞ!行か?よーい、スタート!",
+      "ko": "그럼 간다. 준비됐어? 준비, 출발!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

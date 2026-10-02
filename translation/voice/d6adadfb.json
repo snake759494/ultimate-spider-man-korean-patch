@@ -1,0 +1,47 @@
+{
+  "hash": "d6adadfb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5436875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.2776874999999999,
+      "jp": "大当たりだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.4176875,
+          "jp": "大",
+          "prob": 0.3560991585254669
+        },
+        {
+          "start": 0.4176875,
+          "end": 0.7576874999999998,
+          "jp": "当",
+          "prob": 0.9444840550422668
+        },
+        {
+          "start": 0.7576874999999998,
+          "end": 0.8776875,
+          "jp": "た",
+          "prob": 0.8770042657852173
+        },
+        {
+          "start": 0.8776875,
+          "end": 0.9776875,
+          "jp": "り",
+          "prob": 0.999948263168335
+        },
+        {
+          "start": 0.9776875,
+          "end": 1.2776874999999999,
+          "jp": "だ!",
+          "prob": 0.9950233697891235
+        }
+      ],
+      "ko": "제대로 맞혔다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

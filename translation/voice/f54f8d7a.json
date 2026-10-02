@@ -1,0 +1,15 @@
+{
+  "hash": "f54f8d7a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.966,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.966,
+      "jp": "ー一人やられた",
+      "ko": "한 명 당했다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

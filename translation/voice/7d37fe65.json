@@ -1,0 +1,47 @@
+{
+  "hash": "7d37fe65",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.631125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.46,
+      "jp": "もう大丈夫だ ありがとう",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3,
+          "jp": "もう",
+          "prob": 0.7097374200820923
+        },
+        {
+          "start": 0.3,
+          "end": 0.56,
+          "jp": "大丈夫",
+          "prob": 0.9873006939888
+        },
+        {
+          "start": 0.56,
+          "end": 0.84,
+          "jp": "だ",
+          "prob": 0.9670142531394958
+        },
+        {
+          "start": 0.84,
+          "end": 1.22,
+          "jp": " あり",
+          "prob": 0.1659272313117981
+        },
+        {
+          "start": 1.22,
+          "end": 1.46,
+          "jp": "がとう",
+          "prob": 0.9574480056762695
+        }
+      ],
+      "ko": "이제 괜찮아. 고마워."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

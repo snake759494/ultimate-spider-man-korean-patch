@@ -1,0 +1,35 @@
+{
+  "hash": "54dbc6ac",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9705,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9527499999999982,
+      "jp": "もう帰る",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1527499999999975,
+          "jp": "もう",
+          "prob": 0.40145424008369446
+        },
+        {
+          "start": 0.1527499999999975,
+          "end": 0.4527499999999982,
+          "jp": "帰",
+          "prob": 0.950692355632782
+        },
+        {
+          "start": 0.4527499999999982,
+          "end": 0.9527499999999982,
+          "jp": "る",
+          "prob": 0.9852564930915833
+        }
+      ],
+      "ko": "이제 돌아갈래."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

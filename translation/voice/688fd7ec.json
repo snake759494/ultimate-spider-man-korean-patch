@@ -1,0 +1,41 @@
+{
+  "hash": "688fd7ec",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.345,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9465000000000003,
+      "jp": "何をするんだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2665000000000002,
+          "jp": "何",
+          "prob": 0.3126106560230255
+        },
+        {
+          "start": 0.2665000000000002,
+          "end": 0.5265,
+          "jp": "を",
+          "prob": 0.9913301467895508
+        },
+        {
+          "start": 0.5265,
+          "end": 0.7065000000000001,
+          "jp": "する",
+          "prob": 0.9748380184173584
+        },
+        {
+          "start": 0.7065000000000001,
+          "end": 0.9465000000000003,
+          "jp": "んだ!",
+          "prob": 0.8815059661865234
+        }
+      ],
+      "ko": "무슨 짓이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

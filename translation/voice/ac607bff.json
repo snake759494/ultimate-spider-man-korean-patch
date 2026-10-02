@@ -1,0 +1,15 @@
+{
+  "hash": "ac607bff",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.6903125,
+  "segments": [
+    {
+      "start": 0.07962500000000006,
+      "end": 2.619624999999999,
+      "jp": "…シャッターチャンスは、まだか?",
+      "ko": "아직 찍을 때가 아닌가?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

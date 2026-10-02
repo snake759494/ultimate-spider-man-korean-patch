@@ -1,0 +1,29 @@
+{
+  "hash": "2098c4f1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2755,
+  "segments": [
+    {
+      "start": 0.13625000000000043,
+      "end": 0.9362500000000011,
+      "jp": "おいおい",
+      "words": [
+        {
+          "start": 0.13625000000000043,
+          "end": 0.536249999999999,
+          "jp": "おい",
+          "prob": 0.9057052731513977
+        },
+        {
+          "start": 0.536249999999999,
+          "end": 0.9362500000000011,
+          "jp": "おい",
+          "prob": 0.8043586611747742
+        }
+      ],
+      "ko": "이봐, 이봐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

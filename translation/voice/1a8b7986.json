@@ -1,0 +1,15 @@
+{
+  "hash": "1a8b7986",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3723125,
+  "segments": [
+    {
+      "start": 0.04268750000000132,
+      "end": 1.3723125,
+      "jp": "大役を温蔵しろ!",
+      "ko": "탄약을 아껴!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

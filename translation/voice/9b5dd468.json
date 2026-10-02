@@ -1,0 +1,41 @@
+{
+  "hash": "9b5dd468",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2091875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.2091875,
+      "jp": "やっほー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2834374999999998,
+          "jp": "や",
+          "prob": 0.05623825639486313
+        },
+        {
+          "start": 0.2834374999999998,
+          "end": 0.5034375000000004,
+          "jp": "っ",
+          "prob": 0.3581414520740509
+        },
+        {
+          "start": 0.5034375000000004,
+          "end": 0.7034374999999997,
+          "jp": "ほ",
+          "prob": 0.9314442276954651
+        },
+        {
+          "start": 0.7034374999999997,
+          "end": 1.2091875,
+          "jp": "ー!",
+          "prob": 0.5781078934669495
+        }
+      ],
+      "ko": "야호!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

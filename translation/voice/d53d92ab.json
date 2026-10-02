@@ -1,0 +1,41 @@
+{
+  "hash": "d53d92ab",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.114625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9498750000000005,
+      "jp": " 何とかするんだ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26987500000000075,
+          "jp": " 何",
+          "prob": 0.9542925953865051
+        },
+        {
+          "start": 0.26987500000000075,
+          "end": 0.4898750000000014,
+          "jp": "とか",
+          "prob": 0.9196998476982117
+        },
+        {
+          "start": 0.4898750000000014,
+          "end": 0.7498750000000012,
+          "jp": "する",
+          "prob": 0.9819074273109436
+        },
+        {
+          "start": 0.7498750000000012,
+          "end": 0.9498750000000005,
+          "jp": "んだ",
+          "prob": 0.9761719703674316
+        }
+      ],
+      "ko": "어떻게든 해 봐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

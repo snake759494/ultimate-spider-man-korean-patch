@@ -1,0 +1,47 @@
+{
+  "hash": "5e72ca32",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.343875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.02,
+      "jp": "心地よいな",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24,
+          "jp": "心",
+          "prob": 0.6518464684486389
+        },
+        {
+          "start": 0.24,
+          "end": 0.54,
+          "jp": "地",
+          "prob": 0.8958377838134766
+        },
+        {
+          "start": 0.54,
+          "end": 0.7,
+          "jp": "よ",
+          "prob": 0.7142231464385986
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "jp": "い",
+          "prob": 0.996635377407074
+        },
+        {
+          "start": 0.8,
+          "end": 1.02,
+          "jp": "な",
+          "prob": 0.9950684309005737
+        }
+      ],
+      "ko": "기분 좋군!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,71 @@
+{
+  "hash": "e3a582fe",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.361,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.18,
+      "jp": "やめてくれ!おでかいだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18,
+          "jp": "や",
+          "prob": 0.5855991840362549
+        },
+        {
+          "start": 0.18,
+          "end": 0.34,
+          "jp": "めて",
+          "prob": 0.9738735556602478
+        },
+        {
+          "start": 0.34,
+          "end": 0.48,
+          "jp": "く",
+          "prob": 0.9612461924552917
+        },
+        {
+          "start": 0.48,
+          "end": 0.58,
+          "jp": "れ!",
+          "prob": 0.987878143787384
+        },
+        {
+          "start": 0.7,
+          "end": 0.82,
+          "jp": "お",
+          "prob": 0.5262552499771118
+        },
+        {
+          "start": 0.82,
+          "end": 0.9,
+          "jp": "で",
+          "prob": 0.2853226363658905
+        },
+        {
+          "start": 0.9,
+          "end": 1.02,
+          "jp": "か",
+          "prob": 0.8169518709182739
+        },
+        {
+          "start": 1.02,
+          "end": 1.04,
+          "jp": "い",
+          "prob": 0.9933930039405823
+        },
+        {
+          "start": 1.04,
+          "end": 1.18,
+          "jp": "だ!",
+          "prob": 0.9861083626747131
+        }
+      ],
+      "ko": "그만해! 부탁이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

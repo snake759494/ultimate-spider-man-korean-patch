@@ -1,0 +1,15 @@
+{
+  "hash": "45e0889b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 4.0576875,
+  "segments": [
+    {
+      "start": 0.46699999999999875,
+      "end": 3.9869999999999983,
+      "jp": "ーダーマン今日もタイツがお似合いねちょっと乗せてってくんない?",
+      "ko": "스파이더맨! 오늘도 타이츠가 잘 어울리네! 나 좀 태워 줄래?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

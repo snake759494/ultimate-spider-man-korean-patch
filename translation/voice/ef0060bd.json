@@ -1,0 +1,15 @@
+{
+  "hash": "ef0060bd",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9648125,
+  "segments": [
+    {
+      "start": 0.0613125000000001,
+      "end": 0.9648125,
+      "jp": "なんなの?",
+      "ko": "뭐야?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

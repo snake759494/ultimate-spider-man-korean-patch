@@ -1,0 +1,15 @@
+{
+  "hash": "88aec6b6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.708875,
+  "segments": [
+    {
+      "start": 0.19987500000000225,
+      "end": 0.6998750000000022,
+      "jp": "やられた!",
+      "ko": "당했다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

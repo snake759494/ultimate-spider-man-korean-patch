@@ -1,0 +1,19 @@
+{
+  "hash": "560acd1f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7449375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7449375,
+      "jp": "乗せてよ早く",
+      "ko": "태워 줘! 빨리!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_dictionary_medium_batch_review_required"
+}

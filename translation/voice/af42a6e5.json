@@ -1,0 +1,15 @@
+{
+  "hash": "af42a6e5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.878125,
+  "segments": [
+    {
+      "start": 0.3127500000000003,
+      "end": 2.8527499999999995,
+      "jp": "最っ高の休暇になったよ",
+      "ko": "최고의 휴가가 됐어."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

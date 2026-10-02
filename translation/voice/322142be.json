@@ -1,0 +1,15 @@
+{
+  "hash": "322142be",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.0785,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.0785,
+      "jp": "あんたは偉い 偉いよ",
+      "ko": "당신 대단해! 정말 대단해!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

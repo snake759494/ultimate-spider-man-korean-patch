@@ -1,0 +1,15 @@
+{
+  "hash": "11855c17",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9819375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9819375,
+      "jp": "ーまたあいつらだ",
+      "ko": "또 저놈들이야."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

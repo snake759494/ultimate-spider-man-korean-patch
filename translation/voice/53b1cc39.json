@@ -1,0 +1,41 @@
+{
+  "hash": "53b1cc39",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.076625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8393749999999986,
+      "jp": "交代するんだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2593749999999986,
+          "jp": "交",
+          "prob": 0.6606866717338562
+        },
+        {
+          "start": 0.2593749999999986,
+          "end": 0.4193749999999987,
+          "jp": "代",
+          "prob": 0.965327262878418
+        },
+        {
+          "start": 0.4193749999999987,
+          "end": 0.5993750000000002,
+          "jp": "する",
+          "prob": 0.989518940448761
+        },
+        {
+          "start": 0.5993750000000002,
+          "end": 0.8393749999999986,
+          "jp": "んだ!",
+          "prob": 0.978226363658905
+        }
+      ],
+      "ko": "교대해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

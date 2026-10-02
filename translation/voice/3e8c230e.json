@@ -1,0 +1,35 @@
+{
+  "hash": "3e8c230e",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.397625,
+  "segments": [
+    {
+      "start": 0.026187499999999808,
+      "end": 0.7261875,
+      "jp": "こいつめ!",
+      "words": [
+        {
+          "start": 0.026187499999999808,
+          "end": 0.32618749999999963,
+          "jp": "こ",
+          "prob": 0.9158906936645508
+        },
+        {
+          "start": 0.32618749999999963,
+          "end": 0.5261874999999998,
+          "jp": "いつ",
+          "prob": 0.997672975063324
+        },
+        {
+          "start": 0.5261874999999998,
+          "end": 0.7261875,
+          "jp": "め!",
+          "prob": 0.861598014831543
+        }
+      ],
+      "ko": "이 녀석!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

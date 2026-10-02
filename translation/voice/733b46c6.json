@@ -1,0 +1,35 @@
+{
+  "hash": "733b46c6",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.746375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.746375,
+      "jp": "急げよ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2743750000000027,
+          "jp": "急",
+          "prob": 0.7934176325798035
+        },
+        {
+          "start": 0.2743750000000027,
+          "end": 0.5143750000000011,
+          "jp": "げ",
+          "prob": 0.9968093037605286
+        },
+        {
+          "start": 0.5143750000000011,
+          "end": 0.746375,
+          "jp": "よ!",
+          "prob": 0.9585735201835632
+        }
+      ],
+      "ko": "서두르라고!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "e003ba78",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.922125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8731249999999999,
+      "jp": "ちょっと待ってくれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.11312500000000014,
+          "jp": "ちょっと",
+          "prob": 0.19084285199642181
+        },
+        {
+          "start": 0.11312500000000014,
+          "end": 0.5131249999999996,
+          "jp": "待って",
+          "prob": 0.9539056420326233
+        },
+        {
+          "start": 0.5131249999999996,
+          "end": 0.6931250000000002,
+          "jp": "く",
+          "prob": 0.9717158079147339
+        },
+        {
+          "start": 0.6931250000000002,
+          "end": 0.8731249999999999,
+          "jp": "れ!",
+          "prob": 0.9989380240440369
+        }
+      ],
+      "ko": "잠깐 기다려 줘."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

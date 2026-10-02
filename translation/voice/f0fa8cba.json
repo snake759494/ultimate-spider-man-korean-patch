@@ -1,0 +1,41 @@
+{
+  "hash": "f0fa8cba",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.0441875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8525624999999994,
+      "jp": "どうなってんだ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.35256249999999945,
+          "jp": "どう",
+          "prob": 0.8831310272216797
+        },
+        {
+          "start": 0.35256249999999945,
+          "end": 0.5325624999999992,
+          "jp": "な",
+          "prob": 0.9924575090408325
+        },
+        {
+          "start": 0.5325624999999992,
+          "end": 0.6725624999999997,
+          "jp": "って",
+          "prob": 0.9613109827041626
+        },
+        {
+          "start": 0.6725624999999997,
+          "end": 0.8525624999999994,
+          "jp": "んだ",
+          "prob": 0.9915390610694885
+        }
+      ],
+      "ko": "어떻게 된 거야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

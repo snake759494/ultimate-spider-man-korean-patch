@@ -1,0 +1,71 @@
+{
+  "hash": "2aa2dba7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.91075,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.62,
+      "jp": "人生は一度きりだからな。",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26,
+          "jp": "人",
+          "prob": 0.7192091345787048
+        },
+        {
+          "start": 0.26,
+          "end": 0.48,
+          "jp": "生",
+          "prob": 0.9965879917144775
+        },
+        {
+          "start": 0.48,
+          "end": 0.64,
+          "jp": "は",
+          "prob": 0.8506866097450256
+        },
+        {
+          "start": 0.64,
+          "end": 0.82,
+          "jp": "一",
+          "prob": 0.9076783657073975
+        },
+        {
+          "start": 0.82,
+          "end": 0.98,
+          "jp": "度",
+          "prob": 0.9706756472587585
+        },
+        {
+          "start": 0.98,
+          "end": 1.14,
+          "jp": "き",
+          "prob": 0.4342626929283142
+        },
+        {
+          "start": 1.14,
+          "end": 1.18,
+          "jp": "り",
+          "prob": 0.9936631917953491
+        },
+        {
+          "start": 1.18,
+          "end": 1.36,
+          "jp": "だから",
+          "prob": 0.9719112515449524
+        },
+        {
+          "start": 1.36,
+          "end": 1.62,
+          "jp": "な。",
+          "prob": 0.9839111566543579
+        }
+      ],
+      "ko": "인생은 한 번뿐이니까."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

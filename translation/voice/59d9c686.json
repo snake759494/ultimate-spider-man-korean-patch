@@ -1,0 +1,15 @@
+{
+  "hash": "59d9c686",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.045625,
+  "segments": [
+    {
+      "start": 0.18175000000000097,
+      "end": 1.045625,
+      "jp": "スパイダーマン!",
+      "ko": "스파이더맨!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

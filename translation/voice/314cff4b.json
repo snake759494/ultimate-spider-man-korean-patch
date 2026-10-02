@@ -1,0 +1,41 @@
+{
+  "hash": "314cff4b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.943125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.943125,
+      "jp": "え? なんで!?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3001250000000013,
+          "jp": "え?",
+          "prob": 0.1027214452624321
+        },
+        {
+          "start": 0.9601250000000014,
+          "end": 1.360125,
+          "jp": " な",
+          "prob": 0.4232535660266876
+        },
+        {
+          "start": 1.360125,
+          "end": 1.600125000000002,
+          "jp": "んで",
+          "prob": 0.701870322227478
+        },
+        {
+          "start": 1.600125000000002,
+          "end": 1.943125,
+          "jp": "!?",
+          "prob": 0.37061160802841187
+        }
+      ],
+      "ko": "어? 왜!?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

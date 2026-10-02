@@ -1,0 +1,35 @@
+{
+  "hash": "fe792bfc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.9453125,
+  "segments": [
+    {
+      "start": 0.06093750000000142,
+      "end": 1.500937500000001,
+      "jp": "ああ、ねみ",
+      "words": [
+        {
+          "start": 0.06093750000000142,
+          "end": 0.42093750000000085,
+          "jp": "ああ、",
+          "prob": 0.13509061932563782
+        },
+        {
+          "start": 0.8609375000000004,
+          "end": 1.160937500000001,
+          "jp": "ね",
+          "prob": 0.5225662589073181
+        },
+        {
+          "start": 1.160937500000001,
+          "end": 1.500937500000001,
+          "jp": "み",
+          "prob": 0.8215447664260864
+        }
+      ],
+      "ko": "아, 졸려."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

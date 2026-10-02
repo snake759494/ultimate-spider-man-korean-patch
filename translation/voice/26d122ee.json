@@ -1,0 +1,41 @@
+{
+  "hash": "26d122ee",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.985375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7518125000000015,
+      "jp": "金はないか!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.25181250000000155,
+          "jp": "金",
+          "prob": 0.7019641399383545
+        },
+        {
+          "start": 0.25181250000000155,
+          "end": 0.4118125000000017,
+          "jp": "は",
+          "prob": 0.99458247423172
+        },
+        {
+          "start": 0.4118125000000017,
+          "end": 0.5518125000000005,
+          "jp": "ない",
+          "prob": 0.9228728413581848
+        },
+        {
+          "start": 0.5518125000000005,
+          "end": 0.7518125000000015,
+          "jp": "か!",
+          "prob": 0.996220052242279
+        }
+      ],
+      "ko": "돈 없어?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

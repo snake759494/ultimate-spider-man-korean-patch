@@ -1,0 +1,41 @@
+{
+  "hash": "b1a5c186",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3050625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.1542499999999976,
+      "jp": "目標細く",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.17424999999999713,
+          "jp": "目",
+          "prob": 0.49509790539741516
+        },
+        {
+          "start": 0.17424999999999713,
+          "end": 0.5942499999999988,
+          "jp": "標",
+          "prob": 0.9985527396202087
+        },
+        {
+          "start": 0.5942499999999988,
+          "end": 0.894249999999996,
+          "jp": "細",
+          "prob": 0.6129536628723145
+        },
+        {
+          "start": 0.894249999999996,
+          "end": 1.1542499999999976,
+          "jp": "く",
+          "prob": 0.997936487197876
+        }
+      ],
+      "ko": "목표 포착."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

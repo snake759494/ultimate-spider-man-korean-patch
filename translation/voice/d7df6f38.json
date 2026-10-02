@@ -1,0 +1,15 @@
+{
+  "hash": "d7df6f38",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4840625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.4840625,
+      "jp": "お前とお前、あそこ行き!",
+      "ko": "너랑 너, 저쪽으로 가!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

@@ -1,0 +1,71 @@
+{
+  "hash": "d1f5fa6d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.0789375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.0789375,
+      "jp": "ここは私が生したようだな",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "ここ",
+          "prob": 0.8659942150115967
+        },
+        {
+          "start": 0.22,
+          "end": 0.48,
+          "jp": "は",
+          "prob": 0.9849623441696167
+        },
+        {
+          "start": 0.48,
+          "end": 0.82,
+          "jp": "私",
+          "prob": 0.889806866645813
+        },
+        {
+          "start": 0.82,
+          "end": 1.0,
+          "jp": "が",
+          "prob": 0.993462324142456
+        },
+        {
+          "start": 1.0,
+          "end": 1.18,
+          "jp": "生",
+          "prob": 0.3662083148956299
+        },
+        {
+          "start": 1.18,
+          "end": 1.4,
+          "jp": "した",
+          "prob": 0.5700145363807678
+        },
+        {
+          "start": 1.4,
+          "end": 1.58,
+          "jp": "よう",
+          "prob": 0.9674355983734131
+        },
+        {
+          "start": 1.58,
+          "end": 1.7,
+          "jp": "だ",
+          "prob": 0.9965856075286865
+        },
+        {
+          "start": 1.7,
+          "end": 2.0789375,
+          "jp": "な",
+          "prob": 0.9946780204772949
+        }
+      ],
+      "ko": "여기는 내가 제압한 것 같군."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

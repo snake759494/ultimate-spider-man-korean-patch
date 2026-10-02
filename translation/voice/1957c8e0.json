@@ -1,0 +1,15 @@
+{
+  "hash": "1957c8e0",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.1491875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.02,
+      "jp": "おつむが前以上に軽くなってないか?",
+      "ko": "머리가 전보다 더 가벼워진 거 아니야?"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

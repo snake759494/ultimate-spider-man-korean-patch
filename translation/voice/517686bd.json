@@ -1,0 +1,29 @@
+{
+  "hash": "517686bd",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.5305,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.3922499999999989,
+      "jp": "危ない!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.17225000000000001,
+          "jp": "危",
+          "prob": 0.6340623497962952
+        },
+        {
+          "start": 0.17225000000000001,
+          "end": 0.3922499999999989,
+          "jp": "ない!",
+          "prob": 0.9715202450752258
+        }
+      ],
+      "ko": "위험해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

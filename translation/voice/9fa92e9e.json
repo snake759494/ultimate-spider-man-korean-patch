@@ -1,0 +1,65 @@
+{
+  "hash": "9fa92e9e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3465625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.18,
+      "jp": "なんであんなに動けるんだ?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26,
+          "jp": "なん",
+          "prob": 0.48284682631492615
+        },
+        {
+          "start": 0.26,
+          "end": 0.4,
+          "jp": "で",
+          "prob": 0.9975637197494507
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "jp": "あ",
+          "prob": 0.7969185709953308
+        },
+        {
+          "start": 0.5,
+          "end": 0.56,
+          "jp": "んな",
+          "prob": 0.9913514852523804
+        },
+        {
+          "start": 0.56,
+          "end": 0.7,
+          "jp": "に",
+          "prob": 0.9959487915039062
+        },
+        {
+          "start": 0.7,
+          "end": 0.8,
+          "jp": "動",
+          "prob": 0.9796507358551025
+        },
+        {
+          "start": 0.8,
+          "end": 1.0,
+          "jp": "ける",
+          "prob": 0.9910159111022949
+        },
+        {
+          "start": 1.0,
+          "end": 1.18,
+          "jp": "んだ?",
+          "prob": 0.9947735667228699
+        }
+      ],
+      "ko": "어떻게 저렇게 움직이지?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

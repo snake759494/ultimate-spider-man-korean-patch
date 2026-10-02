@@ -1,0 +1,47 @@
+{
+  "hash": "d6237305",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.087375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0,
+      "jp": "クルマが!グ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18,
+          "jp": "ク",
+          "prob": 0.04567418992519379
+        },
+        {
+          "start": 0.18,
+          "end": 0.24,
+          "jp": "ル",
+          "prob": 0.918106734752655
+        },
+        {
+          "start": 0.24,
+          "end": 0.38,
+          "jp": "マ",
+          "prob": 0.9899133443832397
+        },
+        {
+          "start": 0.38,
+          "end": 0.56,
+          "jp": "が!",
+          "prob": 0.8349893093109131
+        },
+        {
+          "start": 0.9,
+          "end": 1.0,
+          "jp": "グ",
+          "prob": 0.0719246119260788
+        }
+      ],
+      "ko": "차가!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

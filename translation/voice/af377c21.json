@@ -1,0 +1,41 @@
+{
+  "hash": "af377c21",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4058125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0773124999999997,
+      "jp": "痛いじゃないの!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2573124999999994,
+          "jp": "痛",
+          "prob": 0.829980194568634
+        },
+        {
+          "start": 0.2573124999999994,
+          "end": 0.4973124999999996,
+          "jp": "い",
+          "prob": 0.993527352809906
+        },
+        {
+          "start": 0.4973124999999996,
+          "end": 0.7373124999999998,
+          "jp": "じゃない",
+          "prob": 0.9768025279045105
+        },
+        {
+          "start": 0.7373124999999998,
+          "end": 1.0773124999999997,
+          "jp": "の!",
+          "prob": 0.9934225678443909
+        }
+      ],
+      "ko": "아프잖아!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

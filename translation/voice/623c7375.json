@@ -1,0 +1,15 @@
+{
+  "hash": "623c7375",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.998875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.998875,
+      "jp": "アルティメッツ、早く来てくれ!",
+      "ko": "얼티미츠! 빨리 와 줘!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

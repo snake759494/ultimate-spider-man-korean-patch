@@ -1,0 +1,35 @@
+{
+  "hash": "bc264a55",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.86475,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5547500000000003,
+      "jp": "いけるぞ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.15475000000000083,
+          "jp": "い",
+          "prob": 0.8872509598731995
+        },
+        {
+          "start": 0.15475000000000083,
+          "end": 0.3147500000000001,
+          "jp": "ける",
+          "prob": 0.9997720122337341
+        },
+        {
+          "start": 0.3147500000000001,
+          "end": 0.5547500000000003,
+          "jp": "ぞ!",
+          "prob": 0.999620795249939
+        }
+      ],
+      "ko": "할 수 있어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

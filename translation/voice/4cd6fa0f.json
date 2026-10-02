@@ -1,0 +1,65 @@
+{
+  "hash": "4cd6fa0f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6853125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6,
+      "jp": "この町にはもう運営りだ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3,
+          "jp": "この",
+          "prob": 0.822310745716095
+        },
+        {
+          "start": 0.3,
+          "end": 0.58,
+          "jp": "町",
+          "prob": 0.6598828285932541
+        },
+        {
+          "start": 0.58,
+          "end": 0.78,
+          "jp": "には",
+          "prob": 0.9775964021682739
+        },
+        {
+          "start": 0.78,
+          "end": 0.96,
+          "jp": "もう",
+          "prob": 0.9192011952400208
+        },
+        {
+          "start": 0.96,
+          "end": 1.22,
+          "jp": "運",
+          "prob": 0.7569341659545898
+        },
+        {
+          "start": 1.22,
+          "end": 1.34,
+          "jp": "営",
+          "prob": 0.3954336419701576
+        },
+        {
+          "start": 1.34,
+          "end": 1.46,
+          "jp": "り",
+          "prob": 0.44455739855766296
+        },
+        {
+          "start": 1.46,
+          "end": 1.6,
+          "jp": "だ",
+          "prob": 0.9684345126152039
+        }
+      ],
+      "ko": "이 도시는 이제 지긋지긋해."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

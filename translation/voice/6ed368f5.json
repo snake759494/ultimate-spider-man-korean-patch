@@ -1,0 +1,19 @@
+{
+  "hash": "6ed368f5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6340625,
+  "segments": [
+    {
+      "start": 0.06499999999999995,
+      "end": 1.6340625,
+      "jp": "テレビの方が大きく見えるわね",
+      "ko": "TV에선 더 커 보이던데."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_dictionary_medium_batch_review_required"
+}

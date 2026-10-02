@@ -1,0 +1,29 @@
+{
+  "hash": "28503e67",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.003375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.4915625000000041,
+      "jp": "今だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2515625000000057,
+          "jp": "今",
+          "prob": 0.8767632842063904
+        },
+        {
+          "start": 0.2515625000000057,
+          "end": 0.4915625000000041,
+          "jp": "だ!",
+          "prob": 0.9945805668830872
+        }
+      ],
+      "ko": "지금이다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

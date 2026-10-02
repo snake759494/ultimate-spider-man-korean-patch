@@ -1,0 +1,15 @@
+{
+  "hash": "df7319cc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.082125,
+  "segments": [
+    {
+      "start": 0.17437499999999773,
+      "end": 1.082125,
+      "jp": "全員伏せろ!",
+      "ko": "전원 엎드려!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

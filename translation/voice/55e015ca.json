@@ -1,0 +1,41 @@
+{
+  "hash": "55e015ca",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.85775,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6699375000000001,
+      "jp": "クソったれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.06993749999999999,
+          "jp": "ク",
+          "prob": 0.8299087285995483
+        },
+        {
+          "start": 0.06993749999999999,
+          "end": 0.28993749999999974,
+          "jp": "ソ",
+          "prob": 0.9985576272010803
+        },
+        {
+          "start": 0.28993749999999974,
+          "end": 0.5099374999999999,
+          "jp": "った",
+          "prob": 0.9929581880569458
+        },
+        {
+          "start": 0.5099374999999999,
+          "end": 0.6699375000000001,
+          "jp": "れ!",
+          "prob": 0.9989758729934692
+        }
+      ],
+      "ko": "빌어먹을!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

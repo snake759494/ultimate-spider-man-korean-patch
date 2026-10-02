@@ -1,0 +1,15 @@
+{
+  "hash": "4d12a063",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.939125,
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 1.92,
+      "jp": "近くに居すぎちゃダメだ",
+      "ko": "너무 오래 붙어 있으면 안 돼."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

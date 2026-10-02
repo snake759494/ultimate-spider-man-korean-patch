@@ -1,0 +1,15 @@
+{
+  "hash": "b0e486ff",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.963625,
+  "segments": [
+    {
+      "start": 0.12481249999999999,
+      "end": 1.8248125000000002,
+      "jp": "ねえ!しみるじゃねえか!",
+      "ko": "야! 따갑잖아!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

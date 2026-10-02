@@ -1,0 +1,15 @@
+{
+  "hash": "df41ec74",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.8030625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7,
+      "jp": "悪党どもから離れはしない",
+      "ko": "악당들을 가만두진 않겠어."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

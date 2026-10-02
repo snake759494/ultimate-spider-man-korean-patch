@@ -1,0 +1,15 @@
+{
+  "hash": "1bff9dc5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.0235625,
+  "segments": [
+    {
+      "start": 1.170562499999999,
+      "end": 3.0235625,
+      "jp": "最初から勝負は見えている",
+      "ko": "승부는 처음부터 뻔했어."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

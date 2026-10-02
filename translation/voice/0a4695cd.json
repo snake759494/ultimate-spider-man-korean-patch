@@ -1,0 +1,53 @@
+{
+  "hash": "0a4695cd",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8545625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.56,
+      "jp": "えっと、鍵無くしました。",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "え",
+          "prob": 0.4501473903656006
+        },
+        {
+          "start": 0.22,
+          "end": 0.42,
+          "jp": "っと、",
+          "prob": 0.9839977025985718
+        },
+        {
+          "start": 0.84,
+          "end": 1.02,
+          "jp": "鍵",
+          "prob": 0.7306786924600601
+        },
+        {
+          "start": 1.02,
+          "end": 1.16,
+          "jp": "無",
+          "prob": 0.31800419092178345
+        },
+        {
+          "start": 1.16,
+          "end": 1.22,
+          "jp": "く",
+          "prob": 0.984630286693573
+        },
+        {
+          "start": 1.22,
+          "end": 1.56,
+          "jp": "しました。",
+          "prob": 0.9590005278587341
+        }
+      ],
+      "ko": "저기, 열쇠를 잃어버렸어요."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

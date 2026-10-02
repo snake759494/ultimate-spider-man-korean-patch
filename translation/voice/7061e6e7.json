@@ -1,0 +1,19 @@
+{
+  "hash": "7061e6e7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7526875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7526875,
+      "jp": "ーあいつ駆け直してこないのよ",
+      "ko": "그 녀석, 전화도 다시 안 해 줘."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

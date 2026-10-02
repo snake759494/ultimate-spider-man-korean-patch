@@ -1,0 +1,16 @@
+{
+  "hash": "e8c7896b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.3624375,
+  "segments": [
+    {
+      "start": 0.0,
+      "end": 0.5,
+      "jp": "出ろ!",
+      "logprob": -0.2698758492867152,
+      "no_speech": 0.3876822888851166,
+      "ko": "나와!"
+    }
+  ],
+  "status": "translated_batch_asr_review_required"
+}

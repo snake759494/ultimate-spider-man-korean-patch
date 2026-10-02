@@ -1,0 +1,71 @@
+{
+  "hash": "fb1935b3",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.7483125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7483125,
+      "jp": "な 僕の言った通りだろ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18,
+          "jp": "な",
+          "prob": 0.613062858581543
+        },
+        {
+          "start": 0.4,
+          "end": 0.82,
+          "jp": " 僕",
+          "prob": 0.96648770570755
+        },
+        {
+          "start": 0.82,
+          "end": 0.96,
+          "jp": "の",
+          "prob": 0.9480389356613159
+        },
+        {
+          "start": 0.96,
+          "end": 1.1,
+          "jp": "言",
+          "prob": 0.933469831943512
+        },
+        {
+          "start": 1.1,
+          "end": 1.22,
+          "jp": "った",
+          "prob": 0.9981085062026978
+        },
+        {
+          "start": 1.22,
+          "end": 1.36,
+          "jp": "通",
+          "prob": 0.8325433731079102
+        },
+        {
+          "start": 1.36,
+          "end": 1.48,
+          "jp": "り",
+          "prob": 0.9986060261726379
+        },
+        {
+          "start": 1.48,
+          "end": 1.58,
+          "jp": "だ",
+          "prob": 0.9950578212738037
+        },
+        {
+          "start": 1.58,
+          "end": 1.7483125,
+          "jp": "ろ",
+          "prob": 0.9384357929229736
+        }
+      ],
+      "ko": "거봐, 내 말이 맞지?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

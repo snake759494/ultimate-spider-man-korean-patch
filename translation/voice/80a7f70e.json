@@ -1,0 +1,35 @@
+{
+  "hash": "80a7f70e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.08575,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8184374999999999,
+      "jp": " 公産だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2784374999999999,
+          "jp": " 公",
+          "prob": 0.2256566286087036
+        },
+        {
+          "start": 0.2784374999999999,
+          "end": 0.5384375000000001,
+          "jp": "産",
+          "prob": 0.6669290214776993
+        },
+        {
+          "start": 0.5384375000000001,
+          "end": 0.8184374999999999,
+          "jp": "だ!",
+          "prob": 0.9931063055992126
+        }
+      ],
+      "ko": "항복이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

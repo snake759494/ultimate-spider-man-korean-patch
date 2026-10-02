@@ -1,0 +1,15 @@
+{
+  "hash": "04bbe9f7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.64725,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.64725,
+      "jp": "目標、ダウン",
+      "ko": "목표 제압."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "9fa47713",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9844375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9844375,
+      "jp": "勝てねぇ…",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.21243750000000006,
+          "jp": "勝",
+          "prob": 0.9844546318054199
+        },
+        {
+          "start": 0.21243750000000006,
+          "end": 0.4524374999999985,
+          "jp": "て",
+          "prob": 0.938709557056427
+        },
+        {
+          "start": 0.4524374999999985,
+          "end": 0.6924375000000005,
+          "jp": "ねぇ",
+          "prob": 0.9714259505271912
+        },
+        {
+          "start": 0.6924375000000005,
+          "end": 0.9844375,
+          "jp": "…",
+          "prob": 0.6976061463356018
+        }
+      ],
+      "ko": "못 이기겠어..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

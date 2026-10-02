@@ -1,0 +1,15 @@
+{
+  "hash": "3b30becc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6364375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6,
+      "jp": "お前そりゃ何のつもりだ!",
+      "ko": "너, 무슨 생각으로 그러는 거야!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

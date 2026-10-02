@@ -1,0 +1,15 @@
+{
+  "hash": "5c91ab32",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.4075,
+  "segments": [
+    {
+      "start": 0.11,
+      "end": 1.4075,
+      "jp": "ベントハウスがお呼びだ!",
+      "ko": "펜트하우스가 부르네!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

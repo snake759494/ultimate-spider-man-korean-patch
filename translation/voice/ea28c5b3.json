@@ -1,0 +1,15 @@
+{
+  "hash": "ea28c5b3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1644375,
+  "segments": [
+    {
+      "start": 0.23024999999999807,
+      "end": 1.1644375,
+      "jp": " 頭を上げるな",
+      "ko": "머리 들지 마!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

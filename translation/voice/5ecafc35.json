@@ -1,0 +1,47 @@
+{
+  "hash": "5ecafc35",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.4694375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.359937500000001,
+      "jp": "て、その程度か?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1799375000000003,
+          "jp": "て、",
+          "prob": 0.18060922622680664
+        },
+        {
+          "start": 0.45993750000000055,
+          "end": 0.8199375,
+          "jp": "その",
+          "prob": 0.9735021591186523
+        },
+        {
+          "start": 0.8199375,
+          "end": 1.019937500000001,
+          "jp": "程",
+          "prob": 0.9758347272872925
+        },
+        {
+          "start": 1.019937500000001,
+          "end": 1.1999375000000008,
+          "jp": "度",
+          "prob": 0.9976121187210083
+        },
+        {
+          "start": 1.1999375000000008,
+          "end": 1.359937500000001,
+          "jp": "か?",
+          "prob": 0.9928892850875854
+        }
+      ],
+      "ko": "고작 그 정도야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

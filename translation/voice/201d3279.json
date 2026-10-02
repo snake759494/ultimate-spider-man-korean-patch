@@ -1,0 +1,35 @@
+{
+  "hash": "201d3279",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3919375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.3877500000000005,
+      "jp": "あ、まずい",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24774999999999991,
+          "jp": "あ、",
+          "prob": 0.08631975203752518
+        },
+        {
+          "start": 0.5477500000000006,
+          "end": 0.9477499999999992,
+          "jp": "まず",
+          "prob": 0.7524226903915405
+        },
+        {
+          "start": 0.9477499999999992,
+          "end": 1.3877500000000005,
+          "jp": "い",
+          "prob": 0.9850453734397888
+        }
+      ],
+      "ko": "아, 큰일이다."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

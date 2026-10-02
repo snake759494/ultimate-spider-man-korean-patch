@@ -1,0 +1,15 @@
+{
+  "hash": "2a1b1ff0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.875375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.875375,
+      "jp": "退避だ!",
+      "ko": "대피하라!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

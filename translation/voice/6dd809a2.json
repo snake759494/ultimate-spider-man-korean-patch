@@ -1,0 +1,47 @@
+{
+  "hash": "6dd809a2",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.38175,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.18,
+      "jp": "貴様何者だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "貴",
+          "prob": 0.6510968059301376
+        },
+        {
+          "start": 0.22,
+          "end": 0.48,
+          "jp": "様",
+          "prob": 0.9957082271575928
+        },
+        {
+          "start": 0.48,
+          "end": 0.74,
+          "jp": "何",
+          "prob": 0.528594434261322
+        },
+        {
+          "start": 0.74,
+          "end": 0.96,
+          "jp": "者",
+          "prob": 0.9626176357269287
+        },
+        {
+          "start": 0.96,
+          "end": 1.18,
+          "jp": "だ!",
+          "prob": 0.9931008815765381
+        }
+      ],
+      "ko": "넌 대체 누구냐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

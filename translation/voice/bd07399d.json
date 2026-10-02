@@ -1,0 +1,65 @@
+{
+  "hash": "bd07399d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3915,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.3915,
+      "jp": "顔に何かついてる!?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28,
+          "jp": "顔",
+          "prob": 0.9287367761135101
+        },
+        {
+          "start": 0.28,
+          "end": 0.4,
+          "jp": "に",
+          "prob": 0.9781404733657837
+        },
+        {
+          "start": 0.4,
+          "end": 0.5,
+          "jp": "何",
+          "prob": 0.9685538411140442
+        },
+        {
+          "start": 0.5,
+          "end": 0.68,
+          "jp": "か",
+          "prob": 0.8722354769706726
+        },
+        {
+          "start": 0.68,
+          "end": 0.84,
+          "jp": "つ",
+          "prob": 0.5871558785438538
+        },
+        {
+          "start": 0.84,
+          "end": 0.94,
+          "jp": "いて",
+          "prob": 0.9989672899246216
+        },
+        {
+          "start": 0.94,
+          "end": 1.14,
+          "jp": "る",
+          "prob": 0.968360185623169
+        },
+        {
+          "start": 1.14,
+          "end": 1.3915,
+          "jp": "!?",
+          "prob": 0.2705329954624176
+        }
+      ],
+      "ko": "얼굴에 뭐 묻었어!?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "9cfe6da1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.05775,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7850000000000001,
+      "jp": "今のは何なんだ?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.245000000000001,
+          "jp": "今",
+          "prob": 0.9756008386611938
+        },
+        {
+          "start": 0.245000000000001,
+          "end": 0.384999999999998,
+          "jp": "のは",
+          "prob": 0.5936546325683594
+        },
+        {
+          "start": 0.384999999999998,
+          "end": 0.5649999999999977,
+          "jp": "何",
+          "prob": 0.6030117273330688
+        },
+        {
+          "start": 0.5649999999999977,
+          "end": 0.7850000000000001,
+          "jp": "なんだ?",
+          "prob": 0.9677256941795349
+        }
+      ],
+      "ko": "방금 뭐였지?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "cb26267c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.813125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6125624999999992,
+      "jp": "ゲキハ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1325624999999988,
+          "jp": "ゲ",
+          "prob": 0.754752516746521
+        },
+        {
+          "start": 0.1325624999999988,
+          "end": 0.2725624999999994,
+          "jp": "キ",
+          "prob": 0.9967737793922424
+        },
+        {
+          "start": 0.2725624999999994,
+          "end": 0.6125624999999992,
+          "jp": "ハ!",
+          "prob": 0.9919703006744385
+        }
+      ],
+      "ko": "격파!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

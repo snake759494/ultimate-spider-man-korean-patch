@@ -1,0 +1,53 @@
+{
+  "hash": "f5a18dd8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3366875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.12,
+      "jp": "車両は制御不能!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28,
+          "jp": "車",
+          "prob": 0.769331157207489
+        },
+        {
+          "start": 0.28,
+          "end": 0.44,
+          "jp": "両",
+          "prob": 0.9392293393611908
+        },
+        {
+          "start": 0.44,
+          "end": 0.58,
+          "jp": "は",
+          "prob": 0.9913936257362366
+        },
+        {
+          "start": 0.58,
+          "end": 0.74,
+          "jp": "制",
+          "prob": 0.8391658663749695
+        },
+        {
+          "start": 0.74,
+          "end": 0.84,
+          "jp": "御",
+          "prob": 0.9593478143215179
+        },
+        {
+          "start": 0.84,
+          "end": 1.12,
+          "jp": "不能!",
+          "prob": 0.8998085260391235
+        }
+      ],
+      "ko": "차량 제어 불능!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

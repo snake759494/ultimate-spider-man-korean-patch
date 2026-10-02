@@ -1,0 +1,41 @@
+{
+  "hash": "bff2efa5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.318,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8981249999999994,
+      "jp": "なんだこりゃ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3781249999999998,
+          "jp": "なんだ",
+          "prob": 0.8632631897926331
+        },
+        {
+          "start": 0.3781249999999998,
+          "end": 0.618125,
+          "jp": "こ",
+          "prob": 0.8908405303955078
+        },
+        {
+          "start": 0.618125,
+          "end": 0.7381250000000001,
+          "jp": "り",
+          "prob": 0.9996293783187866
+        },
+        {
+          "start": 0.7381250000000001,
+          "end": 0.8981249999999994,
+          "jp": "ゃ!",
+          "prob": 0.9998043179512024
+        }
+      ],
+      "ko": "이게 뭐야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

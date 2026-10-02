@@ -1,0 +1,41 @@
+{
+  "hash": "501b5f78",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.844375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.74,
+      "jp": "止めてくれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "止",
+          "prob": 0.34191662073135376
+        },
+        {
+          "start": 0.22,
+          "end": 0.42,
+          "jp": "めて",
+          "prob": 0.7915701270103455
+        },
+        {
+          "start": 0.42,
+          "end": 0.58,
+          "jp": "く",
+          "prob": 0.979925274848938
+        },
+        {
+          "start": 0.58,
+          "end": 0.74,
+          "jp": "れ!",
+          "prob": 0.9977444410324097
+        }
+      ],
+      "ko": "멈춰 줘!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

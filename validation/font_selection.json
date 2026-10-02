@@ -1,0 +1,22 @@
+{
+  "selected_font": "NanumSquareNeo-cBd.ttf",
+  "weight": "Bold",
+  "size_pixels": 17,
+  "cinematic_size_pixels": 21,
+  "sha256": "4749fa5691157cf56a59d297b45e88894a646846048018cd7a4117ffb2869767",
+  "candidates": [
+    "NanumSquareNeo-aLt.ttf",
+    "NanumSquareNeo-bRg.ttf",
+    "NanumSquareNeo-cBd.ttf",
+    "NanumSquareNeo-dEb.ttf",
+    "NanumSquareNeo-eHv.ttf",
+    "SeoulHangangB.ttf",
+    "SeoulHangangEB.ttf",
+    "SeoulHangangL.ttf",
+    "SeoulHangangM.ttf"
+  ],
+  "comparison_image": "work/font_comparison.png",
+  "original_atlas": "work/original_font.png",
+  "reason": "Original 17-pixel Japanese sans-serif glyphs have moderate stroke weight and compact spacing. Neo Bold was selected by visual comparison; heavier Neo variants became too dense at the same pixel size, and SeoulHangang variants have different serif structure.",
+  "hangul_glyphs": 2350
+}

@@ -1,0 +1,65 @@
+{
+  "hash": "b77152d4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.511875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.4,
+      "jp": "くらえ、マスクやろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18,
+          "jp": "く",
+          "prob": 0.5162720084190369
+        },
+        {
+          "start": 0.18,
+          "end": 0.38,
+          "jp": "ら",
+          "prob": 0.8655754923820496
+        },
+        {
+          "start": 0.38,
+          "end": 0.54,
+          "jp": "え、",
+          "prob": 0.9697310328483582
+        },
+        {
+          "start": 0.64,
+          "end": 0.82,
+          "jp": "マ",
+          "prob": 0.9745603203773499
+        },
+        {
+          "start": 0.82,
+          "end": 0.92,
+          "jp": "ス",
+          "prob": 0.9960517287254333
+        },
+        {
+          "start": 0.92,
+          "end": 1.08,
+          "jp": "ク",
+          "prob": 0.9949833154678345
+        },
+        {
+          "start": 1.08,
+          "end": 1.24,
+          "jp": "や",
+          "prob": 0.9496133327484131
+        },
+        {
+          "start": 1.24,
+          "end": 1.4,
+          "jp": "ろ!",
+          "prob": 0.6104065775871277
+        }
+      ],
+      "ko": "받아라, 복면 자식!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

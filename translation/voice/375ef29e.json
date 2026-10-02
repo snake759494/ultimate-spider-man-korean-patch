@@ -1,0 +1,15 @@
+{
+  "hash": "375ef29e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.9334375,
+  "segments": [
+    {
+      "start": 0.18418750000000017,
+      "end": 1.9334375,
+      "jp": "こいつ駆け直して来ないんだよ",
+      "ko": "이 녀석은 전화를 다시 안 하더라고."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

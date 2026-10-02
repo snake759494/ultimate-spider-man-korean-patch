@@ -1,0 +1,15 @@
+{
+  "hash": "230b9994",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6695,
+  "segments": [
+    {
+      "start": 0.08599999999999852,
+      "end": 1.6695,
+      "jp": "いつになったらつながるんだよ",
+      "ko": "대체 언제 연결되는 거야?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

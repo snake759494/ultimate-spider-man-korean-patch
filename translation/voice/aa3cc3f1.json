@@ -1,0 +1,15 @@
+{
+  "hash": "aa3cc3f1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.363,
+  "segments": [
+    {
+      "start": 0.3894375000000032,
+      "end": 1.9094375000000028,
+      "jp": "殺せー!",
+      "ko": "죽여!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

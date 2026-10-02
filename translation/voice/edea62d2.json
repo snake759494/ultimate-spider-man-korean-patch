@@ -1,0 +1,71 @@
+{
+  "hash": "edea62d2",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.4256875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.18,
+      "jp": "体重の血がたぎるぜ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.5,
+          "jp": "体",
+          "prob": 0.6336840391159058
+        },
+        {
+          "start": 0.5,
+          "end": 0.94,
+          "jp": "重",
+          "prob": 0.48425254225730896
+        },
+        {
+          "start": 0.94,
+          "end": 1.14,
+          "jp": "の",
+          "prob": 0.9783957004547119
+        },
+        {
+          "start": 1.14,
+          "end": 1.4,
+          "jp": "血",
+          "prob": 0.7937651872634888
+        },
+        {
+          "start": 1.4,
+          "end": 1.58,
+          "jp": "が",
+          "prob": 0.9564110040664673
+        },
+        {
+          "start": 1.58,
+          "end": 1.72,
+          "jp": "た",
+          "prob": 0.2749595046043396
+        },
+        {
+          "start": 1.72,
+          "end": 1.86,
+          "jp": "ぎ",
+          "prob": 0.9570130705833435
+        },
+        {
+          "start": 1.86,
+          "end": 1.96,
+          "jp": "る",
+          "prob": 0.9971722960472107
+        },
+        {
+          "start": 1.96,
+          "end": 2.18,
+          "jp": "ぜ!",
+          "prob": 0.939943790435791
+        }
+      ],
+      "ko": "온몸의 피가 끓는군!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

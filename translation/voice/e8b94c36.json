@@ -1,0 +1,41 @@
+{
+  "hash": "e8b94c36",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.52825,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.348187499999998,
+      "jp": "熱いだろ?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.4681874999999991,
+          "jp": "熱",
+          "prob": 0.4343789517879486
+        },
+        {
+          "start": 0.4681874999999991,
+          "end": 0.8281874999999985,
+          "jp": "い",
+          "prob": 0.9935937523841858
+        },
+        {
+          "start": 0.8281874999999985,
+          "end": 1.0281874999999978,
+          "jp": "だ",
+          "prob": 0.9892165660858154
+        },
+        {
+          "start": 1.0281874999999978,
+          "end": 1.348187499999998,
+          "jp": "ろ?",
+          "prob": 0.9409645795822144
+        }
+      ],
+      "ko": "뜨겁지?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

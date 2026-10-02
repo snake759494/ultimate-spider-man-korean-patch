@@ -1,0 +1,15 @@
+{
+  "hash": "942647bd",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.118,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.118,
+      "jp": "ちょっといい加減に!",
+      "ko": "좀 적당히 해!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

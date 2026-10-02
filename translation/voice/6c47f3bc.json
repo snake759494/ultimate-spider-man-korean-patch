@@ -1,0 +1,41 @@
+{
+  "hash": "6c47f3bc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.24475,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.957749999999999,
+      "jp": "早く離れて!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.15775000000000006,
+          "jp": "早",
+          "prob": 0.47259822487831116
+        },
+        {
+          "start": 0.15775000000000006,
+          "end": 0.39775000000000027,
+          "jp": "く",
+          "prob": 0.9976213574409485
+        },
+        {
+          "start": 0.39775000000000027,
+          "end": 0.5977499999999996,
+          "jp": "離",
+          "prob": 0.9137071967124939
+        },
+        {
+          "start": 0.5977499999999996,
+          "end": 0.957749999999999,
+          "jp": "れて!",
+          "prob": 0.9890193343162537
+        }
+      ],
+      "ko": "빨리 떨어져!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

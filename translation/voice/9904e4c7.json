@@ -1,0 +1,15 @@
+{
+  "hash": "9904e4c7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4145625,
+  "segments": [
+    {
+      "start": 0.2467499999999987,
+      "end": 1.3467499999999966,
+      "jp": "せーの、早く!",
+      "ko": "하나, 둘! 빨리!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

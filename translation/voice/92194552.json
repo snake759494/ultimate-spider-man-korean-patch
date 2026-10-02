@@ -1,0 +1,35 @@
+{
+  "hash": "92194552",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.958875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.639875,
+      "jp": "撤収だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.17987499999999912,
+          "jp": "撤",
+          "prob": 0.7643260359764099
+        },
+        {
+          "start": 0.17987499999999912,
+          "end": 0.4198750000000011,
+          "jp": "収",
+          "prob": 0.9728648066520691
+        },
+        {
+          "start": 0.4198750000000011,
+          "end": 0.639875,
+          "jp": "だ!",
+          "prob": 0.9976194500923157
+        }
+      ],
+      "ko": "철수한다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

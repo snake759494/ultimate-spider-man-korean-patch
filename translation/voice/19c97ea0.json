@@ -1,0 +1,29 @@
+{
+  "hash": "19c97ea0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7181875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.44956249999999986,
+      "jp": "大被!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22956249999999967,
+          "jp": "大",
+          "prob": 0.2676103711128235
+        },
+        {
+          "start": 0.22956249999999967,
+          "end": 0.44956249999999986,
+          "jp": "被!",
+          "prob": 0.23317104578018188
+        }
+      ],
+      "ko": "대피!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

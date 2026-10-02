@@ -1,0 +1,53 @@
+{
+  "hash": "94a85654",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.303625,
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 0.96,
+      "jp": "こいつ、早すぎる!",
+      "words": [
+        {
+          "start": 0.08,
+          "end": 0.18,
+          "jp": "こ",
+          "prob": 0.44634321331977844
+        },
+        {
+          "start": 0.18,
+          "end": 0.34,
+          "jp": "いつ、",
+          "prob": 0.9988486766815186
+        },
+        {
+          "start": 0.36,
+          "end": 0.56,
+          "jp": "早",
+          "prob": 0.6355644464492798
+        },
+        {
+          "start": 0.56,
+          "end": 0.72,
+          "jp": "す",
+          "prob": 0.9715360999107361
+        },
+        {
+          "start": 0.72,
+          "end": 0.8,
+          "jp": "ぎ",
+          "prob": 0.8571198582649231
+        },
+        {
+          "start": 0.8,
+          "end": 0.96,
+          "jp": "る!",
+          "prob": 0.9970026612281799
+        }
+      ],
+      "ko": "이 녀석 너무 빨라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

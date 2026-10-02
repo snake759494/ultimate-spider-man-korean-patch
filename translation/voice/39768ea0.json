@@ -1,0 +1,15 @@
+{
+  "hash": "39768ea0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.92325,
+  "segments": [
+    {
+      "start": 0.05837499999999807,
+      "end": 2.838374999999999,
+      "jp": "ミュータントかどうかなんてどうやったら分かるんだ?",
+      "ko": "뮤턴트인지 아닌지 어떻게 알 수 있어?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

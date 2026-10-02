@@ -1,0 +1,29 @@
+{
+  "hash": "83a2e8db",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7355625,
+  "segments": [
+    {
+      "start": 0.16931249999999998,
+      "end": 0.7355625,
+      "jp": "前だ!",
+      "words": [
+        {
+          "start": 0.16931249999999998,
+          "end": 0.4493125,
+          "jp": "前",
+          "prob": 0.8296537399291992
+        },
+        {
+          "start": 0.4493125,
+          "end": 0.7355625,
+          "jp": "だ!",
+          "prob": 0.9922766089439392
+        }
+      ],
+      "ko": "앞이다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

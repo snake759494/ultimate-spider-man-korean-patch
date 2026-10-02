@@ -1,0 +1,15 @@
+{
+  "hash": "104b07f8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.023875,
+  "segments": [
+    {
+      "start": 0.1172500000000003,
+      "end": 1.023875,
+      "jp": "これしか会うのがない",
+      "ko": "맞는 게 이것뿐이야."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

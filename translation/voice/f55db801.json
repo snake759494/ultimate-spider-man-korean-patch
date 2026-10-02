@@ -1,0 +1,15 @@
+{
+  "hash": "f55db801",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.1724375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.1724375,
+      "jp": "どうやらこいつは殴られたいらしい",
+      "ko": "아무래도 이놈은 맞고 싶은 모양이군."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

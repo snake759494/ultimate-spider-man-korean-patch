@@ -1,0 +1,15 @@
+{
+  "hash": "fa2da33e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.5850625,
+  "segments": [
+    {
+      "start": 0.12868749999999984,
+      "end": 2.5850625,
+      "jp": "弱ってきたな、カスメ",
+      "ko": "힘이 빠졌군, 쓰레기 자식."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

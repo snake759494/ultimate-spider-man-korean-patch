@@ -1,0 +1,35 @@
+{
+  "hash": "86f2b40d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7535625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.534875,
+      "jp": "開けろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.21487500000000015,
+          "jp": "開",
+          "prob": 0.7124167084693909
+        },
+        {
+          "start": 0.21487500000000015,
+          "end": 0.35487499999999983,
+          "jp": "け",
+          "prob": 0.9891842603683472
+        },
+        {
+          "start": 0.35487499999999983,
+          "end": 0.534875,
+          "jp": "ろ!",
+          "prob": 0.9959355592727661
+        }
+      ],
+      "ko": "열어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

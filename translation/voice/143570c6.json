@@ -1,0 +1,15 @@
+{
+  "hash": "143570c6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4113125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.36,
+      "jp": "スピードを落とさないな",
+      "ko": "속도를 줄일 줄 모르는군."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

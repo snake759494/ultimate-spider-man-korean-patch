@@ -1,0 +1,35 @@
+{
+  "hash": "079dbe57",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.9273125,
+  "segments": [
+    {
+      "start": 0.0346875000000022,
+      "end": 0.7146875000000019,
+      "jp": "お前な!",
+      "words": [
+        {
+          "start": 0.0346875000000022,
+          "end": 0.21468750000000192,
+          "jp": "お",
+          "prob": 0.9658716917037964
+        },
+        {
+          "start": 0.21468750000000192,
+          "end": 0.45468750000000213,
+          "jp": "前",
+          "prob": 0.9760982394218445
+        },
+        {
+          "start": 0.45468750000000213,
+          "end": 0.7146875000000019,
+          "jp": "な!",
+          "prob": 0.9124391674995422
+        }
+      ],
+      "ko": "너 말이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

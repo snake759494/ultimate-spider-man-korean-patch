@@ -1,0 +1,41 @@
+{
+  "hash": "b5e8209c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1285,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6497500000000009,
+      "jp": "早すぎる!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.20975000000000144,
+          "jp": "早",
+          "prob": 0.3975677490234375
+        },
+        {
+          "start": 0.20975000000000144,
+          "end": 0.38975000000000115,
+          "jp": "す",
+          "prob": 0.9569282531738281
+        },
+        {
+          "start": 0.38975000000000115,
+          "end": 0.4697500000000012,
+          "jp": "ぎ",
+          "prob": 0.5206307768821716
+        },
+        {
+          "start": 0.4697500000000012,
+          "end": 0.6497500000000009,
+          "jp": "る!",
+          "prob": 0.9881823658943176
+        }
+      ],
+      "ko": "너무 빨라."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

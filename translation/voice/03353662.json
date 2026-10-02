@@ -1,0 +1,15 @@
+{
+  "hash": "03353662",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.34825,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.34825,
+      "jp": "誰か助けて",
+      "ko": "누가 좀 도와줘!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

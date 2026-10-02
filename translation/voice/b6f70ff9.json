@@ -1,0 +1,15 @@
+{
+  "hash": "b6f70ff9",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3886875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.36,
+      "jp": "ホスター全部持ってるよ!",
+      "ko": "포스터는 전부 갖고 있어!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

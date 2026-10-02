@@ -1,0 +1,15 @@
+{
+  "hash": "7b090b8e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.22825,
+  "segments": [
+    {
+      "start": 0.15731249999999974,
+      "end": 1.1173125000000006,
+      "jp": "全員早くどけ!",
+      "ko": "전원 빨리 비켜!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

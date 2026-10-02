@@ -1,0 +1,15 @@
+{
+  "hash": "9a03b13a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.307875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.307875,
+      "jp": "パジャマ野郎の相手なんてへのカッパさ",
+      "ko": "잠옷 입은 놈쯤이야 식은 죽 먹기지."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

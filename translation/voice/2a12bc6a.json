@@ -1,0 +1,15 @@
+{
+  "hash": "2a12bc6a",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 6.8955,
+  "segments": [
+    {
+      "start": 0.02156249999999993,
+      "end": 4.841562499999999,
+      "jp": "死ねー死ねー死ね",
+      "ko": "죽어! 죽어! 죽어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

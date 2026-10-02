@@ -1,0 +1,15 @@
+{
+  "hash": "0283bd1d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5914375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5914375,
+      "jp": "ちくしゅー",
+      "ko": "젠장!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

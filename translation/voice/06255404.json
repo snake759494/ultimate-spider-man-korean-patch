@@ -1,0 +1,29 @@
+{
+  "hash": "06255404",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.5883125,
+  "segments": [
+    {
+      "start": 0.045937499999999076,
+      "end": 0.5459374999999991,
+      "jp": "いたぞ",
+      "words": [
+        {
+          "start": 0.045937499999999076,
+          "end": 0.26593749999999794,
+          "jp": "いた",
+          "prob": 0.49968811869621277
+        },
+        {
+          "start": 0.26593749999999794,
+          "end": 0.5459374999999991,
+          "jp": "ぞ",
+          "prob": 0.9953228831291199
+        }
+      ],
+      "ko": "저기 있다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

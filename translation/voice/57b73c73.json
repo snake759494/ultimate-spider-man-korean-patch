@@ -1,0 +1,35 @@
+{
+  "hash": "57b73c73",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6444375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8857499999999998,
+      "jp": "僕の車!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28575000000000017,
+          "jp": "僕",
+          "prob": 0.37937626242637634
+        },
+        {
+          "start": 0.28575000000000017,
+          "end": 0.54575,
+          "jp": "の",
+          "prob": 0.9986054301261902
+        },
+        {
+          "start": 0.54575,
+          "end": 0.8857499999999998,
+          "jp": "車!",
+          "prob": 0.9215174913406372
+        }
+      ],
+      "ko": "내 차!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

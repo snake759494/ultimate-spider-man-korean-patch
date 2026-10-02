@@ -1,0 +1,65 @@
+{
+  "hash": "dc435083",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 3.406375,
+  "segments": [
+    {
+      "start": 0.21,
+      "end": 3.07,
+      "jp": "このアホメ! もう許さんぞ!",
+      "words": [
+        {
+          "start": 0.21,
+          "end": 0.81,
+          "jp": "この",
+          "prob": 0.6027497053146362
+        },
+        {
+          "start": 0.81,
+          "end": 1.05,
+          "jp": "ア",
+          "prob": 0.5028183460235596
+        },
+        {
+          "start": 1.05,
+          "end": 1.17,
+          "jp": "ホ",
+          "prob": 0.974724292755127
+        },
+        {
+          "start": 1.17,
+          "end": 1.33,
+          "jp": "メ!",
+          "prob": 0.28925246000289917
+        },
+        {
+          "start": 2.05,
+          "end": 2.33,
+          "jp": " もう",
+          "prob": 0.9938408136367798
+        },
+        {
+          "start": 2.33,
+          "end": 2.57,
+          "jp": "許",
+          "prob": 0.8943077921867371
+        },
+        {
+          "start": 2.57,
+          "end": 2.81,
+          "jp": "さん",
+          "prob": 0.7005298137664795
+        },
+        {
+          "start": 2.81,
+          "end": 3.07,
+          "jp": "ぞ!",
+          "prob": 0.9937446713447571
+        }
+      ],
+      "ko": "이 멍청이! 더는 용서 못 해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

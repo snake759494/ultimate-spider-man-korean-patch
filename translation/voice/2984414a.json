@@ -1,0 +1,41 @@
+{
+  "hash": "2984414a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4101875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.2047500000000024,
+      "jp": "頭おかしい?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.4247500000000013,
+          "jp": "頭",
+          "prob": 0.6111196875572205
+        },
+        {
+          "start": 0.4247500000000013,
+          "end": 0.7447500000000016,
+          "jp": "お",
+          "prob": 0.9560439586639404
+        },
+        {
+          "start": 0.7447500000000016,
+          "end": 0.8247500000000016,
+          "jp": "か",
+          "prob": 0.9932296276092529
+        },
+        {
+          "start": 0.8247500000000016,
+          "end": 1.2047500000000024,
+          "jp": "しい?",
+          "prob": 0.9846017360687256
+        }
+      ],
+      "ko": "너 제정신이야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

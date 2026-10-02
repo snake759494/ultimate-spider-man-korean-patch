@@ -1,0 +1,15 @@
+{
+  "hash": "fe9c0888",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6450625,
+  "segments": [
+    {
+      "start": 0.341562500000002,
+      "end": 1.5615625000000009,
+      "jp": "勝利!",
+      "ko": "승리!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

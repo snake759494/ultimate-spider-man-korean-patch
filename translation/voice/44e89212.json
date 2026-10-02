@@ -1,0 +1,41 @@
+{
+  "hash": "44e89212",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.867125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7330625,
+      "jp": "そこなくちゃ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.23306249999999995,
+          "jp": "そ",
+          "prob": 0.22826869785785675
+        },
+        {
+          "start": 0.23306249999999995,
+          "end": 0.43306250000000013,
+          "jp": "こ",
+          "prob": 0.983822762966156
+        },
+        {
+          "start": 0.43306250000000013,
+          "end": 0.5730624999999998,
+          "jp": "なく",
+          "prob": 0.5911895632743835
+        },
+        {
+          "start": 0.5730624999999998,
+          "end": 0.7330625,
+          "jp": "ちゃ",
+          "prob": 0.9675653576850891
+        }
+      ],
+      "ko": "그래야지."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

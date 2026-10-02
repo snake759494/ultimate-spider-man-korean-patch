@@ -1,0 +1,35 @@
+{
+  "hash": "d2de6b82",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.11925,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7301250000000001,
+      "jp": "見えない!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.21012500000000012,
+          "jp": "見",
+          "prob": 0.9006198048591614
+        },
+        {
+          "start": 0.21012500000000012,
+          "end": 0.4501249999999999,
+          "jp": "え",
+          "prob": 0.9982388019561768
+        },
+        {
+          "start": 0.4501249999999999,
+          "end": 0.7301250000000001,
+          "jp": "ない!",
+          "prob": 0.9922633171081543
+        }
+      ],
+      "ko": "안 보여!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

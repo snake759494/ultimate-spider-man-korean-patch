@@ -1,0 +1,41 @@
+{
+  "hash": "b90fd004",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.353,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8726249999999998,
+      "jp": "ぶち殺す!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.17262499999999958,
+          "jp": "ぶ",
+          "prob": 0.633416473865509
+        },
+        {
+          "start": 0.17262499999999958,
+          "end": 0.37262499999999976,
+          "jp": "ち",
+          "prob": 0.975487232208252
+        },
+        {
+          "start": 0.37262499999999976,
+          "end": 0.5926249999999995,
+          "jp": "殺",
+          "prob": 0.8323442935943604
+        },
+        {
+          "start": 0.5926249999999995,
+          "end": 0.8726249999999998,
+          "jp": "す!",
+          "prob": 0.9923253059387207
+        }
+      ],
+      "ko": "죽여 버리겠어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "3c1a1b39",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.644375,
+  "segments": [
+    {
+      "start": 0.04037500000000449,
+      "end": 1.6403750000000024,
+      "jp": "いつまで調子に乗ってんだよ!",
+      "ko": "언제까지 까불 셈이냐?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "e8c96a5d",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.6065,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.3699375000000007,
+      "jp": "やめろー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.34993749999999935,
+          "jp": "や",
+          "prob": 0.9422522783279419
+        },
+        {
+          "start": 0.34993749999999935,
+          "end": 0.5299375000000008,
+          "jp": "め",
+          "prob": 0.9887986779212952
+        },
+        {
+          "start": 0.5299375000000008,
+          "end": 0.7699374999999993,
+          "jp": "ろ",
+          "prob": 0.9964534044265747
+        },
+        {
+          "start": 0.7699374999999993,
+          "end": 1.3699375000000007,
+          "jp": "ー!",
+          "prob": 0.39482179284095764
+        }
+      ],
+      "ko": "그만해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

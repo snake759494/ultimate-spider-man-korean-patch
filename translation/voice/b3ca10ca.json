@@ -1,0 +1,35 @@
+{
+  "hash": "b3ca10ca",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8508125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5376249999999994,
+      "jp": "タイム!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2176249999999995,
+          "jp": "タ",
+          "prob": 0.8467069864273071
+        },
+        {
+          "start": 0.2176249999999995,
+          "end": 0.35762499999999964,
+          "jp": "イ",
+          "prob": 0.9995648264884949
+        },
+        {
+          "start": 0.35762499999999964,
+          "end": 0.5376249999999994,
+          "jp": "ム!",
+          "prob": 0.9992218017578125
+        }
+      ],
+      "ko": "잠깐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

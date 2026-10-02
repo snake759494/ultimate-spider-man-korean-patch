@@ -1,0 +1,15 @@
+{
+  "hash": "3eea3961",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 6.461375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 6.461375,
+      "jp": "気がつけばいつも、どんよくな怪物が口を開けていて、大切なものをねじまかった悪夢に変えてしまうんだ。",
+      "ko": "정신을 차려 보면 늘 탐욕스러운 괴물이 입을 벌리고, 소중한 것들을 뒤틀린 악몽으로 바꿔 버린다."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

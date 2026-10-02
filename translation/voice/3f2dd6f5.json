@@ -1,0 +1,35 @@
+{
+  "hash": "3f2dd6f5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0796875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8303749999999996,
+      "jp": "爆発注意!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.23037499999999977,
+          "jp": "爆",
+          "prob": 0.6850079298019409
+        },
+        {
+          "start": 0.23037499999999977,
+          "end": 0.45037499999999975,
+          "jp": "発",
+          "prob": 0.9932165741920471
+        },
+        {
+          "start": 0.45037499999999975,
+          "end": 0.8303749999999996,
+          "jp": "注意!",
+          "prob": 0.9997256398200989
+        }
+      ],
+      "ko": "폭발 주의!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

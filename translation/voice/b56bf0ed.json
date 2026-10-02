@@ -1,0 +1,15 @@
+{
+  "hash": "b56bf0ed",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5350625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5,
+      "jp": "スパイダーマン、助けてくれ!",
+      "ko": "스파이더맨, 도와줘!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

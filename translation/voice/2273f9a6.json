@@ -1,0 +1,15 @@
+{
+  "hash": "2273f9a6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9771875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9771875,
+      "jp": "終わった",
+      "ko": "끝났다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

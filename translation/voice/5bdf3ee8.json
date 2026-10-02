@@ -1,0 +1,77 @@
+{
+  "hash": "5bdf3ee8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.106125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.84,
+      "jp": "おぉ! ふっふっふ! 悔しいか?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.32,
+          "jp": "お",
+          "prob": 0.3254227936267853
+        },
+        {
+          "start": 0.32,
+          "end": 0.66,
+          "jp": "ぉ!",
+          "prob": 0.4484083354473114
+        },
+        {
+          "start": 1.04,
+          "end": 1.14,
+          "jp": " ふ",
+          "prob": 0.5174307897686958
+        },
+        {
+          "start": 1.14,
+          "end": 1.44,
+          "jp": "っ",
+          "prob": 0.4166796803474426
+        },
+        {
+          "start": 1.44,
+          "end": 1.48,
+          "jp": "ふ",
+          "prob": 0.41195255517959595
+        },
+        {
+          "start": 1.48,
+          "end": 1.92,
+          "jp": "っ",
+          "prob": 0.969044029712677
+        },
+        {
+          "start": 1.92,
+          "end": 1.94,
+          "jp": "ふ!",
+          "prob": 0.8299430012702942
+        },
+        {
+          "start": 2.16,
+          "end": 2.32,
+          "jp": " 悔",
+          "prob": 0.9737668335437775
+        },
+        {
+          "start": 2.32,
+          "end": 2.62,
+          "jp": "しい",
+          "prob": 0.954786479473114
+        },
+        {
+          "start": 2.62,
+          "end": 2.84,
+          "jp": "か?",
+          "prob": 0.9815528988838196
+        }
+      ],
+      "ko": "오! 흐흐흐, 분하냐?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

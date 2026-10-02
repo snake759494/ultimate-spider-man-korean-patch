@@ -1,0 +1,41 @@
+{
+  "hash": "16cd9202",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.070875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.070875,
+      "jp": "徹収だー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2313749999999999,
+          "jp": "徹",
+          "prob": 0.5873968601226807
+        },
+        {
+          "start": 0.2313749999999999,
+          "end": 0.45137499999999875,
+          "jp": "収",
+          "prob": 0.6088012605905533
+        },
+        {
+          "start": 0.45137499999999875,
+          "end": 0.7313749999999999,
+          "jp": "だ",
+          "prob": 0.991524338722229
+        },
+        {
+          "start": 0.7313749999999999,
+          "end": 1.070875,
+          "jp": "ー!",
+          "prob": 0.26157066226005554
+        }
+      ],
+      "ko": "철수하라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

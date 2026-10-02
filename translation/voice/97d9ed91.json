@@ -1,0 +1,15 @@
+{
+  "hash": "97d9ed91",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.722875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.52,
+      "jp": "シャッターチャンスはまだかしら",
+      "ko": "사진 찍을 기회는 언제 오려나?"
+    }
+  ],
+  "recognition": "kotoba_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "bda11d54",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.0190625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7612500000000022,
+      "jp": "急効果!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3412500000000023,
+          "jp": "急",
+          "prob": 0.5177108645439148
+        },
+        {
+          "start": 0.3412500000000023,
+          "end": 0.521250000000002,
+          "jp": "効",
+          "prob": 0.8286192119121552
+        },
+        {
+          "start": 0.521250000000002,
+          "end": 0.7612500000000022,
+          "jp": "果!",
+          "prob": 0.9817559719085693
+        }
+      ],
+      "ko": "급강하!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

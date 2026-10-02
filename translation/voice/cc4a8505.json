@@ -1,0 +1,41 @@
+{
+  "hash": "cc4a8505",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.067875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.067875,
+      "jp": "なんだってんだよ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2946875000000002,
+          "jp": "なんだ",
+          "prob": 0.34382468461990356
+        },
+        {
+          "start": 0.2946875000000002,
+          "end": 0.5946874999999991,
+          "jp": "って",
+          "prob": 0.9126771092414856
+        },
+        {
+          "start": 0.5946874999999991,
+          "end": 0.7546874999999993,
+          "jp": "んだ",
+          "prob": 0.9926626682281494
+        },
+        {
+          "start": 0.7546874999999993,
+          "end": 1.067875,
+          "jp": "よ",
+          "prob": 0.9942141175270081
+        }
+      ],
+      "ko": "대체 뭐라는 거야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

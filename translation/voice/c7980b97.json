@@ -1,0 +1,17 @@
+{
+  "hash": "c7980b97",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7994375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5,
+      "jp": "ママ!",
+      "ko": "엄마!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked",
+  "identical_audio_source": "158f433d",
+  "decoded_audio_sha256": "82c99f660eb2d0cbe4ecd93b55c47f30643c6cc9664647d0f3c5039b152d4a26"
+}

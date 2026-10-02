@@ -1,0 +1,35 @@
+{
+  "hash": "aefd6f71",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.149875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.149875,
+      "jp": "いいねー",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3556874999999984,
+          "jp": "いい",
+          "prob": 0.5771409273147583
+        },
+        {
+          "start": 0.3556874999999984,
+          "end": 0.7956874999999979,
+          "jp": "ね",
+          "prob": 0.8220908641815186
+        },
+        {
+          "start": 0.7956874999999979,
+          "end": 1.149875,
+          "jp": "ー",
+          "prob": 0.3531840145587921
+        }
+      ],
+      "ko": "좋은데!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

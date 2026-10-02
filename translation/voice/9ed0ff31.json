@@ -1,0 +1,59 @@
+{
+  "hash": "9ed0ff31",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.5214375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.42,
+      "jp": "驚ぜ カイブス君",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.4,
+          "jp": "驚",
+          "prob": 0.7270137369632721
+        },
+        {
+          "start": 0.4,
+          "end": 0.68,
+          "jp": "ぜ",
+          "prob": 0.3075387179851532
+        },
+        {
+          "start": 0.76,
+          "end": 0.88,
+          "jp": " カ",
+          "prob": 0.12351495772600174
+        },
+        {
+          "start": 0.88,
+          "end": 0.96,
+          "jp": "イ",
+          "prob": 0.9827233552932739
+        },
+        {
+          "start": 0.96,
+          "end": 1.04,
+          "jp": "ブ",
+          "prob": 0.9567140936851501
+        },
+        {
+          "start": 1.04,
+          "end": 1.12,
+          "jp": "ス",
+          "prob": 0.9546300172805786
+        },
+        {
+          "start": 1.12,
+          "end": 1.42,
+          "jp": "君",
+          "prob": 0.7347368597984314
+        }
+      ],
+      "ko": "덤벼, 괴물아!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

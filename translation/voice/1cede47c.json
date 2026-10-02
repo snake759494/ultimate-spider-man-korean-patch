@@ -1,0 +1,41 @@
+{
+  "hash": "1cede47c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8911875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6427499999999995,
+      "jp": "一人だけで!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.12274999999999991,
+          "jp": "一",
+          "prob": 0.6704127788543701
+        },
+        {
+          "start": 0.12274999999999991,
+          "end": 0.3227500000000001,
+          "jp": "人",
+          "prob": 0.9990724325180054
+        },
+        {
+          "start": 0.3227500000000001,
+          "end": 0.4627499999999998,
+          "jp": "だけ",
+          "prob": 0.9722537398338318
+        },
+        {
+          "start": 0.4627499999999998,
+          "end": 0.6427499999999995,
+          "jp": "で!",
+          "prob": 0.9130467772483826
+        }
+      ],
+      "ko": "혼자서!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "d817bc58",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.038625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9083749999999995,
+      "jp": "離せってんだ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2683749999999989,
+          "jp": "離",
+          "prob": 0.012671791017055511
+        },
+        {
+          "start": 0.2683749999999989,
+          "end": 0.5083749999999991,
+          "jp": "せ",
+          "prob": 0.7769741415977478
+        },
+        {
+          "start": 0.5083749999999991,
+          "end": 0.6683749999999993,
+          "jp": "って",
+          "prob": 0.9108542799949646
+        },
+        {
+          "start": 0.6683749999999993,
+          "end": 0.9083749999999995,
+          "jp": "んだ",
+          "prob": 0.9917007088661194
+        }
+      ],
+      "ko": "놓으라고."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

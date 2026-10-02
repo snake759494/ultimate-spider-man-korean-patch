@@ -1,0 +1,15 @@
+{
+  "hash": "034099be",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.8824375,
+  "segments": [
+    {
+      "start": 0.027125000000000066,
+      "end": 2.8824375,
+      "jp": "君を学校へ送り返すために無理して来たんだ",
+      "ko": "널 학교로 돌려보내려고 무리해서 왔어."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

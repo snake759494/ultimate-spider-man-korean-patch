@@ -1,0 +1,41 @@
+{
+  "hash": "643a0fdb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0399375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0399375,
+      "jp": "その調子だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.30725,
+          "jp": "その",
+          "prob": 0.5198670625686646
+        },
+        {
+          "start": 0.30725,
+          "end": 0.6472500000000001,
+          "jp": "調",
+          "prob": 0.9561040997505188
+        },
+        {
+          "start": 0.6472500000000001,
+          "end": 0.7672500000000002,
+          "jp": "子",
+          "prob": 0.998745322227478
+        },
+        {
+          "start": 0.7672500000000002,
+          "end": 1.0399375,
+          "jp": "だ!",
+          "prob": 0.9980865716934204
+        }
+      ],
+      "ko": "바로 그거야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

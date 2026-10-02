@@ -1,0 +1,29 @@
+{
+  "hash": "6658b114",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1270625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.66,
+      "jp": "おいおい",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.42,
+          "jp": "おい",
+          "prob": 0.3776320815086365
+        },
+        {
+          "start": 0.42,
+          "end": 0.66,
+          "jp": "おい",
+          "prob": 0.8317774534225464
+        }
+      ],
+      "ko": "이봐, 이봐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

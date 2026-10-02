@@ -1,0 +1,15 @@
+{
+  "hash": "98b615cc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8625,
+      "jp": "…あれを見て!",
+      "ko": "저것 좀 봐!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

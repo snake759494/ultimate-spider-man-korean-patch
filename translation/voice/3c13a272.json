@@ -1,0 +1,15 @@
+{
+  "hash": "3c13a272",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.5276875,
+  "segments": [
+    {
+      "start": 0.1738749999999989,
+      "end": 3.4538749999999965,
+      "jp": "なんでいつも仕方すんだ? 話があるって言ってんだろ!",
+      "ko": "왜 맨날 무시하는 거야? 할 말이 있다잖아!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "a06bf492",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.39225,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5930624999999985,
+      "jp": "上だぞ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.25306249999999864,
+          "jp": "上",
+          "prob": 0.7219106554985046
+        },
+        {
+          "start": 0.25306249999999864,
+          "end": 0.3930624999999992,
+          "jp": "だ",
+          "prob": 0.9580854177474976
+        },
+        {
+          "start": 0.3930624999999992,
+          "end": 0.5930624999999985,
+          "jp": "ぞ!",
+          "prob": 0.9968140721321106
+        }
+      ],
+      "ko": "위다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

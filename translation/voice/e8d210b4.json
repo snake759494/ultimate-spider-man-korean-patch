@@ -1,0 +1,15 @@
+{
+  "hash": "e8d210b4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1425,
+  "segments": [
+    {
+      "start": 0.16956249999999784,
+      "end": 1.1425,
+      "jp": "出るぞ! 撤収!",
+      "ko": "나간다! 철수!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

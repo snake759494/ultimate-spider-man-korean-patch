@@ -1,0 +1,35 @@
+{
+  "hash": "d63ca9a4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.09725,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5971250000000001,
+      "jp": " 聞かない",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1771250000000002,
+          "jp": " 聞",
+          "prob": 0.5589807033538818
+        },
+        {
+          "start": 0.1771250000000002,
+          "end": 0.3571250000000008,
+          "jp": "か",
+          "prob": 0.982635498046875
+        },
+        {
+          "start": 0.3571250000000008,
+          "end": 0.5971250000000001,
+          "jp": "ない",
+          "prob": 0.9944959282875061
+        }
+      ],
+      "ko": "안 통한다."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

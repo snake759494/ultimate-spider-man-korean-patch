@@ -1,0 +1,41 @@
+{
+  "hash": "cd515d93",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.016,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8975624999999994,
+      "jp": "この負け犬!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.17756249999999874,
+          "jp": "この",
+          "prob": 0.9698216319084167
+        },
+        {
+          "start": 0.17756249999999874,
+          "end": 0.4375624999999985,
+          "jp": "負",
+          "prob": 0.7333796173334122
+        },
+        {
+          "start": 0.4375624999999985,
+          "end": 0.6575624999999992,
+          "jp": "け",
+          "prob": 0.9910872578620911
+        },
+        {
+          "start": 0.6575624999999992,
+          "end": 0.8975624999999994,
+          "jp": "犬!",
+          "prob": 0.9808386266231537
+        }
+      ],
+      "ko": "이 패배자!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

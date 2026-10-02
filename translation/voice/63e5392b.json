@@ -1,0 +1,35 @@
+{
+  "hash": "63e5392b",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.58675,
+  "segments": [
+    {
+      "start": 0.07574999999999932,
+      "end": 0.58675,
+      "jp": "あ、痛っ!",
+      "words": [
+        {
+          "start": 0.07574999999999932,
+          "end": 0.25574999999999903,
+          "jp": "あ、",
+          "prob": 0.361152708530426
+        },
+        {
+          "start": 0.3357499999999991,
+          "end": 0.3557499999999987,
+          "jp": "痛",
+          "prob": 0.8130866885185242
+        },
+        {
+          "start": 0.3557499999999987,
+          "end": 0.58675,
+          "jp": "っ!",
+          "prob": 0.7165383696556091
+        }
+      ],
+      "ko": "앗, 아야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

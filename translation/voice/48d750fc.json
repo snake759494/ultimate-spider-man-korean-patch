@@ -1,0 +1,35 @@
+{
+  "hash": "48d750fc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.03075,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.877562499999998,
+      "jp": "もうちょっとだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2575624999999988,
+          "jp": "もう",
+          "prob": 0.9602720141410828
+        },
+        {
+          "start": 0.2575624999999988,
+          "end": 0.5575624999999977,
+          "jp": "ちょっと",
+          "prob": 0.9766368269920349
+        },
+        {
+          "start": 0.5575624999999977,
+          "end": 0.877562499999998,
+          "jp": "だ!",
+          "prob": 0.9965553283691406
+        }
+      ],
+      "ko": "조금만 더!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

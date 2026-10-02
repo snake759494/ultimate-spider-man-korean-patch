@@ -1,0 +1,15 @@
+{
+  "hash": "c4742b4c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.82075,
+  "segments": [
+    {
+      "start": 0.2789999999999999,
+      "end": 0.819,
+      "jp": "どこに?",
+      "ko": "어디에?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,47 @@
+{
+  "hash": "7b6490b2",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5058125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.14,
+      "jp": "いいもの買っちゃった",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28,
+          "jp": "いい",
+          "prob": 0.6943849325180054
+        },
+        {
+          "start": 0.28,
+          "end": 0.46,
+          "jp": "もの",
+          "prob": 0.7518987059593201
+        },
+        {
+          "start": 0.46,
+          "end": 0.68,
+          "jp": "買",
+          "prob": 0.8749552369117737
+        },
+        {
+          "start": 0.68,
+          "end": 0.86,
+          "jp": "っちゃ",
+          "prob": 0.9973530769348145
+        },
+        {
+          "start": 0.86,
+          "end": 1.14,
+          "jp": "った",
+          "prob": 0.9876933693885803
+        }
+      ],
+      "ko": "좋은 물건 샀네."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

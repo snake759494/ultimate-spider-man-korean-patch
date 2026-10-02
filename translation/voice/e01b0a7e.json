@@ -1,0 +1,35 @@
+{
+  "hash": "e01b0a7e",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.7475625,
+  "segments": [
+    {
+      "start": 0.00224999999999298,
+      "end": 0.5622499999999917,
+      "jp": "よし、今だ!",
+      "words": [
+        {
+          "start": 0.00224999999999298,
+          "end": 0.22224999999999184,
+          "jp": "よし、",
+          "prob": 0.9432616829872131
+        },
+        {
+          "start": 0.34224999999999284,
+          "end": 0.4422499999999907,
+          "jp": "今",
+          "prob": 0.8248350024223328
+        },
+        {
+          "start": 0.4422499999999907,
+          "end": 0.5622499999999917,
+          "jp": "だ!",
+          "prob": 0.9873716831207275
+        }
+      ],
+      "ko": "좋아, 지금이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "1065ebbd",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.10725,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8890625000000014,
+      "jp": "ま、なんてこと?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1290625000000034,
+          "jp": "ま、",
+          "prob": 0.00714453449472785
+        },
+        {
+          "start": 0.28906250000000355,
+          "end": 0.4490625000000037,
+          "jp": "なん",
+          "prob": 0.9329630136489868
+        },
+        {
+          "start": 0.4490625000000037,
+          "end": 0.6690625000000026,
+          "jp": "て",
+          "prob": 0.98395174741745
+        },
+        {
+          "start": 0.6690625000000026,
+          "end": 0.8890625000000014,
+          "jp": "こと?",
+          "prob": 0.9681459665298462
+        }
+      ],
+      "ko": "어머, 이게 무슨 일이야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

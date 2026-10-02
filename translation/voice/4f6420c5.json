@@ -1,0 +1,59 @@
+{
+  "hash": "4f6420c5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6594375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6594375,
+      "jp": "この町どうなってるのよ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24,
+          "jp": "この",
+          "prob": 0.8250792622566223
+        },
+        {
+          "start": 0.24,
+          "end": 0.52,
+          "jp": "町",
+          "prob": 0.673619955778122
+        },
+        {
+          "start": 0.52,
+          "end": 0.74,
+          "jp": "どう",
+          "prob": 0.9187229871749878
+        },
+        {
+          "start": 0.74,
+          "end": 0.92,
+          "jp": "な",
+          "prob": 0.9774184823036194
+        },
+        {
+          "start": 0.92,
+          "end": 1.1,
+          "jp": "ってる",
+          "prob": 0.9619348645210266
+        },
+        {
+          "start": 1.1,
+          "end": 1.28,
+          "jp": "の",
+          "prob": 0.9947174191474915
+        },
+        {
+          "start": 1.28,
+          "end": 1.6594375,
+          "jp": "よ!",
+          "prob": 0.9586929082870483
+        }
+      ],
+      "ko": "이 동네 왜 이래!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

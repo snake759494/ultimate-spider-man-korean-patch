@@ -1,0 +1,15 @@
+{
+  "hash": "c4d9abd5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.551125,
+  "segments": [
+    {
+      "start": 0.06637499999999985,
+      "end": 1.551125,
+      "jp": "離脱しろ!早く!",
+      "ko": "이탈해! 빨리!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

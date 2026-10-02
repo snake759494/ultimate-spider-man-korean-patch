@@ -1,0 +1,35 @@
+{
+  "hash": "c099b529",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.768625,
+  "segments": [
+    {
+      "start": 0.038874999999999105,
+      "end": 0.5988749999999996,
+      "jp": "何でもない!",
+      "words": [
+        {
+          "start": 0.038874999999999105,
+          "end": 0.21887499999999882,
+          "jp": "何",
+          "prob": 0.6134353876113892
+        },
+        {
+          "start": 0.21887499999999882,
+          "end": 0.37887499999999896,
+          "jp": "でも",
+          "prob": 0.9816329479217529
+        },
+        {
+          "start": 0.37887499999999896,
+          "end": 0.5988749999999996,
+          "jp": "ない!",
+          "prob": 0.9758205413818359
+        }
+      ],
+      "ko": "아무것도 아니야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "e4d9805b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.46275,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9501249999999999,
+      "jp": "うげー!なんだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.17012499999999964,
+          "jp": "う",
+          "prob": 0.4119829535484314
+        },
+        {
+          "start": 0.17012499999999964,
+          "end": 0.3301249999999998,
+          "jp": "げ",
+          "prob": 0.9632124900817871
+        },
+        {
+          "start": 0.3301249999999998,
+          "end": 0.610125,
+          "jp": "ー!",
+          "prob": 0.3812216818332672
+        },
+        {
+          "start": 0.6501250000000001,
+          "end": 0.9501249999999999,
+          "jp": "なんだ!",
+          "prob": 0.78911954164505
+        }
+      ],
+      "ko": "으악! 뭐야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

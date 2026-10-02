@@ -1,0 +1,53 @@
+{
+  "hash": "4d7333e4",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.6581875,
+  "segments": [
+    {
+      "start": 0.43,
+      "end": 1.49,
+      "jp": "もうちょい ゆるく",
+      "words": [
+        {
+          "start": 0.43,
+          "end": 0.95,
+          "jp": "もう",
+          "prob": 0.42140281200408936
+        },
+        {
+          "start": 0.95,
+          "end": 1.07,
+          "jp": "ちょ",
+          "prob": 0.6218140125274658
+        },
+        {
+          "start": 1.07,
+          "end": 1.19,
+          "jp": "い",
+          "prob": 0.4694705605506897
+        },
+        {
+          "start": 1.23,
+          "end": 1.27,
+          "jp": " ゆ",
+          "prob": 0.4193513095378876
+        },
+        {
+          "start": 1.27,
+          "end": 1.33,
+          "jp": "る",
+          "prob": 0.979156494140625
+        },
+        {
+          "start": 1.33,
+          "end": 1.49,
+          "jp": "く",
+          "prob": 0.9878956079483032
+        }
+      ],
+      "ko": "조금만 느슨하게."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

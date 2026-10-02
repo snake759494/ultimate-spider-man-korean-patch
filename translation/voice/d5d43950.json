@@ -1,0 +1,15 @@
+{
+  "hash": "d5d43950",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.8868125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.8,
+      "jp": "エディお願いだ!やめてくれ!",
+      "ko": "에디, 부탁이야! 그만해 줘!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

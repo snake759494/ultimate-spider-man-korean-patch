@@ -1,0 +1,15 @@
+{
+  "hash": "28d88df3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.01375,
+  "segments": [
+    {
+      "start": 0.12762499999999832,
+      "end": 1.0076250000000009,
+      "jp": "無茶苦茶だ!",
+      "ko": "엉망진창이야!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

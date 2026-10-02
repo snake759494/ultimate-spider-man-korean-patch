@@ -1,0 +1,35 @@
+{
+  "hash": "4f1b0d45",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6204375,
+  "segments": [
+    {
+      "start": 0.010250000000000092,
+      "end": 0.41025,
+      "jp": "ふせろ!",
+      "words": [
+        {
+          "start": 0.010250000000000092,
+          "end": 0.13024999999999975,
+          "jp": "ふ",
+          "prob": 0.31769880652427673
+        },
+        {
+          "start": 0.13024999999999975,
+          "end": 0.2702499999999999,
+          "jp": "せ",
+          "prob": 0.9275839328765869
+        },
+        {
+          "start": 0.2702499999999999,
+          "end": 0.41025,
+          "jp": "ろ!",
+          "prob": 0.9970683455467224
+        }
+      ],
+      "ko": "엎드려!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

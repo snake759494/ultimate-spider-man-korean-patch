@@ -1,0 +1,35 @@
+{
+  "hash": "6818b736",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.891375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.1793125000000018,
+      "jp": "いや!やめて!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3393125000000019,
+          "jp": "いや!",
+          "prob": 0.47961223125457764
+        },
+        {
+          "start": 0.6593125000000022,
+          "end": 0.8393125000000019,
+          "jp": "や",
+          "prob": 0.8123853206634521
+        },
+        {
+          "start": 0.8393125000000019,
+          "end": 1.1793125000000018,
+          "jp": "めて!",
+          "prob": 0.9948916435241699
+        }
+      ],
+      "ko": "싫어! 그만해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

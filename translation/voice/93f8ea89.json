@@ -1,0 +1,23 @@
+{
+  "hash": "93f8ea89",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.49775,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.3,
+      "jp": "よし!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3,
+          "jp": "よし!",
+          "prob": 0.8132666349411011
+        }
+      ],
+      "ko": "좋아!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

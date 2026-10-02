@@ -1,0 +1,35 @@
+{
+  "hash": "132bca2c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.82225,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6065,
+      "jp": "一発目!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22650000000000015,
+          "jp": "一",
+          "prob": 0.6439489126205444
+        },
+        {
+          "start": 0.22650000000000015,
+          "end": 0.4065000000000001,
+          "jp": "発",
+          "prob": 0.9944887161254883
+        },
+        {
+          "start": 0.4065000000000001,
+          "end": 0.6065,
+          "jp": "目!",
+          "prob": 0.9173944592475891
+        }
+      ],
+      "ko": "첫 발이다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

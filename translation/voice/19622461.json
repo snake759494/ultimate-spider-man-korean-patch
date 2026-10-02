@@ -1,0 +1,35 @@
+{
+  "hash": "19622461",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.0303125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.0303125,
+      "jp": "殺すー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.4220625,
+          "jp": "殺",
+          "prob": 0.7741195559501648
+        },
+        {
+          "start": 0.4220625,
+          "end": 1.0220625000000005,
+          "jp": "す",
+          "prob": 0.9893227219581604
+        },
+        {
+          "start": 1.0220625000000005,
+          "end": 2.0303125,
+          "jp": "ー!",
+          "prob": 0.2547354996204376
+        }
+      ],
+      "ko": "죽여 주마!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

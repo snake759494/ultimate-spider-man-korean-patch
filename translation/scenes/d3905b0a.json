@@ -1,0 +1,15 @@
+{
+  "hash": "d3905b0a",
+  "duration": 18.3905625,
+  "segments": [
+    {
+      "start": 3.95,
+      "end": 5.29,
+      "jp": "当たって砕けるな!",
+      "logprob": -0.3622207587415522,
+      "no_speech": 0.10646075010299683,
+      "ko": "부딪쳐도 부서지진 말자!"
+    }
+  ],
+  "status": "draft_asr_review_required"
+}

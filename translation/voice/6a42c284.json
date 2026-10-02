@@ -1,0 +1,35 @@
+{
+  "hash": "6a42c284",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.84975,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5982500000000002,
+      "jp": "やってやれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2782499999999999,
+          "jp": "やって",
+          "prob": 0.9526452422142029
+        },
+        {
+          "start": 0.2782499999999999,
+          "end": 0.47825000000000273,
+          "jp": "や",
+          "prob": 0.9976643323898315
+        },
+        {
+          "start": 0.47825000000000273,
+          "end": 0.5982500000000002,
+          "jp": "れ!",
+          "prob": 0.980851411819458
+        }
+      ],
+      "ko": "해치워!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

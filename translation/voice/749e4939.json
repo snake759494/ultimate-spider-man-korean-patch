@@ -1,0 +1,15 @@
+{
+  "hash": "749e4939",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.9444375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.9444375,
+      "jp": "アイアンマン?じゃ、ないわよね",
+      "ko": "아이언맨? 아니겠지?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

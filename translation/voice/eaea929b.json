@@ -1,0 +1,15 @@
+{
+  "hash": "eaea929b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.9910625,
+  "segments": [
+    {
+      "start": 0.6698749999999993,
+      "end": 1.9910625,
+      "jp": "やるな!",
+      "ko": "제법이군!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

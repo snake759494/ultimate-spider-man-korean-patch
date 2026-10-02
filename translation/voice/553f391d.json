@@ -1,0 +1,15 @@
+{
+  "hash": "553f391d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.2613125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.08,
+      "jp": "卑屈だないいことないぞ",
+      "ko": "그렇게 비굴하게 굴면 좋을 것 없어!"
+    }
+  ],
+  "recognition": "kotoba_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

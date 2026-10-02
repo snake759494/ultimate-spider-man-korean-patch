@@ -1,0 +1,35 @@
+{
+  "hash": "94422e99",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1545625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6097499999999947,
+      "jp": "終わった!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18974999999999298,
+          "jp": "終",
+          "prob": 0.9659607410430908
+        },
+        {
+          "start": 0.18974999999999298,
+          "end": 0.309749999999994,
+          "jp": "わ",
+          "prob": 0.9876825213432312
+        },
+        {
+          "start": 0.309749999999994,
+          "end": 0.6097499999999947,
+          "jp": "った!",
+          "prob": 0.9955784678459167
+        }
+      ],
+      "ko": "끝났다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

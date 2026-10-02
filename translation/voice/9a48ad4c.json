@@ -1,0 +1,15 @@
+{
+  "hash": "9a48ad4c",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.3553125,
+  "segments": [
+    {
+      "start": 0.34,
+      "end": 2.26,
+      "jp": "ねえ、細紐ごときに",
+      "ko": "쳇, 고작 가느다란 줄 따위에!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

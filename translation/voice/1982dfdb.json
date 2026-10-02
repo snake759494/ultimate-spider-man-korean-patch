@@ -1,0 +1,35 @@
+{
+  "hash": "1982dfdb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.5650625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.47818749999999977,
+      "jp": "撃つな!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.19818749999999996,
+          "jp": "撃",
+          "prob": 0.7669994533061981
+        },
+        {
+          "start": 0.19818749999999996,
+          "end": 0.3381875000000001,
+          "jp": "つ",
+          "prob": 0.950350284576416
+        },
+        {
+          "start": 0.3381875000000001,
+          "end": 0.47818749999999977,
+          "jp": "な!",
+          "prob": 0.9904002547264099
+        }
+      ],
+      "ko": "쏘지 마!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "32518822",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 5.1536875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 5.1536875,
+      "jp": "つまるところは、お前と俺、どっちが多くの敵を殺したかってことだ",
+      "ko": "결국 너와 나 중 누가 적을 더 많이 죽였느냐는 거지."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

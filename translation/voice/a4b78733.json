@@ -1,0 +1,53 @@
+{
+  "hash": "a4b78733",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5021875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.42,
+      "jp": "そう!こいつ早いよ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26,
+          "jp": "そう!",
+          "prob": 0.5100617408752441
+        },
+        {
+          "start": 0.52,
+          "end": 0.64,
+          "jp": "こ",
+          "prob": 0.8463135957717896
+        },
+        {
+          "start": 0.64,
+          "end": 0.76,
+          "jp": "いつ",
+          "prob": 0.9990072846412659
+        },
+        {
+          "start": 0.76,
+          "end": 1.04,
+          "jp": "早",
+          "prob": 0.2983231842517853
+        },
+        {
+          "start": 1.04,
+          "end": 1.22,
+          "jp": "い",
+          "prob": 0.9583979249000549
+        },
+        {
+          "start": 1.22,
+          "end": 1.42,
+          "jp": "よ!",
+          "prob": 0.9730715751647949
+        }
+      ],
+      "ko": "그래! 이 녀석 빨라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

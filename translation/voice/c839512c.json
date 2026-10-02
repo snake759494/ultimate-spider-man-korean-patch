@@ -1,0 +1,15 @@
+{
+  "hash": "c839512c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.998375,
+  "segments": [
+    {
+      "start": 0.14618749999999991,
+      "end": 0.998375,
+      "jp": "ていうか",
+      "ko": "그런데 말이야..."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

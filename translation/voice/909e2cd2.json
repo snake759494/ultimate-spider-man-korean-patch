@@ -1,0 +1,53 @@
+{
+  "hash": "909e2cd2",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0825625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.94,
+      "jp": "何か似合わない?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "何",
+          "prob": 0.7554532885551453
+        },
+        {
+          "start": 0.22,
+          "end": 0.42,
+          "jp": "か",
+          "prob": 0.9955986738204956
+        },
+        {
+          "start": 0.42,
+          "end": 0.6,
+          "jp": "似",
+          "prob": 0.6446003615856171
+        },
+        {
+          "start": 0.6,
+          "end": 0.68,
+          "jp": "合",
+          "prob": 0.7692920565605164
+        },
+        {
+          "start": 0.68,
+          "end": 0.8,
+          "jp": "わ",
+          "prob": 0.9899441003799438
+        },
+        {
+          "start": 0.8,
+          "end": 0.94,
+          "jp": "ない?",
+          "prob": 0.9970690608024597
+        }
+      ],
+      "ko": "뭐가 안 어울려?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

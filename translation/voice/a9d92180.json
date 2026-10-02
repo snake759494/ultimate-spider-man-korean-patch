@@ -1,0 +1,15 @@
+{
+  "hash": "a9d92180",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.7938125,
+  "segments": [
+    {
+      "start": 0.2863125000000011,
+      "end": 2.626312500000001,
+      "jp": "我々は常人とは違う世界に住んでいるのだ",
+      "ko": "우리는 평범한 사람들과는 다른 세계에서 살고 있다."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

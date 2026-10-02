@@ -1,0 +1,15 @@
+{
+  "hash": "b308873c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.4599375,
+  "segments": [
+    {
+      "start": 0.162687499999997,
+      "end": 2.322687499999997,
+      "jp": "おいあれ、スパイダーマンか?ネイモリータか?",
+      "ko": "야, 저거 스파이더맨이야? 네이모리타야?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

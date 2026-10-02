@@ -1,0 +1,15 @@
+{
+  "hash": "15714911",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3096875,
+  "segments": [
+    {
+      "start": 0.11037499999999945,
+      "end": 1.3096875,
+      "jp": "すげえな",
+      "ko": "굉장한데!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

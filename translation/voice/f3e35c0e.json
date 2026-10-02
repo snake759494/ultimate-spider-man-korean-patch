@@ -1,0 +1,15 @@
+{
+  "hash": "f3e35c0e",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.6645,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.48,
+      "jp": "殺せ!",
+      "ko": "죽여!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

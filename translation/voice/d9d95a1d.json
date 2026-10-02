@@ -1,0 +1,15 @@
+{
+  "hash": "d9d95a1d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4493125,
+  "segments": [
+    {
+      "start": 0.06625000000000014,
+      "end": 1.4493125,
+      "jp": "今のは痛かったぞ!",
+      "ko": "방금 건 아팠어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

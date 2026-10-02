@@ -1,0 +1,15 @@
+{
+  "hash": "1aa03b48",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.667,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.44,
+      "jp": "貴様にはつくづく愛想がつきた!",
+      "ko": "네놈에겐 정말 정나미가 떨어졌다!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

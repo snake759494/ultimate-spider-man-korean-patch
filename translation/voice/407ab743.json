@@ -1,0 +1,41 @@
+{
+  "hash": "407ab743",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0711875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8883124999999996,
+      "jp": "何してるんだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24831250000000082,
+          "jp": "何",
+          "prob": 0.8608585596084595
+        },
+        {
+          "start": 0.24831250000000082,
+          "end": 0.5483124999999998,
+          "jp": "して",
+          "prob": 0.9951469302177429
+        },
+        {
+          "start": 0.5483124999999998,
+          "end": 0.7083124999999999,
+          "jp": "る",
+          "prob": 0.9912191033363342
+        },
+        {
+          "start": 0.7083124999999999,
+          "end": 0.8883124999999996,
+          "jp": "んだ!",
+          "prob": 0.9969161748886108
+        }
+      ],
+      "ko": "뭐 하는 거야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

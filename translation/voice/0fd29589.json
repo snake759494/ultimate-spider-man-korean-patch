@@ -1,0 +1,15 @@
+{
+  "hash": "0fd29589",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.321875,
+  "segments": [
+    {
+      "start": 0.112187500000001,
+      "end": 1.2921875000000007,
+      "jp": "おもしれー",
+      "ko": "재밌군!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

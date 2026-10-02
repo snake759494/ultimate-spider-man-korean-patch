@@ -1,0 +1,15 @@
+{
+  "hash": "2f2c395e",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.49275,
+  "segments": [
+    {
+      "start": 0.011937500000000156,
+      "end": 1.49275,
+      "jp": "歩道に挨拶するぞ",
+      "ko": "보도에 인사나 하시지!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

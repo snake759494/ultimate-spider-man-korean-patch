@@ -1,0 +1,15 @@
+{
+  "hash": "13bc79b1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1265625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.1265625,
+      "jp": "ここから脱出する",
+      "ko": "여기서 탈출한다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,65 @@
+{
+  "hash": "dd088179",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.4781875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.38,
+      "jp": "早く車を寄せるんだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24,
+          "jp": "早",
+          "prob": 0.46734774112701416
+        },
+        {
+          "start": 0.24,
+          "end": 0.44,
+          "jp": "く",
+          "prob": 0.9927829504013062
+        },
+        {
+          "start": 0.44,
+          "end": 0.66,
+          "jp": "車",
+          "prob": 0.8896748423576355
+        },
+        {
+          "start": 0.66,
+          "end": 0.88,
+          "jp": "を",
+          "prob": 0.9915307760238647
+        },
+        {
+          "start": 0.88,
+          "end": 0.98,
+          "jp": "寄",
+          "prob": 0.9850737452507019
+        },
+        {
+          "start": 0.98,
+          "end": 1.12,
+          "jp": "せ",
+          "prob": 0.9977719187736511
+        },
+        {
+          "start": 1.12,
+          "end": 1.2,
+          "jp": "る",
+          "prob": 0.9976069927215576
+        },
+        {
+          "start": 1.2,
+          "end": 1.38,
+          "jp": "んだ!",
+          "prob": 0.9859241843223572
+        }
+      ],
+      "ko": "빨리 차를 대!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

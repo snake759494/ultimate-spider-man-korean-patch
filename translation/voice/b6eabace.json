@@ -1,0 +1,41 @@
+{
+  "hash": "b6eabace",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.895,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8238125000000025,
+      "jp": "話してくれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22381250000000108,
+          "jp": "話",
+          "prob": 0.4918515086174011
+        },
+        {
+          "start": 0.22381250000000108,
+          "end": 0.5038125000000022,
+          "jp": "して",
+          "prob": 0.996885359287262
+        },
+        {
+          "start": 0.5038125000000022,
+          "end": 0.6638125000000024,
+          "jp": "く",
+          "prob": 0.9930954575538635
+        },
+        {
+          "start": 0.6638125000000024,
+          "end": 0.8238125000000025,
+          "jp": "れ!",
+          "prob": 0.9987581968307495
+        }
+      ],
+      "ko": "놓아 줘!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

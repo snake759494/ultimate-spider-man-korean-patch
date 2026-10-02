@@ -1,0 +1,15 @@
+{
+  "hash": "05de60e4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3570625,
+  "segments": [
+    {
+      "start": 0.08731249999999946,
+      "end": 0.8073125000000001,
+      "jp": "見えない",
+      "ko": "안 보여!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

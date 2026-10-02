@@ -1,0 +1,15 @@
+{
+  "hash": "799f736c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 4.16475,
+  "segments": [
+    {
+      "start": 0,
+      "end": 4.16475,
+      "jp": "ス!スパイダーマン?それともスピードボール?いまいち違いが分からないんだよね",
+      "ko": "스파이더맨? 아니면 스피드볼인가? 둘이 잘 구분이 안 되네."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "26134c72",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.796375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.796375,
+      "jp": "手始めに壁を這い回ってみるか",
+      "ko": "우선 벽부터 타 볼까?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

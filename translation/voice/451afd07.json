@@ -1,0 +1,41 @@
+{
+  "hash": "451afd07",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.9760625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7821875000000027,
+      "jp": "効果するぞ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24218750000000355,
+          "jp": "効",
+          "prob": 0.9932759702205658
+        },
+        {
+          "start": 0.24218750000000355,
+          "end": 0.42218750000000327,
+          "jp": "果",
+          "prob": 0.997664213180542
+        },
+        {
+          "start": 0.42218750000000327,
+          "end": 0.5821875000000034,
+          "jp": "する",
+          "prob": 0.9753300547599792
+        },
+        {
+          "start": 0.5821875000000034,
+          "end": 0.7821875000000027,
+          "jp": "ぞ!",
+          "prob": 0.9995213747024536
+        }
+      ],
+      "ko": "낙하한다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

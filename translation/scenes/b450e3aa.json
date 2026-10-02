@@ -1,0 +1,15 @@
+{
+  "hash": "b450e3aa",
+  "duration": 10.0275625,
+  "segments": [
+    {
+      "start": 0.53,
+      "end": 1.21,
+      "jp": "ご視聴ありがとうございました!",
+      "logprob": -0.7856416702270508,
+      "no_speech": 0.9431004524230957,
+      "ko": ""
+    }
+  ],
+  "status": "draft_asr_review_required"
+}

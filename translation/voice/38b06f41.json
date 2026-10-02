@@ -1,0 +1,15 @@
+{
+  "hash": "38b06f41",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.8995625,
+  "segments": [
+    {
+      "start": 0.06125000000000114,
+      "end": 2.8012499999999996,
+      "jp": "この銃、お前の障害賃金より高いんだぞ!",
+      "ko": "이 총은 네 평생 수입보다 비싸다고!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

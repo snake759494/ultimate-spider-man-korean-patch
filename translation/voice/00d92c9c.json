@@ -1,0 +1,71 @@
+{
+  "hash": "00d92c9c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.9179375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.76,
+      "jp": "変だと思う奴、他にいるか?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "変",
+          "prob": 0.7648208141326904
+        },
+        {
+          "start": 0.22,
+          "end": 0.36,
+          "jp": "だ",
+          "prob": 0.8900123238563538
+        },
+        {
+          "start": 0.36,
+          "end": 0.56,
+          "jp": "と思",
+          "prob": 0.9695460200309753
+        },
+        {
+          "start": 0.56,
+          "end": 0.7,
+          "jp": "う",
+          "prob": 0.9937862157821655
+        },
+        {
+          "start": 0.7,
+          "end": 0.88,
+          "jp": "奴、",
+          "prob": 0.8399816155433655
+        },
+        {
+          "start": 1.08,
+          "end": 1.26,
+          "jp": "他",
+          "prob": 0.8049277067184448
+        },
+        {
+          "start": 1.26,
+          "end": 1.42,
+          "jp": "に",
+          "prob": 0.9939829707145691
+        },
+        {
+          "start": 1.42,
+          "end": 1.54,
+          "jp": "いる",
+          "prob": 0.9149358868598938
+        },
+        {
+          "start": 1.54,
+          "end": 1.76,
+          "jp": "か?",
+          "prob": 0.9966637492179871
+        }
+      ],
+      "ko": "이상하다고 생각하는 사람 없어?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

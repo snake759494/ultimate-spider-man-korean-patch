@@ -1,0 +1,65 @@
+{
+  "hash": "b4af6751",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8440625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.46,
+      "jp": "第2防衛戦まで、後退!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24,
+          "jp": "第",
+          "prob": 0.5954117774963379
+        },
+        {
+          "start": 0.24,
+          "end": 0.4,
+          "jp": "2",
+          "prob": 0.9560877680778503
+        },
+        {
+          "start": 0.4,
+          "end": 0.56,
+          "jp": "防",
+          "prob": 0.656825840473175
+        },
+        {
+          "start": 0.56,
+          "end": 0.72,
+          "jp": "衛",
+          "prob": 0.9979149103164673
+        },
+        {
+          "start": 0.72,
+          "end": 0.84,
+          "jp": "戦",
+          "prob": 0.9145118594169617
+        },
+        {
+          "start": 0.84,
+          "end": 1.02,
+          "jp": "まで、",
+          "prob": 0.9910426139831543
+        },
+        {
+          "start": 1.2,
+          "end": 1.3,
+          "jp": "後",
+          "prob": 0.5042802095413208
+        },
+        {
+          "start": 1.3,
+          "end": 1.46,
+          "jp": "退!",
+          "prob": 0.9148491024971008
+        }
+      ],
+      "ko": "제2 방어선까지 후퇴하라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

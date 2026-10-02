@@ -1,0 +1,11 @@
+{
+  "hash": "26100f72",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.97175,
+  "segments": [],
+  "recognition": "medium_individual",
+  "status": "no_caption_individual_asr_checked",
+  "review_note": "기합, 개별 인식에서 어휘 없음. 배치 및 개별 ASR 대조에 의한 분류이며 청취 검수와 구분.",
+  "identical_audio_source": "74074718",
+  "decoded_audio_sha256": "8d2eeb96e28317063425a4538eacac487484f494f8788977e64fb7a72ee5e450"
+}

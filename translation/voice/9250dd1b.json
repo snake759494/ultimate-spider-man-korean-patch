@@ -1,0 +1,41 @@
+{
+  "hash": "9250dd1b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.969625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7568750000000009,
+      "jp": "もうダメだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.25687500000000085,
+          "jp": "もう",
+          "prob": 0.9573447704315186
+        },
+        {
+          "start": 0.25687500000000085,
+          "end": 0.49687500000000107,
+          "jp": "ダ",
+          "prob": 0.6663245558738708
+        },
+        {
+          "start": 0.49687500000000107,
+          "end": 0.5568750000000016,
+          "jp": "メ",
+          "prob": 0.9983678460121155
+        },
+        {
+          "start": 0.5568750000000016,
+          "end": 0.7568750000000009,
+          "jp": "だ!",
+          "prob": 0.9978894591331482
+        }
+      ],
+      "ko": "이젠 끝이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

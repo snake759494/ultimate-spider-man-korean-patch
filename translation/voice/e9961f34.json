@@ -1,0 +1,41 @@
+{
+  "hash": "e9961f34",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5544375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.538374999999995,
+      "jp": "ち、外したか",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.15837499999999594,
+          "jp": "ち、",
+          "prob": 0.38061583042144775
+        },
+        {
+          "start": 0.6183749999999968,
+          "end": 0.918374999999994,
+          "jp": "外",
+          "prob": 0.9337490200996399
+        },
+        {
+          "start": 0.918374999999994,
+          "end": 1.158374999999996,
+          "jp": "した",
+          "prob": 0.987159252166748
+        },
+        {
+          "start": 1.158374999999996,
+          "end": 1.538374999999995,
+          "jp": "か",
+          "prob": 0.9928062558174133
+        }
+      ],
+      "ko": "쳇, 빗나갔나."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

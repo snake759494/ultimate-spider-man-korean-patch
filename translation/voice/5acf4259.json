@@ -1,0 +1,35 @@
+{
+  "hash": "5acf4259",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7486875,
+  "segments": [
+    {
+      "start": 0.002374999999999794,
+      "end": 1.2623749999999996,
+      "jp": "もう最高",
+      "words": [
+        {
+          "start": 0.002374999999999794,
+          "end": 0.4223749999999997,
+          "jp": "もう",
+          "prob": 0.22271689772605896
+        },
+        {
+          "start": 0.4223749999999997,
+          "end": 0.8623750000000001,
+          "jp": "最",
+          "prob": 0.48918187618255615
+        },
+        {
+          "start": 0.8623750000000001,
+          "end": 1.2623749999999996,
+          "jp": "高",
+          "prob": 0.8229550719261169
+        }
+      ],
+      "ko": "정말 최고야."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

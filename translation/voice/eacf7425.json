@@ -1,0 +1,29 @@
+{
+  "hash": "eacf7425",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.8838125,
+  "segments": [
+    {
+      "start": 0.04393749999999663,
+      "end": 0.8838125,
+      "jp": "痛っ!",
+      "words": [
+        {
+          "start": 0.04393749999999663,
+          "end": 0.5239374999999971,
+          "jp": "痛",
+          "prob": 0.0094214528799057
+        },
+        {
+          "start": 0.5239374999999971,
+          "end": 0.8838125,
+          "jp": "っ!",
+          "prob": 0.6870676875114441
+        }
+      ],
+      "ko": "아야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

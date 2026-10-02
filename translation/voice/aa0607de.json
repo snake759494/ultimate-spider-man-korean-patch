@@ -1,0 +1,29 @@
+{
+  "hash": "aa0607de",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.798625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.48168749999999605,
+      "jp": "危ない!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2216874999999945,
+          "jp": "危",
+          "prob": 0.7669169902801514
+        },
+        {
+          "start": 0.2216874999999945,
+          "end": 0.48168749999999605,
+          "jp": "ない!",
+          "prob": 0.9854655265808105
+        }
+      ],
+      "ko": "위험해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

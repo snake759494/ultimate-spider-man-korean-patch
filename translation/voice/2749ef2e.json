@@ -1,0 +1,29 @@
+{
+  "hash": "2749ef2e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.98325,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6376249999999999,
+      "jp": "どうだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3176250000000014,
+          "jp": "どう",
+          "prob": 0.8078482151031494
+        },
+        {
+          "start": 0.3176250000000014,
+          "end": 0.6376249999999999,
+          "jp": "だ!",
+          "prob": 0.46176785230636597
+        }
+      ],
+      "ko": "어떠냐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

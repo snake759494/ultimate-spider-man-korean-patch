@@ -1,0 +1,15 @@
+{
+  "hash": "47e18b25",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1590625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9604999999999997,
+      "jp": "どうした?",
+      "ko": "왜 그래?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

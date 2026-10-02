@@ -1,0 +1,15 @@
+{
+  "hash": "33818194",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 4.288125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 4.259562500000001,
+      "jp": "トラスクのペットが逃げ出して、俺らが連れ戻すのか?やれやれだぜ",
+      "ko": "트라스크의 애완동물이 도망쳐서 우리가 데려와야 한다고? 정말 못 말리겠군."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

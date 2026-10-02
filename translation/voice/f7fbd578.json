@@ -1,0 +1,15 @@
+{
+  "hash": "f7fbd578",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 3.6205625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.38,
+      "jp": "おい!変わったテントを貼ってるな! おいだ!",
+      "ko": "이봐, 특이한 텐트를 쳐 놨네! 아야!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "a9f5fccf",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0340625,
+  "segments": [
+    {
+      "start": 0.03281249999999947,
+      "end": 0.7128125000000001,
+      "jp": "敵接近!",
+      "words": [
+        {
+          "start": 0.03281249999999947,
+          "end": 0.2728124999999997,
+          "jp": "敵",
+          "prob": 0.9745999276638031
+        },
+        {
+          "start": 0.2728124999999997,
+          "end": 0.49281249999999943,
+          "jp": "接",
+          "prob": 0.33363333344459534
+        },
+        {
+          "start": 0.49281249999999943,
+          "end": 0.7128125000000001,
+          "jp": "近!",
+          "prob": 0.7839335799217224
+        }
+      ],
+      "ko": "적 접근!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "5743359c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.005125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.005125,
+      "jp": "ゴミめ!地面に伏せろ!",
+      "ko": "쓰레기 자식! 바닥에 엎드려!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

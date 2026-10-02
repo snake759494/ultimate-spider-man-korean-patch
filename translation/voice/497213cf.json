@@ -1,0 +1,15 @@
+{
+  "hash": "497213cf",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 5.866,
+  "segments": [
+    {
+      "start": 0.2759999999999998,
+      "end": 5.856,
+      "jp": "へへへ、これか?これはすげーだろ?こいつは特注品なんだ。",
+      "ko": "헤헤헤, 이거? 굉장하지? 특별 주문한 거야."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

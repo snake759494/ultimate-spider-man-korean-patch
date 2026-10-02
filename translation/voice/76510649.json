@@ -1,0 +1,65 @@
+{
+  "hash": "76510649",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.2869375,
+  "segments": [
+    {
+      "start": 0.62,
+      "end": 2.04,
+      "jp": "寄らないで、バケモノ!",
+      "words": [
+        {
+          "start": 0.62,
+          "end": 1.16,
+          "jp": "寄",
+          "prob": 0.5962100550532341
+        },
+        {
+          "start": 1.16,
+          "end": 1.28,
+          "jp": "ら",
+          "prob": 0.9901655316352844
+        },
+        {
+          "start": 1.28,
+          "end": 1.44,
+          "jp": "ない",
+          "prob": 0.9966865181922913
+        },
+        {
+          "start": 1.44,
+          "end": 1.58,
+          "jp": "で、",
+          "prob": 0.9958658218383789
+        },
+        {
+          "start": 1.64,
+          "end": 1.7,
+          "jp": "バ",
+          "prob": 0.25466984510421753
+        },
+        {
+          "start": 1.7,
+          "end": 1.8,
+          "jp": "ケ",
+          "prob": 0.97799152135849
+        },
+        {
+          "start": 1.8,
+          "end": 1.9,
+          "jp": "モ",
+          "prob": 0.9604625701904297
+        },
+        {
+          "start": 1.9,
+          "end": 2.04,
+          "jp": "ノ!",
+          "prob": 0.9395052790641785
+        }
+      ],
+      "ko": "다가오지 마, 괴물!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

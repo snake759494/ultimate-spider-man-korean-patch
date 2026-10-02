@@ -1,0 +1,15 @@
+{
+  "hash": "fae3c0f8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.9465625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.9465625,
+      "jp": "時計団きどりめこれ以上問題を増やすな",
+      "ko": "자경단 흉내는 그만해! 일을 더 벌이지 마!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "dae6920a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2759375,
+  "segments": [
+    {
+      "start": 0.1738749999999989,
+      "end": 1.2759375,
+      "jp": "ぶっ殺してやる!",
+      "ko": "죽여 버리겠어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "87b631d4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.838,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.769124999999999,
+      "jp": "早く来い!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.20912499999999845,
+          "jp": "早",
+          "prob": 0.9424882531166077
+        },
+        {
+          "start": 0.20912499999999845,
+          "end": 0.38912499999999994,
+          "jp": "く",
+          "prob": 0.9983975291252136
+        },
+        {
+          "start": 0.38912499999999994,
+          "end": 0.5491250000000001,
+          "jp": "来",
+          "prob": 0.866768479347229
+        },
+        {
+          "start": 0.5491250000000001,
+          "end": 0.769124999999999,
+          "jp": "い!",
+          "prob": 0.899543046951294
+        }
+      ],
+      "ko": "빨리 와!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

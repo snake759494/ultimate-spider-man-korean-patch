@@ -1,0 +1,15 @@
+{
+  "hash": "305275b5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.788,
+  "segments": [
+    {
+      "start": 0.2601249999999995,
+      "end": 1.6801249999999994,
+      "jp": "まだまだこんなもんじゃないぜ!",
+      "ko": "아직 멀었어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

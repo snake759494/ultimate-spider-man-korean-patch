@@ -1,0 +1,15 @@
+{
+  "hash": "9b3a6588",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 3.2121875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.06,
+      "jp": "夫をなくした家に住み続ける 名おばさんはかわいそうだ",
+      "ko": "남편을 잃은 집에서 계속 사시는 메이 숙모가 안타까워."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

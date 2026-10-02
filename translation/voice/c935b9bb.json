@@ -1,0 +1,59 @@
+{
+  "hash": "c935b9bb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.56975,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.18,
+      "jp": "すげー!すげーぜ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.38,
+          "jp": "す",
+          "prob": 0.492005318403244
+        },
+        {
+          "start": 0.38,
+          "end": 0.7,
+          "jp": "げ",
+          "prob": 0.9554140567779541
+        },
+        {
+          "start": 0.7,
+          "end": 0.94,
+          "jp": "ー!",
+          "prob": 0.4773176610469818
+        },
+        {
+          "start": 1.14,
+          "end": 1.5,
+          "jp": "す",
+          "prob": 0.3564712703227997
+        },
+        {
+          "start": 1.5,
+          "end": 1.78,
+          "jp": "げ",
+          "prob": 0.9861966967582703
+        },
+        {
+          "start": 1.78,
+          "end": 1.92,
+          "jp": "ー",
+          "prob": 0.8671231269836426
+        },
+        {
+          "start": 1.92,
+          "end": 2.18,
+          "jp": "ぜ!",
+          "prob": 0.9074295163154602
+        }
+      ],
+      "ko": "굉장해! 굉장하다고!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "2eea7154",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.673,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5679374999999993,
+      "jp": "あっ!痛てー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.30793749999999775,
+          "jp": "あっ!",
+          "prob": 0.1850026249885559
+        },
+        {
+          "start": 0.8679375,
+          "end": 1.1679375000000007,
+          "jp": "痛",
+          "prob": 0.8692685961723328
+        },
+        {
+          "start": 1.1679375000000007,
+          "end": 1.4079374999999992,
+          "jp": "て",
+          "prob": 0.44347861409187317
+        },
+        {
+          "start": 1.4079374999999992,
+          "end": 1.5679374999999993,
+          "jp": "ー!",
+          "prob": 0.6892291307449341
+        }
+      ],
+      "ko": "아, 아파!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

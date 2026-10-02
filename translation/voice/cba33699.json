@@ -1,0 +1,35 @@
+{
+  "hash": "cba33699",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7965,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7965,
+      "jp": "ダメッ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24181249999999466,
+          "jp": "ダ",
+          "prob": 0.5868607759475708
+        },
+        {
+          "start": 0.24181249999999466,
+          "end": 0.48181249999999665,
+          "jp": "メ",
+          "prob": 0.9747093319892883
+        },
+        {
+          "start": 0.48181249999999665,
+          "end": 0.7965,
+          "jp": "ッ!",
+          "prob": 0.036108095198869705
+        }
+      ],
+      "ko": "안 돼!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

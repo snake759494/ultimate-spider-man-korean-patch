@@ -1,0 +1,35 @@
+{
+  "hash": "4089bfc2",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8885,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.64,
+      "jp": "命中だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28,
+          "jp": "命",
+          "prob": 0.13375268876552582
+        },
+        {
+          "start": 0.28,
+          "end": 0.48,
+          "jp": "中",
+          "prob": 0.9990190267562866
+        },
+        {
+          "start": 0.48,
+          "end": 0.64,
+          "jp": "だ!",
+          "prob": 0.6885595321655273
+        }
+      ],
+      "ko": "명중이다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "b0d68d45",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5551875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5551875,
+      "jp": "体をヘッシュおってやれ!",
+      "ko": "몸을 부러뜨려 버려!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

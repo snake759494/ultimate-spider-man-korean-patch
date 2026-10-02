@@ -1,0 +1,15 @@
+{
+  "hash": "f31a53e8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.614375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6,
+      "jp": "あれはすごい乱闘だったわ",
+      "ko": "정말 엄청난 난투극이었어."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

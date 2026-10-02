@@ -1,0 +1,29 @@
+{
+  "hash": "beca9295",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.000875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6651250000000015,
+      "jp": "まずい!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26512500000000117,
+          "jp": "まず",
+          "prob": 0.8612388968467712
+        },
+        {
+          "start": 0.26512500000000117,
+          "end": 0.6651250000000015,
+          "jp": "い!",
+          "prob": 0.9977389574050903
+        }
+      ],
+      "ko": "큰일이야."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

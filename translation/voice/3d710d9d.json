@@ -1,0 +1,15 @@
+{
+  "hash": "3d710d9d",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.126,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.92,
+      "jp": "下に参ります",
+      "ko": "아래로 내려갑니다."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

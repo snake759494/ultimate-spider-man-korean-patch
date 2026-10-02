@@ -1,0 +1,3 @@
+Pillow==11.1.0
+numpy==2.2.3
+lzokay==2.1.0

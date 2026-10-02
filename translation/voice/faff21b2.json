@@ -1,0 +1,47 @@
+{
+  "hash": "faff21b2",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.694,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.46,
+      "jp": "何なんだこいつは",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.38,
+          "jp": "何",
+          "prob": 0.3516090214252472
+        },
+        {
+          "start": 0.38,
+          "end": 0.82,
+          "jp": "なんだ",
+          "prob": 0.8926272392272949
+        },
+        {
+          "start": 0.82,
+          "end": 1.06,
+          "jp": "こ",
+          "prob": 0.7099887132644653
+        },
+        {
+          "start": 1.06,
+          "end": 1.2,
+          "jp": "いつ",
+          "prob": 0.9972858428955078
+        },
+        {
+          "start": 1.2,
+          "end": 1.46,
+          "jp": "は",
+          "prob": 0.9206562042236328
+        }
+      ],
+      "ko": "이 녀석 대체 뭐야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

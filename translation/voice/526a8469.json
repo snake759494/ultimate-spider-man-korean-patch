@@ -1,0 +1,15 @@
+{
+  "hash": "526a8469",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9351875,
+  "segments": [
+    {
+      "start": 0.24668750000000017,
+      "end": 0.9351875,
+      "jp": "まだいる",
+      "ko": "아직 있어."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

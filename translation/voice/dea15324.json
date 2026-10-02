@@ -1,0 +1,35 @@
+{
+  "hash": "dea15324",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.810875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5482499999999999,
+      "jp": "来るな!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22824999999999962,
+          "jp": "来",
+          "prob": 0.9060672521591187
+        },
+        {
+          "start": 0.22824999999999962,
+          "end": 0.3482499999999997,
+          "jp": "る",
+          "prob": 0.9952064156532288
+        },
+        {
+          "start": 0.3482499999999997,
+          "end": 0.5482499999999999,
+          "jp": "な!",
+          "prob": 0.9973341226577759
+        }
+      ],
+      "ko": "오지 마!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

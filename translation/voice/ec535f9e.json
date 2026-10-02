@@ -1,0 +1,41 @@
+{
+  "hash": "ec535f9e",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.9831875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8178750000000026,
+      "jp": "寄るなって!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2578750000000021,
+          "jp": "寄",
+          "prob": 0.8632107377052307
+        },
+        {
+          "start": 0.2578750000000021,
+          "end": 0.39787500000000264,
+          "jp": "る",
+          "prob": 0.9884176850318909
+        },
+        {
+          "start": 0.39787500000000264,
+          "end": 0.5378750000000014,
+          "jp": "な",
+          "prob": 0.8967188000679016
+        },
+        {
+          "start": 0.5378750000000014,
+          "end": 0.8178750000000026,
+          "jp": "って!",
+          "prob": 0.8501589298248291
+        }
+      ],
+      "ko": "오지 말라고!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

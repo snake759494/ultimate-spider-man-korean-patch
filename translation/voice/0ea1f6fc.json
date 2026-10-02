@@ -1,0 +1,15 @@
+{
+  "hash": "0ea1f6fc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.72275,
+  "segments": [
+    {
+      "start": 0.1411875000000009,
+      "end": 1.72275,
+      "jp": "スパイダーマン最高!",
+      "ko": "스파이더맨 최고!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

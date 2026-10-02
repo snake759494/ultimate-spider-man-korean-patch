@@ -1,0 +1,15 @@
+{
+  "hash": "c63ff4b6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3940625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.3940625,
+      "jp": "またおいでなっつってか!",
+      "ko": "또 오라는 거냐!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "331e301f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.51025,
+  "segments": [
+    {
+      "start": 0.5298124999999985,
+      "end": 1.009812499999999,
+      "jp": "痛い!",
+      "ko": "아파..."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

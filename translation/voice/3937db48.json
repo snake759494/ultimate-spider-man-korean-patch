@@ -1,0 +1,41 @@
+{
+  "hash": "3937db48",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.139375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9146250000000009,
+      "jp": "準備はいいか?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3546250000000022,
+          "jp": "準備",
+          "prob": 0.9341104626655579
+        },
+        {
+          "start": 0.3546250000000022,
+          "end": 0.5946250000000024,
+          "jp": "はい",
+          "prob": 0.9858403205871582
+        },
+        {
+          "start": 0.5946250000000024,
+          "end": 0.7346250000000012,
+          "jp": "い",
+          "prob": 0.9978132247924805
+        },
+        {
+          "start": 0.7346250000000012,
+          "end": 0.9146250000000009,
+          "jp": "か?",
+          "prob": 0.9933104515075684
+        }
+      ],
+      "ko": "준비됐나?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,29 @@
+{
+  "hash": "78282a1f",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.9466875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7933125000000001,
+      "jp": "まずい!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3533124999999999,
+          "jp": "まず",
+          "prob": 0.4146419167518616
+        },
+        {
+          "start": 0.3533124999999999,
+          "end": 0.7933125000000001,
+          "jp": "い!",
+          "prob": 0.9906232953071594
+        }
+      ],
+      "ko": "큰일이야."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

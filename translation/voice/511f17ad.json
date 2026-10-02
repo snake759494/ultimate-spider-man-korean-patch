@@ -1,0 +1,15 @@
+{
+  "hash": "511f17ad",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.271,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.271,
+      "jp": "やっちまえ!",
+      "ko": "해치워!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,18 @@
+{
+  "tested_build_crc": "872430AC",
+  "clips": 5780,
+  "cues": 6035,
+  "payload_bytes": 268000,
+  "runtime_source_sha256": "7da100f5de55cf6ee0a877ebb9d87a6ab03836fc41b9e31353604aa49e5c18b0",
+  "observed": [
+    "Cold boot to Korean profile creation",
+    "QA savestate with current payload loaded",
+    "City movement, jump, wall climb",
+    "Korean jump tutorial with button icons",
+    "Real-time Korean caption during jump tutorial"
+  ],
+  "caveat": "This is a functional sample, not an end-to-end playthrough. Later table-only changes require bounds/static verification.",
+  "snapshot_files": [
+    "work/pcsx2/snaps/Ultimate Spider-Man_SLPM-66404_20261001055937.png"
+  ]
+}

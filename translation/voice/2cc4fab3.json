@@ -1,0 +1,53 @@
+{
+  "hash": "2cc4fab3",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 3.6385625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.68,
+      "jp": "死ぬ!死ぬ!死ぬ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.34,
+          "jp": "死",
+          "prob": 0.8750463128089905
+        },
+        {
+          "start": 0.34,
+          "end": 0.52,
+          "jp": "ぬ!",
+          "prob": 0.976708859205246
+        },
+        {
+          "start": 0.9,
+          "end": 1.38,
+          "jp": "死",
+          "prob": 0.8640514612197876
+        },
+        {
+          "start": 1.38,
+          "end": 1.62,
+          "jp": "ぬ!",
+          "prob": 0.9956917762756348
+        },
+        {
+          "start": 1.94,
+          "end": 2.36,
+          "jp": "死",
+          "prob": 0.9323570132255554
+        },
+        {
+          "start": 2.36,
+          "end": 2.68,
+          "jp": "ぬ!",
+          "prob": 0.9643245339393616
+        }
+      ],
+      "ko": "죽겠다! 죽겠어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

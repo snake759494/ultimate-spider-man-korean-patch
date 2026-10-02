@@ -1,0 +1,35 @@
+{
+  "hash": "49245f8b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.0704375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6140624999999993,
+      "jp": "うん!ありがとう!ありがとう!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.19406249999999758,
+          "jp": "うん!",
+          "prob": 0.06294527649879456
+        },
+        {
+          "start": 0.3940624999999969,
+          "end": 0.7140624999999972,
+          "jp": "ありがとう!",
+          "prob": 0.9014204740524292
+        },
+        {
+          "start": 1.2740624999999994,
+          "end": 1.6140624999999993,
+          "jp": "ありがとう!",
+          "prob": 0.9347556829452515
+        }
+      ],
+      "ko": "고마워! 정말 고마워!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

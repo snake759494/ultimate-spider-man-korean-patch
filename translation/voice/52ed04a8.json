@@ -1,0 +1,35 @@
+{
+  "hash": "52ed04a8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0224375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7427499999999996,
+      "jp": "後戦開始!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22274999999999956,
+          "jp": "後",
+          "prob": 0.2727835476398468
+        },
+        {
+          "start": 0.22274999999999956,
+          "end": 0.42274999999999974,
+          "jp": "戦",
+          "prob": 0.9173916876316071
+        },
+        {
+          "start": 0.42274999999999974,
+          "end": 0.7427499999999996,
+          "jp": "開始!",
+          "prob": 0.9895942211151123
+        }
+      ],
+      "ko": "교전 개시!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

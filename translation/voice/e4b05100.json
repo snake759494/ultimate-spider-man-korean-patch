@@ -1,0 +1,35 @@
+{
+  "hash": "e4b05100",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6721875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5330624999999998,
+      "jp": "くらえ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.11306249999999984,
+          "jp": "く",
+          "prob": 0.7153790593147278
+        },
+        {
+          "start": 0.11306249999999984,
+          "end": 0.3130625,
+          "jp": "ら",
+          "prob": 0.9982233643531799
+        },
+        {
+          "start": 0.3130625,
+          "end": 0.5330624999999998,
+          "jp": "え!",
+          "prob": 0.9928255081176758
+        }
+      ],
+      "ko": "받아라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,47 @@
+{
+  "hash": "3f123cd2",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.17,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8398750000000001,
+      "jp": "どうやってかわした",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.179875,
+          "jp": "どう",
+          "prob": 0.5997831225395203
+        },
+        {
+          "start": 0.179875,
+          "end": 0.45987500000000026,
+          "jp": "やって",
+          "prob": 0.9899041056632996
+        },
+        {
+          "start": 0.45987500000000026,
+          "end": 0.639875,
+          "jp": "か",
+          "prob": 0.3894162178039551
+        },
+        {
+          "start": 0.639875,
+          "end": 0.6998750000000005,
+          "jp": "わ",
+          "prob": 0.5199512243270874
+        },
+        {
+          "start": 0.6998750000000005,
+          "end": 0.8398750000000001,
+          "jp": "した",
+          "prob": 0.9589003324508667
+        }
+      ],
+      "ko": "어떻게 피한 거지?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

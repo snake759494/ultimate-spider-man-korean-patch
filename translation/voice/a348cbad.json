@@ -1,0 +1,17 @@
+{
+  "hash": "a348cbad",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.109125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.109125,
+      "jp": "なに",
+      "ko": "뭐?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required",
+  "identical_audio_source": "f3cfc782",
+  "decoded_audio_sha256": "7030dd6eff46d289cf20156db795807bf5ec92ff6febc3fa48d2e9a10681e608"
+}

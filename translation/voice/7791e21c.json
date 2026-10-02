@@ -1,0 +1,15 @@
+{
+  "hash": "7791e21c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0680625,
+  "segments": [
+    {
+      "start": 0.08231250000000045,
+      "end": 1.0680625,
+      "jp": "だから言ったろ?",
+      "ko": "그러니까 말했잖아?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

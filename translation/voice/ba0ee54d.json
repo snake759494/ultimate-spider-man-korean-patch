@@ -1,0 +1,15 @@
+{
+  "hash": "ba0ee54d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.91925,
+  "segments": [
+    {
+      "start": 0.2656875000000003,
+      "end": 0.91925,
+      "jp": "どかんだ!",
+      "ko": "쾅이다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

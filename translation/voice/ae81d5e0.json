@@ -1,0 +1,53 @@
+{
+  "hash": "ae81d5e0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.371375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.14,
+      "jp": "もう一発行こうか",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26,
+          "jp": "もう",
+          "prob": 0.8130230903625488
+        },
+        {
+          "start": 0.26,
+          "end": 0.5,
+          "jp": "一",
+          "prob": 0.9137740731239319
+        },
+        {
+          "start": 0.5,
+          "end": 0.66,
+          "jp": "発",
+          "prob": 0.9913892149925232
+        },
+        {
+          "start": 0.66,
+          "end": 0.84,
+          "jp": "行",
+          "prob": 0.4760286211967468
+        },
+        {
+          "start": 0.84,
+          "end": 0.96,
+          "jp": "こう",
+          "prob": 0.9868185520172119
+        },
+        {
+          "start": 0.96,
+          "end": 1.14,
+          "jp": "か",
+          "prob": 0.9855921268463135
+        }
+      ],
+      "ko": "한 방 더 먹을래!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

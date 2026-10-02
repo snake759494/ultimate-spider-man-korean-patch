@@ -1,0 +1,35 @@
+{
+  "hash": "187979d3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.018375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6481250000000003,
+      "jp": "すべる!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.20812500000000078,
+          "jp": "す",
+          "prob": 0.4080106019973755
+        },
+        {
+          "start": 0.20812500000000078,
+          "end": 0.42812500000000053,
+          "jp": "べ",
+          "prob": 0.9612410068511963
+        },
+        {
+          "start": 0.42812500000000053,
+          "end": 0.6481250000000003,
+          "jp": "る!",
+          "prob": 0.983086347579956
+        }
+      ],
+      "ko": "미끄러워!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

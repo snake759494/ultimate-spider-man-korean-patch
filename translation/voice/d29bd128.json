@@ -1,0 +1,35 @@
+{
+  "hash": "d29bd128",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.52,
+  "segments": [
+    {
+      "start": 1.44,
+      "end": 2.22,
+      "jp": "大丈夫かい?",
+      "words": [
+        {
+          "start": 1.44,
+          "end": 1.76,
+          "jp": "大丈夫",
+          "prob": 0.12049003690481186
+        },
+        {
+          "start": 1.76,
+          "end": 2.02,
+          "jp": "か",
+          "prob": 0.9681269526481628
+        },
+        {
+          "start": 2.02,
+          "end": 2.22,
+          "jp": "い?",
+          "prob": 0.774243950843811
+        }
+      ],
+      "ko": "괜찮아?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

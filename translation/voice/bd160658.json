@@ -1,0 +1,59 @@
+{
+  "hash": "bd160658",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.9903125,
+  "segments": [
+    {
+      "start": 0.42,
+      "end": 1.78,
+      "jp": "そうだ!そうこなきゃな!",
+      "words": [
+        {
+          "start": 0.42,
+          "end": 0.7,
+          "jp": "そうだ!",
+          "prob": 0.5446813106536865
+        },
+        {
+          "start": 0.96,
+          "end": 1.16,
+          "jp": "そう",
+          "prob": 0.7559764981269836
+        },
+        {
+          "start": 1.16,
+          "end": 1.36,
+          "jp": "こ",
+          "prob": 0.5708974003791809
+        },
+        {
+          "start": 1.36,
+          "end": 1.46,
+          "jp": "な",
+          "prob": 0.8762146234512329
+        },
+        {
+          "start": 1.46,
+          "end": 1.58,
+          "jp": "き",
+          "prob": 0.4576837718486786
+        },
+        {
+          "start": 1.58,
+          "end": 1.6,
+          "jp": "ゃ",
+          "prob": 0.999729335308075
+        },
+        {
+          "start": 1.6,
+          "end": 1.78,
+          "jp": "な!",
+          "prob": 0.950032651424408
+        }
+      ],
+      "ko": "그래! 이래야지!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

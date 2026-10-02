@@ -1,0 +1,47 @@
+{
+  "hash": "7cadfab8",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.6290625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.207687499999997,
+      "jp": "話されるなって!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28768749999999876,
+          "jp": "話",
+          "prob": 0.3338371813297272
+        },
+        {
+          "start": 0.28768749999999876,
+          "end": 0.5876874999999995,
+          "jp": "さ",
+          "prob": 0.9965769648551941
+        },
+        {
+          "start": 0.5876874999999995,
+          "end": 0.7276875,
+          "jp": "れる",
+          "prob": 0.9981485605239868
+        },
+        {
+          "start": 0.7276875,
+          "end": 0.9076874999999998,
+          "jp": "な",
+          "prob": 0.893750011920929
+        },
+        {
+          "start": 0.9076874999999998,
+          "end": 1.207687499999997,
+          "jp": "って!",
+          "prob": 0.9652418494224548
+        }
+      ],
+      "ko": "놓치면 안 돼!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

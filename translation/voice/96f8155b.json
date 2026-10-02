@@ -1,0 +1,15 @@
+{
+  "hash": "96f8155b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7363125,
+  "segments": [
+    {
+      "start": 0.08881249999999952,
+      "end": 1.4888124999999999,
+      "jp": "誰か助けて!",
+      "ko": "누가 좀 도와줘!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

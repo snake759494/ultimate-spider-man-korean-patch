@@ -1,0 +1,19 @@
+{
+  "hash": "57bae4ed",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5429375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5429375,
+      "jp": "思い知らせてやれ",
+      "ko": "본때를 보여 줘!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "509858ac",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.4016875,
+  "segments": [
+    {
+      "start": 0.32768750000000146,
+      "end": 2.1676875000000013,
+      "jp": "まるで歩くネタ調だな。",
+      "ko": "걸어 다니는 개그 소재네."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

@@ -1,0 +1,19 @@
+{
+  "hash": "68ab3f00",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.17675,
+  "segments": [
+    {
+      "start": 0.04356250000000017,
+      "end": 1.1235624999999985,
+      "jp": "何が起きてるんだ?",
+      "ko": "무슨 일이야?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_dictionary_medium_batch_review_required"
+}

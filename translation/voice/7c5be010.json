@@ -1,0 +1,35 @@
+{
+  "hash": "7c5be010",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8376875,
+  "segments": [
+    {
+      "start": 0.010249999999997428,
+      "end": 0.5702499999999979,
+      "jp": "聞かない!",
+      "words": [
+        {
+          "start": 0.010249999999997428,
+          "end": 0.17024999999999757,
+          "jp": "聞",
+          "prob": 0.534975528717041
+        },
+        {
+          "start": 0.17024999999999757,
+          "end": 0.37024999999999864,
+          "jp": "か",
+          "prob": 0.986623227596283
+        },
+        {
+          "start": 0.37024999999999864,
+          "end": 0.5702499999999979,
+          "jp": "ない!",
+          "prob": 0.998371422290802
+        }
+      ],
+      "ko": "안 통한다."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

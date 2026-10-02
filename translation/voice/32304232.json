@@ -1,0 +1,29 @@
+{
+  "hash": "32304232",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9235,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5047499999999978,
+      "jp": "撤退!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18474999999999753,
+          "jp": "撤",
+          "prob": 0.9023841917514801
+        },
+        {
+          "start": 0.18474999999999753,
+          "end": 0.5047499999999978,
+          "jp": "退!",
+          "prob": 0.9673181176185608
+        }
+      ],
+      "ko": "후퇴!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

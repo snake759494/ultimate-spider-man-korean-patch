@@ -1,0 +1,15 @@
+{
+  "hash": "c974c5ae",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.82,
+  "segments": [
+    {
+      "start": 0.06568749999999923,
+      "end": 0.6256875000000015,
+      "jp": "外した!",
+      "ko": "빗나갔어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

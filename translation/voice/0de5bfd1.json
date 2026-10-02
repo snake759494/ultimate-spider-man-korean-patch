@@ -1,0 +1,15 @@
+{
+  "hash": "0de5bfd1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3026875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.3026875,
+      "jp": "あの人何をしてるんだ?",
+      "ko": "저 사람 뭐 하는 거지?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

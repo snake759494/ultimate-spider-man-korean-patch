@@ -1,0 +1,35 @@
+{
+  "hash": "c24363c6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7194375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.48,
+      "jp": "かかれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "か",
+          "prob": 0.3839053213596344
+        },
+        {
+          "start": 0.22,
+          "end": 0.36,
+          "jp": "か",
+          "prob": 0.8925032615661621
+        },
+        {
+          "start": 0.36,
+          "end": 0.48,
+          "jp": "れ!",
+          "prob": 0.9377284049987793
+        }
+      ],
+      "ko": "공격해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

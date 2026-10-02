@@ -1,0 +1,41 @@
+{
+  "hash": "8e1a273e",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.2373125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9484999999999992,
+      "jp": "おはずれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2884999999999991,
+          "jp": "お",
+          "prob": 0.3706226944923401
+        },
+        {
+          "start": 0.2884999999999991,
+          "end": 0.588499999999998,
+          "jp": "は",
+          "prob": 0.6501892805099487
+        },
+        {
+          "start": 0.588499999999998,
+          "end": 0.708499999999999,
+          "jp": "ず",
+          "prob": 0.9757545590400696
+        },
+        {
+          "start": 0.708499999999999,
+          "end": 0.9484999999999992,
+          "jp": "れ!",
+          "prob": 0.8768509030342102
+        }
+      ],
+      "ko": "빗나갔지!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

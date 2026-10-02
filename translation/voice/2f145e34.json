@@ -1,0 +1,23 @@
+{
+  "hash": "2f145e34",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.57,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.2106874999999997,
+      "jp": "ちょっと!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2106874999999997,
+          "jp": "ちょっと!",
+          "prob": 0.8991939425468445
+        }
+      ],
+      "ko": "잠깐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

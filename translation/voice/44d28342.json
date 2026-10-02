@@ -1,0 +1,15 @@
+{
+  "hash": "44d28342",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5436875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.44,
+      "jp": "そこの雨玉を取れ",
+      "ko": "거기 있는 사탕을 집어!"
+    }
+  ],
+  "recognition": "kotoba_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

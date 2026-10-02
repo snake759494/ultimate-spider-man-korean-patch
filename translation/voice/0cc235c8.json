@@ -1,0 +1,15 @@
+{
+  "hash": "0cc235c8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8060625,
+  "segments": [
+    {
+      "start": 0.4074374999999968,
+      "end": 1.6474374999999988,
+      "jp": "ありねえよ",
+      "ko": "말도 안 돼."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

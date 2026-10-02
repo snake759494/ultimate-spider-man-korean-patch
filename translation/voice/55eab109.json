@@ -1,0 +1,15 @@
+{
+  "hash": "55eab109",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.105375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.84,
+      "jp": "撮ったらさっさと捨てとけよかったって思ってんだろ",
+      "ko": "진작 버렸으면 좋았을 거라고 생각하고 있지?"
+    }
+  ],
+  "recognition": "kotoba_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

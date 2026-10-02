@@ -1,0 +1,41 @@
+{
+  "hash": "8d7455df",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.01975,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.01975,
+      "jp": "まずいな…",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2998749999999992,
+          "jp": "まず",
+          "prob": 0.6964753270149231
+        },
+        {
+          "start": 0.2998749999999992,
+          "end": 0.5798749999999995,
+          "jp": "い",
+          "prob": 0.9941034913063049
+        },
+        {
+          "start": 0.5798749999999995,
+          "end": 0.7598749999999992,
+          "jp": "な",
+          "prob": 0.9919646978378296
+        },
+        {
+          "start": 0.7598749999999992,
+          "end": 1.01975,
+          "jp": "…",
+          "prob": 0.2011202573776245
+        }
+      ],
+      "ko": "큰일인데..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

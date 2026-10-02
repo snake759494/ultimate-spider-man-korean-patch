@@ -1,0 +1,77 @@
+{
+  "hash": "d984da1e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8963125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7,
+      "jp": "お前がめちゃくちゃにしたんだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "お",
+          "prob": 0.7856050729751587
+        },
+        {
+          "start": 0.22,
+          "end": 0.46,
+          "jp": "前",
+          "prob": 0.9327937960624695
+        },
+        {
+          "start": 0.46,
+          "end": 0.64,
+          "jp": "が",
+          "prob": 0.992431640625
+        },
+        {
+          "start": 0.64,
+          "end": 0.8,
+          "jp": "め",
+          "prob": 0.5750080347061157
+        },
+        {
+          "start": 0.8,
+          "end": 0.96,
+          "jp": "ちゃ",
+          "prob": 0.9846776723861694
+        },
+        {
+          "start": 0.96,
+          "end": 1.04,
+          "jp": "く",
+          "prob": 0.9985465407371521
+        },
+        {
+          "start": 1.04,
+          "end": 1.16,
+          "jp": "ちゃ",
+          "prob": 0.9995692372322083
+        },
+        {
+          "start": 1.16,
+          "end": 1.28,
+          "jp": "に",
+          "prob": 0.8843294978141785
+        },
+        {
+          "start": 1.28,
+          "end": 1.46,
+          "jp": "した",
+          "prob": 0.7903136610984802
+        },
+        {
+          "start": 1.46,
+          "end": 1.7,
+          "jp": "んだ!",
+          "prob": 0.9928956627845764
+        }
+      ],
+      "ko": "네가 다 망쳐 놨어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

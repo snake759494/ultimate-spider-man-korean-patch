@@ -1,0 +1,15 @@
+{
+  "hash": "30104fa0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2115,
+  "segments": [
+    {
+      "start": 0.15162500000000012,
+      "end": 1.2115,
+      "jp": "いい加減にしてよ!",
+      "ko": "이제 그만 좀 해!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

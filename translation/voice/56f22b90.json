@@ -1,0 +1,35 @@
+{
+  "hash": "56f22b90",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.81475,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.66,
+      "jp": "大丈夫かい?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.34,
+          "jp": "大丈夫",
+          "prob": 0.8092656135559082
+        },
+        {
+          "start": 0.34,
+          "end": 0.54,
+          "jp": "か",
+          "prob": 0.9550392031669617
+        },
+        {
+          "start": 0.54,
+          "end": 0.66,
+          "jp": "い?",
+          "prob": 0.8823067545890808
+        }
+      ],
+      "ko": "괜찮아?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

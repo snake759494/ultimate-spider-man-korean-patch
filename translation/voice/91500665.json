@@ -1,0 +1,29 @@
+{
+  "hash": "91500665",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7668125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.4591250000000002,
+      "jp": "攻撃!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2391249999999996,
+          "jp": "攻",
+          "prob": 0.9735597968101501
+        },
+        {
+          "start": 0.2391249999999996,
+          "end": 0.4591250000000002,
+          "jp": "撃!",
+          "prob": 0.9997744262218475
+        }
+      ],
+      "ko": "공격!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

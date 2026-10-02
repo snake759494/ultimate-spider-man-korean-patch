@@ -1,0 +1,65 @@
+{
+  "hash": "663bce1b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.2909375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.0,
+      "jp": "どうだい!ヒーローさんよ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28,
+          "jp": "どう",
+          "prob": 0.8344394564628601
+        },
+        {
+          "start": 0.28,
+          "end": 0.52,
+          "jp": "だ",
+          "prob": 0.9954470992088318
+        },
+        {
+          "start": 0.52,
+          "end": 0.78,
+          "jp": "い!",
+          "prob": 0.970790445804596
+        },
+        {
+          "start": 1.06,
+          "end": 1.3,
+          "jp": "ヒ",
+          "prob": 0.7824709415435791
+        },
+        {
+          "start": 1.3,
+          "end": 1.48,
+          "jp": "ーロ",
+          "prob": 0.9899876117706299
+        },
+        {
+          "start": 1.48,
+          "end": 1.6,
+          "jp": "ー",
+          "prob": 0.9979548454284668
+        },
+        {
+          "start": 1.6,
+          "end": 1.72,
+          "jp": "さん",
+          "prob": 0.9085476994514465
+        },
+        {
+          "start": 1.72,
+          "end": 2.0,
+          "jp": "よ!",
+          "prob": 0.7619895935058594
+        }
+      ],
+      "ko": "어떠냐, 영웅 나리?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "b5641144",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.30925,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.30925,
+      "jp": "こんな靴弱…",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.37612499999999915,
+          "jp": "こんな",
+          "prob": 0.9009432792663574
+        },
+        {
+          "start": 0.37612499999999915,
+          "end": 0.716124999999999,
+          "jp": "靴",
+          "prob": 0.996382087469101
+        },
+        {
+          "start": 0.716124999999999,
+          "end": 1.0761249999999993,
+          "jp": "弱",
+          "prob": 0.9979554414749146
+        },
+        {
+          "start": 1.0761249999999993,
+          "end": 1.30925,
+          "jp": "…",
+          "prob": 0.14335469901561737
+        }
+      ],
+      "ko": "이런 굴욕을!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,29 @@
+{
+  "hash": "abc3ce47",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.7629375,
+  "segments": [
+    {
+      "start": 0.98,
+      "end": 1.62,
+      "jp": "頭が!",
+      "words": [
+        {
+          "start": 0.98,
+          "end": 1.36,
+          "jp": "頭",
+          "prob": 0.7831384539604187
+        },
+        {
+          "start": 1.36,
+          "end": 1.62,
+          "jp": "が!",
+          "prob": 0.9677404165267944
+        }
+      ],
+      "ko": "머리가!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

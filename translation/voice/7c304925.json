@@ -1,0 +1,35 @@
+{
+  "hash": "7c304925",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.199,
+  "segments": [
+    {
+      "start": 0.16324999999999967,
+      "end": 1.199,
+      "jp": "これで全部だ!",
+      "words": [
+        {
+          "start": 0.16324999999999967,
+          "end": 0.48324999999999996,
+          "jp": "これで",
+          "prob": 0.8422244787216187
+        },
+        {
+          "start": 0.48324999999999996,
+          "end": 0.8032499999999985,
+          "jp": "全部",
+          "prob": 0.9850531220436096
+        },
+        {
+          "start": 0.8032499999999985,
+          "end": 1.199,
+          "jp": "だ!",
+          "prob": 0.9971758127212524
+        }
+      ],
+      "ko": "이걸로 전부야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

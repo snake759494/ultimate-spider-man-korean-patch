@@ -1,0 +1,15 @@
+{
+  "hash": "861939ff",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.4605,
+  "segments": [
+    {
+      "start": 0.36,
+      "end": 2.44,
+      "jp": "世界に名だたるアルティメッツの本部だ",
+      "ko": "세계적으로 유명한 얼티미츠의 본부야."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

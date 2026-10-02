@@ -1,0 +1,15 @@
+{
+  "hash": "6294c8ed",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.865,
+  "segments": [
+    {
+      "start": 0.28112499999999985,
+      "end": 0.865,
+      "jp": "黙ってろ!",
+      "ko": "입 다물어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

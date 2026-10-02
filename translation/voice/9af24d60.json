@@ -1,0 +1,29 @@
+{
+  "hash": "9af24d60",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.752625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5018125000000033,
+      "jp": "対比!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2218125000000022,
+          "jp": "対",
+          "prob": 0.1838660091161728
+        },
+        {
+          "start": 0.2218125000000022,
+          "end": 0.5018125000000033,
+          "jp": "比!",
+          "prob": 0.38574910163879395
+        }
+      ],
+      "ko": "대피!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

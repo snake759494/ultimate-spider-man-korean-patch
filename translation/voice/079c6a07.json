@@ -1,0 +1,15 @@
+{
+  "hash": "079c6a07",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.5526875,
+  "segments": [
+    {
+      "start": 0.2294375000000013,
+      "end": 2.489437500000001,
+      "jp": "くそー、赤っバジだ。",
+      "ko": "젠장, 완전히 망신당했네."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

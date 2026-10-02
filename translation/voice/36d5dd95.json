@@ -1,0 +1,35 @@
+{
+  "hash": "36d5dd95",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.552875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.195750000000002,
+      "jp": "お願い、やめて!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.35575000000000223,
+          "jp": "お願い、",
+          "prob": 0.8384623527526855
+        },
+        {
+          "start": 0.7957500000000017,
+          "end": 0.915750000000001,
+          "jp": "や",
+          "prob": 0.922416627407074
+        },
+        {
+          "start": 0.915750000000001,
+          "end": 1.195750000000002,
+          "jp": "めて!",
+          "prob": 0.9857467412948608
+        }
+      ],
+      "ko": "제발 그만해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

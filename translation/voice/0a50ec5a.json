@@ -1,0 +1,15 @@
+{
+  "hash": "0a50ec5a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.98025,
+  "segments": [
+    {
+      "start": 0.1983750000000022,
+      "end": 1.418375000000001,
+      "jp": "まあまあ…",
+      "ko": "진정해..."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

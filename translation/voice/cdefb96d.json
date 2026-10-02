@@ -1,0 +1,41 @@
+{
+  "hash": "cdefb96d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8060625,
+  "segments": [
+    {
+      "start": 0.06587500000000013,
+      "end": 1.6058749999999993,
+      "jp": "準備はいいか?",
+      "words": [
+        {
+          "start": 0.06587500000000013,
+          "end": 0.4658749999999987,
+          "jp": "準備",
+          "prob": 0.9606135487556458
+        },
+        {
+          "start": 0.4658749999999987,
+          "end": 0.8658749999999991,
+          "jp": "はい",
+          "prob": 0.37056276202201843
+        },
+        {
+          "start": 0.8658749999999991,
+          "end": 1.405875,
+          "jp": "い",
+          "prob": 0.9002071022987366
+        },
+        {
+          "start": 1.405875,
+          "end": 1.6058749999999993,
+          "jp": "か?",
+          "prob": 0.9943019151687622
+        }
+      ],
+      "ko": "준비됐나?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

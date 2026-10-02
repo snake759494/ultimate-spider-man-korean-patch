@@ -1,0 +1,15 @@
+{
+  "hash": "587ff17d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9288125,
+  "segments": [
+    {
+      "start": 0.13118750000000112,
+      "end": 0.9288125,
+      "jp": "乱暴しないで",
+      "ko": "난폭하게 굴지 마!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

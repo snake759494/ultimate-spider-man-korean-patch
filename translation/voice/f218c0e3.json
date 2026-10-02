@@ -1,0 +1,35 @@
+{
+  "hash": "f218c0e3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7470625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.4721875,
+      "jp": "やめろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.19218749999999973,
+          "jp": "や",
+          "prob": 0.775689423084259
+        },
+        {
+          "start": 0.19218749999999973,
+          "end": 0.3321874999999994,
+          "jp": "め",
+          "prob": 0.9825581908226013
+        },
+        {
+          "start": 0.3321874999999994,
+          "end": 0.4721875,
+          "jp": "ろ!",
+          "prob": 0.998017430305481
+        }
+      ],
+      "ko": "그만해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

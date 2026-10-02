@@ -1,0 +1,15 @@
+{
+  "hash": "215c4623",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1373125,
+  "segments": [
+    {
+      "start": 0.3952499999999999,
+      "end": 1.1373125,
+      "jp": "話して!",
+      "ko": "놓아 줘!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

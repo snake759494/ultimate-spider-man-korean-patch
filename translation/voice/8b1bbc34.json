@@ -1,0 +1,15 @@
+{
+  "hash": "8b1bbc34",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.2600625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.2,
+      "jp": "おい!後ろの奴!",
+      "ko": "야! 뒤에 있는 녀석!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "7cd8e8f0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1558125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8704999999999989,
+      "jp": "光線開始!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.29049999999999976,
+          "jp": "光",
+          "prob": 0.14893701672554016
+        },
+        {
+          "start": 0.29049999999999976,
+          "end": 0.5304999999999991,
+          "jp": "線",
+          "prob": 0.8597426414489746
+        },
+        {
+          "start": 0.5304999999999991,
+          "end": 0.8704999999999989,
+          "jp": "開始!",
+          "prob": 0.9056165218353271
+        }
+      ],
+      "ko": "교전 개시!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

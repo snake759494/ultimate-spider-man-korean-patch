@@ -1,0 +1,53 @@
+{
+  "hash": "0dbff153",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.844375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.62,
+      "jp": "月まで、一飛びだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.32,
+          "jp": "月",
+          "prob": 0.21088410913944244
+        },
+        {
+          "start": 0.32,
+          "end": 0.62,
+          "jp": "まで、",
+          "prob": 0.9761993885040283
+        },
+        {
+          "start": 0.9,
+          "end": 1.02,
+          "jp": "一",
+          "prob": 0.3906874358654022
+        },
+        {
+          "start": 1.02,
+          "end": 1.36,
+          "jp": "飛",
+          "prob": 0.8115772604942322
+        },
+        {
+          "start": 1.36,
+          "end": 1.44,
+          "jp": "び",
+          "prob": 0.9942123293876648
+        },
+        {
+          "start": 1.44,
+          "end": 1.62,
+          "jp": "だ!",
+          "prob": 0.9613742828369141
+        }
+      ],
+      "ko": "단숨에 달까지!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

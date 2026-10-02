@@ -1,0 +1,53 @@
+{
+  "hash": "a21960be",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.495375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.495375,
+      "jp": "大したことねぇじゃん",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26,
+          "jp": "大",
+          "prob": 0.7162110805511475
+        },
+        {
+          "start": 0.26,
+          "end": 0.44,
+          "jp": "した",
+          "prob": 0.9712029099464417
+        },
+        {
+          "start": 0.44,
+          "end": 0.62,
+          "jp": "こと",
+          "prob": 0.9523172974586487
+        },
+        {
+          "start": 0.62,
+          "end": 0.92,
+          "jp": "ねぇ",
+          "prob": 0.4361773431301117
+        },
+        {
+          "start": 0.92,
+          "end": 1.14,
+          "jp": "じゃ",
+          "prob": 0.950641393661499
+        },
+        {
+          "start": 1.14,
+          "end": 1.495375,
+          "jp": "ん",
+          "prob": 0.9824627637863159
+        }
+      ],
+      "ko": "별것도 아니네."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

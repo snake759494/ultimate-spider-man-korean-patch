@@ -1,0 +1,41 @@
+{
+  "hash": "4f77928b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.134,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.1286875000000016,
+      "jp": "いい車だな",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24868749999999906,
+          "jp": "いい",
+          "prob": 0.46653059124946594
+        },
+        {
+          "start": 0.24868749999999906,
+          "end": 0.5686874999999993,
+          "jp": "車",
+          "prob": 0.98052579164505
+        },
+        {
+          "start": 0.5686874999999993,
+          "end": 0.7686875000000022,
+          "jp": "だ",
+          "prob": 0.9869231581687927
+        },
+        {
+          "start": 0.7686875000000022,
+          "end": 1.1286875000000016,
+          "jp": "な",
+          "prob": 0.9890173673629761
+        }
+      ],
+      "ko": "좋은 차네."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

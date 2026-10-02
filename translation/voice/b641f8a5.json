@@ -1,0 +1,29 @@
+{
+  "hash": "b641f8a5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.811375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.3459374999999998,
+      "jp": "ひけ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.14593749999999694,
+          "jp": "ひ",
+          "prob": 0.3363863229751587
+        },
+        {
+          "start": 0.14593749999999694,
+          "end": 0.3459374999999998,
+          "jp": "け!",
+          "prob": 0.9806557893753052
+        }
+      ],
+      "ko": "물러서!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

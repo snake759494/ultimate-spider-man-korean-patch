@@ -1,0 +1,15 @@
+{
+  "hash": "3a419071",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.403375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.403375,
+      "jp": "スーパーヒーローなど、もうこりこりで",
+      "ko": "슈퍼히어로는 이제 질색이야."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

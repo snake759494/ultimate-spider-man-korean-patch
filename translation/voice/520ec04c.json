@@ -1,0 +1,15 @@
+{
+  "hash": "520ec04c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.4293125,
+  "segments": [
+    {
+      "start": 0.22543749999999996,
+      "end": 2.4293125,
+      "jp": "だから、カメは嫌いなんだよ",
+      "ko": "이래서 거북이는 싫다니까."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

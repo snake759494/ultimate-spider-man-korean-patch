@@ -1,0 +1,41 @@
+{
+  "hash": "f615eace",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.96825,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8027499999999996,
+      "jp": "一人だけだ?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1827500000000004,
+          "jp": "一",
+          "prob": 0.9521504044532776
+        },
+        {
+          "start": 0.1827500000000004,
+          "end": 0.40275000000000105,
+          "jp": "人",
+          "prob": 0.999376118183136
+        },
+        {
+          "start": 0.40275000000000105,
+          "end": 0.6027500000000003,
+          "jp": "だけ",
+          "prob": 0.9981293082237244
+        },
+        {
+          "start": 0.6027500000000003,
+          "end": 0.8027499999999996,
+          "jp": "だ?",
+          "prob": 0.998047947883606
+        }
+      ],
+      "ko": "한 명뿐이야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

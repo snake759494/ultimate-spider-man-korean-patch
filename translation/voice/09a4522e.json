@@ -1,0 +1,15 @@
+{
+  "hash": "09a4522e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.768625,
+  "segments": [
+    {
+      "start": 0.016562500000000036,
+      "end": 1.768625,
+      "jp": "彼はやってないと思うわ",
+      "ko": "그 사람이 한 것 같진 않아."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

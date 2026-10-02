@@ -1,0 +1,15 @@
+{
+  "hash": "18e5b612",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6745,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6234375000000014,
+      "jp": "支出部、援護を頼む!",
+      "ko": "사령부, 지원을 요청한다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

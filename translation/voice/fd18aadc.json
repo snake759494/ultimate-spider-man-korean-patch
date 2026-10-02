@@ -1,0 +1,35 @@
+{
+  "hash": "fd18aadc",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.7120625,
+  "segments": [
+    {
+      "start": 0.06581249999999805,
+      "end": 0.6658124999999977,
+      "jp": "くらえ!",
+      "words": [
+        {
+          "start": 0.06581249999999805,
+          "end": 0.26581249999999734,
+          "jp": "く",
+          "prob": 0.510421872138977
+        },
+        {
+          "start": 0.26581249999999734,
+          "end": 0.46581249999999663,
+          "jp": "ら",
+          "prob": 0.9201606512069702
+        },
+        {
+          "start": 0.46581249999999663,
+          "end": 0.6658124999999977,
+          "jp": "え!",
+          "prob": 0.9834806323051453
+        }
+      ],
+      "ko": "받아라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

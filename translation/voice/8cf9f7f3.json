@@ -1,0 +1,59 @@
+{
+  "hash": "8cf9f7f3",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.9388125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.9388125,
+      "jp": "ご丁寧に、ガーッ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.42,
+          "jp": "ご",
+          "prob": 0.4229687750339508
+        },
+        {
+          "start": 0.42,
+          "end": 0.58,
+          "jp": "丁",
+          "prob": 0.9316251575946808
+        },
+        {
+          "start": 0.58,
+          "end": 0.76,
+          "jp": "寧",
+          "prob": 0.9963088929653168
+        },
+        {
+          "start": 0.76,
+          "end": 1.16,
+          "jp": "に、",
+          "prob": 0.982862114906311
+        },
+        {
+          "start": 1.34,
+          "end": 1.54,
+          "jp": "ガ",
+          "prob": 0.05507383123040199
+        },
+        {
+          "start": 1.54,
+          "end": 1.72,
+          "jp": "ー",
+          "prob": 0.22759488224983215
+        },
+        {
+          "start": 1.72,
+          "end": 1.9388125,
+          "jp": "ッ!",
+          "prob": 0.801826000213623
+        }
+      ],
+      "ko": "아주 친절하네! 으악!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

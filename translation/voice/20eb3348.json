@@ -1,0 +1,35 @@
+{
+  "hash": "20eb3348",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.959875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.699562499999999,
+      "jp": "停船だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.27956249999999727,
+          "jp": "停",
+          "prob": 0.5263386368751526
+        },
+        {
+          "start": 0.27956249999999727,
+          "end": 0.459562499999997,
+          "jp": "船",
+          "prob": 0.5756561979651451
+        },
+        {
+          "start": 0.459562499999997,
+          "end": 0.699562499999999,
+          "jp": "だ!",
+          "prob": 0.9967706203460693
+        }
+      ],
+      "ko": "배를 멈춰라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

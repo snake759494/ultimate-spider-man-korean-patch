@@ -1,0 +1,35 @@
+{
+  "hash": "8a54d708",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8710625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7158749999999987,
+      "jp": "馬鹿な!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2958749999999988,
+          "jp": "馬",
+          "prob": 0.40661731362342834
+        },
+        {
+          "start": 0.2958749999999988,
+          "end": 0.5158749999999976,
+          "jp": "鹿",
+          "prob": 0.9801171720027924
+        },
+        {
+          "start": 0.5158749999999976,
+          "end": 0.7158749999999987,
+          "jp": "な!",
+          "prob": 0.9925751686096191
+        }
+      ],
+      "ko": "말도 안 돼!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

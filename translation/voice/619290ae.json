@@ -1,0 +1,15 @@
+{
+  "hash": "619290ae",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6335,
+  "segments": [
+    {
+      "start": 0.20768750000000225,
+      "end": 0.6335,
+      "jp": "来るんだ!",
+      "ko": "이리 와!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "bebf67b8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.93325,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7993749999999995,
+      "jp": "作戦成功!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2193750000000012,
+          "jp": "作",
+          "prob": 0.9047988057136536
+        },
+        {
+          "start": 0.2193750000000012,
+          "end": 0.3993750000000009,
+          "jp": "戦",
+          "prob": 0.998742401599884
+        },
+        {
+          "start": 0.3993750000000009,
+          "end": 0.5793750000000006,
+          "jp": "成",
+          "prob": 0.9351401329040527
+        },
+        {
+          "start": 0.5793750000000006,
+          "end": 0.7993749999999995,
+          "jp": "功!",
+          "prob": 0.9962244033813477
+        }
+      ],
+      "ko": "작전 성공!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

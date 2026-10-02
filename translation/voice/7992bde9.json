@@ -1,0 +1,71 @@
+{
+  "hash": "7992bde9",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.4139375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.3,
+      "jp": "風船で動物作れるかい?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.34,
+          "jp": "風",
+          "prob": 0.9553267955780029
+        },
+        {
+          "start": 0.34,
+          "end": 0.54,
+          "jp": "船",
+          "prob": 0.9836585819721222
+        },
+        {
+          "start": 0.54,
+          "end": 0.7,
+          "jp": "で",
+          "prob": 0.9910156726837158
+        },
+        {
+          "start": 0.7,
+          "end": 0.94,
+          "jp": "動",
+          "prob": 0.9816873669624329
+        },
+        {
+          "start": 0.94,
+          "end": 1.16,
+          "jp": "物",
+          "prob": 0.9999046325683594
+        },
+        {
+          "start": 1.16,
+          "end": 1.44,
+          "jp": "作",
+          "prob": 0.8461112976074219
+        },
+        {
+          "start": 1.44,
+          "end": 1.7,
+          "jp": "れる",
+          "prob": 0.9981854557991028
+        },
+        {
+          "start": 1.7,
+          "end": 1.9,
+          "jp": "か",
+          "prob": 0.9870004057884216
+        },
+        {
+          "start": 1.9,
+          "end": 2.3,
+          "jp": "い?",
+          "prob": 0.387845903635025
+        }
+      ],
+      "ko": "풍선으로 동물 만들 줄 알아?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

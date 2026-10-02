@@ -1,0 +1,15 @@
+{
+  "hash": "4bb7014b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.4981875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.4981875,
+      "jp": "降りて来い、婚人罪面倒を起こさせないようにしてやる",
+      "ko": "내려와! 다시는 말썽을 못 일으키게 해 주마!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

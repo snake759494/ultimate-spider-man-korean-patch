@@ -1,0 +1,77 @@
+{
+  "hash": "200a2ee6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.0158125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.74,
+      "jp": "いろんな意味で楽しめそうだ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24,
+          "jp": "い",
+          "prob": 0.746004045009613
+        },
+        {
+          "start": 0.24,
+          "end": 0.36,
+          "jp": "ろ",
+          "prob": 0.9968491196632385
+        },
+        {
+          "start": 0.36,
+          "end": 0.58,
+          "jp": "んな",
+          "prob": 0.9979653358459473
+        },
+        {
+          "start": 0.58,
+          "end": 0.74,
+          "jp": "意",
+          "prob": 0.9888095259666443
+        },
+        {
+          "start": 0.74,
+          "end": 0.8,
+          "jp": "味",
+          "prob": 0.9986757636070251
+        },
+        {
+          "start": 0.8,
+          "end": 0.96,
+          "jp": "で",
+          "prob": 0.9947652816772461
+        },
+        {
+          "start": 0.96,
+          "end": 1.18,
+          "jp": "楽",
+          "prob": 0.9485546946525574
+        },
+        {
+          "start": 1.18,
+          "end": 1.38,
+          "jp": "し",
+          "prob": 0.998820960521698
+        },
+        {
+          "start": 1.38,
+          "end": 1.5,
+          "jp": "め",
+          "prob": 0.818995475769043
+        },
+        {
+          "start": 1.5,
+          "end": 1.74,
+          "jp": "そうだ",
+          "prob": 0.9644359350204468
+        }
+      ],
+      "ko": "여러모로 재밌겠군."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

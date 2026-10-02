@@ -1,0 +1,15 @@
+{
+  "hash": "caba0058",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.2858125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.12,
+      "jp": "クモなど大嫌いだ!",
+      "ko": "거미라면 질색이다!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

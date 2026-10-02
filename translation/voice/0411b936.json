@@ -1,0 +1,41 @@
+{
+  "hash": "0411b936",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.5775625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6842499999999987,
+      "jp": "しっかり",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1842499999999987,
+          "jp": "し",
+          "prob": 0.2376835197210312
+        },
+        {
+          "start": 0.1842499999999987,
+          "end": 0.4042500000000011,
+          "jp": "っ",
+          "prob": 0.9973102807998657
+        },
+        {
+          "start": 0.4042500000000011,
+          "end": 0.5442500000000017,
+          "jp": "か",
+          "prob": 0.9936310648918152
+        },
+        {
+          "start": 0.5442500000000017,
+          "end": 0.6842499999999987,
+          "jp": "り",
+          "prob": 0.9988252520561218
+        }
+      ],
+      "ko": "정신 차려!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

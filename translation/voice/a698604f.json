@@ -1,0 +1,15 @@
+{
+  "hash": "a698604f",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 3.56775,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.56,
+      "jp": "無機物の複合体んごときに",
+      "ko": "무기물 덩어리 따위에게!"
+    }
+  ],
+  "recognition": "kotoba_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

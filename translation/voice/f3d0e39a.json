@@ -1,0 +1,35 @@
+{
+  "hash": "f3d0e39a",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.1170625,
+  "segments": [
+    {
+      "start": 0.10337500000000066,
+      "end": 1.0033750000000001,
+      "jp": "やほう!",
+      "words": [
+        {
+          "start": 0.10337500000000066,
+          "end": 0.3433750000000009,
+          "jp": "や",
+          "prob": 0.1416987180709839
+        },
+        {
+          "start": 0.3433750000000009,
+          "end": 0.6433750000000007,
+          "jp": "ほ",
+          "prob": 0.32441091537475586
+        },
+        {
+          "start": 0.6433750000000007,
+          "end": 1.0033750000000001,
+          "jp": "う!",
+          "prob": 0.5201833248138428
+        }
+      ],
+      "ko": "야호!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

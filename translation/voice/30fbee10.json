@@ -1,0 +1,35 @@
+{
+  "hash": "30fbee10",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.97075,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.8788750000000007,
+      "jp": "今だー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.31887500000000024,
+          "jp": "今",
+          "prob": 0.7525866031646729
+        },
+        {
+          "start": 0.31887500000000024,
+          "end": 0.6588750000000001,
+          "jp": "だ",
+          "prob": 0.9911776185035706
+        },
+        {
+          "start": 0.6588750000000001,
+          "end": 1.8788750000000007,
+          "jp": "ー!",
+          "prob": 0.3830319941043854
+        }
+      ],
+      "ko": "지금이다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "12ebe63b",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.590875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.56,
+      "jp": "冗談! イテッ!",
+      "ko": "농담이야! 아야!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

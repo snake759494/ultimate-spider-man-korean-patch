@@ -1,0 +1,47 @@
+{
+  "hash": "1b44df6d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5655,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.2315625,
+      "jp": "痛めつけろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.37156250000000046,
+          "jp": "痛",
+          "prob": 0.6292458772659302
+        },
+        {
+          "start": 0.37156250000000046,
+          "end": 0.6115624999999998,
+          "jp": "め",
+          "prob": 0.9960402250289917
+        },
+        {
+          "start": 0.6115624999999998,
+          "end": 0.8115625,
+          "jp": "つ",
+          "prob": 0.8482859134674072
+        },
+        {
+          "start": 0.8115625,
+          "end": 0.9715625000000001,
+          "jp": "け",
+          "prob": 0.7223612666130066
+        },
+        {
+          "start": 0.9715625000000001,
+          "end": 1.2315625,
+          "jp": "ろ!",
+          "prob": 0.5988291501998901
+        }
+      ],
+      "ko": "혼쭐을 내 줘!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

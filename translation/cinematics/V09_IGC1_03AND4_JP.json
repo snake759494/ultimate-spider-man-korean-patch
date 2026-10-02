@@ -1,0 +1,68 @@
+{
+  "file": "V09_IGC1_03AND4_JP.wav",
+  "duration": 17.7623125,
+  "segments": [
+    {
+      "start": 2.1,
+      "end": 6.91,
+      "jp": "ブロック…時にやられません!",
+      "logprob": -0.5158188555921827,
+      "no_speech": 0.03442488983273506,
+      "words": [
+        {
+          "start": 2.1,
+          "end": 2.68,
+          "text": "ブ"
+        },
+        {
+          "start": 2.68,
+          "end": 2.82,
+          "text": "ロ"
+        },
+        {
+          "start": 2.82,
+          "end": 4.04,
+          "text": "ック"
+        },
+        {
+          "start": 4.04,
+          "end": 4.26,
+          "text": "…"
+        },
+        {
+          "start": 5.89,
+          "end": 6.11,
+          "text": "時"
+        },
+        {
+          "start": 6.11,
+          "end": 6.29,
+          "text": "に"
+        },
+        {
+          "start": 6.29,
+          "end": 6.43,
+          "text": "や"
+        },
+        {
+          "start": 6.43,
+          "end": 6.53,
+          "text": "ら"
+        },
+        {
+          "start": 6.53,
+          "end": 6.65,
+          "text": "れ"
+        },
+        {
+          "start": 6.65,
+          "end": 6.91,
+          "text": "ません!"
+        }
+      ],
+      "ko": "브록! 마음대로 하게 두진 않겠다!"
+    }
+  ],
+  "video_hash": "d216758b",
+  "review": "Draft translated from local Japanese audio recognition with small/medium/large cross-check; playback QA pending"
+}

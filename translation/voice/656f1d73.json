@@ -1,0 +1,41 @@
+{
+  "hash": "656f1d73",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.8833125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.8833125,
+      "jp": "ほんと、ありがとうよ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2913749999999986,
+          "jp": "ほ",
+          "prob": 0.44191744923591614
+        },
+        {
+          "start": 0.2913749999999986,
+          "end": 0.5913749999999975,
+          "jp": "んと、",
+          "prob": 0.9152927994728088
+        },
+        {
+          "start": 1.0113749999999975,
+          "end": 1.4113749999999978,
+          "jp": "ありがとう",
+          "prob": 0.8766570091247559
+        },
+        {
+          "start": 1.4113749999999978,
+          "end": 1.8833125,
+          "jp": "よ",
+          "prob": 0.9067927002906799
+        }
+      ],
+      "ko": "정말 고마워."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

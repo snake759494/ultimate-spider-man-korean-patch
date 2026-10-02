@@ -1,0 +1,41 @@
+{
+  "hash": "9a3e6b0a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.933125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.933125,
+      "jp": "さ、さ、寒い",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28,
+          "jp": "さ、",
+          "prob": 0.339069664478302
+        },
+        {
+          "start": 0.68,
+          "end": 0.9,
+          "jp": "さ、",
+          "prob": 0.3342609107494354
+        },
+        {
+          "start": 1.14,
+          "end": 1.48,
+          "jp": "寒",
+          "prob": 0.9105933010578156
+        },
+        {
+          "start": 1.48,
+          "end": 1.933125,
+          "jp": "い",
+          "prob": 0.993985116481781
+        }
+      ],
+      "ko": "추, 추워!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

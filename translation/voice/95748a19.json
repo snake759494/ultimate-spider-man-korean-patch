@@ -1,0 +1,15 @@
+{
+  "hash": "95748a19",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6860625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6860625,
+      "jp": "みんな、逃げるぞ!",
+      "ko": "모두 도망쳐!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

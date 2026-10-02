@@ -1,0 +1,35 @@
+{
+  "hash": "7bfccb07",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9089375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7893124999999994,
+      "jp": "あ、あれは!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.20931249999999935,
+          "jp": "あ、",
+          "prob": 0.36026886105537415
+        },
+        {
+          "start": 0.3693124999999995,
+          "end": 0.5893125000000001,
+          "jp": "あれ",
+          "prob": 0.8537079691886902
+        },
+        {
+          "start": 0.5893125000000001,
+          "end": 0.7893124999999994,
+          "jp": "は!",
+          "prob": 0.9802069067955017
+        }
+      ],
+      "ko": "앗, 저건!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

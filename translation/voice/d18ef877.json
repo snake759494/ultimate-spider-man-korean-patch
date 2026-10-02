@@ -1,0 +1,35 @@
+{
+  "hash": "d18ef877",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.086625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9873124999999998,
+      "jp": "違うだろ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3073124999999999,
+          "jp": "違う",
+          "prob": 0.6345598697662354
+        },
+        {
+          "start": 0.3073124999999999,
+          "end": 0.6273124999999999,
+          "jp": "だ",
+          "prob": 0.9926998019218445
+        },
+        {
+          "start": 0.6273124999999999,
+          "end": 0.9873124999999998,
+          "jp": "ろ",
+          "prob": 0.7813445925712585
+        }
+      ],
+      "ko": "그게 아니잖아."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

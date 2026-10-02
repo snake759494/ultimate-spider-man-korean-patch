@@ -1,0 +1,15 @@
+{
+  "hash": "e41a25cc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0113125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0113125,
+      "jp": "やってやれ!",
+      "ko": "해치워!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

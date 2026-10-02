@@ -1,0 +1,53 @@
+{
+  "hash": "e28ad4d9",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4965,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.28,
+      "jp": "味取り合流だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.34,
+          "jp": "味",
+          "prob": 0.014326991513371468
+        },
+        {
+          "start": 0.34,
+          "end": 0.5,
+          "jp": "取",
+          "prob": 0.32778200507164
+        },
+        {
+          "start": 0.5,
+          "end": 0.64,
+          "jp": "り",
+          "prob": 0.22695469856262207
+        },
+        {
+          "start": 0.64,
+          "end": 0.86,
+          "jp": "合",
+          "prob": 0.5634012222290039
+        },
+        {
+          "start": 0.86,
+          "end": 1.04,
+          "jp": "流",
+          "prob": 0.9852361679077148
+        },
+        {
+          "start": 1.04,
+          "end": 1.28,
+          "jp": "だ!",
+          "prob": 0.939720869064331
+        }
+      ],
+      "ko": "은신처에서 합류해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

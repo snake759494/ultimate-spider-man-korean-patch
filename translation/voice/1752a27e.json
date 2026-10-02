@@ -1,0 +1,15 @@
+{
+  "hash": "1752a27e",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 4.31725,
+  "segments": [
+    {
+      "start": 0,
+      "end": 4.28,
+      "jp": "フハハ、あと触手だけでは、どうにもならんぞ",
+      "ko": "하하하! 촉수만으로는 어림없다!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "f351dea9",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.1985,
+  "segments": [
+    {
+      "start": 0.38537500000000025,
+      "end": 2.1985,
+      "jp": "行けー",
+      "ko": "가라!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

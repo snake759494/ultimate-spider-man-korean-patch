@@ -1,0 +1,41 @@
+{
+  "hash": "9b3f4452",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4600625,
+  "segments": [
+    {
+      "start": 0.2213124999999998,
+      "end": 1.4600625,
+      "jp": "燃えろー!",
+      "words": [
+        {
+          "start": 0.2213124999999998,
+          "end": 0.5813124999999992,
+          "jp": "燃",
+          "prob": 0.75594362616539
+        },
+        {
+          "start": 0.5813124999999992,
+          "end": 0.8413125000000008,
+          "jp": "え",
+          "prob": 0.6331812143325806
+        },
+        {
+          "start": 0.8413125000000008,
+          "end": 1.0613124999999997,
+          "jp": "ろ",
+          "prob": 0.9888039231300354
+        },
+        {
+          "start": 1.0613124999999997,
+          "end": 1.4600625,
+          "jp": "ー!",
+          "prob": 0.776522696018219
+        }
+      ],
+      "ko": "타 버려라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

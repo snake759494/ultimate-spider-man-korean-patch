@@ -1,0 +1,15 @@
+{
+  "hash": "956dc82c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.123,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.0476250000000036,
+      "jp": "うううう奴がいかに無様な男か",
+      "ko": "놈이 얼마나 한심한 사내인지."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

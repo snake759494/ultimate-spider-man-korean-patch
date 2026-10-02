@@ -1,0 +1,65 @@
+{
+  "hash": "43106262",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8774375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7,
+      "jp": "あんな野郎、なんでもないぜ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "あ",
+          "prob": 0.6561470627784729
+        },
+        {
+          "start": 0.22,
+          "end": 0.36,
+          "jp": "んな",
+          "prob": 0.9119057059288025
+        },
+        {
+          "start": 0.36,
+          "end": 0.52,
+          "jp": "野",
+          "prob": 0.533180296421051
+        },
+        {
+          "start": 0.52,
+          "end": 0.62,
+          "jp": "郎、",
+          "prob": 0.9940378069877625
+        },
+        {
+          "start": 0.96,
+          "end": 1.14,
+          "jp": "なん",
+          "prob": 0.5108835697174072
+        },
+        {
+          "start": 1.14,
+          "end": 1.34,
+          "jp": "でも",
+          "prob": 0.9890244603157043
+        },
+        {
+          "start": 1.34,
+          "end": 1.5,
+          "jp": "ない",
+          "prob": 0.9395771622657776
+        },
+        {
+          "start": 1.5,
+          "end": 1.7,
+          "jp": "ぜ!",
+          "prob": 0.7230424880981445
+        }
+      ],
+      "ko": "저런 놈 별거 아니야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

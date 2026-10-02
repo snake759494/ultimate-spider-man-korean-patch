@@ -1,0 +1,41 @@
+{
+  "hash": "683d7a18",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1259375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0066875,
+      "jp": "ちょっと邪魔よ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2866875000000002,
+          "jp": "ちょっと",
+          "prob": 0.9387093186378479
+        },
+        {
+          "start": 0.2866875000000002,
+          "end": 0.5866875,
+          "jp": "邪",
+          "prob": 0.9187163412570953
+        },
+        {
+          "start": 0.5866875,
+          "end": 0.7466875000000002,
+          "jp": "魔",
+          "prob": 0.9820360541343689
+        },
+        {
+          "start": 0.7466875000000002,
+          "end": 1.0066875,
+          "jp": "よ!",
+          "prob": 0.9169464707374573
+        }
+      ],
+      "ko": "거기 좀 비켜!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

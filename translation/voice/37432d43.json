@@ -1,0 +1,15 @@
+{
+  "hash": "37432d43",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.60775,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.60775,
+      "jp": "本当に助かったわ!",
+      "ko": "정말 덕분에 살았어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

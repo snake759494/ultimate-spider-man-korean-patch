@@ -1,0 +1,35 @@
+{
+  "hash": "b7893c39",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.90775,
+  "segments": [
+    {
+      "start": 0.007624999999999105,
+      "end": 0.7876249999999994,
+      "jp": " 馬鹿め!",
+      "words": [
+        {
+          "start": 0.007624999999999105,
+          "end": 0.3276249999999994,
+          "jp": " 馬",
+          "prob": 0.8832688331604004
+        },
+        {
+          "start": 0.3276249999999994,
+          "end": 0.5876249999999992,
+          "jp": "鹿",
+          "prob": 0.9858788251876831
+        },
+        {
+          "start": 0.5876249999999992,
+          "end": 0.7876249999999994,
+          "jp": "め!",
+          "prob": 0.9644930362701416
+        }
+      ],
+      "ko": "멍청한 놈!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

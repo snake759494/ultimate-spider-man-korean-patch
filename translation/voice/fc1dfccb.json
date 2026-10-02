@@ -1,0 +1,65 @@
+{
+  "hash": "fc1dfccb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4965,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.34,
+      "jp": "続けろ、奴を倒すんだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18,
+          "jp": "続",
+          "prob": 0.8162596821784973
+        },
+        {
+          "start": 0.18,
+          "end": 0.32,
+          "jp": "け",
+          "prob": 0.9457625150680542
+        },
+        {
+          "start": 0.32,
+          "end": 0.44,
+          "jp": "ろ、",
+          "prob": 0.9930229187011719
+        },
+        {
+          "start": 0.64,
+          "end": 0.8,
+          "jp": "奴",
+          "prob": 0.8069908022880554
+        },
+        {
+          "start": 0.8,
+          "end": 0.9,
+          "jp": "を",
+          "prob": 0.9945131540298462
+        },
+        {
+          "start": 0.9,
+          "end": 1.02,
+          "jp": "倒",
+          "prob": 0.868223249912262
+        },
+        {
+          "start": 1.02,
+          "end": 1.16,
+          "jp": "す",
+          "prob": 0.9954794645309448
+        },
+        {
+          "start": 1.16,
+          "end": 1.34,
+          "jp": "んだ!",
+          "prob": 0.9304254651069641
+        }
+      ],
+      "ko": "계속해! 저 녀석을 쓰러뜨려!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

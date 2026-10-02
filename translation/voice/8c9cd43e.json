@@ -1,0 +1,35 @@
+{
+  "hash": "8c9cd43e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3061875,
+  "segments": [
+    {
+      "start": 0.027374999999999927,
+      "end": 1.3061875,
+      "jp": "いいなぁ!",
+      "words": [
+        {
+          "start": 0.027374999999999927,
+          "end": 0.387375,
+          "jp": "いい",
+          "prob": 0.6707452535629272
+        },
+        {
+          "start": 0.387375,
+          "end": 0.867375,
+          "jp": "な",
+          "prob": 0.9954362511634827
+        },
+        {
+          "start": 0.867375,
+          "end": 1.3061875,
+          "jp": "ぁ!",
+          "prob": 0.37263837456703186
+        }
+      ],
+      "ko": "좋겠다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

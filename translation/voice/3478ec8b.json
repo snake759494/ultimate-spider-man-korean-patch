@@ -1,0 +1,15 @@
+{
+  "hash": "3478ec8b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6804375,
+  "segments": [
+    {
+      "start": 0.2078749999999996,
+      "end": 1.6678750000000004,
+      "jp": "このクズが!",
+      "ko": "이 쓰레기!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

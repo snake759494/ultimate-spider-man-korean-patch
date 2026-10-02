@@ -1,0 +1,15 @@
+{
+  "hash": "3dcce16c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3761875,
+  "segments": [
+    {
+      "start": 0.20687500000000014,
+      "end": 1.3761875,
+      "jp": "やめろー!",
+      "ko": "그만해!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

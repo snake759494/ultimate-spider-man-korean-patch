@@ -1,0 +1,15 @@
+{
+  "hash": "b5de9535",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.5871875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.56,
+      "jp": "棒切れで突っついて 見えないとこに隠していたんだ",
+      "ko": "막대기로 찔러 보고, 안 보이는 곳에 숨겨 놨지."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

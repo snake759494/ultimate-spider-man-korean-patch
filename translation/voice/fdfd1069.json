@@ -1,0 +1,15 @@
+{
+  "hash": "fdfd1069",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.0390625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.92,
+      "jp": "無事に逃げ回ってるようだなブロック",
+      "ko": "잘도 도망 다니는군, 브록."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

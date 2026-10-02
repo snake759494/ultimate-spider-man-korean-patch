@@ -1,0 +1,41 @@
+{
+  "hash": "2766dd12",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.839375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7759375000000013,
+      "jp": "目視確認",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1759375000000034,
+          "jp": "目",
+          "prob": 0.2417425960302353
+        },
+        {
+          "start": 0.1759375000000034,
+          "end": 0.3759375000000027,
+          "jp": "視",
+          "prob": 0.8259615898132324
+        },
+        {
+          "start": 0.3759375000000027,
+          "end": 0.5559375000000024,
+          "jp": "確",
+          "prob": 0.933946967124939
+        },
+        {
+          "start": 0.5559375000000024,
+          "end": 0.7759375000000013,
+          "jp": "認",
+          "prob": 0.9898011088371277
+        }
+      ],
+      "ko": "육안으로 확인."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

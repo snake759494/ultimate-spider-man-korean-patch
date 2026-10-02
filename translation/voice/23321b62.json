@@ -1,0 +1,53 @@
+{
+  "hash": "23321b62",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.81425,
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 1.48,
+      "jp": "おーい! お前たち!",
+      "words": [
+        {
+          "start": 0.02,
+          "end": 0.24,
+          "jp": "お",
+          "prob": 0.16651304066181183
+        },
+        {
+          "start": 0.24,
+          "end": 0.42,
+          "jp": "ーい!",
+          "prob": 0.5117838382720947
+        },
+        {
+          "start": 0.84,
+          "end": 0.98,
+          "jp": " お",
+          "prob": 0.28548505902290344
+        },
+        {
+          "start": 0.98,
+          "end": 1.16,
+          "jp": "前",
+          "prob": 0.7984334230422974
+        },
+        {
+          "start": 1.16,
+          "end": 1.3,
+          "jp": "た",
+          "prob": 0.8277862668037415
+        },
+        {
+          "start": 1.3,
+          "end": 1.48,
+          "jp": "ち!",
+          "prob": 0.9986253976821899
+        }
+      ],
+      "ko": "어이! 너희들!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

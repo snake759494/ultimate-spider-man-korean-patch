@@ -1,0 +1,23 @@
+{
+  "hash": "c49ec9fa",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.7733125,
+  "segments": [
+    {
+      "start": 0.5582500000000001,
+      "end": 0.9582499999999996,
+      "jp": "ちょっと!",
+      "words": [
+        {
+          "start": 0.5582500000000001,
+          "end": 0.9582499999999996,
+          "jp": "ちょっと!",
+          "prob": 0.30669957399368286
+        }
+      ],
+      "ko": "잠깐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "df1ab30a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6329375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6186875000000001,
+      "jp": "くそったね",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.13868749999999963,
+          "jp": "く",
+          "prob": 0.7322382926940918
+        },
+        {
+          "start": 0.13868749999999963,
+          "end": 0.2786875000000002,
+          "jp": "そ",
+          "prob": 0.592387318611145
+        },
+        {
+          "start": 0.2786875000000002,
+          "end": 0.418687499999999,
+          "jp": "った",
+          "prob": 0.26176103949546814
+        },
+        {
+          "start": 0.418687499999999,
+          "end": 0.6186875000000001,
+          "jp": "ね",
+          "prob": 0.4433179199695587
+        }
+      ],
+      "ko": "망할!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

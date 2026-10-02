@@ -1,0 +1,29 @@
+{
+  "hash": "ccedbf43",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.862,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5957499999999989,
+      "jp": "腕が、",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.29574999999999996,
+          "jp": "腕",
+          "prob": 0.9996865391731262
+        },
+        {
+          "start": 0.29574999999999996,
+          "end": 0.5957499999999989,
+          "jp": "が、",
+          "prob": 0.997130811214447
+        }
+      ],
+      "ko": "팔이..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

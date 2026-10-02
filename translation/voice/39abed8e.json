@@ -1,0 +1,15 @@
+{
+  "hash": "39abed8e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0103125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0103125,
+      "jp": "あっち行け!",
+      "ko": "저리 가!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

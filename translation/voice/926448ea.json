@@ -1,0 +1,35 @@
+{
+  "hash": "926448ea",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8645,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6036249999999992,
+      "jp": "顔面だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26362499999999933,
+          "jp": "顔",
+          "prob": 0.6754887253046036
+        },
+        {
+          "start": 0.26362499999999933,
+          "end": 0.38362499999999944,
+          "jp": "面",
+          "prob": 0.9874624609947205
+        },
+        {
+          "start": 0.38362499999999944,
+          "end": 0.6036249999999992,
+          "jp": "だ!",
+          "prob": 0.9967252612113953
+        }
+      ],
+      "ko": "얼굴을 노려!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

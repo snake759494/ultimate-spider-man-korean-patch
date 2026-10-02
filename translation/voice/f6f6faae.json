@@ -1,0 +1,15 @@
+{
+  "hash": "f6f6faae",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3243125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.272124999999999,
+      "jp": "い、何やってるんだ?",
+      "ko": "뭐, 뭐 하는 거야?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

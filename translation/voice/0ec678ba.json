@@ -1,0 +1,47 @@
+{
+  "hash": "0ec678ba",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.584625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.46,
+      "jp": "また遅刻だわ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.42,
+          "jp": "また",
+          "prob": 0.6651404500007629
+        },
+        {
+          "start": 0.42,
+          "end": 0.66,
+          "jp": "遅",
+          "prob": 0.8412218391895294
+        },
+        {
+          "start": 0.66,
+          "end": 0.92,
+          "jp": "刻",
+          "prob": 0.9466754794120789
+        },
+        {
+          "start": 0.92,
+          "end": 1.16,
+          "jp": "だ",
+          "prob": 0.9961189031600952
+        },
+        {
+          "start": 1.16,
+          "end": 1.46,
+          "jp": "わ",
+          "prob": 0.9531828761100769
+        }
+      ],
+      "ko": "또 지각이네!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

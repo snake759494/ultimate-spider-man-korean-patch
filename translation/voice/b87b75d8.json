@@ -1,0 +1,15 @@
+{
+  "hash": "b87b75d8",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 4.0709375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.96,
+      "jp": "俺様の腕を見せてやる 地位見るぜ",
+      "ko": "내 실력을 보여 주마. 피를 보게 될 거다!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "b6b37417",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.069875,
+  "segments": [
+    {
+      "start": 0.21956250000000033,
+      "end": 1.7195625000000003,
+      "jp": "したしたしただ!",
+      "words": [
+        {
+          "start": 0.21956250000000033,
+          "end": 0.5795624999999998,
+          "jp": "した",
+          "prob": 0.49536359310150146
+        },
+        {
+          "start": 0.5795624999999998,
+          "end": 0.939562500000001,
+          "jp": "した",
+          "prob": 0.3105938732624054
+        },
+        {
+          "start": 0.939562500000001,
+          "end": 1.3995625,
+          "jp": "した",
+          "prob": 0.9135223627090454
+        },
+        {
+          "start": 1.3995625,
+          "end": 1.7195625000000003,
+          "jp": "だ!",
+          "prob": 0.942652702331543
+        }
+      ],
+      "ko": "아래, 아래야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

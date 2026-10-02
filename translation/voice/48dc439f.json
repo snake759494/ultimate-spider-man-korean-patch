@@ -1,0 +1,29 @@
+{
+  "hash": "48dc439f",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.924875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6598749999999995,
+      "jp": "まだまだ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.21987500000000004,
+          "jp": "まだ",
+          "prob": 0.021847335621714592
+        },
+        {
+          "start": 0.21987500000000004,
+          "end": 0.6598749999999995,
+          "jp": "まだ",
+          "prob": 0.9917380213737488
+        }
+      ],
+      "ko": "아직이야..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

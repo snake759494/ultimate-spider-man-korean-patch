@@ -1,0 +1,71 @@
+{
+  "hash": "55b5c8d7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2838125,
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 1.2838125,
+      "jp": "ディナーに遅れちゃう!",
+      "words": [
+        {
+          "start": 0.02,
+          "end": 0.2,
+          "jp": "デ",
+          "prob": 0.6462092399597168
+        },
+        {
+          "start": 0.2,
+          "end": 0.24,
+          "jp": "ィ",
+          "prob": 0.9835862517356873
+        },
+        {
+          "start": 0.24,
+          "end": 0.36,
+          "jp": "ナ",
+          "prob": 0.9831444025039673
+        },
+        {
+          "start": 0.36,
+          "end": 0.44,
+          "jp": "ー",
+          "prob": 0.8028122186660767
+        },
+        {
+          "start": 0.44,
+          "end": 0.52,
+          "jp": "に",
+          "prob": 0.9848686456680298
+        },
+        {
+          "start": 0.52,
+          "end": 0.68,
+          "jp": "遅",
+          "prob": 0.8292118608951569
+        },
+        {
+          "start": 0.68,
+          "end": 0.84,
+          "jp": "れ",
+          "prob": 0.9947388768196106
+        },
+        {
+          "start": 0.84,
+          "end": 1.0,
+          "jp": "ちゃ",
+          "prob": 0.9912812113761902
+        },
+        {
+          "start": 1.0,
+          "end": 1.2838125,
+          "jp": "う!",
+          "prob": 0.9859626889228821
+        }
+      ],
+      "ko": "저녁 약속에 늦겠어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "77e072be",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4674375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.1114999999999995,
+      "jp": "あ、痛いな!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.25150000000000006,
+          "jp": "あ、",
+          "prob": 0.4506915509700775
+        },
+        {
+          "start": 0.5114999999999998,
+          "end": 0.7515000000000001,
+          "jp": "痛",
+          "prob": 0.9859336018562317
+        },
+        {
+          "start": 0.7515000000000001,
+          "end": 0.9514999999999993,
+          "jp": "い",
+          "prob": 0.9965740442276001
+        },
+        {
+          "start": 0.9514999999999993,
+          "end": 1.1114999999999995,
+          "jp": "な!",
+          "prob": 0.9988081455230713
+        }
+      ],
+      "ko": "아, 아프잖아!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

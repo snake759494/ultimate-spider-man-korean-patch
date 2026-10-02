@@ -1,0 +1,41 @@
+{
+  "hash": "12286f25",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.05075,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7725624999999994,
+      "jp": "これだよ、これ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.17256249999999795,
+          "jp": "これ",
+          "prob": 0.12999452650547028
+        },
+        {
+          "start": 0.17256249999999795,
+          "end": 0.35256249999999767,
+          "jp": "だ",
+          "prob": 0.9979485869407654
+        },
+        {
+          "start": 0.35256249999999767,
+          "end": 0.5125624999999978,
+          "jp": "よ、",
+          "prob": 0.9975537657737732
+        },
+        {
+          "start": 0.5725625000000001,
+          "end": 0.7725624999999994,
+          "jp": "これ!",
+          "prob": 0.9826675057411194
+        }
+      ],
+      "ko": "바로 이거야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

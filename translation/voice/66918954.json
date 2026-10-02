@@ -1,0 +1,35 @@
+{
+  "hash": "66918954",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.86,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5619999999999976,
+      "jp": "ダメだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24200000000000088,
+          "jp": "ダ",
+          "prob": 0.27981895208358765
+        },
+        {
+          "start": 0.24200000000000088,
+          "end": 0.44200000000000017,
+          "jp": "メ",
+          "prob": 0.9701260328292847
+        },
+        {
+          "start": 0.44200000000000017,
+          "end": 0.5619999999999976,
+          "jp": "だ!",
+          "prob": 0.5413579940795898
+        }
+      ],
+      "ko": "안 돼..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

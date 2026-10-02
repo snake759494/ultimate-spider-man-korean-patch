@@ -1,0 +1,41 @@
+{
+  "hash": "5d8c39de",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.057375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.870124999999998,
+      "jp": "車から出な!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2501250000000006,
+          "jp": "車",
+          "prob": 0.3196439743041992
+        },
+        {
+          "start": 0.2501250000000006,
+          "end": 0.5301249999999982,
+          "jp": "から",
+          "prob": 0.9857169389724731
+        },
+        {
+          "start": 0.5301249999999982,
+          "end": 0.6901249999999983,
+          "jp": "出",
+          "prob": 0.8904151916503906
+        },
+        {
+          "start": 0.6901249999999983,
+          "end": 0.870124999999998,
+          "jp": "な!",
+          "prob": 0.9754403829574585
+        }
+      ],
+      "ko": "차에서 나와!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

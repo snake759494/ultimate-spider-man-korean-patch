@@ -1,0 +1,15 @@
+{
+  "hash": "6317492c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2969375,
+  "segments": [
+    {
+      "start": 0.2561250000000008,
+      "end": 1.2969375,
+      "jp": "こちらの数が上だ!",
+      "ko": "우리 쪽이 수가 더 많아!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

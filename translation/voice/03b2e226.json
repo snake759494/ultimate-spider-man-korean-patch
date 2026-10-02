@@ -1,0 +1,41 @@
+{
+  "hash": "03b2e226",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.880875,
+  "segments": [
+    {
+      "start": 0.0833750000000002,
+      "end": 0.880875,
+      "jp": "うるせぇ!",
+      "words": [
+        {
+          "start": 0.0833750000000002,
+          "end": 0.2833749999999995,
+          "jp": "う",
+          "prob": 0.9863540530204773
+        },
+        {
+          "start": 0.2833749999999995,
+          "end": 0.4033750000000005,
+          "jp": "る",
+          "prob": 0.9814321994781494
+        },
+        {
+          "start": 0.4033750000000005,
+          "end": 0.6233749999999993,
+          "jp": "せ",
+          "prob": 0.9626823663711548
+        },
+        {
+          "start": 0.6233749999999993,
+          "end": 0.880875,
+          "jp": "ぇ!",
+          "prob": 0.6392840147018433
+        }
+      ],
+      "ko": "시끄러워!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

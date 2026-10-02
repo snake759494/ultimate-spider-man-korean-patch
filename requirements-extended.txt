@@ -1,0 +1,6 @@
+-r requirements-build.txt
+imageio-ffmpeg==0.6.0
+faster-whisper==1.2.1
+zstandard==0.25.0
+fonttools==4.58.5
+pyelftools==0.33

@@ -1,0 +1,41 @@
+{
+  "hash": "f7a73f25",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.962125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6108125000000015,
+      "jp": "あっち行け!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.19081249999999983,
+          "jp": "あっ",
+          "prob": 0.9102936387062073
+        },
+        {
+          "start": 0.19081249999999983,
+          "end": 0.43081250000000004,
+          "jp": "ち",
+          "prob": 0.9977185726165771
+        },
+        {
+          "start": 0.43081250000000004,
+          "end": 0.6108125000000015,
+          "jp": "行",
+          "prob": 0.9251489639282227
+        },
+        {
+          "start": 0.6108125000000015,
+          "end": 0.6108125000000015,
+          "jp": "け!",
+          "prob": 0.9905270338058472
+        }
+      ],
+      "ko": "저리 가!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

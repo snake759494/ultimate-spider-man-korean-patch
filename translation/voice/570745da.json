@@ -1,0 +1,15 @@
+{
+  "hash": "570745da",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2044375,
+  "segments": [
+    {
+      "start": 0.45981250000000173,
+      "end": 1.0998124999999987,
+      "jp": "死ね!",
+      "ko": "죽어라!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

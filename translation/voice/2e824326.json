@@ -1,0 +1,15 @@
+{
+  "hash": "2e824326",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.78175,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.78175,
+      "jp": "もうキスしちゃいたいくらいよ",
+      "ko": "키스라도 해 주고 싶네!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

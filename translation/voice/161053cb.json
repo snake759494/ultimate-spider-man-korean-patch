@@ -1,0 +1,35 @@
+{
+  "hash": "161053cb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.773375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5170000000000003,
+      "jp": "いけてる",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.13700000000000045,
+          "jp": "い",
+          "prob": 0.17061397433280945
+        },
+        {
+          "start": 0.13700000000000045,
+          "end": 0.25700000000000056,
+          "jp": "けて",
+          "prob": 0.7862993478775024
+        },
+        {
+          "start": 0.25700000000000056,
+          "end": 0.5170000000000003,
+          "jp": "る",
+          "prob": 0.9505397081375122
+        }
+      ],
+      "ko": "멋진데."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

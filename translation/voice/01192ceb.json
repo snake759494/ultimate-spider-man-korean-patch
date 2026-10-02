@@ -1,0 +1,15 @@
+{
+  "hash": "01192ceb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.935375,
+  "segments": [
+    {
+      "start": 0.16956249999999962,
+      "end": 0.935375,
+      "jp": "危なかったな",
+      "ko": "위험했어."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "7e3523a5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.6866875,
+  "segments": [
+    {
+      "start": 0.22999999999999687,
+      "end": 2.6866875,
+      "jp": "か、完全にありえねぇ",
+      "ko": "저, 전혀 말도 안 돼!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

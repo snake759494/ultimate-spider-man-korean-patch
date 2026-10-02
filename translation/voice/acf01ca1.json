@@ -1,0 +1,15 @@
+{
+  "hash": "acf01ca1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6238125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.31649999999999956,
+      "jp": "痛い!",
+      "ko": "아파..."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

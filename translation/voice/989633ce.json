@@ -1,0 +1,15 @@
+{
+  "hash": "989633ce",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4105,
+  "segments": [
+    {
+      "start": 0.16762499999999925,
+      "end": 1.4105,
+      "jp": "下がれと言っただろ!",
+      "ko": "물러나라고 했잖아!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

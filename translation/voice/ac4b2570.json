@@ -1,0 +1,35 @@
+{
+  "hash": "ac4b2570",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2469375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0633750000000002,
+      "jp": "敵 接近!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2433749999999999,
+          "jp": "敵",
+          "prob": 0.9624573588371277
+        },
+        {
+          "start": 0.6033749999999998,
+          "end": 0.7833749999999999,
+          "jp": " 接",
+          "prob": 0.8844417333602905
+        },
+        {
+          "start": 0.7833749999999999,
+          "end": 1.0633750000000002,
+          "jp": "近!",
+          "prob": 0.9962132573127747
+        }
+      ],
+      "ko": "적 접근!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

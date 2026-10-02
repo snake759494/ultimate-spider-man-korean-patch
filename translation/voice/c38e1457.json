@@ -1,0 +1,35 @@
+{
+  "hash": "c38e1457",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6406875,
+  "segments": [
+    {
+      "start": 0.2523125000000004,
+      "end": 1.3723124999999996,
+      "jp": "お願い! やめて!",
+      "words": [
+        {
+          "start": 0.2523125000000004,
+          "end": 0.6123124999999998,
+          "jp": "お願い!",
+          "prob": 0.47560128569602966
+        },
+        {
+          "start": 0.9723124999999992,
+          "end": 1.1523125000000007,
+          "jp": " や",
+          "prob": 0.36025306582450867
+        },
+        {
+          "start": 1.1523125000000007,
+          "end": 1.3723124999999996,
+          "jp": "めて!",
+          "prob": 0.9239081144332886
+        }
+      ],
+      "ko": "제발 그만해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

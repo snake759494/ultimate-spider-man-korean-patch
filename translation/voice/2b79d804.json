@@ -1,0 +1,15 @@
+{
+  "hash": "2b79d804",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.96625,
+  "segments": [
+    {
+      "start": 0.14199999999999768,
+      "end": 0.96625,
+      "jp": "撃てー!",
+      "ko": "쏴!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

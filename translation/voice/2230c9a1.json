@@ -1,0 +1,15 @@
+{
+  "hash": "2230c9a1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7825,
+  "segments": [
+    {
+      "start": 0.18575000000000053,
+      "end": 1.7825,
+      "jp": "地下鉄にすりゃよかった",
+      "ko": "지하철을 탈걸 그랬어."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

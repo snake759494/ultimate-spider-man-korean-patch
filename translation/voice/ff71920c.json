@@ -1,0 +1,35 @@
+{
+  "hash": "ff71920c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3395625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9408750000000019,
+      "jp": "燃えろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.42087500000000233,
+          "jp": "燃",
+          "prob": 0.8728922307491302
+        },
+        {
+          "start": 0.42087500000000233,
+          "end": 0.6608750000000008,
+          "jp": "え",
+          "prob": 0.6330807209014893
+        },
+        {
+          "start": 0.6608750000000008,
+          "end": 0.9408750000000019,
+          "jp": "ろ!",
+          "prob": 0.9641552567481995
+        }
+      ],
+      "ko": "불타라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "ac4476d3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2565625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.234187499999999,
+      "jp": "来てみやがれ!",
+      "ko": "어디 와 봐!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

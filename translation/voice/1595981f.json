@@ -1,0 +1,41 @@
+{
+  "hash": "1595981f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.592625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5262499999999974,
+      "jp": "伏せろ!もう!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.08624999999999616,
+          "jp": "伏",
+          "prob": 0.4992982176481746
+        },
+        {
+          "start": 0.08624999999999616,
+          "end": 0.2662499999999959,
+          "jp": "せ",
+          "prob": 0.9996625185012817
+        },
+        {
+          "start": 0.2662499999999959,
+          "end": 0.426249999999996,
+          "jp": "ろ!",
+          "prob": 0.9995020627975464
+        },
+        {
+          "start": 0.426249999999996,
+          "end": 0.5262499999999974,
+          "jp": "もう!",
+          "prob": 0.04944026097655296
+        }
+      ],
+      "ko": "엎드려! 정말!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "8cab13da",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0795625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9056875000000009,
+      "jp": "このザコが!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28568749999999987,
+          "jp": "この",
+          "prob": 0.9804163575172424
+        },
+        {
+          "start": 0.28568749999999987,
+          "end": 0.5656874999999992,
+          "jp": "ザ",
+          "prob": 0.7223651558160782
+        },
+        {
+          "start": 0.5656874999999992,
+          "end": 0.7456875000000007,
+          "jp": "コ",
+          "prob": 0.9801279306411743
+        },
+        {
+          "start": 0.7456875000000007,
+          "end": 0.9056875000000009,
+          "jp": "が!",
+          "prob": 0.8885278105735779
+        }
+      ],
+      "ko": "이 피라미!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

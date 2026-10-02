@@ -1,0 +1,77 @@
+{
+  "hash": "4b3b5710",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 3.742375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.742375,
+      "jp": "一瞬で移動できるのさぁ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.4,
+          "jp": "一",
+          "prob": 0.7907846570014954
+        },
+        {
+          "start": 0.4,
+          "end": 0.76,
+          "jp": "瞬",
+          "prob": 0.9975468218326569
+        },
+        {
+          "start": 0.76,
+          "end": 1.06,
+          "jp": "で",
+          "prob": 0.9668917655944824
+        },
+        {
+          "start": 1.06,
+          "end": 1.98,
+          "jp": "移",
+          "prob": 0.6925705373287201
+        },
+        {
+          "start": 1.98,
+          "end": 2.22,
+          "jp": "動",
+          "prob": 0.9972519278526306
+        },
+        {
+          "start": 2.22,
+          "end": 2.52,
+          "jp": "でき",
+          "prob": 0.9493230581283569
+        },
+        {
+          "start": 2.52,
+          "end": 2.8,
+          "jp": "る",
+          "prob": 0.9988834261894226
+        },
+        {
+          "start": 2.8,
+          "end": 2.9,
+          "jp": "の",
+          "prob": 0.8628087639808655
+        },
+        {
+          "start": 2.9,
+          "end": 3.16,
+          "jp": "さ",
+          "prob": 0.985114336013794
+        },
+        {
+          "start": 3.16,
+          "end": 3.742375,
+          "jp": "ぁ!",
+          "prob": 0.3148680329322815
+        }
+      ],
+      "ko": "순식간에 이동할 수 있지!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

@@ -1,0 +1,29 @@
+{
+  "hash": "068e4e3e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.00025,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7579375000000006,
+      "jp": "なんで?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.39793750000000117,
+          "jp": "なん",
+          "prob": 0.6557449102401733
+        },
+        {
+          "start": 0.39793750000000117,
+          "end": 0.7579375000000006,
+          "jp": "で?",
+          "prob": 0.9909308552742004
+        }
+      ],
+      "ko": "왜?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

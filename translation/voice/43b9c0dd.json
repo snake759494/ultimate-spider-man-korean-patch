@@ -1,0 +1,18 @@
+{
+  "hash": "43b9c0dd",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.0575625,
+  "segments": [
+    {
+      "start": 0.14,
+      "end": 0.86,
+      "jp": "オーデー!",
+      "logprob": -0.8016683086752892,
+      "no_speech": 0.7002790570259094,
+      "ko": ""
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "no_caption_individual_asr_checked",
+  "review_note": "고함, 개별 인식의 무음 확률 높음. 배치 및 개별 ASR 대조에 의한 분류이며 청취 검수와 구분."
+}

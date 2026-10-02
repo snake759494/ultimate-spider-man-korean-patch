@@ -1,0 +1,29 @@
+{
+  "hash": "79108136",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6221875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.37431250000000027,
+      "jp": "行け!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.17431250000000098,
+          "jp": "行",
+          "prob": 0.45310336351394653
+        },
+        {
+          "start": 0.17431250000000098,
+          "end": 0.37431250000000027,
+          "jp": "け!",
+          "prob": 0.9991251826286316
+        }
+      ],
+      "ko": "가!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

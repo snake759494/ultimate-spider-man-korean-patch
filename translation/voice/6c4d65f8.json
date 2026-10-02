@@ -1,0 +1,43 @@
+{
+  "hash": "6c4d65f8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7285,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7285,
+      "jp": "バーカー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.33706250000000004,
+          "jp": "バ",
+          "prob": 0.47146567702293396
+        },
+        {
+          "start": 0.33706250000000004,
+          "end": 0.7170624999999999,
+          "jp": "ー",
+          "prob": 0.5319565534591675
+        },
+        {
+          "start": 0.7170624999999999,
+          "end": 1.0970624999999998,
+          "jp": "カ",
+          "prob": 0.6238144040107727
+        },
+        {
+          "start": 1.0970624999999998,
+          "end": 1.7285,
+          "jp": "ー!",
+          "prob": 0.6686252951622009
+        }
+      ],
+      "ko": "파커!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required",
+  "identical_audio_source": "f6e8c13b",
+  "decoded_audio_sha256": "0b8accd3ff7ae9ad700628e54257e467b58bfda2f1a60d931341475f468ef877"
+}

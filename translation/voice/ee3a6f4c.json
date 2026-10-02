@@ -1,0 +1,15 @@
+{
+  "hash": "ee3a6f4c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.865,
+  "segments": [
+    {
+      "start": 0.18362499999999926,
+      "end": 0.743624999999998,
+      "jp": "ありがとう!",
+      "ko": "고마워요."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

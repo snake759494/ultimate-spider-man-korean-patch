@@ -1,0 +1,47 @@
+{
+  "hash": "ec441a60",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.144875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.1,
+      "jp": "お金ならあるわ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.14,
+          "jp": "お",
+          "prob": 0.8525510430335999
+        },
+        {
+          "start": 0.14,
+          "end": 0.32,
+          "jp": "金",
+          "prob": 0.9561417102813721
+        },
+        {
+          "start": 0.32,
+          "end": 0.58,
+          "jp": "なら",
+          "prob": 0.9620884656906128
+        },
+        {
+          "start": 0.58,
+          "end": 0.82,
+          "jp": "ある",
+          "prob": 0.9290413856506348
+        },
+        {
+          "start": 0.82,
+          "end": 1.1,
+          "jp": "わ",
+          "prob": 0.9530743956565857
+        }
+      ],
+      "ko": "돈이라면 있어요."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

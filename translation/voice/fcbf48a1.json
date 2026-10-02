@@ -1,0 +1,35 @@
+{
+  "hash": "fcbf48a1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6163125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.45512500000000067,
+      "jp": "やめろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.21512500000000045,
+          "jp": "や",
+          "prob": 0.79355388879776
+        },
+        {
+          "start": 0.21512500000000045,
+          "end": 0.3151250000000001,
+          "jp": "め",
+          "prob": 0.9946826100349426
+        },
+        {
+          "start": 0.3151250000000001,
+          "end": 0.45512500000000067,
+          "jp": "ろ!",
+          "prob": 0.9986951947212219
+        }
+      ],
+      "ko": "그만해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,53 @@
+{
+  "hash": "30439d1f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0765625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.82,
+      "jp": "しっかりやれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "し",
+          "prob": 0.3913159966468811
+        },
+        {
+          "start": 0.22,
+          "end": 0.42,
+          "jp": "っ",
+          "prob": 0.9985430240631104
+        },
+        {
+          "start": 0.42,
+          "end": 0.46,
+          "jp": "か",
+          "prob": 0.9962947964668274
+        },
+        {
+          "start": 0.46,
+          "end": 0.56,
+          "jp": "り",
+          "prob": 0.998399555683136
+        },
+        {
+          "start": 0.56,
+          "end": 0.68,
+          "jp": "や",
+          "prob": 0.9627752900123596
+        },
+        {
+          "start": 0.68,
+          "end": 0.82,
+          "jp": "れ!",
+          "prob": 0.6185020804405212
+        }
+      ],
+      "ko": "제대로 해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

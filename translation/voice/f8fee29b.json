@@ -1,0 +1,15 @@
+{
+  "hash": "f8fee29b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9465,
+  "segments": [
+    {
+      "start": 0.1190624999999983,
+      "end": 0.9465,
+      "jp": "来るなー!",
+      "ko": "오지 마!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

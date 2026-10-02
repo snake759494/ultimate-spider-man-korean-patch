@@ -1,0 +1,47 @@
+{
+  "hash": "1b2e42fe",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8815625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.8815625,
+      "jp": "だから、ここなんだってば!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3589374999999997,
+          "jp": "だから、",
+          "prob": 0.9067292213439941
+        },
+        {
+          "start": 0.8389375000000001,
+          "end": 1.1389375,
+          "jp": "ここ",
+          "prob": 0.976536214351654
+        },
+        {
+          "start": 1.1389375,
+          "end": 1.3789374999999993,
+          "jp": "なんだ",
+          "prob": 0.9933105707168579
+        },
+        {
+          "start": 1.3789374999999993,
+          "end": 1.5989375,
+          "jp": "って",
+          "prob": 0.9931877851486206
+        },
+        {
+          "start": 1.5989375,
+          "end": 1.8815625,
+          "jp": "ば!",
+          "prob": 0.9994064569473267
+        }
+      ],
+      "ko": "그러니까 여기라니까!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

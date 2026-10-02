@@ -1,0 +1,19 @@
+{
+  "hash": "b6f7c2c8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7951875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7951875,
+      "jp": "こんなとこ来るつもりなかったのに",
+      "ko": "이런 데 올 생각은 없었는데!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "recognition_settings": {
+    "no_repeat_ngram_size": 6,
+    "note": "Repeated nonverbal ASR tokens are suppressed; listening review remains required."
+  },
+  "status": "translated_dictionary_medium_batch_review_required"
+}

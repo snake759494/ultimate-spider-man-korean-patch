@@ -1,0 +1,41 @@
+{
+  "hash": "66c8da8f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.931625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.931625,
+      "jp": "さあ来い!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2743749999999998,
+          "jp": "さ",
+          "prob": 0.8888745903968811
+        },
+        {
+          "start": 0.2743749999999998,
+          "end": 0.474375,
+          "jp": "あ",
+          "prob": 0.5597226023674011
+        },
+        {
+          "start": 0.474375,
+          "end": 0.5943749999999999,
+          "jp": "来",
+          "prob": 0.5408000946044922
+        },
+        {
+          "start": 0.5943749999999999,
+          "end": 0.931625,
+          "jp": "い!",
+          "prob": 0.9970391988754272
+        }
+      ],
+      "ko": "자, 덤벼!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,29 @@
+{
+  "hash": "e735a26f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.644,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.4181250000000034,
+      "jp": "お前!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.15812500000000185,
+          "jp": "お",
+          "prob": 0.9314374923706055
+        },
+        {
+          "start": 0.15812500000000185,
+          "end": 0.4181250000000034,
+          "jp": "前!",
+          "prob": 0.9700478315353394
+        }
+      ],
+      "ko": "너!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

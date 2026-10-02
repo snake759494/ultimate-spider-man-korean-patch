@@ -1,0 +1,59 @@
+{
+  "hash": "b0f82b53",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.8605,
+  "segments": [
+    {
+      "start": 0.56,
+      "end": 2.62,
+      "jp": "ああああああ もう限界だ",
+      "words": [
+        {
+          "start": 0.56,
+          "end": 0.82,
+          "jp": "ああ",
+          "prob": 0.2227850705385208
+        },
+        {
+          "start": 0.82,
+          "end": 1.4,
+          "jp": "ああ",
+          "prob": 0.07705989480018616
+        },
+        {
+          "start": 1.4,
+          "end": 1.62,
+          "jp": "ああ",
+          "prob": 0.32461923360824585
+        },
+        {
+          "start": 1.62,
+          "end": 2.0,
+          "jp": " もう",
+          "prob": 0.9025898575782776
+        },
+        {
+          "start": 2.0,
+          "end": 2.22,
+          "jp": "限",
+          "prob": 0.9257843494415283
+        },
+        {
+          "start": 2.22,
+          "end": 2.4,
+          "jp": "界",
+          "prob": 0.9964473843574524
+        },
+        {
+          "start": 2.4,
+          "end": 2.62,
+          "jp": "だ",
+          "prob": 0.9761843681335449
+        }
+      ],
+      "ko": "이젠 한계야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

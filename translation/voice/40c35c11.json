@@ -1,0 +1,41 @@
+{
+  "hash": "40c35c11",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.826375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6593749999999989,
+      "jp": "膝まづけ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.239374999999999,
+          "jp": "膝",
+          "prob": 0.5561876744031906
+        },
+        {
+          "start": 0.239374999999999,
+          "end": 0.4393749999999992,
+          "jp": "ま",
+          "prob": 0.43441641330718994
+        },
+        {
+          "start": 0.4393749999999992,
+          "end": 0.4793749999999992,
+          "jp": "づ",
+          "prob": 0.6759331524372101
+        },
+        {
+          "start": 0.4793749999999992,
+          "end": 0.6593749999999989,
+          "jp": "け!",
+          "prob": 0.9942424893379211
+        }
+      ],
+      "ko": "무릎 꿇어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

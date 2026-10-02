@@ -1,0 +1,35 @@
+{
+  "hash": "71e0d517",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8083125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5954999999999977,
+      "jp": "撃つな!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2354999999999947,
+          "jp": "撃",
+          "prob": 0.9887706935405731
+        },
+        {
+          "start": 0.2354999999999947,
+          "end": 0.39549999999999486,
+          "jp": "つ",
+          "prob": 0.9589400291442871
+        },
+        {
+          "start": 0.39549999999999486,
+          "end": 0.5954999999999977,
+          "jp": "な!",
+          "prob": 0.9923661351203918
+        }
+      ],
+      "ko": "쏘지 마!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

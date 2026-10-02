@@ -1,0 +1,15 @@
+{
+  "hash": "9e567d2b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3615625,
+  "segments": [
+    {
+      "start": 0.24656250000000135,
+      "end": 1.1865625000000009,
+      "jp": "信じられない!",
+      "ko": "믿을 수 없어..."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

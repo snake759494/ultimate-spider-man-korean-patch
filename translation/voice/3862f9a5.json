@@ -1,0 +1,15 @@
+{
+  "hash": "3862f9a5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7485625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7485625,
+      "jp": "これは妹たちに言わなくちゃ!",
+      "ko": "여동생들한테 말해야겠어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

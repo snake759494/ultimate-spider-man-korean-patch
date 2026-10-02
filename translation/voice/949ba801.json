@@ -1,0 +1,15 @@
+{
+  "hash": "949ba801",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.96925,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.7720624999999988,
+      "jp": "なんてこと!助けて!誰か助けて!",
+      "ko": "이럴 수가! 살려 줘! 누가 좀 도와줘!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

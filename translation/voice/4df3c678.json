@@ -1,0 +1,15 @@
+{
+  "hash": "4df3c678",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.631,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.631,
+      "jp": "…本当に本物なのか?",
+      "ko": "정말 진짜야?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

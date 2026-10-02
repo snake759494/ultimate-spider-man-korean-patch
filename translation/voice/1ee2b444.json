@@ -1,0 +1,15 @@
+{
+  "hash": "1ee2b444",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.591125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.591125,
+      "jp": "司令部もう無理だ",
+      "ko": "사령부, 더는 못 버티겠다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

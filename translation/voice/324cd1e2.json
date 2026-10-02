@@ -1,0 +1,15 @@
+{
+  "hash": "324cd1e2",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.393875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.2346874999999997,
+      "jp": "言ってない",
+      "ko": "그런 말 안 했어."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

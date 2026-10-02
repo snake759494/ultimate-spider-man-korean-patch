@@ -1,0 +1,15 @@
+{
+  "hash": "0ebb5048",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.15175,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9441874999999982,
+      "jp": "燃える!",
+      "ko": "불탄다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

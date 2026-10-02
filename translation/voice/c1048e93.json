@@ -1,0 +1,15 @@
+{
+  "hash": "c1048e93",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5550625,
+  "segments": [
+    {
+      "start": 0.23468749999999972,
+      "end": 1.3946874999999999,
+      "jp": "お前ら、死ね!",
+      "ko": "너희들, 죽어라!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

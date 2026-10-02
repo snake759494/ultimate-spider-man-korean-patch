@@ -1,0 +1,15 @@
+{
+  "hash": "b13f2a0a",
+  "duration": 17.85125,
+  "segments": [
+    {
+      "start": 12.76,
+      "end": 14.06,
+      "jp": "素晴らしい",
+      "logprob": -0.5698080286383629,
+      "no_speech": 0.19622574746608734,
+      "ko": "훌륭하군."
+    }
+  ],
+  "status": "draft_asr_review_required"
+}

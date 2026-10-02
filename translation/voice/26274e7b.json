@@ -1,0 +1,41 @@
+{
+  "hash": "26274e7b",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.721,
+  "segments": [
+    {
+      "start": 0.19181250000000016,
+      "end": 1.1318125,
+      "jp": " 毎度 毎度",
+      "words": [
+        {
+          "start": 0.19181250000000016,
+          "end": 0.4918125,
+          "jp": " 毎",
+          "prob": 0.760049968957901
+        },
+        {
+          "start": 0.4918125,
+          "end": 0.6918125000000002,
+          "jp": "度",
+          "prob": 0.9844830632209778
+        },
+        {
+          "start": 0.7318125000000002,
+          "end": 0.9318125000000004,
+          "jp": " 毎",
+          "prob": 0.9953265488147736
+        },
+        {
+          "start": 0.9318125000000004,
+          "end": 1.1318125,
+          "jp": "度",
+          "prob": 0.9987794756889343
+        }
+      ],
+      "ko": "매번 이러네."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

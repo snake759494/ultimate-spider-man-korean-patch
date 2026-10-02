@@ -1,0 +1,35 @@
+{
+  "hash": "9fbf7e01",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.93625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5272499999999987,
+      "jp": " ちょっと!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.12725000000000009,
+          "jp": " ち",
+          "prob": 0.35452330112457275
+        },
+        {
+          "start": 0.12725000000000009,
+          "end": 0.26725000000000065,
+          "jp": "ょ",
+          "prob": 0.9985419511795044
+        },
+        {
+          "start": 0.26725000000000065,
+          "end": 0.5272499999999987,
+          "jp": "っと!",
+          "prob": 0.9941042065620422
+        }
+      ],
+      "ko": "잠깐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

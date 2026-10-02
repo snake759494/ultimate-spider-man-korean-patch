@@ -1,0 +1,71 @@
+{
+  "hash": "90760e81",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 3.169625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.08,
+      "jp": "うーっ!ジャンプが遅かったな",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3,
+          "jp": "う",
+          "prob": 0.3612549304962158
+        },
+        {
+          "start": 0.3,
+          "end": 0.58,
+          "jp": "ー",
+          "prob": 0.17439042031764984
+        },
+        {
+          "start": 0.58,
+          "end": 1.16,
+          "jp": "っ!",
+          "prob": 0.14347030222415924
+        },
+        {
+          "start": 1.54,
+          "end": 1.84,
+          "jp": "ジャ",
+          "prob": 0.7866349220275879
+        },
+        {
+          "start": 1.84,
+          "end": 2.1,
+          "jp": "ンプ",
+          "prob": 0.9972380697727203
+        },
+        {
+          "start": 2.1,
+          "end": 2.22,
+          "jp": "が",
+          "prob": 0.9939640164375305
+        },
+        {
+          "start": 2.22,
+          "end": 2.4,
+          "jp": "遅",
+          "prob": 0.9927692115306854
+        },
+        {
+          "start": 2.4,
+          "end": 2.64,
+          "jp": "かった",
+          "prob": 0.9928597807884216
+        },
+        {
+          "start": 2.64,
+          "end": 3.08,
+          "jp": "な",
+          "prob": 0.9975271821022034
+        }
+      ],
+      "ko": "윽! 점프가 늦었어."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

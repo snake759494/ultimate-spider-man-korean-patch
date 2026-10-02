@@ -1,0 +1,35 @@
+{
+  "hash": "3020c201",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2178125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9234999999999971,
+      "jp": "驚いたか!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.4234999999999971,
+          "jp": "驚",
+          "prob": 0.9807786345481873
+        },
+        {
+          "start": 0.4234999999999971,
+          "end": 0.7434999999999974,
+          "jp": "いた",
+          "prob": 0.8862276077270508
+        },
+        {
+          "start": 0.7434999999999974,
+          "end": 0.9234999999999971,
+          "jp": "か!",
+          "prob": 0.8864293694496155
+        }
+      ],
+      "ko": "놀랐냐!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

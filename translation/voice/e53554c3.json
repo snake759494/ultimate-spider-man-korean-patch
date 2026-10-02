@@ -1,0 +1,77 @@
+{
+  "hash": "e53554c3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.965625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.86,
+      "jp": "お前の命も今夜限りだ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2,
+          "jp": "お",
+          "prob": 0.8578416705131531
+        },
+        {
+          "start": 0.2,
+          "end": 0.4,
+          "jp": "前",
+          "prob": 0.8080514669418335
+        },
+        {
+          "start": 0.4,
+          "end": 0.54,
+          "jp": "の",
+          "prob": 0.9604447484016418
+        },
+        {
+          "start": 0.54,
+          "end": 0.68,
+          "jp": "命",
+          "prob": 0.9676766395568848
+        },
+        {
+          "start": 0.68,
+          "end": 1.0,
+          "jp": "も",
+          "prob": 0.9692708849906921
+        },
+        {
+          "start": 1.0,
+          "end": 1.2,
+          "jp": "今",
+          "prob": 0.8662747740745544
+        },
+        {
+          "start": 1.2,
+          "end": 1.38,
+          "jp": "夜",
+          "prob": 0.9886680245399475
+        },
+        {
+          "start": 1.38,
+          "end": 1.6,
+          "jp": "限",
+          "prob": 0.9856116771697998
+        },
+        {
+          "start": 1.6,
+          "end": 1.7,
+          "jp": "り",
+          "prob": 0.9984927177429199
+        },
+        {
+          "start": 1.7,
+          "end": 1.86,
+          "jp": "だ",
+          "prob": 0.9938986301422119
+        }
+      ],
+      "ko": "네 목숨도 오늘 밤까지다."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

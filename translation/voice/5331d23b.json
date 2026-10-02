@@ -1,0 +1,29 @@
+{
+  "hash": "5331d23b",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.545125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.545125,
+      "jp": "車を",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.23299999999999965,
+          "jp": "車",
+          "prob": 0.00013897984172217548
+        },
+        {
+          "start": 0.23299999999999965,
+          "end": 1.545125,
+          "jp": "を",
+          "prob": 0.8314200043678284
+        }
+      ],
+      "ko": "차를!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

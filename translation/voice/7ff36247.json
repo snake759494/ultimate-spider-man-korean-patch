@@ -1,0 +1,15 @@
+{
+  "hash": "7ff36247",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.81375,
+  "segments": [
+    {
+      "start": 2.6285624999999975,
+      "end": 3.81375,
+      "jp": "お腹が…",
+      "ko": "배가..."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

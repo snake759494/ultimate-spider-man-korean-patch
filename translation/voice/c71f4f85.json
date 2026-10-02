@@ -1,0 +1,35 @@
+{
+  "hash": "c71f4f85",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9470625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8512500000000003,
+      "jp": "どういうことだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.23125000000000018,
+          "jp": "どう",
+          "prob": 0.7563600540161133
+        },
+        {
+          "start": 0.23125000000000018,
+          "end": 0.51125,
+          "jp": "いうこと",
+          "prob": 0.8081128597259521
+        },
+        {
+          "start": 0.51125,
+          "end": 0.8512500000000003,
+          "jp": "だ!",
+          "prob": 0.9851874113082886
+        }
+      ],
+      "ko": "무슨 뜻이야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

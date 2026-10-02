@@ -1,0 +1,29 @@
+{
+  "hash": "4a42f6b7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.5866875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.43093749999999975,
+      "jp": "撃破!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1509374999999995,
+          "jp": "撃",
+          "prob": 0.5423805192112923
+        },
+        {
+          "start": 0.1509374999999995,
+          "end": 0.43093749999999975,
+          "jp": "破!",
+          "prob": 0.417605459690094
+        }
+      ],
+      "ko": "격파!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

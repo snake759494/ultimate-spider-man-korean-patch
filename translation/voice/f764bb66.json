@@ -1,0 +1,15 @@
+{
+  "hash": "f764bb66",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.885875,
+  "segments": [
+    {
+      "start": 0.051999999999997826,
+      "end": 2.885875,
+      "jp": "妹へのバックにでもするか",
+      "ko": "여동생한테 줄 가방으로 할까?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

@@ -1,0 +1,23 @@
+{
+  "hash": "29b4e0a1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.760875,
+  "segments": [
+    {
+      "start": 0.09712500000000013,
+      "end": 0.4171250000000004,
+      "jp": "お願い!",
+      "words": [
+        {
+          "start": 0.09712500000000013,
+          "end": 0.4171250000000004,
+          "jp": "お願い!",
+          "prob": 0.9009077548980713
+        }
+      ],
+      "ko": "제발!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

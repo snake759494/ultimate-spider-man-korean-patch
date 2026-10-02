@@ -1,0 +1,41 @@
+{
+  "hash": "f325f8d0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9963125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7746875000000006,
+      "jp": "痛ぇぇな!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3146874999999998,
+          "jp": "痛",
+          "prob": 0.8833007216453552
+        },
+        {
+          "start": 0.3146874999999998,
+          "end": 0.5746874999999996,
+          "jp": "ぇ",
+          "prob": 0.9821666479110718
+        },
+        {
+          "start": 0.5746874999999996,
+          "end": 0.6146875000000005,
+          "jp": "ぇ",
+          "prob": 0.5799809694290161
+        },
+        {
+          "start": 0.6146875000000005,
+          "end": 0.7746875000000006,
+          "jp": "な!",
+          "prob": 0.8155838847160339
+        }
+      ],
+      "ko": "아프잖아!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

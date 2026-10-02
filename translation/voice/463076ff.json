@@ -1,0 +1,41 @@
+{
+  "hash": "463076ff",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9426875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7876875000000001,
+      "jp": "制圧しろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3076875000000001,
+          "jp": "制",
+          "prob": 0.25663062930107117
+        },
+        {
+          "start": 0.3076875000000001,
+          "end": 0.4676874999999998,
+          "jp": "圧",
+          "prob": 0.9845594465732574
+        },
+        {
+          "start": 0.4676874999999998,
+          "end": 0.6676875,
+          "jp": "し",
+          "prob": 0.9553013443946838
+        },
+        {
+          "start": 0.6676875,
+          "end": 0.7876875000000001,
+          "jp": "ろ!",
+          "prob": 0.9993464350700378
+        }
+      ],
+      "ko": "제압해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

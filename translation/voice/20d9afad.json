@@ -1,0 +1,15 @@
+{
+  "hash": "20d9afad",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5883125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5883125,
+      "jp": "あたしの車は!",
+      "ko": "내 차는!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

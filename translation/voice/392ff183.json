@@ -1,0 +1,15 @@
+{
+  "hash": "392ff183",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.208125,
+  "segments": [
+    {
+      "start": 0.3661874999999988,
+      "end": 2.1461875,
+      "jp": "見えない、あ、ああ!",
+      "ko": "안 보여, 아, 아아!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

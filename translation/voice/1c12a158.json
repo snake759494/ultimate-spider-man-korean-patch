@@ -1,0 +1,15 @@
+{
+  "hash": "1c12a158",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.69725,
+  "segments": [
+    {
+      "start": 0.05256249999999696,
+      "end": 1.69725,
+      "jp": "こんなのもう沢山だ!",
+      "ko": "이런 건 이제 지긋지긋해!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

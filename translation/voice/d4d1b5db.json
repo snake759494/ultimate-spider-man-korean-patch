@@ -1,0 +1,15 @@
+{
+  "hash": "d4d1b5db",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.2511875,
+  "segments": [
+    {
+      "start": 0.8454374999999992,
+      "end": 2.2511875,
+      "jp": "ショウに遅れちゃう!",
+      "ko": "공연에 늦겠어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

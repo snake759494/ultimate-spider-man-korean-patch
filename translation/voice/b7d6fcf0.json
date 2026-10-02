@@ -1,0 +1,41 @@
+{
+  "hash": "b7d6fcf0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.909125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7258750000000003,
+      "jp": "手収しよう!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18587499999999935,
+          "jp": "手",
+          "prob": 0.2428780049085617
+        },
+        {
+          "start": 0.18587499999999935,
+          "end": 0.405875,
+          "jp": "収",
+          "prob": 0.6252606064081192
+        },
+        {
+          "start": 0.405875,
+          "end": 0.5658750000000001,
+          "jp": "し",
+          "prob": 0.9584676027297974
+        },
+        {
+          "start": 0.5658750000000001,
+          "end": 0.7258750000000003,
+          "jp": "よう!",
+          "prob": 0.8318379521369934
+        }
+      ],
+      "ko": "철수하자!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

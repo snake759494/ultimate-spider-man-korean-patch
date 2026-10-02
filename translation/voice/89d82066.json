@@ -1,0 +1,41 @@
+{
+  "hash": "89d82066",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.36225,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.1758124999999993,
+      "jp": "な、頼むよ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.23581250000000153,
+          "jp": "な、",
+          "prob": 0.13010050356388092
+        },
+        {
+          "start": 0.4558125000000004,
+          "end": 0.7358125000000015,
+          "jp": "頼",
+          "prob": 0.9823299646377563
+        },
+        {
+          "start": 0.7358125000000015,
+          "end": 0.8758124999999986,
+          "jp": "む",
+          "prob": 0.995359480381012
+        },
+        {
+          "start": 0.8758124999999986,
+          "end": 1.1758124999999993,
+          "jp": "よ",
+          "prob": 0.9967370629310608
+        }
+      ],
+      "ko": "제발, 부탁이야."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

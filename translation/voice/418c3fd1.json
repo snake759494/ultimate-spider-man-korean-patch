@@ -1,0 +1,47 @@
+{
+  "hash": "418c3fd1",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.2919375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.76,
+      "jp": "頭が、割れそうだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.4,
+          "jp": "頭",
+          "prob": 0.8494634628295898
+        },
+        {
+          "start": 0.4,
+          "end": 0.68,
+          "jp": "が、",
+          "prob": 0.9606326222419739
+        },
+        {
+          "start": 1.04,
+          "end": 1.44,
+          "jp": "割",
+          "prob": 0.6588156223297119
+        },
+        {
+          "start": 1.44,
+          "end": 1.6,
+          "jp": "れ",
+          "prob": 0.9904907941818237
+        },
+        {
+          "start": 1.6,
+          "end": 1.76,
+          "jp": "そうだ!",
+          "prob": 0.9435954689979553
+        }
+      ],
+      "ko": "머리가... 깨질 것 같아!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

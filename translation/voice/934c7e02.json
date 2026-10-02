@@ -1,0 +1,15 @@
+{
+  "hash": "934c7e02",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.8405625,
+  "segments": [
+    {
+      "start": 0.18,
+      "end": 2.76,
+      "jp": "ああ、ちょっとなんで?増えちゃったの?",
+      "ko": "아, 잠깐. 왜 더 늘어난 거야?"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

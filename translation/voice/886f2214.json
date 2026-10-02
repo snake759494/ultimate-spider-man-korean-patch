@@ -1,0 +1,15 @@
+{
+  "hash": "886f2214",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.52525,
+  "segments": [
+    {
+      "start": 0.15006250000000065,
+      "end": 1.5100625000000019,
+      "jp": "なんだ、これは?",
+      "ko": "이게 뭐야!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

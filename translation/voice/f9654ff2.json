@@ -1,0 +1,29 @@
+{
+  "hash": "f9654ff2",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7870625,
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 0.66,
+      "jp": "すごいぞ!",
+      "words": [
+        {
+          "start": 0.02,
+          "end": 0.4,
+          "jp": "すごい",
+          "prob": 0.7274507284164429
+        },
+        {
+          "start": 0.4,
+          "end": 0.66,
+          "jp": "ぞ!",
+          "prob": 0.9947439432144165
+        }
+      ],
+      "ko": "굉장해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "073fc561",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.51725,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.51725,
+      "jp": "手順はしっかりハマってるな",
+      "ko": "수갑은 단단히 채워졌군."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

@@ -1,0 +1,35 @@
+{
+  "hash": "5e926aad",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.8375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.16,
+      "jp": "ああ、ありがとう、ありがとう",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.44,
+          "jp": "ああ、",
+          "prob": 0.4193284511566162
+        },
+        {
+          "start": 1.5,
+          "end": 1.92,
+          "jp": "ありがとう、",
+          "prob": 0.9347949624061584
+        },
+        {
+          "start": 2.44,
+          "end": 3.16,
+          "jp": "ありがとう",
+          "prob": 0.9838550686836243
+        }
+      ],
+      "ko": "아, 고마워요. 고마워요."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

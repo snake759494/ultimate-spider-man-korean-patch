@@ -1,0 +1,9 @@
+{
+  "unresolved": 2172,
+  "categories": {
+    "empty_recognition": 1087,
+    "lexical_or_unclear": 440,
+    "nonverbal_candidate": 645
+  },
+  "note": "ASR-based triage, not listening verification; empty/nonverbal candidates can still contain missed speech."
+}

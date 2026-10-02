@@ -1,0 +1,15 @@
+{
+  "hash": "9822e960",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 6.3870625,
+  "segments": [
+    {
+      "start": 2.52,
+      "end": 6.36,
+      "jp": "急がないと、エディを止める前に気を失うぞ!",
+      "ko": "서두르지 않으면 에디를 막기도 전에 정신을 잃겠어!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

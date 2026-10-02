@@ -1,0 +1,41 @@
+{
+  "hash": "70b2b610",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8491875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6164999999999998,
+      "jp": "早くしろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1964999999999999,
+          "jp": "早",
+          "prob": 0.8685365319252014
+        },
+        {
+          "start": 0.1964999999999999,
+          "end": 0.35650000000000004,
+          "jp": "く",
+          "prob": 0.9861695766448975
+        },
+        {
+          "start": 0.35650000000000004,
+          "end": 0.4764999999999997,
+          "jp": "し",
+          "prob": 0.9142522215843201
+        },
+        {
+          "start": 0.4764999999999997,
+          "end": 0.6164999999999998,
+          "jp": "ろ!",
+          "prob": 0.9987205862998962
+        }
+      ],
+      "ko": "빨리 해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

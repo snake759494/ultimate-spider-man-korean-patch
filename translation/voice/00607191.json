@@ -1,0 +1,35 @@
+{
+  "hash": "00607191",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.6865,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6205,
+      "jp": "やれるな",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.20050000000000012,
+          "jp": "や",
+          "prob": 0.6690405607223511
+        },
+        {
+          "start": 0.20050000000000012,
+          "end": 0.4205000000000001,
+          "jp": "れる",
+          "prob": 0.987891435623169
+        },
+        {
+          "start": 0.4205000000000001,
+          "end": 0.6205,
+          "jp": "な",
+          "prob": 0.9958397150039673
+        }
+      ],
+      "ko": "할 수 있지?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,9 @@
+{
+  "hash": "8316ce52",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.4719375,
+  "segments": [],
+  "recognition": "medium_individual",
+  "status": "no_caption_individual_asr_checked",
+  "review_note": "비명, 개별 인식에서 어휘 없음. 배치 및 개별 ASR 대조에 의한 분류이며 청취 검수와 구분."
+}

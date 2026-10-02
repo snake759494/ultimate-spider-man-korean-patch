@@ -1,0 +1,15 @@
+{
+  "hash": "2566d744",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.45575,
+  "segments": [
+    {
+      "start": 0.08893750000000189,
+      "end": 1.208937500000001,
+      "jp": "こんなの嫌。",
+      "ko": "이런 건 싫어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

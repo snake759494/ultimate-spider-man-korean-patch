@@ -1,0 +1,15 @@
+{
+  "hash": "263d1d9b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0558125,
+  "segments": [
+    {
+      "start": 0.054937500000004746,
+      "end": 1.0549375000000047,
+      "jp": "今のはどうだ?",
+      "ko": "방금 건 어때?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

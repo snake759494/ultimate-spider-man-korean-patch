@@ -1,0 +1,15 @@
+{
+  "hash": "7c2e54de",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5785,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5785,
+      "jp": "…何もしないから、この通り!",
+      "ko": "아무 짓도 안 할게. 이렇게 빌게!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

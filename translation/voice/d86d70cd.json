@@ -1,0 +1,29 @@
+{
+  "hash": "d86d70cd",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1991875,
+  "segments": [
+    {
+      "start": 0.0012499999999988631,
+      "end": 0.7812499999999982,
+      "jp": " 燃える",
+      "words": [
+        {
+          "start": 0.0012499999999988631,
+          "end": 0.32124999999999915,
+          "jp": " 燃",
+          "prob": 0.6556407809257507
+        },
+        {
+          "start": 0.32124999999999915,
+          "end": 0.7812499999999982,
+          "jp": "える",
+          "prob": 0.8421190977096558
+        }
+      ],
+      "ko": "불탄다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

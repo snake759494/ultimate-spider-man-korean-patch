@@ -1,0 +1,15 @@
+{
+  "hash": "25f13a2d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.67525,
+  "segments": [
+    {
+      "start": 0.1101875000000021,
+      "end": 1.5501875000000034,
+      "jp": "こいつ、冒談仕様なのか?",
+      "ko": "이놈, 방탄인가?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

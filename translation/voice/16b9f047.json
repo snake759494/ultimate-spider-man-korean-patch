@@ -1,0 +1,15 @@
+{
+  "hash": "16b9f047",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.720875,
+  "segments": [
+    {
+      "start": 0.15756250000000005,
+      "end": 1.720875,
+      "jp": "見えてはいるが、信じられ",
+      "ko": "보고도 믿을 수가 없네."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

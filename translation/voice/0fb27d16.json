@@ -1,0 +1,65 @@
+{
+  "hash": "0fb27d16",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.317,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.24,
+      "jp": "くずミュウタントメ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2,
+          "jp": "く",
+          "prob": 0.17191311717033386
+        },
+        {
+          "start": 0.2,
+          "end": 0.38,
+          "jp": "ず",
+          "prob": 0.8863610029220581
+        },
+        {
+          "start": 0.38,
+          "end": 0.66,
+          "jp": "ミ",
+          "prob": 0.43937885761260986
+        },
+        {
+          "start": 0.66,
+          "end": 0.72,
+          "jp": "ュ",
+          "prob": 0.9897308349609375
+        },
+        {
+          "start": 0.72,
+          "end": 0.82,
+          "jp": "ウ",
+          "prob": 0.3328116834163666
+        },
+        {
+          "start": 0.82,
+          "end": 0.9,
+          "jp": "タ",
+          "prob": 0.717505931854248
+        },
+        {
+          "start": 0.9,
+          "end": 1.06,
+          "jp": "ント",
+          "prob": 0.8712126612663269
+        },
+        {
+          "start": 1.06,
+          "end": 1.24,
+          "jp": "メ!",
+          "prob": 0.560276448726654
+        }
+      ],
+      "ko": "쓰레기 같은 뮤턴트!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

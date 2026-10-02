@@ -1,0 +1,47 @@
+{
+  "hash": "cf3c7eed",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.16975,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.96,
+      "jp": "用意はいいか?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3,
+          "jp": "用",
+          "prob": 0.4545927047729492
+        },
+        {
+          "start": 0.3,
+          "end": 0.46,
+          "jp": "意",
+          "prob": 0.9993098974227905
+        },
+        {
+          "start": 0.46,
+          "end": 0.6,
+          "jp": "はい",
+          "prob": 0.841509222984314
+        },
+        {
+          "start": 0.6,
+          "end": 0.74,
+          "jp": "い",
+          "prob": 0.9911796450614929
+        },
+        {
+          "start": 0.74,
+          "end": 0.96,
+          "jp": "か?",
+          "prob": 0.994036078453064
+        }
+      ],
+      "ko": "준비됐나?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

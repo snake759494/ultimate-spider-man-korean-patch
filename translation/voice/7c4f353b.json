@@ -1,0 +1,35 @@
+{
+  "hash": "7c4f353b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0823125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.04,
+      "jp": "おい!来い!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.36,
+          "jp": "おい!",
+          "prob": 0.6192478537559509
+        },
+        {
+          "start": 0.62,
+          "end": 0.82,
+          "jp": "来",
+          "prob": 0.7476001977920532
+        },
+        {
+          "start": 0.82,
+          "end": 1.04,
+          "jp": "い!",
+          "prob": 0.9874051213264465
+        }
+      ],
+      "ko": "이봐, 와!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

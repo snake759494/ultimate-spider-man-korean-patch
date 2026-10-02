@@ -1,0 +1,41 @@
+{
+  "hash": "e1f01a7e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0920625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8120624999999997,
+      "jp": " ああやだ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.25206250000000097,
+          "jp": " あ",
+          "prob": 0.15847066044807434
+        },
+        {
+          "start": 0.25206250000000097,
+          "end": 0.3520625000000024,
+          "jp": "あ",
+          "prob": 0.3337574005126953
+        },
+        {
+          "start": 0.3520625000000024,
+          "end": 0.4920624999999994,
+          "jp": "や",
+          "prob": 0.4584369659423828
+        },
+        {
+          "start": 0.4920624999999994,
+          "end": 0.8120624999999997,
+          "jp": "だ",
+          "prob": 0.9882882237434387
+        }
+      ],
+      "ko": "아, 싫어."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

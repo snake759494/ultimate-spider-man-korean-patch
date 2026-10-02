@@ -1,0 +1,53 @@
+{
+  "hash": "46e26624",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.268375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.1,
+      "jp": "悪をくじくとか",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28,
+          "jp": "悪",
+          "prob": 0.9715965390205383
+        },
+        {
+          "start": 0.28,
+          "end": 0.44,
+          "jp": "を",
+          "prob": 0.9620582461357117
+        },
+        {
+          "start": 0.44,
+          "end": 0.64,
+          "jp": "く",
+          "prob": 0.4623803496360779
+        },
+        {
+          "start": 0.64,
+          "end": 0.78,
+          "jp": "じ",
+          "prob": 0.9973486661911011
+        },
+        {
+          "start": 0.78,
+          "end": 0.88,
+          "jp": "く",
+          "prob": 0.9829166531562805
+        },
+        {
+          "start": 0.88,
+          "end": 1.1,
+          "jp": "とか",
+          "prob": 0.883816123008728
+        }
+      ],
+      "ko": "악을 물리친다든가."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

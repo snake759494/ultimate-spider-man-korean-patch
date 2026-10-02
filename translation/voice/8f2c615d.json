@@ -1,0 +1,15 @@
+{
+  "hash": "8f2c615d",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 3.543625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.42,
+      "jp": "頭から歯が生えてるわ ベルをそこらじゅん振り回すわ",
+      "ko": "머리에 이가 돋아나고 혀를 사방으로 휘두르다니!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

@@ -1,0 +1,77 @@
+{
+  "hash": "0e1d50d6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.29175,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.14,
+      "jp": "こいつ、マジでイラつくぜ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24,
+          "jp": "こ",
+          "prob": 0.8575522899627686
+        },
+        {
+          "start": 0.24,
+          "end": 0.42,
+          "jp": "いつ、",
+          "prob": 0.9986758828163147
+        },
+        {
+          "start": 0.86,
+          "end": 1.1,
+          "jp": "マ",
+          "prob": 0.6053494215011597
+        },
+        {
+          "start": 1.1,
+          "end": 1.28,
+          "jp": "ジ",
+          "prob": 0.9978697299957275
+        },
+        {
+          "start": 1.28,
+          "end": 1.44,
+          "jp": "で",
+          "prob": 0.998777449131012
+        },
+        {
+          "start": 1.44,
+          "end": 1.58,
+          "jp": "イ",
+          "prob": 0.369907945394516
+        },
+        {
+          "start": 1.58,
+          "end": 1.68,
+          "jp": "ラ",
+          "prob": 0.8425487875938416
+        },
+        {
+          "start": 1.68,
+          "end": 1.82,
+          "jp": "つ",
+          "prob": 0.7941224575042725
+        },
+        {
+          "start": 1.82,
+          "end": 1.92,
+          "jp": "く",
+          "prob": 0.9983711838722229
+        },
+        {
+          "start": 1.92,
+          "end": 2.14,
+          "jp": "ぜ!",
+          "prob": 0.9975374937057495
+        }
+      ],
+      "ko": "이놈 진짜 짜증 나네!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

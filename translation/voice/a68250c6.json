@@ -1,0 +1,47 @@
+{
+  "hash": "a68250c6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.679875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.679875,
+      "jp": "うわ、なんてことを",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.285625,
+          "jp": "うわ、",
+          "prob": 0.5159851312637329
+        },
+        {
+          "start": 0.4856250000000002,
+          "end": 0.825625,
+          "jp": "なん",
+          "prob": 0.903096616268158
+        },
+        {
+          "start": 0.825625,
+          "end": 1.0256250000000002,
+          "jp": "て",
+          "prob": 0.989439070224762
+        },
+        {
+          "start": 1.0256250000000002,
+          "end": 1.285625,
+          "jp": "こと",
+          "prob": 0.9613611102104187
+        },
+        {
+          "start": 1.285625,
+          "end": 1.679875,
+          "jp": "を",
+          "prob": 0.17371638119220734
+        }
+      ],
+      "ko": "으악, 무슨 짓이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "29abc800",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.238625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.8625000000000007,
+      "jp": "逃げられない!助けてくれ!",
+      "ko": "도망칠 수가 없어! 살려 줘!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

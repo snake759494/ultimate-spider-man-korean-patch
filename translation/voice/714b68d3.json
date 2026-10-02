@@ -1,0 +1,15 @@
+{
+  "hash": "714b68d3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.0963125,
+  "segments": [
+    {
+      "start": 0.25924999999999976,
+      "end": 1.8392499999999998,
+      "jp": "だち誰だか知ってんだろうな。",
+      "ko": "우리가 누군지는 알고 있겠지!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

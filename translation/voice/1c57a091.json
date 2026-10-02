@@ -1,0 +1,15 @@
+{
+  "hash": "1c57a091",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.3456875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.24,
+      "jp": "あばよミュータント妄想",
+      "ko": "뮤턴트라는 망상은 이제 안녕!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

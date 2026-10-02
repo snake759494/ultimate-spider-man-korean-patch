@@ -1,0 +1,35 @@
+{
+  "hash": "bdc291b8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.287375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.78,
+      "jp": "正気か!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.38,
+          "jp": "正",
+          "prob": 0.18714281916618347
+        },
+        {
+          "start": 0.38,
+          "end": 0.58,
+          "jp": "気",
+          "prob": 0.8682986497879028
+        },
+        {
+          "start": 0.58,
+          "end": 0.78,
+          "jp": "か!",
+          "prob": 0.9542757868766785
+        }
+      ],
+      "ko": "제정신이야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

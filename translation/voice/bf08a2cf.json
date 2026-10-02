@@ -1,0 +1,35 @@
+{
+  "hash": "bf08a2cf",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1263125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0113749999999975,
+      "jp": "なんだ、あれは?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3113749999999982,
+          "jp": "なんだ、",
+          "prob": 0.8094250559806824
+        },
+        {
+          "start": 0.6313749999999985,
+          "end": 0.7913749999999986,
+          "jp": "あれ",
+          "prob": 0.9731863141059875
+        },
+        {
+          "start": 0.7913749999999986,
+          "end": 1.0113749999999975,
+          "jp": "は?",
+          "prob": 0.9931095838546753
+        }
+      ],
+      "ko": "저건 뭐야?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

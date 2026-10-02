@@ -1,0 +1,15 @@
+{
+  "hash": "8d70e604",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8711875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.8711875,
+      "jp": "ヘリ部隊同高度にいるぞ",
+      "ko": "헬기 부대, 같은 고도에 있다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

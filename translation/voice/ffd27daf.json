@@ -1,0 +1,35 @@
+{
+  "hash": "ffd27daf",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0420625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6,
+      "jp": "やられた!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26,
+          "jp": "や",
+          "prob": 0.8033685684204102
+        },
+        {
+          "start": 0.26,
+          "end": 0.36,
+          "jp": "ら",
+          "prob": 0.9177488088607788
+        },
+        {
+          "start": 0.36,
+          "end": 0.6,
+          "jp": "れた!",
+          "prob": 0.9917062520980835
+        }
+      ],
+      "ko": "당했다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

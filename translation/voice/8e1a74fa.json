@@ -1,0 +1,15 @@
+{
+  "hash": "8e1a74fa",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.4770625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.4770625,
+      "jp": " ああこうやるんだ",
+      "ko": "아, 이렇게 하는 거야."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

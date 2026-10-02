@@ -1,0 +1,29 @@
+{
+  "hash": "fb974cfd",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.4878125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.37849999999999984,
+      "jp": "勝った!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.13849999999999962,
+          "jp": "勝",
+          "prob": 0.842156171798706
+        },
+        {
+          "start": 0.13849999999999962,
+          "end": 0.37849999999999984,
+          "jp": "った!",
+          "prob": 0.9965119957923889
+        }
+      ],
+      "ko": "이겼다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

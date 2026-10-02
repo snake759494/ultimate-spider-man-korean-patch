@@ -1,0 +1,53 @@
+{
+  "hash": "1919a403",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.292625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.292625,
+      "jp": "ナイスだぜー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3,
+          "jp": "ナ",
+          "prob": 0.8804343938827515
+        },
+        {
+          "start": 0.3,
+          "end": 0.44,
+          "jp": "イ",
+          "prob": 0.9936214089393616
+        },
+        {
+          "start": 0.44,
+          "end": 0.58,
+          "jp": "ス",
+          "prob": 0.9925948977470398
+        },
+        {
+          "start": 0.58,
+          "end": 0.74,
+          "jp": "だ",
+          "prob": 0.9816995859146118
+        },
+        {
+          "start": 0.74,
+          "end": 0.92,
+          "jp": "ぜ",
+          "prob": 0.979022204875946
+        },
+        {
+          "start": 0.92,
+          "end": 1.292625,
+          "jp": "ー!",
+          "prob": 0.07321400195360184
+        }
+      ],
+      "ko": "잘했어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

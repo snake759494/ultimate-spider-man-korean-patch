@@ -1,0 +1,41 @@
+{
+  "hash": "c52f8367",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.98725,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7540624999999999,
+      "jp": "なにをする!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.27406249999999943,
+          "jp": "な",
+          "prob": 0.2689146399497986
+        },
+        {
+          "start": 0.27406249999999943,
+          "end": 0.45406250000000004,
+          "jp": "に",
+          "prob": 0.9253432154655457
+        },
+        {
+          "start": 0.45406250000000004,
+          "end": 0.5340625000000001,
+          "jp": "を",
+          "prob": 0.9519872665405273
+        },
+        {
+          "start": 0.5340625000000001,
+          "end": 0.7540624999999999,
+          "jp": "する!",
+          "prob": 0.985795259475708
+        }
+      ],
+      "ko": "뭐 하는 거야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "2f27813b",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.584,
+  "segments": [
+    {
+      "start": 0.38318749999999824,
+      "end": 1.1431874999999998,
+      "jp": "燃えろ",
+      "ko": "불타라!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "64f4ce66",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1553125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.029687500000005,
+      "jp": "ちびったわ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28968750000000654,
+          "jp": "ち",
+          "prob": 0.5028207302093506
+        },
+        {
+          "start": 0.28968750000000654,
+          "end": 0.5096875000000054,
+          "jp": "び",
+          "prob": 0.8208869695663452
+        },
+        {
+          "start": 0.5096875000000054,
+          "end": 0.7496875000000038,
+          "jp": "った",
+          "prob": 0.8657434582710266
+        },
+        {
+          "start": 0.7496875000000038,
+          "end": 1.029687500000005,
+          "jp": "わ",
+          "prob": 0.9757336974143982
+        }
+      ],
+      "ko": "지렸어."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

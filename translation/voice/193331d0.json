@@ -1,0 +1,35 @@
+{
+  "hash": "193331d0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3696875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.3645625,
+      "jp": "いけー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3645624999999999,
+          "jp": "い",
+          "prob": 0.6324895024299622
+        },
+        {
+          "start": 0.3645624999999999,
+          "end": 0.6245624999999997,
+          "jp": "け",
+          "prob": 0.9074663519859314
+        },
+        {
+          "start": 0.6245624999999997,
+          "end": 1.3645625,
+          "jp": "ー!",
+          "prob": 0.8564224243164062
+        }
+      ],
+      "ko": "가라!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

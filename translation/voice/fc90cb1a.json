@@ -1,0 +1,15 @@
+{
+  "hash": "fc90cb1a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0925625,
+  "segments": [
+    {
+      "start": 0.08262500000000017,
+      "end": 1.0925625,
+      "jp": "どこへ行きやがった?",
+      "ko": "어디로 간 거야?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

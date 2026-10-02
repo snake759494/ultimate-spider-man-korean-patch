@@ -1,0 +1,15 @@
+{
+  "hash": "38d82841",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.099125,
+  "segments": [
+    {
+      "start": 0.4294374999999997,
+      "end": 3.099125,
+      "jp": "これが、ニューヨークに住む大ゴミね",
+      "ko": "이게 뉴욕에 사는 묘미지."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

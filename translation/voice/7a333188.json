@@ -1,0 +1,35 @@
+{
+  "hash": "7a333188",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9523125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7494375000000009,
+      "jp": "降りろ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.4294375000000006,
+          "jp": "降",
+          "prob": 0.39616918563842773
+        },
+        {
+          "start": 0.4294375000000006,
+          "end": 0.4894375000000011,
+          "jp": "り",
+          "prob": 0.9949199557304382
+        },
+        {
+          "start": 0.4894375000000011,
+          "end": 0.7494375000000009,
+          "jp": "ろ!",
+          "prob": 0.9856123924255371
+        }
+      ],
+      "ko": "내려!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

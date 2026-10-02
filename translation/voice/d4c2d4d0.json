@@ -1,0 +1,15 @@
+{
+  "hash": "d4c2d4d0",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.3463125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.22,
+      "jp": "昨日の晩、寒風アクション映画を見てね!",
+      "ko": "어젯밤에 쿵후 액션 영화를 봤거든!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

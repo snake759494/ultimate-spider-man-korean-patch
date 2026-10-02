@@ -1,0 +1,41 @@
+{
+  "hash": "688fd7e9",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.2514375,
+  "segments": [
+    {
+      "start": 0.06475000000000009,
+      "end": 1.0447500000000005,
+      "jp": "来るなぁ!",
+      "words": [
+        {
+          "start": 0.06475000000000009,
+          "end": 0.4247500000000013,
+          "jp": "来",
+          "prob": 0.3202436864376068
+        },
+        {
+          "start": 0.4247500000000013,
+          "end": 0.6447500000000002,
+          "jp": "る",
+          "prob": 0.9883528351783752
+        },
+        {
+          "start": 0.6447500000000002,
+          "end": 0.8047500000000003,
+          "jp": "な",
+          "prob": 0.9571935534477234
+        },
+        {
+          "start": 0.8047500000000003,
+          "end": 1.0447500000000005,
+          "jp": "ぁ!",
+          "prob": 0.24724800884723663
+        }
+      ],
+      "ko": "오지 마!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

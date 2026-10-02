@@ -1,0 +1,15 @@
+{
+  "hash": "d1b22e38",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8840625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7963124999999991,
+      "jp": "マスク?",
+      "ko": "가면?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

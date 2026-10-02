@@ -1,0 +1,15 @@
+{
+  "hash": "d0a17136",
+  "duration": 25.1295625,
+  "segments": [
+    {
+      "start": 12.37,
+      "end": 14.75,
+      "jp": "サンプルが必要だ",
+      "logprob": -0.3497402776371349,
+      "no_speech": 0.19973263144493103,
+      "ko": "샘플이 필요하다."
+    }
+  ],
+  "status": "draft_asr_review_required"
+}

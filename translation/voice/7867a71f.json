@@ -1,0 +1,15 @@
+{
+  "hash": "7867a71f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.0741875,
+  "segments": [
+    {
+      "start": 0.19768750000000068,
+      "end": 2.0741875,
+      "jp": "誰か電話を!誰か!",
+      "ko": "누가 전화 좀 해 줘! 누구든!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

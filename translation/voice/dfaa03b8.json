@@ -1,0 +1,15 @@
+{
+  "hash": "dfaa03b8",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.7500625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.64,
+      "jp": "ダーツのせいで脳がぐるぐるいってる",
+      "ko": "마취침 때문에 머리가 빙빙 돌아."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

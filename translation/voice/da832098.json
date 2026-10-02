@@ -1,0 +1,35 @@
+{
+  "hash": "da832098",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.8865,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.6957499999999985,
+      "jp": "くっそ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.11574999999999847,
+          "jp": "く",
+          "prob": 0.2977677881717682
+        },
+        {
+          "start": 0.11574999999999847,
+          "end": 0.2757499999999986,
+          "jp": "っ",
+          "prob": 0.6471821665763855
+        },
+        {
+          "start": 0.2757499999999986,
+          "end": 0.6957499999999985,
+          "jp": "そ!",
+          "prob": 0.9475514888763428
+        }
+      ],
+      "ko": "젠장!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

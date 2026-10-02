@@ -1,0 +1,17 @@
+{
+  "passed": true,
+  "source_sha256": "7da100f5de55cf6ee0a877ebb9d87a6ab03836fc41b9e31353604aa49e5c18b0",
+  "scope": "Native host tests of actual runtime logic; these tests do not validate PS2 ABI or hardware",
+  "cases": [
+    "priority",
+    "full queue",
+    "replacement",
+    "missing hash",
+    "loading",
+    "pause",
+    "resume",
+    "stop",
+    "source reuse",
+    "expiry"
+  ]
+}

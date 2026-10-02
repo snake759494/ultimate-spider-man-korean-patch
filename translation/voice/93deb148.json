@@ -1,0 +1,35 @@
+{
+  "hash": "93deb148",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.42875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.42,
+      "jp": "…寒い",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28,
+          "jp": "…",
+          "prob": 0.02461031638085842
+        },
+        {
+          "start": 0.28,
+          "end": 0.82,
+          "jp": "寒",
+          "prob": 0.7432319521903992
+        },
+        {
+          "start": 0.82,
+          "end": 1.42,
+          "jp": "い",
+          "prob": 0.9894641637802124
+        }
+      ],
+      "ko": "추워..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

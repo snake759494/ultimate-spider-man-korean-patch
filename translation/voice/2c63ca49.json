@@ -1,0 +1,29 @@
+{
+  "hash": "2c63ca49",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.893875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5273750000000028,
+      "jp": "やった!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24737500000000523,
+          "jp": "や",
+          "prob": 0.2312028557062149
+        },
+        {
+          "start": 0.24737500000000523,
+          "end": 0.5273750000000028,
+          "jp": "った!",
+          "prob": 0.9979731440544128
+        }
+      ],
+      "ko": "해냈어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

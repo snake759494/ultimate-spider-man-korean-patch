@@ -1,0 +1,15 @@
+{
+  "hash": "0ae0b7f6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.60275,
+  "segments": [
+    {
+      "start": 0.0521250000000002,
+      "end": 1.60275,
+      "jp": "娘があんたの大ファンだよ",
+      "ko": "우리 딸이 네 열성 팬이야."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

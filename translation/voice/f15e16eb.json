@@ -1,0 +1,15 @@
+{
+  "hash": "f15e16eb",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 8.2221875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 8.06,
+      "jp": "一度くらいはさ、巨大なサイとかサソリじゃなくて、熊の着ぐるみを着て、ベアハッグをかけてくる敵とかいないもんかな?",
+      "ko": "한 번쯤은 거대한 코뿔소나 전갈 대신 곰 탈을 쓰고 껴안아 주는 적이 나타나면 안 되나?"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

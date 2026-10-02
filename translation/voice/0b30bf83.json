@@ -1,0 +1,15 @@
+{
+  "hash": "0b30bf83",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.729625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.729625,
+      "jp": "お前はこっち、俺は向こうへ",
+      "ko": "넌 이쪽, 난 저쪽으로 간다."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

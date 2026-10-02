@@ -1,0 +1,35 @@
+{
+  "hash": "0541e4ab",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.1443125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5485000000000007,
+      "jp": "ダメだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2085000000000008,
+          "jp": "ダ",
+          "prob": 0.5506749153137207
+        },
+        {
+          "start": 0.2085000000000008,
+          "end": 0.3885000000000005,
+          "jp": "メ",
+          "prob": 0.9976933598518372
+        },
+        {
+          "start": 0.3885000000000005,
+          "end": 0.5485000000000007,
+          "jp": "だ!",
+          "prob": 0.9951635599136353
+        }
+      ],
+      "ko": "안 돼..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

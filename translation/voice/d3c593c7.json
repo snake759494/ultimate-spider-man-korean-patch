@@ -1,0 +1,15 @@
+{
+  "hash": "d3c593c7",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0141875,
+  "segments": [
+    {
+      "start": 0.07881249999999973,
+      "end": 0.9188124999999996,
+      "jp": "見えない!",
+      "ko": "안 보여!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

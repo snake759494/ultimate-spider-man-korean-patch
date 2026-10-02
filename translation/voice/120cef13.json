@@ -1,0 +1,15 @@
+{
+  "hash": "120cef13",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.437125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.36,
+      "jp": "ギッタギタにしてやれ!",
+      "ko": "박살 내 줘!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

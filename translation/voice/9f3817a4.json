@@ -1,0 +1,15 @@
+{
+  "hash": "9f3817a4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.1260625,
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 2.1260625,
+      "jp": "あのマスクを!",
+      "ko": "저 가면을!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

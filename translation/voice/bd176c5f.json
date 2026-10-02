@@ -1,0 +1,15 @@
+{
+  "hash": "bd176c5f",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.7175,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.68,
+      "jp": "来るぞー!",
+      "ko": "온다!"
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

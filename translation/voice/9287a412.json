@@ -1,0 +1,29 @@
+{
+  "hash": "9287a412",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.01125,
+  "segments": [
+    {
+      "start": 0.02,
+      "end": 0.74,
+      "jp": "痛え!",
+      "words": [
+        {
+          "start": 0.02,
+          "end": 0.38,
+          "jp": "痛",
+          "prob": 0.32750624418258667
+        },
+        {
+          "start": 0.38,
+          "end": 0.74,
+          "jp": "え!",
+          "prob": 0.048803407698869705
+        }
+      ],
+      "ko": "아야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "37d25258",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.762125,
+  "segments": [
+    {
+      "start": 0.14231250000000006,
+      "end": 1.7423125000000006,
+      "jp": "俺の獲物だ!",
+      "ko": "내 사냥감이다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

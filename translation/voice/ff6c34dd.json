@@ -1,0 +1,41 @@
+{
+  "hash": "ff6c34dd",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.196125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.196125,
+      "jp": "ちくしょー",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2527500000000025,
+          "jp": "ち",
+          "prob": 0.6954253911972046
+        },
+        {
+          "start": 0.2527500000000025,
+          "end": 0.4727500000000049,
+          "jp": "く",
+          "prob": 0.6586940288543701
+        },
+        {
+          "start": 0.4727500000000049,
+          "end": 0.8127500000000047,
+          "jp": "しょ",
+          "prob": 0.9395018219947815
+        },
+        {
+          "start": 0.8127500000000047,
+          "end": 1.196125,
+          "jp": "ー",
+          "prob": 0.943988561630249
+        }
+      ],
+      "ko": "젠장!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

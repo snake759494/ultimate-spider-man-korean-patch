@@ -1,0 +1,41 @@
+{
+  "hash": "9c1c9fd4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7765625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7765625,
+      "jp": "てしゅう!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.16725000000000012,
+          "jp": "て",
+          "prob": 0.9358319640159607
+        },
+        {
+          "start": 0.16725000000000012,
+          "end": 0.3272499999999998,
+          "jp": "し",
+          "prob": 0.9914546012878418
+        },
+        {
+          "start": 0.3272499999999998,
+          "end": 0.4272499999999999,
+          "jp": "ゅ",
+          "prob": 0.9987765848636627
+        },
+        {
+          "start": 0.4272499999999999,
+          "end": 0.7765625,
+          "jp": "う!",
+          "prob": 0.9077681303024292
+        }
+      ],
+      "ko": "철수!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

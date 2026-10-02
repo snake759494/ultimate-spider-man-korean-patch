@@ -1,0 +1,29 @@
+{
+  "hash": "f64052d6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.71,
+  "segments": [
+    {
+      "start": 0.08,
+      "end": 0.54,
+      "jp": "失敗!",
+      "words": [
+        {
+          "start": 0.08,
+          "end": 0.3,
+          "jp": "失",
+          "prob": 0.40264570713043213
+        },
+        {
+          "start": 0.3,
+          "end": 0.54,
+          "jp": "敗!",
+          "prob": 0.9974402487277985
+        }
+      ],
+      "ko": "실패!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

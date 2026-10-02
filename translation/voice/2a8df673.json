@@ -1,0 +1,15 @@
+{
+  "hash": "2a8df673",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0449375,
+  "segments": [
+    {
+      "start": 0.26293750000000005,
+      "end": 1.0449375,
+      "jp": "もう終わりだ!",
+      "ko": "이젠 끝이야!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

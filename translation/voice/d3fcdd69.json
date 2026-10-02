@@ -1,0 +1,29 @@
+{
+  "hash": "d3fcdd69",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9389375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.557875000000001,
+      "jp": "急げ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2978750000000012,
+          "jp": "急",
+          "prob": 0.8531413674354553
+        },
+        {
+          "start": 0.2978750000000012,
+          "end": 0.557875000000001,
+          "jp": "げ!",
+          "prob": 0.9982237219810486
+        }
+      ],
+      "ko": "서둘러!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

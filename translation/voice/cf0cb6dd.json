@@ -1,0 +1,35 @@
+{
+  "hash": "cf0cb6dd",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.666,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5118125000000004,
+      "jp": "どこに?",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.13181250000000055,
+          "jp": "ど",
+          "prob": 0.18611307442188263
+        },
+        {
+          "start": 0.13181250000000055,
+          "end": 0.31181250000000027,
+          "jp": "こ",
+          "prob": 0.9968956708908081
+        },
+        {
+          "start": 0.31181250000000027,
+          "end": 0.5118125000000004,
+          "jp": "に?",
+          "prob": 0.9985406398773193
+        }
+      ],
+      "ko": "어디에?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

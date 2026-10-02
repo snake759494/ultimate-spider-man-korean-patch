@@ -1,0 +1,15 @@
+{
+  "hash": "22ede9c3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6700625,
+  "segments": [
+    {
+      "start": 1.1360625000000013,
+      "end": 1.6700625,
+      "jp": "どうよ!",
+      "ko": "어떠냐!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

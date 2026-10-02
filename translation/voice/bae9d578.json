@@ -1,0 +1,15 @@
+{
+  "hash": "bae9d578",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9025,
+  "segments": [
+    {
+      "start": 0.10093750000000057,
+      "end": 0.9025,
+      "jp": "早く来い",
+      "ko": "빨리 와!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

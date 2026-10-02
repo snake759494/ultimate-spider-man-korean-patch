@@ -1,0 +1,65 @@
+{
+  "hash": "8a2b2f85",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.57775,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.44,
+      "jp": "全員退避!これは命令だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.28,
+          "jp": "全",
+          "prob": 0.7133809328079224
+        },
+        {
+          "start": 0.28,
+          "end": 0.48,
+          "jp": "員",
+          "prob": 0.9980751276016235
+        },
+        {
+          "start": 0.48,
+          "end": 0.74,
+          "jp": "退",
+          "prob": 0.398293673992157
+        },
+        {
+          "start": 0.74,
+          "end": 0.98,
+          "jp": "避!",
+          "prob": 0.5959926247596741
+        },
+        {
+          "start": 1.4,
+          "end": 1.76,
+          "jp": "これは",
+          "prob": 0.6939631104469299
+        },
+        {
+          "start": 1.76,
+          "end": 2.08,
+          "jp": "命",
+          "prob": 0.9869412779808044
+        },
+        {
+          "start": 2.08,
+          "end": 2.22,
+          "jp": "令",
+          "prob": 0.9987114667892456
+        },
+        {
+          "start": 2.22,
+          "end": 2.44,
+          "jp": "だ!",
+          "prob": 0.9937126040458679
+        }
+      ],
+      "ko": "전원 대피! 명령이다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

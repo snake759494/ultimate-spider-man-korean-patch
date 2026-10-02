@@ -1,0 +1,15 @@
+{
+  "hash": "e81afeaf",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 4.048875,
+  "segments": [
+    {
+      "start": 0.009562499999999918,
+      "end": 4.048875,
+      "jp": "俺って超イカッスとか思ってんだろうが、貴様なんぞただの腰抜けだ!",
+      "ko": "네가 엄청 멋지다고 생각하겠지만, 넌 그냥 겁쟁이야!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

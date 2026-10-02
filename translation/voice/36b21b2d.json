@@ -1,0 +1,35 @@
+{
+  "hash": "36b21b2d",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.934625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7356875,
+      "jp": "ダメだ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3156875000000001,
+          "jp": "ダ",
+          "prob": 0.46542325615882874
+        },
+        {
+          "start": 0.3156875000000001,
+          "end": 0.4356875000000002,
+          "jp": "メ",
+          "prob": 0.9961775541305542
+        },
+        {
+          "start": 0.4356875000000002,
+          "end": 0.7356875,
+          "jp": "だ!",
+          "prob": 0.9911442399024963
+        }
+      ],
+      "ko": "안 돼..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

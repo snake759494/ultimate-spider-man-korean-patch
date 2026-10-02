@@ -1,0 +1,15 @@
+{
+  "hash": "1ba2d3e4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2640625,
+  "segments": [
+    {
+      "start": 0.3342500000000008,
+      "end": 1.2640625,
+      "jp": "女を撃つぞ!",
+      "ko": "여자를 쏘겠다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

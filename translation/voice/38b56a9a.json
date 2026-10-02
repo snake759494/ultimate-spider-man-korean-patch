@@ -1,0 +1,15 @@
+{
+  "hash": "38b56a9a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 4.1905625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 4.18,
+      "jp": "いやいや、その、何か盗まれたりしないように見てただけです",
+      "ko": "아니, 그게, 누가 훔쳐 가지 못하게 지켜보고 있었을 뿐이에요."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

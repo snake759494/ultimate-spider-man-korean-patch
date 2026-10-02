@@ -1,0 +1,15 @@
+{
+  "hash": "179165b1",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.3686875,
+  "segments": [
+    {
+      "start": 0.2026874999999997,
+      "end": 1.3686875,
+      "jp": "わかった、降参だ",
+      "ko": "알았어, 항복이야."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

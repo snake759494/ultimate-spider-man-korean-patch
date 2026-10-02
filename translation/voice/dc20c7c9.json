@@ -1,0 +1,15 @@
+{
+  "hash": "dc20c7c9",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.5585625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.5585625,
+      "jp": "逃げろ!",
+      "ko": "도망쳐!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

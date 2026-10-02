@@ -1,0 +1,15 @@
+{
+  "hash": "648d754f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.618125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.618125,
+      "jp": "だからカメは嫌いなんだよ",
+      "ko": "이래서 거북이는 싫다니까."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_dictionary_individual_asr"
+}

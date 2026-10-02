@@ -1,0 +1,15 @@
+{
+  "hash": "b2748739",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.03375,
+  "segments": [
+    {
+      "start": 0.2364374999999992,
+      "end": 2.03375,
+      "jp": "こんなの、予定と違うぞ!",
+      "ko": "이건 계획과 다르잖아!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

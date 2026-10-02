@@ -1,0 +1,15 @@
+{
+  "hash": "dfcbfcfb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.858875,
+  "segments": [
+    {
+      "start": 0.13187500000000085,
+      "end": 2.791875000000001,
+      "jp": "これで食ってるんだ、お前の側馬なんか知ったことか?",
+      "ko": "난 이걸로 먹고살아. 네 직장 따위 내 알 바 아냐."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

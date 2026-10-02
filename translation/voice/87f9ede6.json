@@ -1,0 +1,15 @@
+{
+  "hash": "87f9ede6",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.53375,
+  "segments": [
+    {
+      "start": 0.905125,
+      "end": 2.53375,
+      "jp": "本当にこの街頭に来るわ!",
+      "ko": "정말이지 이 도시는 화가 난다니까!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

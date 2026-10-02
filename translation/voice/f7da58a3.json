@@ -1,0 +1,15 @@
+{
+  "hash": "f7da58a3",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0965625,
+  "segments": [
+    {
+      "start": 0.2553750000000008,
+      "end": 1.0965625,
+      "jp": "いやだ、頼むよ!",
+      "ko": "싫어, 부탁이야!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

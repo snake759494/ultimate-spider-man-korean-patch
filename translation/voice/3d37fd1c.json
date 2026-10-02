@@ -1,0 +1,15 @@
+{
+  "hash": "3d37fd1c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.725375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.725375,
+      "jp": "ドカンだ!",
+      "ko": "꽝이다!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

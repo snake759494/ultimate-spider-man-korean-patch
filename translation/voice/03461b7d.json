@@ -1,0 +1,15 @@
+{
+  "hash": "03461b7d",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.5036875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.5036875,
+      "jp": "あのヘタレをと捕まえろ",
+      "ko": "저 겁쟁이를 잡아!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

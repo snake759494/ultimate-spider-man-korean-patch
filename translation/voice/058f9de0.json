@@ -1,0 +1,15 @@
+{
+  "hash": "058f9de0",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6033125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.6033125,
+      "jp": "都市伝説じゃなかったのか",
+      "ko": "도시 전설이 아니었어?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

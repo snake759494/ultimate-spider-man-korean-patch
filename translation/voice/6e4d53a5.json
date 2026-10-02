@@ -1,0 +1,65 @@
+{
+  "hash": "6e4d53a5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.505125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.26,
+      "jp": "体をへし寄ってやれ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26,
+          "jp": "体",
+          "prob": 0.6787378191947937
+        },
+        {
+          "start": 0.26,
+          "end": 0.5,
+          "jp": "を",
+          "prob": 0.9954113364219666
+        },
+        {
+          "start": 0.5,
+          "end": 0.66,
+          "jp": "へ",
+          "prob": 0.5763770341873169
+        },
+        {
+          "start": 0.66,
+          "end": 0.8,
+          "jp": "し",
+          "prob": 0.9901155233383179
+        },
+        {
+          "start": 0.8,
+          "end": 0.88,
+          "jp": "寄",
+          "prob": 0.8173550069332123
+        },
+        {
+          "start": 0.88,
+          "end": 1.04,
+          "jp": "って",
+          "prob": 0.9886921644210815
+        },
+        {
+          "start": 1.04,
+          "end": 1.14,
+          "jp": "や",
+          "prob": 0.9659020304679871
+        },
+        {
+          "start": 1.14,
+          "end": 1.26,
+          "jp": "れ!",
+          "prob": 0.7820399403572083
+        }
+      ],
+      "ko": "온몸을 부러뜨려!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

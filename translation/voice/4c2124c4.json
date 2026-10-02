@@ -1,0 +1,65 @@
+{
+  "hash": "4c2124c4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.8671875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.58,
+      "jp": "妹たちに言わなくちゃ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.4,
+          "jp": "妹",
+          "prob": 0.3716123104095459
+        },
+        {
+          "start": 0.4,
+          "end": 0.74,
+          "jp": "た",
+          "prob": 0.7269032001495361
+        },
+        {
+          "start": 0.74,
+          "end": 0.84,
+          "jp": "ち",
+          "prob": 0.9967918992042542
+        },
+        {
+          "start": 0.84,
+          "end": 0.94,
+          "jp": "に",
+          "prob": 0.8523601293563843
+        },
+        {
+          "start": 0.94,
+          "end": 1.08,
+          "jp": "言",
+          "prob": 0.9695720076560974
+        },
+        {
+          "start": 1.08,
+          "end": 1.24,
+          "jp": "わ",
+          "prob": 0.9825595617294312
+        },
+        {
+          "start": 1.24,
+          "end": 1.36,
+          "jp": "なく",
+          "prob": 0.9165580868721008
+        },
+        {
+          "start": 1.36,
+          "end": 1.58,
+          "jp": "ちゃ",
+          "prob": 0.9759365320205688
+        }
+      ],
+      "ko": "여동생들한테 말해야겠어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

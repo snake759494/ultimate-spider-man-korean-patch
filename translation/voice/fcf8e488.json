@@ -1,0 +1,35 @@
+{
+  "hash": "fcf8e488",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8550625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7699999999999996,
+      "jp": "イエス!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.23000000000000043,
+          "jp": "イ",
+          "prob": 0.06452575325965881
+        },
+        {
+          "start": 0.23000000000000043,
+          "end": 0.4299999999999997,
+          "jp": "エ",
+          "prob": 0.8200476169586182
+        },
+        {
+          "start": 0.4299999999999997,
+          "end": 0.7699999999999996,
+          "jp": "ス!",
+          "prob": 0.5875453352928162
+        }
+      ],
+      "ko": "좋았어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

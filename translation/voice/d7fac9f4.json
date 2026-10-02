@@ -1,0 +1,53 @@
+{
+  "hash": "d7fac9f4",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.2373125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.06,
+      "jp": "やめさせないと",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.24,
+          "jp": "や",
+          "prob": 0.5679436922073364
+        },
+        {
+          "start": 0.24,
+          "end": 0.38,
+          "jp": "め",
+          "prob": 0.9842720031738281
+        },
+        {
+          "start": 0.38,
+          "end": 0.56,
+          "jp": "さ",
+          "prob": 0.9930094480514526
+        },
+        {
+          "start": 0.56,
+          "end": 0.68,
+          "jp": "せ",
+          "prob": 0.9989655017852783
+        },
+        {
+          "start": 0.68,
+          "end": 0.86,
+          "jp": "ない",
+          "prob": 0.9920654892921448
+        },
+        {
+          "start": 0.86,
+          "end": 1.06,
+          "jp": "と",
+          "prob": 0.9910773038864136
+        }
+      ],
+      "ko": "막아야겠어."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

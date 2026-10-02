@@ -1,0 +1,41 @@
+{
+  "hash": "ff215c8f",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.21375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.1008749999999985,
+      "jp": "これはまずいな",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.3608749999999965,
+          "jp": "これは",
+          "prob": 0.5916429162025452
+        },
+        {
+          "start": 0.3608749999999965,
+          "end": 0.7608749999999951,
+          "jp": "まず",
+          "prob": 0.7629741430282593
+        },
+        {
+          "start": 0.7608749999999951,
+          "end": 0.9608749999999979,
+          "jp": "い",
+          "prob": 0.978532612323761
+        },
+        {
+          "start": 0.9608749999999979,
+          "end": 1.1008749999999985,
+          "jp": "な",
+          "prob": 0.9808827042579651
+        }
+      ],
+      "ko": "이거 큰일인데."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

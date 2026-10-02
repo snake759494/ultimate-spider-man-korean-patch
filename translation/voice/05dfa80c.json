@@ -1,0 +1,15 @@
+{
+  "hash": "05dfa80c",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.659375,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.659375,
+      "jp": "最初から勝負は見えている",
+      "ko": "처음부터 승부는 뻔했어."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

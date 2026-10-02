@@ -1,0 +1,41 @@
+{
+  "hash": "9e70907e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.990625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.990625,
+      "jp": "もう限界だ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.287250000000002,
+          "jp": "もう",
+          "prob": 0.940302312374115
+        },
+        {
+          "start": 0.287250000000002,
+          "end": 0.4672500000000017,
+          "jp": "限",
+          "prob": 0.6764070391654968
+        },
+        {
+          "start": 0.4672500000000017,
+          "end": 0.667250000000001,
+          "jp": "界",
+          "prob": 0.9915980100631714
+        },
+        {
+          "start": 0.667250000000001,
+          "end": 0.990625,
+          "jp": "だ!",
+          "prob": 0.9921255707740784
+        }
+      ],
+      "ko": "이젠 한계야!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

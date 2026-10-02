@@ -1,0 +1,41 @@
+{
+  "hash": "b12c2599",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9948125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.9653750000000016,
+      "jp": "ていうか…",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.1853750000000005,
+          "jp": "て",
+          "prob": 0.1421917974948883
+        },
+        {
+          "start": 0.1853750000000005,
+          "end": 0.4253750000000007,
+          "jp": "いう",
+          "prob": 0.7092512249946594
+        },
+        {
+          "start": 0.4253750000000007,
+          "end": 0.6653750000000009,
+          "jp": "か",
+          "prob": 0.9989864230155945
+        },
+        {
+          "start": 0.6653750000000009,
+          "end": 0.9653750000000016,
+          "jp": "…",
+          "prob": 0.5467801690101624
+        }
+      ],
+      "ko": "그런데 말이야..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

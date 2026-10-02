@@ -1,0 +1,65 @@
+{
+  "hash": "3e595469",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2526875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.18,
+      "jp": "見つかる前に急げ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.16,
+          "jp": "見",
+          "prob": 0.8266878128051758
+        },
+        {
+          "start": 0.16,
+          "end": 0.28,
+          "jp": "つ",
+          "prob": 0.99030601978302
+        },
+        {
+          "start": 0.28,
+          "end": 0.38,
+          "jp": "か",
+          "prob": 0.9715259671211243
+        },
+        {
+          "start": 0.38,
+          "end": 0.48,
+          "jp": "る",
+          "prob": 0.9987233281135559
+        },
+        {
+          "start": 0.48,
+          "end": 0.62,
+          "jp": "前",
+          "prob": 0.979194700717926
+        },
+        {
+          "start": 0.62,
+          "end": 0.78,
+          "jp": "に",
+          "prob": 0.998532772064209
+        },
+        {
+          "start": 0.78,
+          "end": 0.96,
+          "jp": "急",
+          "prob": 0.836022675037384
+        },
+        {
+          "start": 0.96,
+          "end": 1.18,
+          "jp": "げ",
+          "prob": 0.996918797492981
+        }
+      ],
+      "ko": "들키기 전에 서둘러!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

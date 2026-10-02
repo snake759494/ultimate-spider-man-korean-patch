@@ -1,0 +1,15 @@
+{
+  "hash": "fff645db",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.902125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.8000000000000003,
+      "jp": "悪役になってみようから才能あると思うんだよね",
+      "ko": "악당이나 해 볼까? 재능은 있는 것 같은데."
+    }
+  ],
+  "recognition": "kotoba_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

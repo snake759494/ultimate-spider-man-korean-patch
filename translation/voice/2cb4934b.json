@@ -1,0 +1,15 @@
+{
+  "hash": "2cb4934b",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 2.8533125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.8533125,
+      "jp": "疲れすぎたんなら、ゴールした後で迎えに行くからな",
+      "ko": "너무 지쳤으면 내가 결승선에 도착한 뒤 데리러 갈게."
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

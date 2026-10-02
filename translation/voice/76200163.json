@@ -1,0 +1,29 @@
+{
+  "hash": "76200163",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.9990625,
+  "segments": [
+    {
+      "start": 0.2290624999999995,
+      "end": 0.9990625,
+      "jp": "そんな…",
+      "words": [
+        {
+          "start": 0.2290624999999995,
+          "end": 0.7090624999999999,
+          "jp": "そんな",
+          "prob": 0.6291272044181824
+        },
+        {
+          "start": 0.7090624999999999,
+          "end": 0.9990625,
+          "jp": "…",
+          "prob": 0.37014612555503845
+        }
+      ],
+      "ko": "그럴 수가..."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

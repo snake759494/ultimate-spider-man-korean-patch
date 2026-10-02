@@ -1,0 +1,41 @@
+{
+  "hash": "85303499",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0001875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8221250000000033,
+      "jp": "さぁ引け!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2221250000000019,
+          "jp": "さ",
+          "prob": 0.7969762086868286
+        },
+        {
+          "start": 0.2221250000000019,
+          "end": 0.48212500000000347,
+          "jp": "ぁ",
+          "prob": 0.5114979147911072
+        },
+        {
+          "start": 0.48212500000000347,
+          "end": 0.6021250000000045,
+          "jp": "引",
+          "prob": 0.3430527150630951
+        },
+        {
+          "start": 0.6021250000000045,
+          "end": 0.8221250000000033,
+          "jp": "け!",
+          "prob": 0.9773938655853271
+        }
+      ],
+      "ko": "물러서!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,41 @@
+{
+  "hash": "72e88df2",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.010625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7190000000000003,
+      "jp": "覚悟しな!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.19899999999999984,
+          "jp": "覚",
+          "prob": 0.9405505657196045
+        },
+        {
+          "start": 0.19899999999999984,
+          "end": 0.4190000000000005,
+          "jp": "悟",
+          "prob": 0.9777827858924866
+        },
+        {
+          "start": 0.4190000000000005,
+          "end": 0.5590000000000002,
+          "jp": "し",
+          "prob": 0.966462254524231
+        },
+        {
+          "start": 0.5590000000000002,
+          "end": 0.7190000000000003,
+          "jp": "な!",
+          "prob": 0.9694808125495911
+        }
+      ],
+      "ko": "각오해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "0504427f",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 1.977125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.74,
+      "jp": "懐に飛び込んでも大丈夫そうだ",
+      "ko": "품 안으로 파고들어도 괜찮겠네."
+    }
+  ],
+  "recognition": "medium_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

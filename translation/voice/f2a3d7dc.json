@@ -1,0 +1,15 @@
+{
+  "hash": "f2a3d7dc",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.0430625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.8,
+      "jp": "あんたの絵柄のパジャマ持ってるんだ",
+      "ko": "나 너 그려진 잠옷 있어."
+    }
+  ],
+  "recognition": "kotoba_individual",
+  "status": "translated_from_individual_asr_context_checked"
+}

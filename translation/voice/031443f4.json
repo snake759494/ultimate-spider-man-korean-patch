@@ -1,0 +1,41 @@
+{
+  "hash": "031443f4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.159625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.04,
+      "jp": "倒れろよ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.32,
+          "jp": "倒",
+          "prob": 0.8733034729957581
+        },
+        {
+          "start": 0.32,
+          "end": 0.52,
+          "jp": "れ",
+          "prob": 0.7160736322402954
+        },
+        {
+          "start": 0.52,
+          "end": 0.66,
+          "jp": "ろ",
+          "prob": 0.9959267377853394
+        },
+        {
+          "start": 0.66,
+          "end": 1.04,
+          "jp": "よ",
+          "prob": 0.9764190912246704
+        }
+      ],
+      "ko": "쓰러져!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

@@ -1,0 +1,29 @@
+{
+  "hash": "0b527b13",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.674,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.4700000000000002,
+      "jp": "離せ!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.19000000000000017,
+          "jp": "離",
+          "prob": 0.773377537727356
+        },
+        {
+          "start": 0.19000000000000017,
+          "end": 0.4700000000000002,
+          "jp": "せ!",
+          "prob": 0.9373676180839539
+        }
+      ],
+      "ko": "놔!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

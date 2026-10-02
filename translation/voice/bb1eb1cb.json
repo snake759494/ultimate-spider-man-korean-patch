@@ -1,0 +1,23 @@
+{
+  "hash": "bb1eb1cb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.942,
+  "segments": [
+    {
+      "start": 0.051249999999999574,
+      "end": 0.4512500000000017,
+      "jp": "すごい!",
+      "words": [
+        {
+          "start": 0.051249999999999574,
+          "end": 0.4512500000000017,
+          "jp": "すごい!",
+          "prob": 0.7674485445022583
+        }
+      ],
+      "ko": "굉장해!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

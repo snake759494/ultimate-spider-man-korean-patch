@@ -1,0 +1,15 @@
+{
+  "hash": "65c38e95",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.0435625,
+  "segments": [
+    {
+      "start": 0.19406250000000025,
+      "end": 0.8940625,
+      "jp": "いやよ、やめて!",
+      "ko": "싫어, 그만해!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

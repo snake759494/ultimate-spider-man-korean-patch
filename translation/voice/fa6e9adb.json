@@ -1,0 +1,35 @@
+{
+  "hash": "fa6e9adb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2441875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0050624999999975,
+      "jp": "疲れたぜ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.30506249999999824,
+          "jp": "疲",
+          "prob": 0.8145438730716705
+        },
+        {
+          "start": 0.30506249999999824,
+          "end": 0.7450624999999995,
+          "jp": "れた",
+          "prob": 0.9702665209770203
+        },
+        {
+          "start": 0.7450624999999995,
+          "end": 1.0050624999999975,
+          "jp": "ぜ",
+          "prob": 0.6108008623123169
+        }
+      ],
+      "ko": "지쳤어."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

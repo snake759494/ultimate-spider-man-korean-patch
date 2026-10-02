@@ -1,0 +1,29 @@
+{
+  "hash": "19974c93",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.48275,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.30599999999999383,
+      "jp": "なに!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.18599999999999284,
+          "jp": "な",
+          "prob": 0.5392923355102539
+        },
+        {
+          "start": 0.18599999999999284,
+          "end": 0.30599999999999383,
+          "jp": "に!",
+          "prob": 0.9902904629707336
+        }
+      ],
+      "ko": "뭐?"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

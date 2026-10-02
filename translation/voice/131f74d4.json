@@ -1,0 +1,35 @@
+{
+  "hash": "131f74d4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8865,
+  "segments": [
+    {
+      "start": 0.07243749999999949,
+      "end": 0.512437499999999,
+      "jp": "下がれ!",
+      "words": [
+        {
+          "start": 0.07243749999999949,
+          "end": 0.2524374999999992,
+          "jp": "下",
+          "prob": 0.3087734580039978
+        },
+        {
+          "start": 0.2524374999999992,
+          "end": 0.3724374999999984,
+          "jp": "が",
+          "prob": 0.9801663756370544
+        },
+        {
+          "start": 0.3724374999999984,
+          "end": 0.512437499999999,
+          "jp": "れ!",
+          "prob": 0.9753309488296509
+        }
+      ],
+      "ko": "물러서!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

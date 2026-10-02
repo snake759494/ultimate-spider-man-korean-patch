@@ -1,0 +1,71 @@
+{
+  "hash": "3122b906",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.670875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.56,
+      "jp": "よっしゃ、この時を待ってたんだ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26,
+          "jp": "よ",
+          "prob": 0.8032868504524231
+        },
+        {
+          "start": 0.26,
+          "end": 0.4,
+          "jp": "っ",
+          "prob": 0.9810155630111694
+        },
+        {
+          "start": 0.4,
+          "end": 0.58,
+          "jp": "しゃ、",
+          "prob": 0.9974076151847839
+        },
+        {
+          "start": 1.16,
+          "end": 1.42,
+          "jp": "この",
+          "prob": 0.977721631526947
+        },
+        {
+          "start": 1.42,
+          "end": 1.68,
+          "jp": "時",
+          "prob": 0.9112418293952942
+        },
+        {
+          "start": 1.68,
+          "end": 1.88,
+          "jp": "を",
+          "prob": 0.9376939535140991
+        },
+        {
+          "start": 1.88,
+          "end": 2.16,
+          "jp": "待って",
+          "prob": 0.9723725914955139
+        },
+        {
+          "start": 2.16,
+          "end": 2.36,
+          "jp": "た",
+          "prob": 0.9574131369590759
+        },
+        {
+          "start": 2.36,
+          "end": 2.56,
+          "jp": "んだ",
+          "prob": 0.9680987000465393
+        }
+      ],
+      "ko": "좋아! 이 순간을 기다렸어!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

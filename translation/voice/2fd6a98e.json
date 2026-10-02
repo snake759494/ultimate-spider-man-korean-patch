@@ -1,0 +1,71 @@
+{
+  "hash": "2fd6a98e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 2.6710625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 2.6,
+      "jp": "いや、あれはすごい乱闘だったよ",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.34,
+          "jp": "いや、",
+          "prob": 0.8291420936584473
+        },
+        {
+          "start": 0.98,
+          "end": 1.18,
+          "jp": "あれ",
+          "prob": 0.7865886688232422
+        },
+        {
+          "start": 1.18,
+          "end": 1.28,
+          "jp": "は",
+          "prob": 0.9671211838722229
+        },
+        {
+          "start": 1.28,
+          "end": 1.64,
+          "jp": "すごい",
+          "prob": 0.7432568669319153
+        },
+        {
+          "start": 1.64,
+          "end": 1.9,
+          "jp": "乱",
+          "prob": 0.7674489319324493
+        },
+        {
+          "start": 1.9,
+          "end": 2.08,
+          "jp": "闘",
+          "prob": 0.6330918073654175
+        },
+        {
+          "start": 2.08,
+          "end": 2.22,
+          "jp": "だ",
+          "prob": 0.9959489107131958
+        },
+        {
+          "start": 2.22,
+          "end": 2.4,
+          "jp": "った",
+          "prob": 0.9839180707931519
+        },
+        {
+          "start": 2.4,
+          "end": 2.6,
+          "jp": "よ",
+          "prob": 0.9825118780136108
+        }
+      ],
+      "ko": "아니, 정말 엄청난 난투였어."
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

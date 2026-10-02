@@ -1,0 +1,15 @@
+{
+  "hash": "4fc2b3c2",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7600625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.7600625,
+      "jp": "見ろ、飛んでるぞ",
+      "ko": "봐, 날고 있어!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

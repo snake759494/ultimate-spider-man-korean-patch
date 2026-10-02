@@ -1,0 +1,35 @@
+{
+  "hash": "bde1839e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.647625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.647625,
+      "jp": "ママ…",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.22,
+          "jp": "マ",
+          "prob": 0.3661579489707947
+        },
+        {
+          "start": 0.22,
+          "end": 0.42,
+          "jp": "マ",
+          "prob": 0.9649417400360107
+        },
+        {
+          "start": 0.42,
+          "end": 0.647625,
+          "jp": "…",
+          "prob": 0.15182900428771973
+        }
+      ],
+      "ko": "엄마!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

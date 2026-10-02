@@ -1,0 +1,15 @@
+{
+  "hash": "a1ec03a8",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 3.2063125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 3.2063125,
+      "jp": "あら、スパイダーマン?じゃなくてトラップスだ!",
+      "ko": "어머, 스파이더맨? 아니, 트랩스터구나!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_from_medium_batch_context_checked_audio_review_required"
+}

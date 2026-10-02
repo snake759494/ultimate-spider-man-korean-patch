@@ -1,0 +1,35 @@
+{
+  "hash": "3daa6694",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.38125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.0716249999999974,
+      "jp": "ああ、神様!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.23162499999999753,
+          "jp": "ああ、",
+          "prob": 0.2022971659898758
+        },
+        {
+          "start": 0.5316249999999947,
+          "end": 0.7716249999999967,
+          "jp": "神",
+          "prob": 0.9833125472068787
+        },
+        {
+          "start": 0.7716249999999967,
+          "end": 1.0716249999999974,
+          "jp": "様!",
+          "prob": 0.9798929691314697
+        }
+      ],
+      "ko": "아, 맙소사!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

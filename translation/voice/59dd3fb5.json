@@ -1,0 +1,15 @@
+{
+  "hash": "59dd3fb5",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.2884375,
+  "segments": [
+    {
+      "start": 0.3161250000000031,
+      "end": 1.2884375,
+      "jp": "楽勝だな!",
+      "ko": "식은 죽 먹기군!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "394f6523",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.8876875,
+  "segments": [
+    {
+      "start": 0.03481249999999747,
+      "end": 0.7548124999999963,
+      "jp": "これでも食らえ!",
+      "ko": "이것도 받아라!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

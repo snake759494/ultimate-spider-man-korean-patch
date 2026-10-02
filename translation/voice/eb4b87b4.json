@@ -1,0 +1,35 @@
+{
+  "hash": "eb4b87b4",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.7678125,
+  "segments": [
+    {
+      "start": 0.775875000000001,
+      "end": 1.4958750000000007,
+      "jp": "早いぞ!",
+      "words": [
+        {
+          "start": 0.775875000000001,
+          "end": 1.1358750000000004,
+          "jp": "早",
+          "prob": 0.23729510605335236
+        },
+        {
+          "start": 1.1358750000000004,
+          "end": 1.3558750000000002,
+          "jp": "い",
+          "prob": 0.993943989276886
+        },
+        {
+          "start": 1.3558750000000002,
+          "end": 1.4958750000000007,
+          "jp": "ぞ!",
+          "prob": 0.977235734462738
+        }
+      ],
+      "ko": "빠르다!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

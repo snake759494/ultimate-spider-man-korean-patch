@@ -1,0 +1,15 @@
+{
+  "hash": "021d544a",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.760875,
+  "segments": [
+    {
+      "start": 0.1068125000000002,
+      "end": 1.760875,
+      "jp": "もうキスしちゃいたいくらいだ",
+      "ko": "입 맞추고 싶을 정도야!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

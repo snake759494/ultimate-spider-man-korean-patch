@@ -1,0 +1,35 @@
+{
+  "hash": "fb6700eb",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.443125,
+  "segments": [
+    {
+      "start": 0,
+      "end": 1.3744999999999976,
+      "jp": "撃てー!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.2744999999999962,
+          "jp": "撃",
+          "prob": 0.9868537187576294
+        },
+        {
+          "start": 0.2744999999999962,
+          "end": 0.5744999999999969,
+          "jp": "て",
+          "prob": 0.9932015538215637
+        },
+        {
+          "start": 0.5744999999999969,
+          "end": 1.3744999999999976,
+          "jp": "ー!",
+          "prob": 0.9790260791778564
+        }
+      ],
+      "ko": "쏴!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_batch_asr_review_required"
+}

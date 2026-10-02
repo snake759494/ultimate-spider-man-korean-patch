@@ -1,0 +1,15 @@
+{
+  "hash": "404ba422",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 1.6654375,
+  "segments": [
+    {
+      "start": 0.2908124999999995,
+      "end": 1.6654375,
+      "jp": "一体どうなってんの?",
+      "ko": "대체 어떻게 된 거야?"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}

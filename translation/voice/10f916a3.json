@@ -1,0 +1,41 @@
+{
+  "hash": "10f916a3",
+  "bank": "STREAMS_MISC_JP",
+  "duration": 0.9831875,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.8873750000000022,
+      "jp": "呪まめが!",
+      "words": [
+        {
+          "start": 0,
+          "end": 0.26737500000000125,
+          "jp": "呪",
+          "prob": 0.5646710097789764
+        },
+        {
+          "start": 0.26737500000000125,
+          "end": 0.5073750000000015,
+          "jp": "ま",
+          "prob": 0.590977132320404
+        },
+        {
+          "start": 0.5073750000000015,
+          "end": 0.647375000000002,
+          "jp": "め",
+          "prob": 0.55748450756073
+        },
+        {
+          "start": 0.647375000000002,
+          "end": 0.8873750000000022,
+          "jp": "が!",
+          "prob": 0.9916397929191589
+        }
+      ],
+      "ko": "이 거미 놈!"
+    }
+  ],
+  "recognition": "small_combined_word_alignment_review_required",
+  "status": "translated_text_reviewed_audio_review_required"
+}

@@ -1,0 +1,15 @@
+{
+  "hash": "523c4a5e",
+  "bank": "STREAMS_VOICE_JP",
+  "duration": 0.7275625,
+  "segments": [
+    {
+      "start": 0,
+      "end": 0.7275625,
+      "jp": "気をつけろ!",
+      "ko": "조심해!"
+    }
+  ],
+  "recognition": "medium_combined_word_alignment_review_required",
+  "status": "translated_dictionary_medium_batch_review_required"
+}
