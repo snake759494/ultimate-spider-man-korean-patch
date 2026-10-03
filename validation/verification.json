@@ -1,6 +1,6 @@
 {
   "source_sha256": "5e19d2cd69a8a11290e8a727fa119f58d8620ee805c24279933efc0a050bb302",
-  "build_sha256": "a6d3aa028a74ecb77fe8a00d4577ca325ca5851ed9684e6ac2b92adcecbb12b4",
+  "build_sha256": "0cee9370e4909eaa5ff8181c6ec84350babccc2e596657b3353a0b47cd669605",
   "source_bytes": 4155015168,
   "build_bytes": 4155015168,
   "unchanged_bytes_compared": 3379442606,
@@ -22,8 +22,8 @@
   ],
   "archive_expansion_only_overwrites_zero_padding": true,
   "disc_tail_and_final_sector_preserved": true,
-  "patch_sha256": "82e24bb4303c45d2f25f669daf76bf90549df5b3ae206a97223d47228621926d",
-  "patch_bytes": 394789493,
-  "xdelta_apply_sha256": "a6d3aa028a74ecb77fe8a00d4577ca325ca5851ed9684e6ac2b92adcecbb12b4",
+  "patch_sha256": "bfa116a7805f23163e17e7bffac1a1fcd7ae9ddcf1c6da5f13d47e3859a7f0cb",
+  "patch_bytes": 394789502,
+  "xdelta_apply_sha256": "0cee9370e4909eaa5ff8181c6ec84350babccc2e596657b3353a0b47cd669605",
   "xdelta_apply_matches_build": true
 }

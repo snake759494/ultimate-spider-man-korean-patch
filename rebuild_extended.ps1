@@ -25,6 +25,7 @@ try {
     Invoke-Step 'build_subtitle_table.py'
     Invoke-Step 'verify_caption_layout.py'
     Invoke-Step 'build_subtitle_runtime.py'
+    Invoke-Step 'verify_subtitle_hook.py'
     Invoke-Step 'test_subtitle_runtime.py'
     if ($ReencodeVideos) {
         Invoke-Step 'build_cinematic_subtitles.py'

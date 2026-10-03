@@ -1,0 +1,10 @@
+{
+  "build_sha256": "0cee9370e4909eaa5ff8181c6ec84350babccc2e596657b3353a0b47cd669605",
+  "emulator": "PCSX2 v2.9.92",
+  "date": "2026-10-03",
+  "cold_boot": true,
+  "savestate_loaded": false,
+  "cheats_enabled": false,
+  "observed": ["Startup logos", "Korean title prompt", "Attract movie with Korean caption"],
+  "scope": "Startup regression only. Post-Venom cutscene verification is recorded separately using a private pre-battle QA fixture."
+}

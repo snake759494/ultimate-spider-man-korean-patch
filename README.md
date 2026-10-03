@@ -1,12 +1,12 @@
 # 울티메이트 스파이더맨 PS2 한글패치
 
-PS2 일본판 **Ultimate Spider-Man (SLPM-66404)** 용 비공식 한국어 패치입니다. 현재 공개판은 **v0.9.1-beta (2026-10-03)** 이며, 메뉴·안내문·크레딧 번역과 동영상·실시간 대사 자막, 한글 글꼴의 검은 외곽선 수정을 포함합니다.
+PS2 일본판 **Ultimate Spider-Man (SLPM-66404)** 용 비공식 한국어 패치입니다. 현재 공개판은 **v0.9.2-beta (2026-10-03)** 이며, 메뉴·안내문·크레딧 번역과 동영상·실시간 대사 자막, 한글 글꼴의 검은 외곽선 수정을 포함합니다.
 
-[패치 다운로드](https://github.com/snake759494/ultimate-spider-man-korean-patch/releases/tag/v0.9.1-beta) · [기술 설명](docs/TECHNICAL.md) · [재빌드](docs/BUILD.md) · [변경 기록](CHANGELOG.md) · [권리 안내](RIGHTS.md)
+[패치 다운로드](https://github.com/snake759494/ultimate-spider-man-korean-patch/releases/tag/v0.9.2-beta) · [기술 설명](docs/TECHNICAL.md) · [재빌드](docs/BUILD.md) · [변경 기록](CHANGELOG.md) · [권리 안내](RIGHTS.md)
 
-릴리즈 첨부 파일은 **UltimateSpiderMan_PS2_KO_v0.9.1-beta.xdelta 하나**입니다. 저장소에는 제작 도구·번역 대역표·검증 자료를 공개합니다. 원본 및 완성 ISO, 추출된 게임 바이너리·음성·영상, 글꼴 파일, 외부 실행 파일은 포함하지 않습니다.
+릴리즈 첨부 파일은 **UltimateSpiderMan_PS2_KO_v0.9.2-beta.xdelta 하나**입니다. 저장소에는 제작 도구·번역 대역표·검증 자료를 공개합니다. 원본 및 완성 ISO, 추출된 게임 바이너리·음성·영상, 글꼴 파일, 외부 실행 파일은 포함하지 않습니다.
 
-> **테스트 릴리스입니다.** 일부 안내문의 줄바꿈·잘림 전수 검수와 전체 진행 검수는 미완료입니다. 최신 잘림 제보에 대한 수정 완료판이 아닙니다. `translation/`에는 스포일러가 포함됩니다.
+> **테스트 릴리스입니다.** 이번 버전은 분할 연출의 자막 가림·음성 대비 시간 어긋남을 수정합니다. 일반 안내문 전수 검수와 전체 진행 검수는 미완료입니다. `translation/`에는 스포일러가 포함됩니다.
 
 ## 대상 버전
 
@@ -17,10 +17,10 @@ PS2 일본판 **Ultimate Spider-Man (SLPM-66404)** 용 비공식 한국어 패�
 | 게임 ID | SLPM-66404 |
 | 원본 ISO 크기 | 4,155,015,168 바이트 |
 | 원본 ISO SHA-256 | `5e19d2cd69a8a11290e8a727fa119f58d8620ee805c24279933efc0a050bb302` |
-| xdelta 크기 | 394,789,493 바이트 |
-| xdelta SHA-256 | `82e24bb4303c45d2f25f669daf76bf90549df5b3ae206a97223d47228621926d` |
+| xdelta 크기 | 394,789,502 바이트 |
+| xdelta SHA-256 | `bfa116a7805f23163e17e7bffac1a1fcd7ae9ddcf1c6da5f13d47e3859a7f0cb` |
 | 결과 ISO 크기 | 4,155,015,168 바이트 |
-| 결과 ISO SHA-256 | `a6d3aa028a74ecb77fe8a00d4577ca325ca5851ed9684e6ac2b92adcecbb12b4` |
+| 결과 ISO SHA-256 | `0cee9370e4909eaa5ff8181c6ec84350babccc2e596657b3353a0b47cd669605` |
 
 ## 패치 적용 방법
 
@@ -34,7 +34,7 @@ Get-FileHash -Algorithm SHA256 -LiteralPath '.\Ultimate Spider-Man (Japan).iso'
 
 ### xdelta UI 사용
 
-1. 릴리즈에서 `UltimateSpiderMan_PS2_KO_v0.9.1-beta.xdelta`를 받습니다.
+1. 릴리즈에서 `UltimateSpiderMan_PS2_KO_v0.9.2-beta.xdelta`를 받습니다.
 2. xdelta3를 지원하는 도구에서 **Apply Patch**를 선택합니다.
 3. **Patch**에 xdelta, **Source File**에 원본 ISO를 지정합니다.
 4. **Output File**에 새 ISO 파일명을 지정합니다. 원본을 덮어쓰지 마세요.
@@ -44,10 +44,16 @@ xdelta는 [공식 프로젝트](https://github.com/jmacd/xdelta)를 참고하세
 ### 명령줄 사용
 
 ```powershell
-.\xdelta3.exe -d -s '.\Ultimate Spider-Man (Japan).iso' '.\UltimateSpiderMan_PS2_KO_v0.9.1-beta.xdelta' '.\Ultimate Spider-Man (Japan) (Korean).iso'
+.\xdelta3.exe -d -s '.\Ultimate Spider-Man (Japan).iso' '.\UltimateSpiderMan_PS2_KO_v0.9.2-beta.xdelta' '.\Ultimate Spider-Man (Japan) (Korean).iso'
 ```
 
 적용 후 결과 ISO의 SHA-256을 위 표와 비교하세요. PCSX2에서는 **새로 부팅**하세요. 이전 세이브스테이트에는 예전 코드와 글꼴이 들어 있으므로 게임 내 메모리카드 저장을 사용하세요.
+
+## v0.9.2-beta 수정
+
+첫 베놈 전투 뒤 분할 연출에서 자막이 패널에 가려지고 음성보다 먼저 진행되는 문제를 수정했습니다. 자막 표시·시간 갱신을 개별 뷰에서 최종 전체 화면 오버레이로 이동했습니다. [원인과 검증 기록](docs/CUTSCENE_FIX.md)을 참고하세요.
+
+이전 패치판이 아닌 원본 ISO에 다시 적용하고 **완전히 새로 부팅**하세요. 이번 수정은 PCSX2의 XOR 기반 게임 CRC가 이전 버전과 같으므로, CRC나 저장 슬롯 이름만으로 새 코드를 확인할 수 없습니다. 이전 세이브스테이트를 불러오면 결함 코드가 복원됩니다.
 
 ## 작업 내용과 범위
 
@@ -68,7 +74,7 @@ xdelta는 [공식 프로젝트](https://github.com/jmacd/xdelta)를 참고하세
 - 모든 파일 LBA 유지, 변경 범위 밖 3,379,442,606바이트 비교, 디스크 끝부분 보존 확인.
 - 자막 표시 줄 6,260개 정적 배치 검사. 이 검사는 모든 게임 UI 안내문의 실제 표시 검수를 대체하지 않습니다.
 - 외곽선 수정 후 새 부팅으로 타이틀·프로필·첫 베놈 전투·녹색 배경 안내문 확인.
-- **안내문 줄바꿈·잘림 전수 검수 미완료. 최신 제보 후 추가 수정은 이 빌드에 포함되지 않습니다.**
+- **분할 연출 자막 가림·동기화는 v0.9.2-beta에서 수정. 일반 안내문 줄바꿈·잘림 전수 검수는 미완료입니다.**
 - 음성 검토 대기 2,172건: 인식 없음 1,087건, 비언어음 후보 645건, 어휘·불명확 440건. 모두 누락 대사라는 뜻은 아니지만, 미인식 발화가 남을 수 있습니다.
 - 최초 LOADING 표기, 원본 로고·음성 등이 유지됩니다.
 - 전체 플레이·실기·메모리카드 저장 후 재로드 검수는 미완료입니다.

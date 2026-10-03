@@ -11,7 +11,7 @@
   "tools/build_iso.py": "4c9e4a74e4edf326b86789dacc25ca238185800f14da54d84d6f9be9c2bee186",
   "tools/build_resources.py": "75b6687b0617ec8d9ad53ce921281f9e1eb7c0e6e6f11692abf8395afa559b0a",
   "tools/build_subtitle_iso.py": "54d747a2c97115c08362320aced01e3bdb651e582ec7b18d86a743d62d958215",
-  "tools/build_subtitle_runtime.py": "0e2af444c043993ec567836d6451437d14ab85e501686703384714909a4610c2",
+  "tools/build_subtitle_runtime.py": "cb4c92a60af9679d4c0fe6af903aa31f6a35d1aeb02b6f5b8a4a9eaf5d6db15d",
   "tools/build_subtitle_table.py": "2f263c9c196227e4d6f43dd06aa32e496a70d6527827db6a527d235ccd41d7d5",
   "tools/checksums.py": "278f501feb3b0aa6845c7f6c62b1a438895a6a79167ad538529200b38f85d590",
   "tools/compare_fonts_memory.py": "48623f54097ba4ec17150b7ddce2fdaf82fae7cc797c20003b7db060eddc2c8d",
@@ -91,6 +91,7 @@
   "tools/verify_extended_build.py": "1fee8a74e44404626321b9da76af1940c4113337718b6a7f85f3e72616eca56d",
   "tools/verify_extended_preservation.py": "6b3b7494d211e98e52ac9a3864b25fbcab72eda77ff804ee27b01ded68c8f874",
   "tools/verify_font_outline.py": "63f4c8126505dad1a33b796f6eceb3c8527f259bf87085d8308d5f798896de7b",
+  "tools/verify_subtitle_hook.py": "63a11d7d2fe7b0b944b651247ccdc392722a09dd85584488d158819c800eeba9",
   "tools/verify_text.py": "c078058debd44b6bbcc7d2aefd2180e4eecebe9650493e8f3fe6dd9d7f1279c7",
   "tools/voice_inventory.py": "0f32d626de06f0816d3c46f8a82d55e8acd9083d8e5fdfab1629ed01c569ac94",
   "tools/xrefs.py": "fc3d1961b1d217ae9a4613526fe7caed4049a2e47f23bcd068f62bf656684f8f",
@@ -5998,7 +5999,7 @@
   "translation/voice_reviewed.tsv": "36a7a91aedc506a0eefe88b9f4f6460b17d0ccc471960db6c9ccd2b7ee8aecdb",
   "translation/voice_timing_overrides.json": "81c674f7dddc463ed4d1d0026e19d253dd8d2100c59481d95d7dd7755be522f5",
   "translation/용어_기준.txt": "c035abd7cea6d2680838b30b1646f1298441aaf10274ac90c23d873464a70d0c",
-  "rebuild_extended.ps1": "1d252065dcddeda5b08f0b48e35bbe6cb1c224bcded1c03ad146381a0cd2779a",
+  "rebuild_extended.ps1": "1d26b3c5b4874b4f7bc7688fd94c330f2f898ca8ad018bb49de7fe4007f70580",
   "requirements-build.txt": "79a54d58db5e98afd57e508400deffc202e0caa835b62ffdabf33478cc06d282",
   "requirements-extended.txt": "2ac05c9b8b0b61c7a6aa15586328e2f9627ba30584d0ff60c7b40967574e7f65"
 }

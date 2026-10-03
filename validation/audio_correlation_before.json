@@ -1,0 +1,67 @@
+[
+  {
+    "capture_seconds": 0,
+    "source_seconds": 6.429166666666666,
+    "correlation": 0.7585815252696211
+  },
+  {
+    "capture_seconds": 2,
+    "source_seconds": 8.428583333333334,
+    "correlation": 0.8175277288638682
+  },
+  {
+    "capture_seconds": 4,
+    "source_seconds": 10.428083333333333,
+    "correlation": 0.44386124604107235
+  },
+  {
+    "capture_seconds": 6,
+    "source_seconds": 12.427833333333334,
+    "correlation": 0.7405428902073932
+  },
+  {
+    "capture_seconds": 8,
+    "source_seconds": 14.427166666666666,
+    "correlation": 0.824179602609776
+  },
+  {
+    "capture_seconds": 10,
+    "source_seconds": 16.42675,
+    "correlation": 0.9542301920643576
+  },
+  {
+    "capture_seconds": 12,
+    "source_seconds": 18.42625,
+    "correlation": 0.7633412011087217
+  },
+  {
+    "capture_seconds": 14,
+    "source_seconds": 20.425666666666668,
+    "correlation": 0.9160505978949264
+  },
+  {
+    "capture_seconds": 16,
+    "source_seconds": 22.425,
+    "correlation": 0.9874103568021119
+  },
+  {
+    "capture_seconds": 18,
+    "source_seconds": 24.42475,
+    "correlation": 0.8645491916552853
+  },
+  {
+    "capture_seconds": 20,
+    "source_seconds": 26.424333333333333,
+    "correlation": 0.8810185250760229
+  },
+  {
+    "capture_seconds": 22,
+    "source_seconds": 28.423916666666667,
+    "correlation": 0.6670624660045438
+  },
+  {
+    "capture_seconds": 24,
+    "source_seconds": 30.423333333333332,
+    "correlation": 0.898795771483842
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "zip_crc_passed": true,
+  "archive_files": 28,
+  "no_full_game_bios_or_savestate": true,
+  "source_manifest_files_checked": 6003,
+  "existing_output_guard_passed": true,
+  "wrong_source_guard_passed": true,
+  "archive_bytes": 397612165,
+  "build_sha256": "0cee9370e4909eaa5ff8181c6ec84350babccc2e596657b3353a0b47cd669605"
+}

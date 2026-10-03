@@ -1,0 +1,8 @@
+{
+  "passed": true,
+  "per_panel_call_restored": true,
+  "overlay_hook_file_offset": "0x196c0c",
+  "overlay_hook_virtual_address": "0x295c0c",
+  "caption_update_before_final_overlay_scene_end": true,
+  "note": "Static call-site/bridge regression check; runtime cadence must also be verified in PCSX2."
+}

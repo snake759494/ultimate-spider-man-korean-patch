@@ -20,9 +20,9 @@ asm=f'''.set noreorder
 render_hook:
 addiu $sp,$sp,-112
 {save_regs(saved)}
-jal 0x249678
-nop
 jal subtitle_frame
+nop
+jal 0x58cbec
 nop
 {load_regs(saved)}
 jr $ra
@@ -108,8 +108,10 @@ struct.pack_into('<8I',p,ph,1,offset,start,start,len(payload),len(payload),7,409
 struct.pack_into('<H',p,44,2)
 # Debug section headers beyond the loaded segment are overwritten by payload.
 struct.pack_into('<I',p,32,0);struct.pack_into('<HH',p,48,0,0)
-assert struct.unpack_from('<I',p,0x1786a4)[0]==0x0c09259e
-struct.pack_into('<I',p,0x1786a4,0x0c000000|(symbols['render_hook']>>2))
+# The old world-view hook draws underneath later comic panels. This call ends
+# the final full-screen overlay scene, after every panel has been submitted.
+assert struct.unpack_from('<I',p,0x196c0c)[0]==0x0c1632fb
+struct.pack_into('<I',p,0x196c0c,0x0c000000|(symbols['render_hook']>>2))
 assert struct.unpack_from('<I',p,0x4ce450)[0]==0x9062009a
 struct.pack_into('<2I',p,0x4ce450,0x08000000|(symbols['sound_hook']>>2),0)
 assert struct.unpack_from('<2I',p,0x4ce380)==(0x27bdffe0,0xffb00000)

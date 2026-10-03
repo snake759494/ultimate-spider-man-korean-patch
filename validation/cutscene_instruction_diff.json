@@ -1,0 +1,22 @@
+[
+  {
+    "file_offset": "0x1786a4",
+    "before": "0xc02830c",
+    "after": "0xc09259e"
+  },
+  {
+    "file_offset": "0x196c0c",
+    "before": "0xc1632fb",
+    "after": "0xc02830c"
+  },
+  {
+    "file_offset": "0x64ac60",
+    "before": "0xc09259e",
+    "after": "0xc028000"
+  },
+  {
+    "file_offset": "0x64ac68",
+    "before": "0xc028000",
+    "after": "0xc1632fb"
+  }
+]

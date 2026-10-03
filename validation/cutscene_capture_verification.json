@@ -1,0 +1,41 @@
+{
+  "capture": "Ultimate Spider-Man_SLPM-66404_20261003111613.mp4",
+  "audio_alignment": [
+    {
+      "source_seconds": 6,
+      "capture_seconds": 118.57341666666666,
+      "correlation": 0.8018493878439119
+    },
+    {
+      "source_seconds": 10,
+      "capture_seconds": 122.57433333333333,
+      "correlation": 0.7040282181488903
+    },
+    {
+      "source_seconds": 14,
+      "capture_seconds": 126.57541666666667,
+      "correlation": 0.9412860437334518
+    },
+    {
+      "source_seconds": 18,
+      "capture_seconds": 130.57641666666666,
+      "correlation": 0.8274194470582166
+    },
+    {
+      "source_seconds": 24,
+      "capture_seconds": 136.57775,
+      "correlation": 0.8707769799110185
+    },
+    {
+      "source_seconds": 28,
+      "capture_seconds": 140.57875,
+      "correlation": 0.8100738528976896
+    }
+  ],
+  "scene_capture_origin_seconds": 112.57591666666667,
+  "state_caption_seconds": 16.033333333333335,
+  "state_audio_seconds": 16.099999999999994,
+  "estimated_caption_error_seconds": -0.06666666666665932,
+  "state_image_mse": 13.1390625,
+  "note": "Native run from pre-battle QA fixture with current runtime; no caption clock adjustment in this run. Image/frame alignment at 30fps."
+}
